@@ -1,0 +1,272 @@
+[
+  {
+    "title": "実録：AIで描く漫画の実際 ～AIで今風の手描きっぽい漫画を作ってみる (1/6)",
+    "link": "https://ascii.jp/elem/000/004/200/4200361/",
+    "date": "2024-05-29T22:01:55.000Z"
+  },
+  {
+    "title": "いまさら聞けないActive Directoryの仕組みと運用",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2405/29/news007.html",
+    "date": "2024-05-29T21:44:42.000Z"
+  },
+  {
+    "title": "フォロワー274万人の暴露系インフルエンサー「滝沢ガレソ」の意外な素顔「演奏のレベルはかなり高い」慶應SFC卒のバンドマンだった | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/71086",
+    "date": "2024-05-29T21:43:40.000Z"
+  },
+  {
+    "title": "Build a Question Answering application over a Graph Database | 🦜️🔗 LangChain",
+    "link": "https://python.langchain.com/v0.2/docs/tutorials/graph/",
+    "date": "2024-05-29T21:41:34.000Z"
+  },
+  {
+    "title": "How to deal with large databases when doing SQL question-answering | 🦜️🔗 LangChain",
+    "link": "https://python.langchain.com/v0.2/docs/how_to/sql_large_db/",
+    "date": "2024-05-29T21:41:31.000Z"
+  },
+  {
+    "title": "Evaluating the Text-to-SQL Capabilities of Large Language Models",
+    "link": "https://arxiv.org/abs/2204.00498",
+    "date": "2024-05-29T21:41:29.000Z"
+  },
+  {
+    "title": "Tutorials | 🦜️🔗 LangChain",
+    "link": "https://python.langchain.com/v0.2/docs/tutorials/",
+    "date": "2024-05-29T21:41:19.000Z"
+  },
+  {
+    "title": "Build a Question/Answering system over SQL data | 🦜️🔗 LangChain",
+    "link": "https://python.langchain.com/v0.2/docs/tutorials/sql_qa/",
+    "date": "2024-05-29T21:41:15.000Z"
+  },
+  {
+    "title": "第四境界",
+    "link": "https://daiyonkyokai.stores.jp/",
+    "date": "2024-05-29T21:26:57.000Z"
+  },
+  {
+    "title": "人の████",
+    "link": "https://daiyonkyokai.stores.jp/items/6641940c7c077d09dda688ee",
+    "date": "2024-05-29T21:26:53.000Z"
+  },
+  {
+    "title": "『人の財布』や『かがみの特殊少年更生施設』を手掛ける第四境界、謎過ぎる新作を6月に発売。価格以外は一切不明で、何が届くのかすら分からない",
+    "link": "https://news.denfaminicogamer.jp/news/240529l",
+    "date": "2024-05-29T21:26:43.000Z"
+  },
+  {
+    "title": "歌声合成ツール「UTAU」に複数の脆弱性、JVNが注意喚起／プロジェクトファイルを開くと任意のOSコマンドが実行されるなど2件",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1595485.html",
+    "date": "2024-05-29T21:25:38.000Z"
+  },
+  {
+    "title": "AppleがiPhoneを通じて行った最大規模の耳鳴り調査「Apple Hearing Study」で得られた予備的な知見を発表",
+    "link": "https://gigazine.net/news/20240529-apple-hearing-study-insights-tinnitus/",
+    "date": "2024-05-29T21:25:34.000Z"
+  },
+  {
+    "title": "NHK、noteで公開していた「取材ノート」を閉鎖　読者の評価は高かったが",
+    "link": "https://www.itmedia.co.jp/news/articles/2405/29/news158.html",
+    "date": "2024-05-29T21:25:29.000Z"
+  },
+  {
+    "title": "4億7000万円相当のビットコインを保管するウォレットのパスワードを忘れてしまった人物をサポートしたハッカーが実際に取った方法について解説",
+    "link": "https://gigazine.net/news/20240529-bitcoin-hacked-recover/",
+    "date": "2024-05-29T21:25:24.000Z"
+  },
+  {
+    "title": "「競プロの神」と「Rubyの神」が考える、生成AI時代のエンジニアとプログラミング言語",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2405/20/news007.html",
+    "date": "2024-05-29T21:25:14.000Z"
+  },
+  {
+    "title": "iPhoneにマイナンバー機能　首相、アップル社と合意へ（共同通信） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/33bb96b022997e2b6d89a4e6ce4586034110e9a7",
+    "date": "2024-05-29T21:25:12.000Z"
+  },
+  {
+    "title": "LLMエージェントの設計16パターン | AIDB",
+    "link": "https://ai-data-base.com/archives/69483",
+    "date": "2024-05-29T21:25:05.000Z"
+  },
+  {
+    "title": "AIによるコードレビュー \"PR-Agent\" を導入した効果と課題について",
+    "link": "https://inside.dmm.com/articles/introduce-pr-agent-to-monorepo/",
+    "date": "2024-05-29T21:24:42.000Z"
+  },
+  {
+    "title": "プロンプトからREST APIを作るサービス『Hanabi.REST』の技術構成",
+    "link": "https://zenn.dev/hanabi_rest/articles/ddd6230a62771e",
+    "date": "2024-05-29T21:24:38.000Z"
+  },
+  {
+    "title": "明示的な型注釈によって推論コストを下げるというアプローチ",
+    "link": "https://zenn.dev/cybozu_frontend/articles/ts-explicit-type-annotation",
+    "date": "2024-05-29T21:24:35.000Z"
+  },
+  {
+    "title": "障害対応におけるポストモーテムのご紹介 - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2024/05/29/110313",
+    "date": "2024-05-29T21:24:34.000Z"
+  },
+  {
+    "title": "[Playwright]VScodeの拡張機能でらくらくブラウザ操作",
+    "link": "https://zenn.dev/spacemarket/articles/dbe28fda1e49e7",
+    "date": "2024-05-29T21:24:23.000Z"
+  },
+  {
+    "title": "Googleの検索アルゴリズムに関する内部文書が流出、Chromeのデータをページランク付けに利用するなどGoogleのウソが明らかに",
+    "link": "https://gigazine.net/news/20240529-google-internal-documents-api-content-warehouse/",
+    "date": "2024-05-29T21:24:14.000Z"
+  },
+  {
+    "title": "OpenTofuの「ブロック削除機能」「stateファイル暗号化」はなぜ注目されているのか",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2405/29/news040.html",
+    "date": "2024-05-29T21:24:13.000Z"
+  },
+  {
+    "title": "Apple Silicon MacのCPU E-/P-CoreやGPU、ANE、メモリ使用率、消費電力などを確認できるGo言語で書かれたターミナルベースのモニタリングツール「mactop」がリリース。",
+    "link": "https://applech2.com/archives/20240529-mactop-apple-silicon-monitor-cli.html",
+    "date": "2024-05-29T21:23:57.000Z"
+  },
+  {
+    "title": "中国軍 銃で攻撃できる犬型ロボットやAI搭載の無人機 訓練公開 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20240529/k10014463941000.html",
+    "date": "2024-05-29T21:23:45.000Z"
+  },
+  {
+    "title": "Arm、従来比36%性能向上のプライムCPUコア「Cortex-X925」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1595795.html",
+    "date": "2024-05-29T21:23:40.000Z"
+  },
+  {
+    "title": "テキスト生成AI利活用におけるリスクへの対策ガイドブック（α版）｜デジタル庁",
+    "link": "https://www.digital.go.jp/resources/generalitve-ai-guidebook",
+    "date": "2024-05-29T21:23:30.000Z"
+  },
+  {
+    "title": "line-heightのハーフ・レディングを打ち消す`calc((1em - 1lh) / 2)`をCSS変数に定義しておくとよい – TAKLOG",
+    "link": "https://www.tak-dcxi.com/article/use-line-height-trim-as-css-variable/",
+    "date": "2024-05-29T21:23:24.000Z"
+  },
+  {
+    "title": "React 19を概念から理解する",
+    "link": "https://speakerdeck.com/uhyo/react-19wogai-nian-karali-jie-suru",
+    "date": "2024-05-29T21:23:21.000Z"
+  },
+  {
+    "title": "爆笑問題・太田光インタビュー／Macとの出会い、そして今Appleに思うこと 「Macはおもちゃみたいで、そこに楽しさがあったんだよね」",
+    "link": "https://macfan.book.mynavi.jp/article/1037/",
+    "date": "2024-05-29T21:23:16.000Z"
+  },
+  {
+    "title": "JR東など首都圏鉄道8社、磁気乗車券を廃止へ　26年度以降QR乗車券に",
+    "link": "https://www.watch.impress.co.jp/docs/news/1595691.html",
+    "date": "2024-05-29T21:23:12.000Z"
+  },
+  {
+    "title": "EdgeのUI表示が大幅高速化。メモリ8GB未満の環境などで特に有効",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1595631.html",
+    "date": "2024-05-29T21:22:12.000Z"
+  },
+  {
+    "title": "東京都の生成AI活用事例集にツッコミを入れてみる｜saip(さいぴ)",
+    "link": "https://note.com/sa1p/n/n135727ee8aa8",
+    "date": "2024-05-29T21:22:00.000Z"
+  },
+  {
+    "title": "Datadogのグラフにデプロイタイミングを表示する方法 - 世界中の羊をかき集めて",
+    "link": "https://shepherdmaster.hateblo.jp/entry/2024/03/24/111025",
+    "date": "2024-05-29T21:21:40.000Z"
+  },
+  {
+    "title": "ジャニーズ問題「依然深い憂慮」　国連人権理作業部会が報告書公表 ｜ 共同通信",
+    "link": "https://nordot.app/1168152011175347075",
+    "date": "2024-05-29T21:21:29.000Z"
+  },
+  {
+    "title": "React 19の新機能まるわかり",
+    "link": "https://zenn.dev/uhyo/books/react-19-new",
+    "date": "2024-05-29T21:21:24.000Z"
+  },
+  {
+    "title": "星野源&新垣結衣が激怒した「滝沢ガレソ」の正体 《慶應SFC卒“爽やかなバンドマン”がフォロワー274万人の暴露系インフルエンサーになるまで》 | 週刊文春 電子版",
+    "link": "https://bunshun.jp/denshiban/articles/b8737",
+    "date": "2024-05-29T20:12:17.000Z"
+  },
+  {
+    "title": "『星野源&新垣結衣が激怒した「滝沢ガレソ」の正体 《慶應SFC卒“爽やかなバンドマン”がフォロワー274万人の暴露系インフルエンサーになるまで》 | 週刊文春 電子版』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/bunshun.jp/denshiban/articles/b8737",
+    "date": "2024-05-29T20:12:13.000Z"
+  },
+  {
+    "title": "ビリー・アイリッシュ、「セルフプレジャーは私の生活の大部分を占めている」",
+    "link": "https://www.vogue.co.jp/article/billie-eilish-favorite-way-to-decompress-sex",
+    "date": "2024-05-29T20:11:57.000Z"
+  },
+  {
+    "title": "イスラエルとエジプト、ガザ境界で銃撃戦　エジプトの兵士１人死亡か",
+    "link": "https://www.sankei.com/article/20240528-2S2VBUQVH5LONHSYR4NE7HJIDQ/",
+    "date": "2024-05-29T20:11:41.000Z"
+  },
+  {
+    "title": "「AIなら何でもできる」「楽して稼ごうと」　ウイルス作成容疑の男：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASS5X3HCHS5XUTIL00HM.html",
+    "date": "2024-05-29T20:11:36.000Z"
+  },
+  {
+    "title": "田村ゆかり、精力的すぎる音楽活動の真意「自分ではこれがハイペースだとも感じていないんですよ」 - 音楽ナタリー 特集・インタビュー",
+    "link": "https://natalie.mu/music/pp/tamurayukari11",
+    "date": "2024-05-29T20:10:56.000Z"
+  },
+  {
+    "title": "実装に“思想”を乗せ続けて　「携帯動画変換君の人」がCTOになるまでの開発人生放浪記【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_447/",
+    "date": "2024-05-29T20:10:36.000Z"
+  },
+  {
+    "title": "無料の3Dスキャンアプリ「Scaniverse」に、待望のAndroid版が登場",
+    "link": "https://www.itmedia.co.jp/news/articles/2405/29/news169.html",
+    "date": "2024-05-29T20:06:31.000Z"
+  },
+  {
+    "title": "GPT4-Vの100分の1のサイズで同等の性能を誇るマルチモーダルモデル「Llama 3-V」が登場、トレーニング費用はたった8万円",
+    "link": "https://gigazine.net/news/20240529-llama-3v/",
+    "date": "2024-05-29T20:06:25.000Z"
+  },
+  {
+    "title": "AI搭載エディタCursorの紹介と機械学習コンペでの使用レビュー",
+    "link": "https://speakerdeck.com/k951286/aida-zai-eteitacursornoshao-jie-toji-jie-xue-xi-konhetenoshi-yong-rehiyu",
+    "date": "2024-05-29T20:06:22.000Z"
+  },
+  {
+    "title": "“1年間利用なし”なら手数料　一部セゾンカードで「カードサービス手数料」新設　6月1日から",
+    "link": "https://www.itmedia.co.jp/news/articles/2405/29/news122.html",
+    "date": "2024-05-29T20:06:17.000Z"
+  },
+  {
+    "title": "JR東日本など鉄道8社、磁気乗車券からQRコード乗車券へ置き換え。2026年度末以降",
+    "link": "https://travel.watch.impress.co.jp/docs/news/1595681.html",
+    "date": "2024-05-29T20:06:06.000Z"
+  },
+  {
+    "title": "Outer Wilds: A Thrilling Graphical Text Adventure",
+    "link": "https://www.mobiusdigitalgames.com/outer-wilds-text-adventure.html",
+    "date": "2024-05-29T20:05:24.000Z"
+  },
+  {
+    "title": "宇宙探索タイムループSF『Outer Wilds』5周年記念でプロトタイプ版が無料公開。テキストベースながら好奇心を刺激するゲーム性は構築済み | ゲーム・エンタメ最新情報のファミ通.com",
+    "link": "https://www.famitsu.com/article/202405/6445",
+    "date": "2024-05-29T20:04:52.000Z"
+  },
+  {
+    "title": "iPhoneにマイナンバー機能　首相、アップル社と合意へ ｜ 共同通信",
+    "link": "https://nordot.app/1168500750726251145",
+    "date": "2024-05-29T20:04:42.000Z"
+  },
+  {
+    "title": "粗品を張り込んで尾行する週刊誌を張り込んで尾行して突撃した",
+    "link": "https://www.youtube.com/watch?v=mchjs5hwmpc",
+    "date": "2024-05-29T20:04:14.000Z"
+  }
+]

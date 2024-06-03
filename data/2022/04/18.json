@@ -1,0 +1,567 @@
+[
+  {
+    "title": "ORNEW",
+    "link": "https://blog.ornew.io/posts/2021-09-03-tensorflow-probability-structural-time-series-modeling/",
+    "date": "2022-04-18T12:59:34.000Z"
+  },
+  {
+    "title": "TensorFlow Probability ではじめる 確率的プログラミング入門",
+    "link": "https://speakerdeck.com/katsuragi/tensorflow-probability-dehazimeru-que-lu-de-puroguraminguru-men",
+    "date": "2022-04-18T12:58:50.000Z"
+  },
+  {
+    "title": "簡単かつ高性能な統計モデル構築！TensorFlow Probability によるベイズモデリング入門 | 株式会社トップゲート",
+    "link": "https://www.topgate.co.jp/blog/google-service/8554",
+    "date": "2022-04-18T12:58:43.000Z"
+  },
+  {
+    "title": "TensorFlow Probability ではじめる確率的プログラミング入門 (myoshimu) - builderscon tokyo 2019",
+    "link": "https://www.youtube.com/watch?v=TzqQS6yNgM8",
+    "date": "2022-04-18T12:58:27.000Z"
+  },
+  {
+    "title": "故障予測問題に TensorFlow Probability を利用する(データ生成編) – nagachika – Medium",
+    "link": "https://medium.com/@nagachika/%E6%95%85%E9%9A%9C%E4%BA%88%E6%B8%AC%E5%95%8F%E9%A1%8C%E3%81%AB-tensorflow-probability-%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-%E3%83%87%E3%83%BC%E3%82%BF%E7%94%9F%E6%88%90%E7%B7%A8-5d99eae911f5",
+    "date": "2022-04-18T12:57:28.000Z"
+  },
+  {
+    "title": "故障予測問題に TensorFlow Probability を利用する(モデル推定編)",
+    "link": "https://medium.com/@nagachika/%E6%95%85%E9%9A%9C%E4%BA%88%E6%B8%AC%E5%95%8F%E9%A1%8C%E3%81%AB-tensorflow-probability-%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-%E3%83%A2%E3%83%87%E3%83%AB%E6%8E%A8%E5%AE%9A%E7%B7%A8-91c5f164e943",
+    "date": "2022-04-18T12:57:23.000Z"
+  },
+  {
+    "title": "トレンド・季節調整付き時系列データの回帰モデルを交差検証してみる - 渋谷駅前で働くデータサイエンティストのブログ",
+    "link": "https://tjo.hatenablog.com/entry/2017/07/30/171425",
+    "date": "2022-04-18T12:56:11.000Z"
+  },
+  {
+    "title": "TensorFlow Probabilityのtfp.stsモジュールを使って構造時系列モデリングを回してみる - 渋谷駅前で働くデータサイエンティストのブログ",
+    "link": "https://tjo.hatenablog.com/entry/2019/04/27/180000",
+    "date": "2022-04-18T12:56:02.000Z"
+  },
+  {
+    "title": "TensorFlow Probability",
+    "link": "https://www.tensorflow.org/probability/overview?hl=ja",
+    "date": "2022-04-18T12:54:55.000Z"
+  },
+  {
+    "title": "GitHub - tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow",
+    "link": "https://github.com/tensorflow/probability",
+    "date": "2022-04-18T12:54:50.000Z"
+  },
+  {
+    "title": "KFASパッケージを使ったガウス状態空間モデルによる変化点検出の試み - Qiita",
+    "link": "https://qiita.com/kenkenvw/items/68777b8fc5122e9258b0",
+    "date": "2022-04-18T12:48:56.000Z"
+  },
+  {
+    "title": "状態空間モデルを使った変化点検出の試み（その２） - Qiita",
+    "link": "https://qiita.com/kenkenvw/items/3fa3c313e372db1d375b",
+    "date": "2022-04-18T12:48:49.000Z"
+  },
+  {
+    "title": "TensorFlow Probability による構造時系列（STS）モデリング",
+    "link": "https://developers-jp.googleblog.com/2019/04/draft-tensorflow-probability-sts.html",
+    "date": "2022-04-18T12:47:59.000Z"
+  },
+  {
+    "title": "Google Colaboratory",
+    "link": "https://colab.research.google.com/github/myoshimu/tfp/blob/master/tfp.sts_ga360.ipynb",
+    "date": "2022-04-18T12:47:55.000Z"
+  },
+  {
+    "title": "[R] bsts (ベイズ構造時系列モデル) パッケージの使い方 - ill-identified diary",
+    "link": "https://ill-identified.hatenablog.com/entry/2017/09/08/001002",
+    "date": "2022-04-18T12:46:22.000Z"
+  },
+  {
+    "title": "Bayesian structural time series - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Bayesian_structural_time_series",
+    "date": "2022-04-18T12:46:04.000Z"
+  },
+  {
+    "title": "Structural Time Series",
+    "link": "https://structural-time-series.fastforwardlabs.com/",
+    "date": "2022-04-18T12:45:03.000Z"
+  },
+  {
+    "title": "Structural Time Series modeling in TensorFlow Probability",
+    "link": "https://blog.tensorflow.org/2019/03/structural-time-series-modeling-in.html",
+    "date": "2022-04-18T12:44:51.000Z"
+  },
+  {
+    "title": "TensorFlow Probability",
+    "link": "https://www.tensorflow.org/probability?hl=ja",
+    "date": "2022-04-18T12:44:38.000Z"
+  },
+  {
+    "title": "ベイズ構造時系列モデルってやつをやってみる - Re:ゼロから始めるML生活",
+    "link": "https://www.nogawanogawa.com/entry/tfp_bsts",
+    "date": "2022-04-18T12:44:24.000Z"
+  },
+  {
+    "title": "ベイズ構造時系列モデルを用いた新型コロナウイルスが産業に与える影響の予測～上場企業の売上高に与える影響は約108兆円～",
+    "link": "https://www.nri.com/jp/keyword/proposal/20200430",
+    "date": "2022-04-18T12:43:15.000Z"
+  },
+  {
+    "title": "吉野家、幹部不適切発言で１９日の親子丼会見中止　早大は講師から解任も検討（スポーツ報知） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/1a0a9adb416a53dc7bd5113e1c37caab64fc53cc",
+    "date": "2022-04-18T12:27:04.000Z"
+  },
+  {
+    "title": "風俗嬢の源氏名とおっぱいと食べ物の関係について｜山下素童",
+    "link": "https://note.com/sirotodotei/n/nd9b4a60f5cbb",
+    "date": "2022-04-18T12:00:46.000Z"
+  },
+  {
+    "title": "「電磁波対策」メルカリに謎商品 - ライブドアニュース",
+    "link": "https://news.livedoor.com/article/detail/22024716/",
+    "date": "2022-04-18T11:39:41.000Z"
+  },
+  {
+    "title": "吉野家は「牛丼とから揚げの店」。から揚げを第2の柱へ",
+    "link": "https://www.watch.impress.co.jp/docs/news/1402897.html",
+    "date": "2022-04-18T11:33:32.000Z"
+  },
+  {
+    "title": "吉野家「牛丼テック」。調理工程にAI/IoT技術",
+    "link": "https://www.watch.impress.co.jp/docs/news/1305621.html",
+    "date": "2022-04-18T11:20:04.000Z"
+  },
+  {
+    "title": "吉野家×Ideinの牛丼テック、優勝は「肉鍋全力センシング」！",
+    "link": "https://prtimes.jp/main/html/rd/p/000000023.000026271.html",
+    "date": "2022-04-18T11:19:55.000Z"
+  },
+  {
+    "title": "吉野家、役員の不適切発言を謝罪「人権・ジェンダーの観点からも到底許容できない」【UPDATE】",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_625cf057e4b0723f801a679a",
+    "date": "2022-04-18T11:17:18.000Z"
+  },
+  {
+    "title": "吉野家 常務｢生娘をシャブ漬け｣発言：早稲田大｢直ちに降ろす｣と声明",
+    "link": "https://www.businessinsider.jp/post-253229",
+    "date": "2022-04-18T11:17:01.000Z"
+  },
+  {
+    "title": "#今出川FM : yuisekiとプレイングマネージャー、キングダム、OSS活動について話しました - Helpfeel Developers' Blog",
+    "link": "https://blog.notainc.com/entry/2022/04/18/151138",
+    "date": "2022-04-18T10:48:23.000Z"
+  },
+  {
+    "title": "Nota Tech Conf 2022 Springを4月26日〜28日に開催します! 開発部メンバーが全員登壇します!! #notatech2022 - Helpfeel Developers' Blog",
+    "link": "https://blog.notainc.com/entry/2022/04/06/100000",
+    "date": "2022-04-18T10:45:50.000Z"
+  },
+  {
+    "title": "meta翻訳",
+    "link": "https://meta-school.web.app/article?id=8itxawvkiep",
+    "date": "2022-04-18T10:17:28.000Z"
+  },
+  {
+    "title": "meta翻訳",
+    "link": "https://meta-school.web.app/article?id=mqb3ffrl4w1",
+    "date": "2022-04-18T10:17:18.000Z"
+  },
+  {
+    "title": "５０００人に先行導入　週休３日制、今年度中に―パナソニックＨＤ：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2022041800698&g=eco",
+    "date": "2022-04-18T10:15:53.000Z"
+  },
+  {
+    "title": "早稲田マーケティングカレッジ",
+    "link": "https://wasedaneo.jp/service/certificate-programs/marketing/",
+    "date": "2022-04-18T09:40:54.000Z"
+  },
+  {
+    "title": "吉野家役員の「生娘シャブ漬け戦略」発言、早稲田大学も謝罪　「当該講師に講座担当をやめていただくことを含めて検討中」",
+    "link": "https://nlab.itmedia.co.jp/nl/articles/2204/18/news127.html",
+    "date": "2022-04-18T09:40:41.000Z"
+  },
+  {
+    "title": "サーキット ブレーカー | Microsoft Docs",
+    "link": "https://learn.microsoft.com/ja-jp/azure/architecture/patterns/circuit-breaker",
+    "date": "2022-04-18T09:19:32.000Z"
+  },
+  {
+    "title": "アクセス元の都道府県と市レベルの住所が分かるAPI、Cloudflareがエッジ上のCloudflare Workersで提供へ",
+    "link": "https://www.publickey1.jp/blog/21/apicloudflarecloudflare_workers.html",
+    "date": "2022-04-18T09:10:42.000Z"
+  },
+  {
+    "title": "Cloudflare、分散したCDNエッジ間でも強い一貫性を提供する「Durable Objects」正式リリース。ステートフルな分散アプリが容易に",
+    "link": "https://www.publickey1.jp/blog/21/cloudflarecdndurable_objects.html",
+    "date": "2022-04-18T09:10:12.000Z"
+  },
+  {
+    "title": "Workers Durable Objects Beta: 「ステートフルなサーバーレス」への新しいアプローチ",
+    "link": "https://blog.cloudflare.com/ja-jp/introducing-workers-durable-objects-ja-jp",
+    "date": "2022-04-18T09:09:36.000Z"
+  },
+  {
+    "title": "「ミサイルを誘導 囮になり 自らも攻撃」ドローンがロシア旗艦「モスクワ」撃沈に決定的役割か…小さなドローンが大艦巨砲主義の遺物を屠る（FNNプライムオンライン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/f30c3b219dbb7c1ddc4b1e057de510d2a9cb023b",
+    "date": "2022-04-18T08:50:26.000Z"
+  },
+  {
+    "title": "「LGBTQ報道ガイドライン」第2版が公開。「注意すべきフレーズ」が新設（松岡宗嗣） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/98b96cf4742965c8e8c6a9b9b1c6cd5f7c65a8a0",
+    "date": "2022-04-18T08:50:15.000Z"
+  },
+  {
+    "title": "あれもこれも輸入頼りだったロシア「初めて知った」　国産化阻む壁は：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQ4K5JK0Q4KUHBI01M.html",
+    "date": "2022-04-18T08:50:03.000Z"
+  },
+  {
+    "title": "サーバサイドでJWTの即時無効化機能を持っていないサービスは脆弱なのか？ - くろの雑記帳",
+    "link": "https://kurochan-note.hatenablog.jp/entry/2022/04/18/112307",
+    "date": "2022-04-18T08:49:33.000Z"
+  },
+  {
+    "title": "【要注意】Windows 11にGoogle Playをインストールするための「Powershell Windows Toolbox」がマルウェアだった | ソフトアンテナ",
+    "link": "https://softantenna.com/blog/powershell-windows-toolbox-malware/",
+    "date": "2022-04-18T08:49:21.000Z"
+  },
+  {
+    "title": "伊東 正明",
+    "link": "https://xtrend.nikkei.com/authors/18/ito_masaaki/",
+    "date": "2022-04-18T08:49:06.000Z"
+  },
+  {
+    "title": "吉野家取締役が「生娘をシャブ漬け戦略」発言　会社が謝罪「極めて不適切」「到底許容できない」（J-CASTニュース） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/bb528d1616e9ca92e52219da0ccc48451d4443f8",
+    "date": "2022-04-18T08:48:59.000Z"
+  },
+  {
+    "title": "100億円のシステム開発を破綻させる抵抗勢力の正体、机を片付けない子供と同じだぞ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/041400222/",
+    "date": "2022-04-18T08:32:21.000Z"
+  },
+  {
+    "title": "私大の4分の1が慢性赤字　先端教育投資に足かせ　日経集計 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUE2788A0X20C22A1000000/",
+    "date": "2022-04-18T08:30:47.000Z"
+  },
+  {
+    "title": "クレジットカードだけじゃない 変わる「後払い(BNPL)」の世界 | NHK | ビジネス特集",
+    "link": "https://www3.nhk.or.jp/news/html/20220304/k10013511541000.html",
+    "date": "2022-04-18T08:22:28.000Z"
+  },
+  {
+    "title": "国内BNPLと分割払いとの違いはどこにあるのか？　【前編】",
+    "link": "https://www.itmedia.co.jp/business/articles/2111/02/news005.html",
+    "date": "2022-04-18T08:22:09.000Z"
+  },
+  {
+    "title": "AI与信解禁　メルペイに聞く「何が変わるのか？」",
+    "link": "https://www.itmedia.co.jp/business/articles/2106/25/news017.html",
+    "date": "2022-04-18T08:19:26.000Z"
+  },
+  {
+    "title": "「アコム」に迫る勢いのLINEポケットマネー　“10代とやり取り多い40代”は延滞リスクが低い？",
+    "link": "https://www.itmedia.co.jp/business/articles/2204/18/news029.html",
+    "date": "2022-04-18T08:18:23.000Z"
+  },
+  {
+    "title": "なぜプーチンの侵攻は国内で支持されるのか－そのロジックと言論空間（村上 大空） @gendai_biz",
+    "link": "https://gendai.media/articles/-/93556",
+    "date": "2022-04-18T08:15:47.000Z"
+  },
+  {
+    "title": "デマと誤解で9人殺害…「福田村事件」を映画にしたい　森達也監督がクラウドファンディング：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/172370",
+    "date": "2022-04-18T08:13:23.000Z"
+  },
+  {
+    "title": "「令状出てますんで」突然の家宅捜索　できあがっていた調書：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQ2K5QP5Q10UTIL02K.html",
+    "date": "2022-04-18T08:08:04.000Z"
+  },
+  {
+    "title": "無料でChrome・Firefoxの操作を自動化＆ファイルのアップロードやデスクトップの操作もできる「UI.Vision」",
+    "link": "https://gigazine.net/news/20220417-ui-vision/",
+    "date": "2022-04-18T08:07:51.000Z"
+  },
+  {
+    "title": "吉野家、早大講座で役員の「生娘をシャブ漬け」発言を謝罪 「極めて不適切でした」 - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_18/n_14384/",
+    "date": "2022-04-18T08:06:03.000Z"
+  },
+  {
+    "title": "『Twitter、ヒートアップしそうな会話に警告を表示するテスト』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2110/07/news070.html",
+    "date": "2022-04-18T08:01:44.000Z"
+  },
+  {
+    "title": "Twitter、「アンメンション」をWebアプリで提供開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2204/08/news079.html",
+    "date": "2022-04-18T08:01:06.000Z"
+  },
+  {
+    "title": "三菱重工、トラック輸送できる超小型原発　30年代商用化 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC27DQN0X20C22A1000000/",
+    "date": "2022-04-18T07:10:47.000Z"
+  },
+  {
+    "title": "日本からウクライナの人々に寄り添う支援を～UNHCR駐日事務所渉外インターン山崎有紗さん - UNHCR 日本",
+    "link": "https://www.unhcr.org/jp/46689-internship-experience-ay-2204.html",
+    "date": "2022-04-18T05:58:16.000Z"
+  },
+  {
+    "title": "ネットワーク指向のデザイン・アプローチの提案：情報システムの運用開発事例の分析か",
+    "link": "https://www.jstage.jst.go.jp/article/jcss/15/4/15_4_627/_article/-char/ja/",
+    "date": "2022-04-18T05:48:13.000Z"
+  },
+  {
+    "title": "ツイッタラーは「文化戦争」を今すぐ止めよ―「月曜日のたわわ」問題について｜烏丸百九@社会派Vtuber",
+    "link": "https://note.com/crowclaw109/n/n2b4a2ce34f61",
+    "date": "2022-04-18T05:42:41.000Z"
+  },
+  {
+    "title": "【東日本大震災から10年】被災地へ走った“前例なき”緊急石油貨物列車。鉄道マンたちの挑戦(前編)｜読むらじる。｜NHKラジオ らじる★らじる",
+    "link": "https://www.nhk.or.jp/radio/magazine/article/tetsutabi/Di2MqJRESL.html",
+    "date": "2022-04-18T05:16:13.000Z"
+  },
+  {
+    "title": "ひろゆき on Twitter: \"円安の結果、フランスのマクドナルドでセットを頼むと14.7ユーロなので、約2010円。 ファーストフードでも一食2000円越えが当たり前になって来ましたなぁ。。、 https://t.co/eJW5ajx1E3\"",
+    "link": "https://twitter.com/hirox246/status/1515715243363684359",
+    "date": "2022-04-18T04:34:45.000Z"
+  },
+  {
+    "title": "フリーのWeb API、Ramen APIを作った - ゆーすけべー日記",
+    "link": "https://yusukebe.com/posts/2022/ramen-api/",
+    "date": "2022-04-18T04:34:19.000Z"
+  },
+  {
+    "title": "Club 3D、2系統の4K映像出力と100W USB給電に対応した7-in-1ドック",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1403495.html",
+    "date": "2022-04-18T04:32:22.000Z"
+  },
+  {
+    "title": "投信情報API | 投資信託なら三菱ＵＦＪ国際投信",
+    "link": "https://www.am.mufg.jp/tool/webapi/",
+    "date": "2022-04-18T03:42:55.000Z"
+  },
+  {
+    "title": "Cesium Stories",
+    "link": "https://ion.cesium.com/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe",
+    "date": "2022-04-18T03:40:39.000Z"
+  },
+  {
+    "title": "GitHub - natesales/q: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.",
+    "link": "https://github.com/natesales/q",
+    "date": "2022-04-18T03:03:49.000Z"
+  },
+  {
+    "title": "ネットの配信文化が承認をめぐる競争を悪化させる危険について｜田楽心（田中ラッコ）",
+    "link": "https://note.com/rakkoblog/n/n624ade99b73c",
+    "date": "2022-04-18T02:58:28.000Z"
+  },
+  {
+    "title": "3D Digital Archive Project /建築『中銀カプセルタワービル』を3次元スキャンで記録に残したい。 | MOTION GALLERY",
+    "link": "https://motion-gallery.net/projects/3dda-nakagin/updates",
+    "date": "2022-04-18T02:38:59.000Z"
+  },
+  {
+    "title": "Web3を岸田政権「新しい資本主義」の核に　衆院議員の平将明氏",
+    "link": "https://xtrend.nikkei.com/atcl/contents/18/00400/00015/",
+    "date": "2022-04-18T02:35:10.000Z"
+  },
+  {
+    "title": "NEC、コロナワクチン開発へ　AI活用で有効な抗原を探索",
+    "link": "https://www.itmedia.co.jp/news/articles/2204/08/news125.html",
+    "date": "2022-04-18T02:34:52.000Z"
+  },
+  {
+    "title": "HER-SYS戦記−新型コロナウイルス感染症対策におけるシステム− | COVID-19有識者会議",
+    "link": "https://www.covid19-jma-medical-expert-meeting.jp/topic/7286",
+    "date": "2022-04-18T02:34:11.000Z"
+  },
+  {
+    "title": "マイナンバー利用の「公金受取口座」登録始まる デジタル庁 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20220328/k10013556741000.html",
+    "date": "2022-04-18T02:32:34.000Z"
+  },
+  {
+    "title": "デジタル庁、1者応札が半数超え　落札価格の高止まり、招く恐れ：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQ4H5HC4Q4HULFA014.html",
+    "date": "2022-04-18T02:31:00.000Z"
+  },
+  {
+    "title": "迷惑客だった｢撮り鉄｣を本気でおもてなし…JR東日本の撮影会が｢神イベント｣に変わったワケ 有料にするなら､鉄道ファンを徹底的に楽しませなければ",
+    "link": "https://president.jp/articles/-/56560",
+    "date": "2022-04-18T02:27:47.000Z"
+  },
+  {
+    "title": "インフレ 早くもピークアウトか？【経済コラム】 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20220415/k10013583161000.html",
+    "date": "2022-04-18T02:26:19.000Z"
+  },
+  {
+    "title": "「戦争犯罪」とロシアを非難した首相発言、「支持」88%　朝日調査：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQ4K771NQ4GUZPS009.html",
+    "date": "2022-04-18T02:26:18.000Z"
+  },
+  {
+    "title": "ロシア、英首相らの入国禁止",
+    "link": "https://www.afpbb.com/articles/-/3400671",
+    "date": "2022-04-18T02:26:05.000Z"
+  },
+  {
+    "title": "デジタル庁迷走「誰が決めているのか」　発足から半年　もがくデジタル庁（1） - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUA042RN0U2A400C2000000/",
+    "date": "2022-04-18T02:25:45.000Z"
+  },
+  {
+    "title": "『月曜日のたわわ』広告問題(1) 見たくないものを見ない権利／ジェンダー平等を語る偽善 | 江口某の不如意研究室",
+    "link": "https://yonosuke.net/eguchi/archives/15380",
+    "date": "2022-04-18T02:24:41.000Z"
+  },
+  {
+    "title": "BB2Cが5ch仕様変更で書き込み不可になるが制作者は更新しない意向。広告を増やすよう5ch側に要求され萎えた模様「5chは人生の無駄」",
+    "link": "https://togetter.com/li/1874153",
+    "date": "2022-04-18T02:17:22.000Z"
+  },
+  {
+    "title": "マスク氏、Twitterに買収提案　SNSの公共性議論再燃も - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN14BS80U2A410C2000000/",
+    "date": "2022-04-18T02:14:55.000Z"
+  },
+  {
+    "title": "UNwomenによる受賞広告も”3つのP”を守っていなかった。アンステレオタイプアライアンスがネガティブチェックだったら、誰も守れないという現実。",
+    "link": "https://togetter.com/li/1873970",
+    "date": "2022-04-18T02:10:34.000Z"
+  },
+  {
+    "title": "GitHub - warp-tech/warpgate: Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software",
+    "link": "https://github.com/warp-tech/warpgate",
+    "date": "2022-04-18T02:10:16.000Z"
+  },
+  {
+    "title": "GitHub - spywhere/tmux.nvim: neovim plugin for turning neovim into terminal multiplexer",
+    "link": "https://github.com/spywhere/tmux.nvim",
+    "date": "2022-04-18T02:09:45.000Z"
+  },
+  {
+    "title": "組織における内部不正防止ガイドライン | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/security/guide/insider.html",
+    "date": "2022-04-18T02:07:42.000Z"
+  },
+  {
+    "title": "Amazon OpenSearch Service における JVMMemoryPressure メトリックの変更について | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/understanding-the-jvmmemorypressure-metric-changes-in-amazon-opensearch-service/",
+    "date": "2022-04-18T02:06:50.000Z"
+  },
+  {
+    "title": "Windowsイベントログのファストフォレンジックツール　Chainsaw",
+    "link": "https://jpn.nec.com/cybersecurity/blog/220408/index.html",
+    "date": "2022-04-18T02:06:45.000Z"
+  },
+  {
+    "title": "治部れんげ石川雅恵金春喜によるハフポスト記事の広告例",
+    "link": "https://togetter.com/li/1873969",
+    "date": "2022-04-18T01:59:54.000Z"
+  },
+  {
+    "title": "『治部れんげ石川雅恵金春喜によるハフポスト記事の広告例』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/togetter.com/li/1873969",
+    "date": "2022-04-18T01:59:52.000Z"
+  },
+  {
+    "title": "Whataboutism - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/Whataboutism",
+    "date": "2022-04-18T01:58:09.000Z"
+  },
+  {
+    "title": "うまい文章をラクに書くための「たったこれだけ」の工夫5選。 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習",
+    "link": "https://studyhacker.net/good-writing-5-tips",
+    "date": "2022-04-18T01:55:57.000Z"
+  },
+  {
+    "title": "大学1年生のときに読みたかった 量子力学の教科書―谷村 省吾『量子力学10講』（ALL REVIEWS） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/72e56a5f32edab7412b34e059058b9000ed9f880",
+    "date": "2022-04-18T01:55:49.000Z"
+  },
+  {
+    "title": "難波 優輝 (Yuuki Namba) - 隠喩としてのゲーム––––人生はゲームとして生きられるべきなのか？ - 講演・口頭発表等 - researchmap",
+    "link": "https://researchmap.jp/deinotaton/presentations/36775248",
+    "date": "2022-04-18T01:55:28.000Z"
+  },
+  {
+    "title": "バックエンドエンジニアが Next.js でモダンなフロントエンド開発を始めるにあたり学習したこと",
+    "link": "https://zenn.dev/9sako6/articles/frontend-loadmap",
+    "date": "2022-04-18T01:55:25.000Z"
+  },
+  {
+    "title": "宗教2世ラッパーたちのリアル「ストイックなだけじゃない生き方をヒップホップは示せる」",
+    "link": "https://premium.kai-you.net/article/511",
+    "date": "2022-04-18T01:54:49.000Z"
+  },
+  {
+    "title": "日経新聞はジャニーズを広告に出すな",
+    "link": "https://anond.hatelabo.jp/20220417174423",
+    "date": "2022-04-18T01:50:25.000Z"
+  },
+  {
+    "title": "緊急更新 陰謀論や神真都Ｑによる家庭内被害の現状と対応｜加藤文宏",
+    "link": "https://note.com/mostsouthguitar/n/n9d43752022cd",
+    "date": "2022-04-18T01:49:27.000Z"
+  },
+  {
+    "title": "Makefileの代わりにnpm scripts+zxを使う - 詩と創作・思索のひろば",
+    "link": "https://motemen.hatenablog.com/entry/2022/04/npm-scripts-zx",
+    "date": "2022-04-18T01:49:21.000Z"
+  },
+  {
+    "title": "『もへもへ on Twitter: \"ハフポストの記事改ざん確認した。いろいろ消したけど自分で確認したのでこれが最後。マジでくるってる。やばい。一枚目が現在の記事。二枚目が最初の記事\"』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/twitter.com/gerogeroR/status/1515599242773303296",
+    "date": "2022-04-18T01:48:01.000Z"
+  },
+  {
+    "title": "https://twitter.com/gerogeroR/status/1515599242773303296",
+    "link": "https://twitter.com/gerogeroR/status/1515599242773303296",
+    "date": "2022-04-18T01:47:15.000Z"
+  },
+  {
+    "title": "マリウポリ 降伏期限すぎる ロシア側は攻勢強める構え | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20220418/k10013586721000.html",
+    "date": "2022-04-18T01:45:39.000Z"
+  },
+  {
+    "title": "握力を増強できるバナナみたいな手袋、米MITなどが開発　編物の人工筋肉を空気で膨張",
+    "link": "https://www.itmedia.co.jp/news/articles/2204/18/news036.html",
+    "date": "2022-04-18T01:45:31.000Z"
+  },
+  {
+    "title": "もがくデジタル庁（1）　「誰が決めているのか」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGKKZO60075290X10C22A4PE8000/",
+    "date": "2022-04-18T01:45:23.000Z"
+  },
+  {
+    "title": "「絶対に降伏しない」ウクライナ準軍事組織「アゾフ大隊」幹部 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20220418/k10013586731000.html",
+    "date": "2022-04-18T01:45:22.000Z"
+  },
+  {
+    "title": "バックスペースを多く使うとネガティブ状態？　スマートフォンの操作から感情やストレスを予測",
+    "link": "https://www.itmedia.co.jp/news/articles/2204/18/news035.html",
+    "date": "2022-04-18T01:44:56.000Z"
+  },
+  {
+    "title": "Wi-Fiトラブルの解決に便利！　Windowsの隠れ便利機能「Wlan Report」を活用しよう【イニシャルB】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/1401607.html",
+    "date": "2022-04-18T01:44:46.000Z"
+  },
+  {
+    "title": "「一瞬で財産失った」コロナ禍で“国際ロマンス詐欺”急増 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20220417/k10013586461000.html",
+    "date": "2022-04-18T01:08:52.000Z"
+  },
+  {
+    "title": "JavaScript/TypeScriptの高速フォーマッター「Rome Formatter」リリース。Rust製でPrettierより約10倍高速と",
+    "link": "https://www.publickey1.jp/blog/22/javascripttypescriptrome_formatterrustprettier10.html",
+    "date": "2022-04-18T01:08:30.000Z"
+  }
+]

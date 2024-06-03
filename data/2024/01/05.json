@@ -1,0 +1,142 @@
+[
+  {
+    "title": "言語データセットを用い､プロンプトチューニングで分子構造から融点を予測する際のメモ｜Kan Hatakeyama",
+    "link": "https://note.com/kan_hatakeyama/n/n43ddd541bdc6",
+    "date": "2024-01-05T14:02:57.000Z"
+  },
+  {
+    "title": "Open AIを敢えて使わない、セルフホストなAI Chat Bot(RAG)の意義と作り方 〜スケーラビリティ/コスト最適化のアイデアを添えて〜 - 流沙河鎮",
+    "link": "https://bering.hatenadiary.com/entry/2024/01/05/195141",
+    "date": "2024-01-05T13:03:54.000Z"
+  },
+  {
+    "title": "JA:変更セット - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/JA:%E5%A4%89%E6%9B%B4%E3%82%BB%E3%83%83%E3%83%88",
+    "date": "2024-01-05T06:35:42.000Z"
+  },
+  {
+    "title": "cuSOLVER",
+    "link": "https://docs.nvidia.com/cuda/cusolver/index.html",
+    "date": "2024-01-05T05:59:05.000Z"
+  },
+  {
+    "title": "LiLM 小規模言語モデル TinyLlama 1.1B の日本語追加事前学習(incremental pretrain) を試したメモ",
+    "link": "https://zenn.dev/syoyo/articles/52f1d0d62fcad5",
+    "date": "2024-01-05T04:24:46.000Z"
+  },
+  {
+    "title": "Orca-2: Teaching Small Language Models How to Reason - Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/publication/orca-2-teaching-small-language-models-how-to-reason/",
+    "date": "2024-01-05T04:22:35.000Z"
+  },
+  {
+    "title": "Mistral AI | Frontier AI in your hands",
+    "link": "https://mistral.ai/",
+    "date": "2024-01-05T04:21:43.000Z"
+  },
+  {
+    "title": "マイクロソフト、小規模言語モデルAI「Phi-2」を公開——Meta「Llama 2」やMistral AI「Mistral 7B」の性能凌ぐ - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+    "link": "https://thebridge.jp/2023/12/microsoft-releases-phi-2-a-small-language-model-ai-that-outperforms-llama-2-mistral-7b",
+    "date": "2024-01-05T04:21:32.000Z"
+  },
+  {
+    "title": "AI Tube - a Hugging Face Space by jbilcke-hf",
+    "link": "https://huggingface.co/spaces/jbilcke-hf/ai-tube",
+    "date": "2024-01-05T04:16:46.000Z"
+  },
+  {
+    "title": "‎HOP みんなで楽しむAI写真スタジオ AI編集で2shot",
+    "link": "https://apps.apple.com/jp/app/hop-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80ai%E5%86%99%E7%9C%9F%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-ai%E7%B7%A8%E9%9B%86%E3%81%A72shot/id6451280379",
+    "date": "2024-01-05T04:15:24.000Z"
+  },
+  {
+    "title": "GitHub - shansongliu/M2UGen: This is the official repository for M2UGen",
+    "link": "https://github.com/shansongliu/M2UGen",
+    "date": "2024-01-05T04:13:46.000Z"
+  },
+  {
+    "title": "M2UGen",
+    "link": "https://crypto-code.github.io/M2UGen-Demo/",
+    "date": "2024-01-05T04:13:35.000Z"
+  },
+  {
+    "title": "単一GPUで動画・画像・音声・テキスト対応のマルチモーダルモデルを訓練して推論!?何を言ってるかわかねーと思うが、俺も何を見ているのかわからねえ｜shi3z",
+    "link": "https://note.com/shi3zblog/n/nf657d6105bd9",
+    "date": "2024-01-05T04:12:23.000Z"
+  },
+  {
+    "title": "米 ニューヨーク 地下鉄の列車どうしが衝突し脱線 24人けが | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20240105/k10014309891000.html",
+    "date": "2024-01-05T04:11:46.000Z"
+  },
+  {
+    "title": "Models - Hugging Face",
+    "link": "https://huggingface.co/models?library=gguf",
+    "date": "2024-01-05T01:50:52.000Z"
+  },
+  {
+    "title": "TheBloke/phi-2-GGUF · Hugging Face",
+    "link": "https://huggingface.co/TheBloke/phi-2-GGUF",
+    "date": "2024-01-05T01:49:18.000Z"
+  },
+  {
+    "title": "it is pointless",
+    "link": "https://its-pointless.github.io/",
+    "date": "2024-01-05T01:47:57.000Z"
+  },
+  {
+    "title": "https://www.reddit.com/r/LocalLLaMA/comments/14rncnb/local_llama_on_android_phone/",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/14rncnb/local_llama_on_android_phone/",
+    "date": "2024-01-05T01:47:28.000Z"
+  },
+  {
+    "title": "reazon-research/reazonspeech · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/reazon-research/reazonspeech",
+    "date": "2024-01-05T01:35:14.000Z"
+  },
+  {
+    "title": "つくよみちゃん公式サイト | 商用利用もOKなフリー素材キャラクター",
+    "link": "https://tyc.rei-yumesaki.net/",
+    "date": "2024-01-05T01:34:54.000Z"
+  },
+  {
+    "title": "cyberagent/calm2-7b-chat · Hugging Face",
+    "link": "https://huggingface.co/cyberagent/calm2-7b-chat",
+    "date": "2024-01-05T01:34:12.000Z"
+  },
+  {
+    "title": "ローカル環境で音声・立ち絵付きのAIと会話できるソフトウェア ez-chat-llm を作りました。",
+    "link": "https://zenn.dev/offtoung/articles/034d98bd397527",
+    "date": "2024-01-05T01:33:01.000Z"
+  },
+  {
+    "title": "楽天モバイル、能登半島地震の一部避難所でWi-Fiや無料充電サービス",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/1558840.html",
+    "date": "2024-01-05T01:31:44.000Z"
+  },
+  {
+    "title": "Microsoft、Windowsパソコンのキーボードに「Copilot」キー追加へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2401/05/news060.html",
+    "date": "2024-01-05T01:31:12.000Z"
+  },
+  {
+    "title": "自己資金のみでSaaSを立ち上げて、メンバー5名でARR2億円を突破した話 | selfree",
+    "link": "https://www.selfree.co.jp/articles/2023/12/27/%E8%87%AA%E5%B7%B1%E8%B3%87%E9%87%91%E3%81%AE%E3%81%BF%E3%81%A7saas%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A6-%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC5%E5%90%8D%E3%81%A7arr2%E5%84%84%E5%86%86%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%9F%E8%A9%B1",
+    "date": "2024-01-05T01:31:04.000Z"
+  },
+  {
+    "title": "X(旧Twitter)が認証済みバッジを月額1000ドルから月額200ドルに引き下げたプランを発表",
+    "link": "https://gigazine.net/news/20240104-x-verified/",
+    "date": "2024-01-05T01:30:57.000Z"
+  },
+  {
+    "title": "自己資金のみでSaaSを立ち上げて、メンバー5名でARR2億円を突破した話 | selfree",
+    "link": "https://www.selfree.co.jp/articles/2023/12/27/%E8%87%AA%E5%B7%B1%E8%B3%87%E9%87%91%E3%81%AE%E3%81%BF%E3%81%A7saas%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A6-%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC5%E5%90%8D%E3%81%A7arr2%E5%84%84%E5%86%86%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%9F%E8%A9%B1?fbclid=IwAR2cgyeWjQbTWYbM37H9bFB3_L5LQpyxhKgS-2SnNcEX3n6FE-Sm6UEONdo_aem_ASV1zHbvDOwiWE9S7mdUfAMqqJpD85S_ojzmqjnguhan9Tyu54BegUoE4j4UHwEgp1c",
+    "date": "2024-01-05T01:30:40.000Z"
+  },
+  {
+    "title": "かつて何事も長続きしなかった自分が「やり抜く力」について考えてみる｜dora_e_m",
+    "link": "https://note.com/dora_e_m/n/n8d49176fd6bd",
+    "date": "2024-01-05T01:29:18.000Z"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "title": "新たにオープンした「東急歌舞伎町タワー」内の動画に反響　「映画セットみたい」「ブレードランナーの世界だ」",
+    "link": "https://nlab.itmedia.co.jp/nl/articles/2304/17/news116.html",
+    "date": "2023-04-22T13:58:13.000Z"
+  },
+  {
+    "title": "VercelとNext.jsの機能を最大限に活用したA/Bテスト手法",
+    "link": "https://speakerdeck.com/aiji42/btesutoshou-fa",
+    "date": "2023-04-22T13:44:03.000Z"
+  },
+  {
+    "title": "MastodonやMisskeyなどのFediverseサーバーの統計サイトFediDBが新UIのベータサイトを公開 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2023/04/fedidb-new-beta-site",
+    "date": "2023-04-22T13:43:59.000Z"
+  },
+  {
+    "title": "Googleの生成型AI「Bard」、コード生成とデバッグ可能に　20言語をサポート",
+    "link": "https://www.itmedia.co.jp/news/articles/2304/22/news059.html",
+    "date": "2023-04-22T13:43:47.000Z"
+  },
+  {
+    "title": "「役立たずよりひどい」 グーグル社内でAI「バード」の発売中止を求める声が噴出 | 米誌が内部調査をもとに暴露",
+    "link": "https://courrier.jp/news/archives/323666/",
+    "date": "2023-04-22T13:43:33.000Z"
+  },
+  {
+    "title": "GitHub Actionsにおける設定ミスに起因したGitHubスタッフのアクセストークン漏洩",
+    "link": "https://blog.ryotak.net/post/github-actions-staff-access-token/",
+    "date": "2023-04-22T13:43:27.000Z"
+  },
+  {
+    "title": "AIひろゆき、投げ銭で時給1万4273円稼ぐ",
+    "link": "https://www.itmedia.co.jp/news/articles/2304/22/news050.html",
+    "date": "2023-04-22T13:43:18.000Z"
+  },
+  {
+    "title": "ラッコの水槽にiPhoneを落としてしまい、ラッコにより徹底的に叩き割られる",
+    "link": "https://epinesis.net/archives/post-12888.html",
+    "date": "2023-04-22T13:41:47.000Z"
+  },
+  {
+    "title": "1冊の単語帳を610日かけて全読したら語彙力が1万語になった",
+    "link": "https://dain.cocolog-nifty.com/myblog/2023/04/post-6b06d7.html",
+    "date": "2023-04-22T13:41:37.000Z"
+  },
+  {
+    "title": "敵対的プロンプト（Adversarial Prompting） – Nextra",
+    "link": "https://www.promptingguide.ai/jp/risks/adversarial",
+    "date": "2023-04-22T13:37:34.000Z"
+  },
+  {
+    "title": "Embeddingで埋め込みベクトルとってDBに投入して検索するのをout-context learningと呼ぶのはどうか - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2023/04/13/212226",
+    "date": "2023-04-22T13:33:38.000Z"
+  },
+  {
+    "title": "東京都被害想定ホームページ",
+    "link": "https://www.higaisoutei.metro.tokyo.lg.jp/mydmgpred.html",
+    "date": "2023-04-22T13:27:49.000Z"
+  },
+  {
+    "title": "GitHub - suno-ai/bark: 🔊 Text-Prompted Generative Audio Model",
+    "link": "https://github.com/suno-ai/bark",
+    "date": "2023-04-22T11:29:18.000Z"
+  },
+  {
+    "title": "Announcing LangChainJS Support for Multiple JS Environments",
+    "link": "https://blog.langchain.dev/js-envs/",
+    "date": "2023-04-22T08:28:22.000Z"
+  },
+  {
+    "title": "Callbacks | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/callbacks/",
+    "date": "2023-04-22T07:59:22.000Z"
+  },
+  {
+    "title": "ChatGPTのAPIで結果をリアルタイム表示する - Qiita",
+    "link": "https://qiita.com/amanekey/items/43d94cf9b67dc391c583",
+    "date": "2023-04-22T07:53:22.000Z"
+  },
+  {
+    "title": "BuzzFeedが従業員の15％を解雇して報道部門「BuzzFeed News」を終了",
+    "link": "https://gigazine.net/news/20230421-buzzfeed-news-shut-down/",
+    "date": "2023-04-22T02:51:44.000Z"
+  },
+  {
+    "title": "歯周病の影響は全身に、関節リウマチとの関連で新たな発見",
+    "link": "https://natgeo.nikkeibp.co.jp/atcl/news/23/042000197/",
+    "date": "2023-04-22T02:35:56.000Z"
+  },
+  {
+    "title": "Satellite - segment-geospatial",
+    "link": "https://samgeo.gishub.org/examples/satellite/",
+    "date": "2023-04-22T02:29:31.000Z"
+  },
+  {
+    "title": "segment-geospatial",
+    "link": "https://samgeo.gishub.org/",
+    "date": "2023-04-22T02:29:29.000Z"
+  },
+  {
+    "title": "GitHub - opengeos/segment-geospatial: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "link": "https://github.com/opengeos/segment-geospatial",
+    "date": "2023-04-22T02:29:26.000Z"
+  },
+  {
+    "title": "NexusGPT",
+    "link": "https://nexus.snikpic.io/",
+    "date": "2023-04-22T02:25:06.000Z"
+  },
+  {
+    "title": "Imgur is banning porn and purging old anonymous uploads",
+    "link": "https://www.theverge.com/2023/4/20/23691156/imgur-porn-ban-sexually-explicit-content-terms-of-service",
+    "date": "2023-04-22T02:17:31.000Z"
+  },
+  {
+    "title": "Imgur to ban explicit images and delete uploads not tied to an account | Engadget",
+    "link": "https://www.engadget.com/imgur-to-ban-explicit-images-and-delete-uploads-not-tied-to-an-account-122537118.html",
+    "date": "2023-04-22T02:17:27.000Z"
+  },
+  {
+    "title": "https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update-April-19-2023-",
+    "link": "https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update-April-19-2023-",
+    "date": "2023-04-22T02:17:25.000Z"
+  },
+  {
+    "title": "Razer、15ボタン付きの配信向けコントローラを国内発売",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1495488.html",
+    "date": "2023-04-22T02:14:20.000Z"
+  },
+  {
+    "title": "スクリーンショットを情報共有のハブに。あらゆる画面を“リンク化”できるアプリ「Pager」が秘めた可能性",
+    "link": "https://wired.jp/article/pager-link-screenshots/",
+    "date": "2023-04-22T02:12:23.000Z"
+  },
+  {
+    "title": "話題の ChatGPT + LangChain で、膨大な PDF ドキュメントの内容を爆速で把握する - Qiita",
+    "link": "https://qiita.com/hiroki_okuhata_int/items/7102bab7d96eb2574e7d",
+    "date": "2023-04-22T02:11:55.000Z"
+  },
+  {
+    "title": "画像アップロードサイト「Imgur」が性的画像や古いコンテンツを削除すると発表、歴史的価値の高い画像が消失する危機",
+    "link": "https://gigazine.net/news/20230421-imgur-ban-porn-old-inactive-contents/",
+    "date": "2023-04-22T02:10:18.000Z"
+  },
+  {
+    "title": "0421DS協会_ChatGPTによって描かれる未来とAI開発の変遷.pdf",
+    "link": "https://speakerdeck.com/hirosatogamo/0421dsxie-hui-chatgptniyotutemiao-kareruwei-lai-toaikai-fa-nobian-qian",
+    "date": "2023-04-22T01:49:21.000Z"
+  },
+  {
+    "title": "Vercel Web Analytics – Vercel",
+    "link": "https://vercel.com/blog/vercel-web-analytics-is-now-generally-available",
+    "date": "2023-04-22T01:48:31.000Z"
+  },
+  {
+    "title": "商用利用可能な最新モデル『chilled_remix』とは？導入方法を解説",
+    "link": "https://codewizardry.net/2023/04/19/chilled_remix/",
+    "date": "2023-04-22T01:48:12.000Z"
+  },
+  {
+    "title": "ChilloutMixの作者が語るAIで可愛い画像を作る方法",
+    "link": "https://codewizardry.net/2023/03/29/chilloutmix-prompt/",
+    "date": "2023-04-22T01:47:28.000Z"
+  },
+  {
+    "title": "岸田首相襲撃犯に“ネトウヨ”投稿歴 ツイート分析で透ける「格差にイラ立つ自民党支持者」の主張｜日刊ゲンダイDIGITAL",
+    "link": "https://www.nikkan-gendai.com/articles/view/life/321886",
+    "date": "2023-04-22T01:46:48.000Z"
+  },
+  {
+    "title": "GitHub - yoheinakajima/babyagi",
+    "link": "https://github.com/yoheinakajima/babyagi",
+    "date": "2023-04-22T01:45:20.000Z"
+  },
+  {
+    "title": "【独自】ジャニーズ事務所が文書「告発を真摯に受け止める」　所属タレントの性被害疑惑巡り＜全文あり＞：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/245473",
+    "date": "2023-04-22T01:45:06.000Z"
+  },
+  {
+    "title": "「経口中絶薬」 厚労省の分科会が了承 国内初の承認へ | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20230421/k10014045661000.html",
+    "date": "2023-04-22T01:44:58.000Z"
+  },
+  {
+    "title": "【無料】GPUがなくてもStable Diffusionで遊びたい！",
+    "link": "https://zenn.dev/cp20/articles/stable-diffusion-webui-with-modal",
+    "date": "2023-04-22T01:25:59.000Z"
+  },
+  {
+    "title": "Overview",
+    "link": "https://docs.lmql.ai/en/latest/language/overview.html",
+    "date": "2023-04-22T01:21:08.000Z"
+  },
+  {
+    "title": "Constraints",
+    "link": "https://docs.lmql.ai/en/latest/language/constraints.html",
+    "date": "2023-04-22T01:20:57.000Z"
+  },
+  {
+    "title": "Scripted Prompting",
+    "link": "https://docs.lmql.ai/en/latest/language/scripted_prompts.html",
+    "date": "2023-04-22T01:20:50.000Z"
+  },
+  {
+    "title": "Decoders",
+    "link": "https://docs.lmql.ai/en/latest/language/decoders.html",
+    "date": "2023-04-22T01:20:42.000Z"
+  },
+  {
+    "title": "LMQL Playground",
+    "link": "https://lmql.ai/playground/",
+    "date": "2023-04-22T01:20:37.000Z"
+  },
+  {
+    "title": "LMQL is a programming language for LLM interaction. | LMQL",
+    "link": "https://lmql.ai/",
+    "date": "2023-04-22T01:20:26.000Z"
+  },
+  {
+    "title": "LMQL(Language Model Query Language)概観｜mah_lab / 西見 公宏",
+    "link": "https://note.com/mahlab/n/n11b15b323c87",
+    "date": "2023-04-22T01:18:29.000Z"
+  },
+  {
+    "title": "Twitter、課金以外の認証バッジは「基準が不透明」と剥奪。マスク氏が個人的に選んだ有名人には付与 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2023/04/21/1197.html",
+    "date": "2023-04-22T01:18:28.000Z"
+  },
+  {
+    "title": "【速報】国内初の「飲む中絶薬」承認へ　厚生労働省薬事分科会 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/448396",
+    "date": "2023-04-22T01:18:20.000Z"
+  },
+  {
+    "title": "総務省指示で「男性」に変更　女性自認の旭川市議選候補",
+    "link": "https://www.47news.jp/9223904.html",
+    "date": "2023-04-22T01:17:59.000Z"
+  },
+  {
+    "title": "AI生成画像で世界最高峰の写真コンテストを受賞した孤高のアーティスト。写真界の異端児に独占インタビュー",
+    "link": "https://cgworld.jp/flashnews/PROMPTOGRAPHY.html",
+    "date": "2023-04-22T01:16:41.000Z"
+  },
+  {
+    "title": "日本語版Wikipediaの編集者で節足動物のイラストを描きまくっている人物「Junnn11」が海外サイトで注目を集める",
+    "link": "https://gigazine.net/news/20230421-wikipedia-arthropod-art-junnn11/",
+    "date": "2023-04-22T01:16:00.000Z"
+  },
+  {
+    "title": "「Twitter」の従来APIは4月29日までに廃止が完了、新APIへの移行を／「Premium Search」や「Account Activity API」を含む「Premium v1.1 API」も非推奨に",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1495566.html",
+    "date": "2023-04-22T01:15:52.000Z"
+  },
+  {
+    "title": "ChatGPTとの対話からエンジニアの職歴をAIが自動生成。「ChatGPTからインタビュー受けてみた」をリリース | Ledge.ai",
+    "link": "https://ledge.ai/2023-04-05-1296066760642d381b67251/",
+    "date": "2023-04-22T01:07:47.000Z"
+  },
+  {
+    "title": "ChatGPTとの対話からエンジニアの職歴をAIが自動生成。「ChatGPTからインタビュー受けてみた」をリリース：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=000000051.000045379&g=prt",
+    "date": "2023-04-22T01:07:45.000Z"
+  },
+  {
+    "title": "ChatGPTとの対話からエンジニアの職歴をAIが自動生成。「ChatGPTからインタビュー受けてみた」をリリース",
+    "link": "https://prtimes.jp/main/html/rd/p/000000051.000045379.html",
+    "date": "2023-04-22T01:07:41.000Z"
+  },
+  {
+    "title": "ChatGPTが職務経歴書を作成するサービス続々　エンジニア向けから看護師まで",
+    "link": "https://www.itmedia.co.jp/news/articles/2304/13/news090.html",
+    "date": "2023-04-22T00:48:47.000Z"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "title": "https://dl.acm.org/doi/proceedings/10.1145/3613904",
+    "link": "https://dl.acm.org/doi/proceedings/10.1145/3613904",
+    "date": "2024-05-12T10:30:15.000Z"
+  },
+  {
+    "title": "WorldPop - Humanitarian Data Exchange",
+    "link": "https://data.humdata.org/organization/worldpop?sort=metadata_modified+desc",
+    "date": "2024-05-12T09:38:23.000Z"
+  },
+  {
+    "title": "All the Earthquakes Dataset : from 1990-2023",
+    "link": "https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023",
+    "date": "2024-05-12T09:05:37.000Z"
+  },
+  {
+    "title": "Well-known text representation of coordinate reference systems - Open Geospatial Consortium",
+    "link": "https://www.ogc.org/standard/wkt-crs/",
+    "date": "2024-05-12T09:05:19.000Z"
+  },
+  {
+    "title": "ORNL LandScan Viewer - Oak Ridge National Laboratory",
+    "link": "https://landscan.ornl.gov/",
+    "date": "2024-05-12T09:02:58.000Z"
+  },
+  {
+    "title": "LandScan 全世界人口分布データのご案内 | 教育と研究の未来",
+    "link": "https://mirai.kinokuniya.co.jp/catalog/landscan",
+    "date": "2024-05-12T09:01:02.000Z"
+  },
+  {
+    "title": "ogr2ogr 備忘録 - Qiita",
+    "link": "https://qiita.com/tohka383/items/d3d1bf80db2cfb416330",
+    "date": "2024-05-12T07:16:12.000Z"
+  },
+  {
+    "title": "Using ogr2ogr to load a CSV into Postgres",
+    "link": "https://gist.github.com/chriswhong/067cb12d74fbb6297bdd657d1e4da00b",
+    "date": "2024-05-12T06:59:42.000Z"
+  },
+  {
+    "title": "NYPD Complaint Data Historic | NYC Open Data",
+    "link": "https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i",
+    "date": "2024-05-12T06:44:07.000Z"
+  },
+  {
+    "title": "GitHub - geosolutions-it/events-tracker: events-tracker-demos",
+    "link": "https://github.com/geosolutions-it/events-tracker",
+    "date": "2024-05-12T06:43:32.000Z"
+  },
+  {
+    "title": "各種データを ogr2ogr でインポートしてみよう｜PostGISをはじめてみよう",
+    "link": "https://zenn.dev/boiledorange73/books/b1de0a18073af70946e0/viewer/import-ogr2ogr",
+    "date": "2024-05-12T06:34:46.000Z"
+  },
+  {
+    "title": "Osm2pgsql goes AI - News - osm2pgsql",
+    "link": "https://osm2pgsql.org/news/2024/04/01/osm2pgsql-goes-ai.html",
+    "date": "2024-05-12T05:40:22.000Z"
+  },
+  {
+    "title": "Vector tiles with React, MapLibre and pg_tileserv • Gispo",
+    "link": "https://www.gispo.fi/en/blog/styling-vector-tiles-with-maplibre/",
+    "date": "2024-05-12T05:18:01.000Z"
+  },
+  {
+    "title": "pg_tileserv/hugo/content/usage/cql.md at master · CrunchyData/pg_tileserv",
+    "link": "https://github.com/CrunchyData/pg_tileserv/blob/master/hugo/content/usage/cql.md",
+    "date": "2024-05-12T05:14:28.000Z"
+  },
+  {
+    "title": "pg_tileservで大量データを配信するタイルサーバーを作る方法",
+    "link": "https://zenn.dev/rescuenow/articles/c403164a1fff03",
+    "date": "2024-05-12T05:05:07.000Z"
+  },
+  {
+    "title": "Create a heatmap layer - MapLibre GL JS",
+    "link": "https://maplibre.org/maplibre-gl-js/docs/examples/heatmap-layer/",
+    "date": "2024-05-12T04:43:30.000Z"
+  },
+  {
+    "title": "MapLibre GL JS＋ベクトルタイルでウェブ地図に動的な集計円グラフを描く - Qiita",
+    "link": "https://qiita.com/sanskruthiya/items/5f34e0d153e2b1337c11",
+    "date": "2024-05-12T04:42:40.000Z"
+  },
+  {
+    "title": "MapLibre でヒートマップやクラスタリング - Qiita",
+    "link": "https://qiita.com/mg_kudo/items/12812d7c45147515c6cf",
+    "date": "2024-05-12T04:42:33.000Z"
+  },
+  {
+    "title": "Generative AI Tables - MindsDB",
+    "link": "https://docs.mindsdb.com/generative-ai-tables",
+    "date": "2024-05-12T04:33:34.000Z"
+  },
+  {
+    "title": "AI Development Cloud Platform | Real Time AI & ML | Deploy & Manage AI",
+    "link": "https://mindsdb.com/",
+    "date": "2024-05-12T04:30:33.000Z"
+  },
+  {
+    "title": "MindsDB vs PostgresML – PostgresML",
+    "link": "https://postgresml.org/blog/mindsdb-vs-postgresml",
+    "date": "2024-05-12T04:30:22.000Z"
+  },
+  {
+    "title": "DB-GPT: Large Language Model Meets Database - Data Science and Engineering",
+    "link": "https://link.springer.com/article/10.1007/s41019-023-00235-6",
+    "date": "2024-05-12T03:55:07.000Z"
+  },
+  {
+    "title": "内臓脂肪減少薬「アライ」56歳男性が飲んでみたら？「従来の空腹の我慢が、そのままおならの我慢に変わる感覚です」｜OTONA SALONE",
+    "link": "https://otonasalone.jp/412882/",
+    "date": "2024-05-12T00:49:03.000Z"
+  },
+  {
+    "title": "偽造マイナカード、見分けるコツは「ウサギ」　スマホ乗っ取り被害相次ぎ、河野太郎デジタル相が注意喚起：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/326357",
+    "date": "2024-05-12T00:48:44.000Z"
+  },
+  {
+    "title": "SpaceX Starlink Satellites Tracker",
+    "link": "https://findstarlink.com/",
+    "date": "2024-05-12T00:43:02.000Z"
+  },
+  {
+    "title": "London Webcam",
+    "link": "https://londonwebcam.co.uk/",
+    "date": "2024-05-12T00:42:45.000Z"
+  },
+  {
+    "title": "ＪＲ東日本でシステム障害　「モバイルスイカ」や「えきねっと」　サイバー攻撃か",
+    "link": "https://www.sankei.com/article/20240510-7MCLL3S6LRIFNDGFTZ2KPIM5RE/",
+    "date": "2024-05-12T00:42:41.000Z"
+  },
+  {
+    "title": "Agile Testing Condensed Japanese Edition",
+    "link": "https://leanpub.com/agiletesting-condensed-japanese-edition",
+    "date": "2024-05-12T00:42:28.000Z"
+  },
+  {
+    "title": "Cookieの改訂版仕様 rfc6265bis の変更点 - ASnoKaze blog",
+    "link": "https://asnokaze.hatenablog.com/entry/2024/05/07/002720",
+    "date": "2024-05-12T00:42:24.000Z"
+  },
+  {
+    "title": "Plinky",
+    "link": "https://www.plinky.app/",
+    "date": "2024-05-12T00:42:16.000Z"
+  },
+  {
+    "title": "映像を昭和のビデオテープみたいに劣化させる表現がPVとかで流行ってる",
+    "link": "https://anond.hatelabo.jp/20240511092733",
+    "date": "2024-05-12T00:42:01.000Z"
+  },
+  {
+    "title": "Black Cat Carnival",
+    "link": "https://bcc.cc/ja",
+    "date": "2024-05-12T00:41:29.000Z"
+  },
+  {
+    "title": "Openterface Mini-KVM",
+    "link": "https://www.crowdsupply.com/techxartisan/openterface-mini-kvm",
+    "date": "2024-05-12T00:36:18.000Z"
+  },
+  {
+    "title": "One Minute Park",
+    "link": "https://oneminutepark.tv/",
+    "date": "2024-05-12T00:35:56.000Z"
+  },
+  {
+    "title": "競争参加資格停止・指名停止情報｜デジタル庁",
+    "link": "https://www.digital.go.jp/procurement/suspension-and-debarment",
+    "date": "2024-05-12T00:34:56.000Z"
+  },
+  {
+    "title": "【速報】<del>3668,</del> 3664黒点群がヤバい (2024/5/10) (追記×3あり) - Deep Sky Memories",
+    "link": "https://rna.hatenablog.com/entry/20240510/1715266976",
+    "date": "2024-05-12T00:34:40.000Z"
+  },
+  {
+    "title": "賃貸住宅トラブル防止ガイドライン（概要） | 東京都住宅政策本部",
+    "link": "https://www.juutakuseisaku.metro.tokyo.lg.jp/juutaku_seisaku/tintai/310-3-jyuutaku.htm",
+    "date": "2024-05-12T00:34:34.000Z"
+  },
+  {
+    "title": "日本が飛び越してしまった技術？　メタル線で高速通信を実現する「G.hn」へ至る道（その1）【ネット新技術】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/nettech/1583833.html",
+    "date": "2024-05-12T00:34:32.000Z"
+  },
+  {
+    "title": "《“カジノありき”だった》ノンフィクション作家・森功氏が「間に合うわけがない」と確信した大阪万博“デタラメ発注”（文春オンライン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/2d12a559ec2e465042372cc25b4e17db07b2eb37",
+    "date": "2024-05-12T00:34:11.000Z"
+  },
+  {
+    "title": "新しいSNSのティザーサイトを公開した｜sugitani",
+    "link": "https://sizu.me/sugitani/posts/fd4v8d9k7ro5",
+    "date": "2024-05-12T00:32:27.000Z"
+  },
+  {
+    "title": "GitHub - Mega-Gorilla/Index_PDF_Translation",
+    "link": "https://github.com/Mega-Gorilla/Index_PDF_Translation",
+    "date": "2024-05-12T00:32:20.000Z"
+  },
+  {
+    "title": "OKRと「測りすぎ」 〜なりたい姿を、「測りすぎ」ないようにしながらどう追いかけるか〜/OKR and the tyranny of metrics",
+    "link": "https://speakerdeck.com/kakehashi/okr-and-the-tyranny-of-metrics",
+    "date": "2024-05-12T00:32:11.000Z"
+  },
+  {
+    "title": "プロダクトマネジメントクライテリア",
+    "link": "https://productmanagement-criteria.com/",
+    "date": "2024-05-12T00:29:42.000Z"
+  },
+  {
+    "title": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement",
+    "link": "https://arxiv.org/abs/2402.07456",
+    "date": "2024-05-12T00:25:08.000Z"
+  },
+  {
+    "title": "GitHub - OS-Copilot/OS-Copilot: An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.",
+    "link": "https://github.com/OS-Copilot/OS-Copilot",
+    "date": "2024-05-12T00:24:54.000Z"
+  },
+  {
+    "title": "中国のSNS情報操作、米世論誘導狙い　Microsoft調査 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN08D640Y3A900C2000000/",
+    "date": "2024-05-12T00:19:49.000Z"
+  },
+  {
+    "title": "中国企業が「世論工作システム」開発か、Ｘアカウントを乗っ取り意見投稿…ネットに資料流出",
+    "link": "https://www.yomiuri.co.jp/national/20240511-OYT1T50118/",
+    "date": "2024-05-12T00:19:26.000Z"
+  },
+  {
+    "title": "怒りのイスラエル大使　演説中に国連憲章をシュレッダーで細断 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20240511/k00/00m/030/013000c",
+    "date": "2024-05-12T00:13:26.000Z"
+  },
+  {
+    "title": "シュレッダーで国連憲章を細断　「恥を知れ」と叫んだイスラエル大使：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASS5C56FRS5CUHBI01DM.html",
+    "date": "2024-05-12T00:13:15.000Z"
+  },
+  {
+    "title": "「恥を知れ」イスラエル大使が国連憲章をシュレッダーにかける　パレスチナの国連加盟を支持する決議が採択される | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/1164031",
+    "date": "2024-05-12T00:13:08.000Z"
+  },
+  {
+    "title": "「恥を知れ」イスラエル大使が国連憲章をシュレッダーにかける　パレスチナの国連加盟を支持する決議が採択される | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/1164031",
+    "date": "2024-05-12T00:13:03.000Z"
+  }
+]

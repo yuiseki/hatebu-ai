@@ -1,0 +1,487 @@
+[
+  {
+    "title": "転職時に無職になる手続きをインターネットでする",
+    "link": "https://efcl.info/2023/12/23/unemployed-process/",
+    "date": "2023-12-23T11:52:27.000Z"
+  },
+  {
+    "title": "Overpass API Blog",
+    "link": "https://dev.overpass-api.de/blog/index.html",
+    "date": "2023-12-23T07:05:53.000Z"
+  },
+  {
+    "title": "GitHub - mmd-osm/Overpass-API: Performance optimized Overpass API fork",
+    "link": "https://github.com/mmd-osm/Overpass-API",
+    "date": "2023-12-23T06:29:45.000Z"
+  },
+  {
+    "title": "Apache Jena - GeoSPARQL Fuseki",
+    "link": "https://jena.apache.org/documentation/geosparql/geosparql-fuseki",
+    "date": "2023-12-23T05:58:26.000Z"
+  },
+  {
+    "title": "Querying geospatial data with SPARQL",
+    "link": "https://www.bobdc.com/blog/geosparql1/",
+    "date": "2023-12-23T05:58:11.000Z"
+  },
+  {
+    "title": "SPARQL examples - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/SPARQL_examples",
+    "date": "2023-12-23T05:57:40.000Z"
+  },
+  {
+    "title": "OSM Sophox Service",
+    "link": "https://sophox.org/",
+    "date": "2023-12-23T05:57:01.000Z"
+  },
+  {
+    "title": "Sophox - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/Sophox",
+    "date": "2023-12-23T05:56:42.000Z"
+  },
+  {
+    "title": "JA:Sophox - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/JA:Sophox",
+    "date": "2023-12-23T05:56:36.000Z"
+  },
+  {
+    "title": "Apache Jena - GeoSPARQL Fuseki",
+    "link": "https://jena.apache.org/documentation/geosparql/geosparql-fuseki.html",
+    "date": "2023-12-23T05:55:45.000Z"
+  },
+  {
+    "title": "OGC GeoSPARQL - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/OGC_GeoSPARQL",
+    "date": "2023-12-23T05:55:15.000Z"
+  },
+  {
+    "title": "Underpass",
+    "link": "https://hotosm.github.io/underpass/index.html",
+    "date": "2023-12-23T05:37:25.000Z"
+  },
+  {
+    "title": "petals-team/StableBeluga2 · Hugging Face",
+    "link": "https://huggingface.co/petals-team/StableBeluga2",
+    "date": "2023-12-23T04:48:27.000Z"
+  },
+  {
+    "title": "Pythonの時系列解析手法(SARIMA、LSTM、NeuralProphet)実装と比較",
+    "link": "https://zenn.dev/shungo_a/articles/73b877b3b5a349",
+    "date": "2023-12-23T04:30:04.000Z"
+  },
+  {
+    "title": "NeuralProphetを使ってみた - Qiita",
+    "link": "https://qiita.com/DS27/items/dc6253bfc08418adee27",
+    "date": "2023-12-23T04:29:25.000Z"
+  },
+  {
+    "title": "移動時間と配送計画｜Mikio Kubo",
+    "link": "https://note.com/mikiokubo/n/n5657e5aa6234",
+    "date": "2023-12-23T04:29:01.000Z"
+  },
+  {
+    "title": "OSM tags for routing/Access restrictions - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions",
+    "date": "2023-12-23T04:23:42.000Z"
+  },
+  {
+    "title": "JA:Openrouteservice - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/JA:Openrouteservice",
+    "date": "2023-12-23T04:06:16.000Z"
+  },
+  {
+    "title": "Plans | Openrouteservice",
+    "link": "https://openrouteservice.org/plans/",
+    "date": "2023-12-23T04:05:58.000Z"
+  },
+  {
+    "title": "静岡県森林クラウド公開システム",
+    "link": "https://fcloud.pref.shizuoka.jp/fgis/",
+    "date": "2023-12-23T03:35:26.000Z"
+  },
+  {
+    "title": "1800億パラメータのLLMをGoogle Colabで動かす｜Masayuki Abe",
+    "link": "https://note.com/masayuki_abe/n/n9ba5170dcbad",
+    "date": "2023-12-23T03:02:44.000Z"
+  },
+  {
+    "title": "Democratizing Large Language Models (LLMs) Using Petals",
+    "link": "https://medium.com/@fhirfly/democratizing-large-language-models-llms-using-petals-2cd8a2df6f6d",
+    "date": "2023-12-23T03:02:32.000Z"
+  },
+  {
+    "title": "【Petals】3人で力を合わせてLlama-2-70bを動かす【Colab】 - Qiita",
+    "link": "https://qiita.com/simajiro/items/3fccc19e0dcf532732e7",
+    "date": "2023-12-23T02:54:07.000Z"
+  },
+  {
+    "title": "Petals Health Monitor",
+    "link": "https://health.petals.dev/",
+    "date": "2023-12-23T02:48:41.000Z"
+  },
+  {
+    "title": "GitHub - coderabbitai/ai-pr-reviewer: AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.",
+    "link": "https://github.com/coderabbitai/ai-pr-reviewer",
+    "date": "2023-12-23T02:18:44.000Z"
+  },
+  {
+    "title": "GitHub Next | Copilot for Pull Requests",
+    "link": "https://githubnext.com/projects/copilot-for-pull-requests/",
+    "date": "2023-12-23T02:18:13.000Z"
+  },
+  {
+    "title": "Wasm as the runtime for LLMs and AGI",
+    "link": "https://www.secondstate.io/articles/wasm-runtime-agi/",
+    "date": "2023-12-23T02:08:16.000Z"
+  },
+  {
+    "title": "GitHub - WebAssembly/wasi-nn: Neural Network proposal for WASI",
+    "link": "https://github.com/WebAssembly/wasi-nn",
+    "date": "2023-12-23T02:08:13.000Z"
+  },
+  {
+    "title": "WasmEdge",
+    "link": "https://wasmedge.org/",
+    "date": "2023-12-23T02:08:05.000Z"
+  },
+  {
+    "title": "Warp AI - AI at your command",
+    "link": "https://www.warp.dev/warp-ai",
+    "date": "2023-12-23T01:53:23.000Z"
+  },
+  {
+    "title": "Warp: Your terminal, reimagined",
+    "link": "https://www.warp.dev/",
+    "date": "2023-12-23T01:53:20.000Z"
+  },
+  {
+    "title": "Streamlit Community CloudでWebアプリを公開する際の準備事項",
+    "link": "https://scr.marketing-wizard.biz/dev/streamlit-community-cloud-publish",
+    "date": "2023-12-23T01:34:36.000Z"
+  },
+  {
+    "title": "Streamlit • A faster way to build and share data apps",
+    "link": "https://streamlit.io/cloud",
+    "date": "2023-12-23T01:34:27.000Z"
+  },
+  {
+    "title": "https://share.streamlit.io/",
+    "link": "https://share.streamlit.io/",
+    "date": "2023-12-23T01:34:16.000Z"
+  },
+  {
+    "title": "Streamlit SharingとGitHubでStreamlitアプリを公開する方法",
+    "link": "https://sakizo-blog.com/524/",
+    "date": "2023-12-23T01:33:25.000Z"
+  },
+  {
+    "title": "https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation",
+    "link": "https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation",
+    "date": "2023-12-23T00:55:00.000Z"
+  },
+  {
+    "title": "「Atomic Research」の導入によって進化するUXリサーチの取り組み｜Kazumichi Sakata",
+    "link": "https://note.com/kazumichisakata/n/n0aaee13fa1ef",
+    "date": "2023-12-23T00:53:33.000Z"
+  },
+  {
+    "title": "Azureのプロダクト名のtypoを検知するtextlintのルールをnpmで公開してみた - Alternative Architecture DOJO",
+    "link": "https://aadojo.alterbooth.com/entry/2023/12/23/090000",
+    "date": "2023-12-23T00:46:27.000Z"
+  },
+  {
+    "title": "『GTA VI』映像を流出させた10代ハッカーに無期入院処分。再犯欲求高く、自閉症で裁判に適さずと判断 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2023/12/22/2506.html",
+    "date": "2023-12-23T00:45:59.000Z"
+  },
+  {
+    "title": "How Not to Be Stupid About AI, With Yann LeCun",
+    "link": "https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/",
+    "date": "2023-12-23T00:45:09.000Z"
+  },
+  {
+    "title": "How Not to Be Stupid About AI, With Yann LeCun",
+    "link": "https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/",
+    "date": "2023-12-23T00:44:41.000Z"
+  },
+  {
+    "title": "Raspberry Pi Zero Powers Custom Camera Platform",
+    "link": "https://hackaday.com/2023/12/19/raspberry-pi-zero-powers-custom-camera-platform/",
+    "date": "2023-12-23T00:42:10.000Z"
+  },
+  {
+    "title": "理想のType-C充電器を購入遍歴から考えた　さよならLightning時代の選び方【いつモノコト】",
+    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/1555641.html",
+    "date": "2023-12-23T00:41:25.000Z"
+  },
+  {
+    "title": "本番環境などでやらかしちゃった人のカレンダー | Advent Calendar 2023 - Qiita",
+    "link": "https://qiita.com/advent-calendar/2023/yarakashi",
+    "date": "2023-12-23T00:40:53.000Z"
+  },
+  {
+    "title": "すべてが私になった日 - Qiita",
+    "link": "https://qiita.com/rubytail/items/6ad1e658d8f4093d831e",
+    "date": "2023-12-23T00:40:33.000Z"
+  },
+  {
+    "title": "GitHub - SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
+    "link": "https://github.com/SJTU-IPADS/PowerInfer",
+    "date": "2023-12-23T00:38:19.000Z"
+  },
+  {
+    "title": "gnu Git repositories - Git at Google",
+    "link": "https://gnu.googlesource.com/?format=HTML",
+    "date": "2023-12-23T00:36:17.000Z"
+  },
+  {
+    "title": "GCC: Anonymous read-only Git access - GNU Project",
+    "link": "https://gcc.gnu.org/git.html",
+    "date": "2023-12-23T00:35:44.000Z"
+  },
+  {
+    "title": "Contributing to GCC - GNU Project",
+    "link": "https://gcc.gnu.org/contribute.html",
+    "date": "2023-12-23T00:35:41.000Z"
+  },
+  {
+    "title": "Contributors (Using the GNU Compiler Collection (GCC))",
+    "link": "https://gcc.gnu.org/onlinedocs/gcc/Contributors.html",
+    "date": "2023-12-23T00:35:29.000Z"
+  },
+  {
+    "title": "Current GDB",
+    "link": "https://www.sourceware.org/gdb/current/",
+    "date": "2023-12-23T00:35:04.000Z"
+  },
+  {
+    "title": "Contributing to GDB",
+    "link": "https://www.sourceware.org/gdb/contribute/",
+    "date": "2023-12-23T00:34:55.000Z"
+  },
+  {
+    "title": "GDB: The GNU Project Debugger",
+    "link": "https://www.sourceware.org/gdb/",
+    "date": "2023-12-23T00:34:43.000Z"
+  },
+  {
+    "title": "フリーソフトウェア財団 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%B2%A1%E5%9B%A3",
+    "date": "2023-12-23T00:34:05.000Z"
+  },
+  {
+    "title": "gcc.gnu.org Git - gcc.git/summary",
+    "link": "https://gcc.gnu.org/git/gcc.git",
+    "date": "2023-12-23T00:33:56.000Z"
+  },
+  {
+    "title": "GCC, the GNU Compiler Collection - GNU Project",
+    "link": "https://gcc.gnu.org/",
+    "date": "2023-12-23T00:33:47.000Z"
+  },
+  {
+    "title": "「生粋のお風呂嫌い」がバスルームを改造して、「大のお風呂好き」になった話 | となりのカインズさん",
+    "link": "https://magazine.cainz.com/article/176243",
+    "date": "2023-12-23T00:31:32.000Z"
+  },
+  {
+    "title": "「イライラを学びに変える」1年の振り返り法。人からの指摘にムカッとしたときほど学び時だった - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習",
+    "link": "https://studyhacker.net/frustrating-but-helpful",
+    "date": "2023-12-23T00:31:15.000Z"
+  },
+  {
+    "title": "NASAが深宇宙から地球に高解像度ビデオを送信する実験に成功、3100万km先から地球に届いたのは「ネコ動画」",
+    "link": "https://gigazine.net/news/20231221-nasas-tech-demo-streams-cat-video/",
+    "date": "2023-12-23T00:30:48.000Z"
+  },
+  {
+    "title": "「環境神経科学」が実証　自然が脳に及ぼす驚くべき効果 | 野外で30分過ごすと記憶力や創造性が向上",
+    "link": "https://courrier.jp/news/archives/346585/",
+    "date": "2023-12-23T00:30:27.000Z"
+  },
+  {
+    "title": "コミュニケーション不足の仕事を、反省した話。",
+    "link": "https://blog.tinect.jp/?p=84675",
+    "date": "2023-12-23T00:30:14.000Z"
+  },
+  {
+    "title": "ワグネルのプリゴジン氏墜落死は「暗殺」、米政府が分析　米報道 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN24D7U0U3A820C2000000/",
+    "date": "2023-12-23T00:29:06.000Z"
+  },
+  {
+    "title": "プリゴジン搭乗機墜落はプーチンによる暗殺",
+    "link": "https://toyokeizai.net/articles/-/697259",
+    "date": "2023-12-23T00:29:04.000Z"
+  },
+  {
+    "title": "ワグネル創設者プリゴジン氏死亡はプーチン大統領側近関与か　８月の搭乗機墜落は暗殺と米紙報道 - 社会 : 日刊スポーツ",
+    "link": "https://www.nikkansports.com/general/news/202312220001770.html",
+    "date": "2023-12-23T00:29:00.000Z"
+  },
+  {
+    "title": "プーチン氏側近が暗殺を命令か　米報道、プリゴジン氏の死 ｜ 共同通信",
+    "link": "https://nordot.app/1110943424304791567",
+    "date": "2023-12-23T00:28:55.000Z"
+  },
+  {
+    "title": "プーチン氏側近がプリゴジン氏暗殺命令か、米紙報道　ロシアは「低俗小説」と否定",
+    "link": "https://www.sankei.com/article/20231223-IRR7OOHKCBIQNKYQPYMWQEESDY/",
+    "date": "2023-12-23T00:28:18.000Z"
+  },
+  {
+    "title": "プーチン大統領の側近が暗殺指示か ワグネル創設者プリゴジン氏の墜落死めぐり 米メディア報道 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/910975",
+    "date": "2023-12-23T00:28:16.000Z"
+  },
+  {
+    "title": "プーチン氏側近、プリゴジン氏暗殺に関与か　主翼下部に爆発物　米紙：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASRDQ7HGLRDQUHBI02N.html",
+    "date": "2023-12-23T00:28:14.000Z"
+  },
+  {
+    "title": "「ChatGPT」わからん勢に朗報！ OpenAIの「Prompt examples」ページが有用／自動翻訳でもちゃんと機能するので英語がわからなくても大丈夫【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1556698.html",
+    "date": "2023-12-23T00:27:43.000Z"
+  },
+  {
+    "title": "OpenAI、JavaScript/TypeScriptランタイム「Deno」の公式SDKをリリース",
+    "link": "https://codezine.jp/article/detail/18834",
+    "date": "2023-12-23T00:27:35.000Z"
+  },
+  {
+    "title": "「仮説」を気軽に使うと事故になるので気を付けていること｜データ分析とインテリジェンス",
+    "link": "https://note.com/shinu/n/n616f0086aacc",
+    "date": "2023-12-23T00:27:31.000Z"
+  },
+  {
+    "title": "オープンソースのCSSフレームワーク「Tailwind CSS 3.4」がリリース",
+    "link": "https://codezine.jp/article/detail/18831",
+    "date": "2023-12-23T00:27:26.000Z"
+  },
+  {
+    "title": "その荷物 飛行機内には持ち込めません 年末年始はご注意を！ | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20231222/k10014295961000.html",
+    "date": "2023-12-23T00:27:05.000Z"
+  },
+  {
+    "title": "内発的動機で駆動する『個人主義ユートピア』を、外発的動機で動かされる『資本主義ディストピア』に変えられてしまわないために - 自意識高い系男子",
+    "link": "https://ta-nishi.hatenablog.com/entry/2023/12/23/044701",
+    "date": "2023-12-23T00:26:47.000Z"
+  },
+  {
+    "title": "【WebGL2】GPU Instancing x Transform Feedback で大量のインスタンスの計算と描画をGPUで行う - KAYAC engineers' blog",
+    "link": "https://techblog.kayac.com/webgl-gpu-instancing-transform-feedback",
+    "date": "2023-12-23T00:26:43.000Z"
+  },
+  {
+    "title": "『GTA6』の動画をリークした18歳、精神病院へ無期限入院を命じられる | EAA!! FPSjp.net（イーエーエー）",
+    "link": "https://fpsjp.net/archives/479160",
+    "date": "2023-12-22T23:44:40.000Z"
+  },
+  {
+    "title": "OpenAI内紛劇の背後に「21世紀の優生思想」、EAコミュニティとe/accの危険性：朝日新聞GLOBE＋",
+    "link": "https://globe.asahi.com/article/15087941",
+    "date": "2023-12-22T23:44:19.000Z"
+  },
+  {
+    "title": "GitHub - rails/solid_queue: Database-backed Active Job backend",
+    "link": "https://github.com/rails/solid_queue",
+    "date": "2023-12-22T23:41:20.000Z"
+  },
+  {
+    "title": "GitHub - arkwnet/569: 語録チェッカー / Goroku Checker / 语录检查器",
+    "link": "https://github.com/arkwnet/569",
+    "date": "2023-12-22T23:40:37.000Z"
+  },
+  {
+    "title": "Now Available: Cesium ion Self-Hosted",
+    "link": "https://cesium.com/blog/2023/12/14/new-cesium-ion-self-hosted/",
+    "date": "2023-12-22T23:32:56.000Z"
+  },
+  {
+    "title": "Autonomous chemical research with large language models - Nature",
+    "link": "https://www.nature.com/articles/s41586-023-06792-0",
+    "date": "2023-12-22T23:32:07.000Z"
+  },
+  {
+    "title": "Frontier Model Forum: A new partnership to promote responsible AI",
+    "link": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/",
+    "date": "2023-12-22T23:29:29.000Z"
+  },
+  {
+    "title": "Levels of AGI: Operationalizing Progress on the Path to AGI",
+    "link": "https://arxiv.org/abs/2311.02462",
+    "date": "2023-12-22T23:28:29.000Z"
+  },
+  {
+    "title": "https://www.science.org/doi/10.1126/science.adi2336",
+    "link": "https://www.science.org/doi/10.1126/science.adi2336",
+    "date": "2023-12-22T23:28:21.000Z"
+  },
+  {
+    "title": "心のなかの独り言　内言の科学",
+    "link": "https://www.nikkei-science.com/201801_096.html",
+    "date": "2023-12-22T23:22:22.000Z"
+  },
+  {
+    "title": "孤独と共感 | 日経サイエンス",
+    "link": "https://www.nikkei-science.com/sci_book/bessatu/51230.html",
+    "date": "2023-12-22T23:22:02.000Z"
+  },
+  {
+    "title": "GitHub - ollama/ollama: Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+    "link": "https://github.com/ollama/ollama",
+    "date": "2023-12-22T23:09:27.000Z"
+  },
+  {
+    "title": "最近気に入っているOSSを淡々と紹介する",
+    "link": "https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d",
+    "date": "2023-12-22T23:09:23.000Z"
+  },
+  {
+    "title": "粗大ごみ、23区で「受け入れ限界」大掃除の時期なのに…　処理施設が火災で止まり、保管場所もパンパン：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/297403",
+    "date": "2023-12-22T23:09:06.000Z"
+  },
+  {
+    "title": "炎症を抑える食べ物とは、病気の進行やがんの治療にも影響",
+    "link": "https://natgeo.nikkeibp.co.jp/atcl/news/23/121500635/",
+    "date": "2023-12-22T23:07:30.000Z"
+  },
+  {
+    "title": "1人でもかけ流しの温泉付きの部屋に泊まれて食事もおいしい！ご褒美温泉宿を10軒厳選した - 温泉ブログ 山と温泉のきろく",
+    "link": "https://www.yamaonsen.com/entry/reward_inn",
+    "date": "2023-12-22T23:07:20.000Z"
+  },
+  {
+    "title": "ActionDispatch等をスタンドアローンで動かしてミニマムなRailsのような何かをDIYしたらRailsともっと仲良くなれた話 - Qiita",
+    "link": "https://qiita.com/jonakp/items/6659e5847ab462cfe550",
+    "date": "2023-12-22T23:06:41.000Z"
+  },
+  {
+    "title": "ウクライナ「継戦も地獄、停戦も地獄」　小泉悠氏が読む戦況",
+    "link": "https://business.nikkei.com/atcl/gen/19/00179/121400187/",
+    "date": "2023-12-22T23:06:26.000Z"
+  },
+  {
+    "title": "双安定ヒンジキャップについて | Nature Architects inc.",
+    "link": "https://nature-architects.com/blog/1728/",
+    "date": "2023-12-22T23:06:03.000Z"
+  },
+  {
+    "title": "Unhuman Killings: AI and Civilian Harm in Gaza",
+    "link": "https://www.justsecurity.org/90676/unhuman-killings-ai-and-civilian-harm-in-gaza/",
+    "date": "2023-12-22T23:02:53.000Z"
+  },
+  {
+    "title": "StreamDiffusionをWindowsで試してみた｜よしかい",
+    "link": "https://note.com/tinjyuu/n/neb4d6cd8f510",
+    "date": "2023-12-22T22:50:27.000Z"
+  },
+  {
+    "title": "インシデントコマンダー - PagerDuty Incident Response Documentation",
+    "link": "https://ueokande.github.io/incident-response-docs-ja/training/incident_commander/",
+    "date": "2023-12-22T22:45:21.000Z"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "title": "PHOTO METI PROJECT",
+    "link": "https://find47.jp/",
+    "date": "2021-04-30T02:21:04.000Z"
+  },
+  {
+    "title": "GitHub - code4fukui/find47: image CSV data of find47 project",
+    "link": "https://github.com/code4fukui/find47",
+    "date": "2021-04-30T02:18:06.000Z"
+  },
+  {
+    "title": "FIND/47の高品質写真オープンデータをもっと使いやすくするCSVオープンデータとサンプルアプリ「日本の風景」",
+    "link": "https://fukuno.jig.jp/3199",
+    "date": "2021-04-30T02:17:34.000Z"
+  },
+  {
+    "title": "『LeanとDevOpsの科学』まとめ - Qiita",
+    "link": "https://qiita.com/takeshi_nozawa/items/c115379fafeb263ed807",
+    "date": "2021-04-30T02:07:01.000Z"
+  },
+  {
+    "title": "【日本語モデル付き】2021年に自然言語処理をする人にお勧めしたい事前学習済みモデル - Qiita",
+    "link": "https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44",
+    "date": "2021-04-30T00:55:09.000Z"
+  },
+  {
+    "title": "Web Worker を使用する - Web API インターフェイス | MDN",
+    "link": "https://developer.mozilla.org/ja/docs/Web/API/Web_Workers_API/Using_web_workers",
+    "date": "2021-04-30T00:40:56.000Z"
+  },
+  {
+    "title": "検索や推薦をWebWorkerでやる - 橋本商会",
+    "link": "https://scrapbox.io/shokai/%E6%A4%9C%E7%B4%A2%E3%82%84%E6%8E%A8%E8%96%A6%E3%82%92WebWorker%E3%81%A7%E3%82%84%E3%82%8B",
+    "date": "2021-04-30T00:40:40.000Z"
+  },
+  {
+    "title": "GitHub - bvaughn/redux-search: Redux bindings for client-side search",
+    "link": "https://github.com/bvaughn/redux-search",
+    "date": "2021-04-30T00:39:29.000Z"
+  },
+  {
+    "title": "GitHub - bvaughn/js-search: JS Search is an efficient, client-side search library for JavaScript and JSON objects",
+    "link": "https://github.com/bvaughn/js-search",
+    "date": "2021-04-30T00:39:25.000Z"
+  },
+  {
+    "title": "GitHub - bvaughn/js-worker-search: JavaScript client-side search API with web-worker support",
+    "link": "https://github.com/bvaughn/js-worker-search",
+    "date": "2021-04-30T00:38:36.000Z"
+  },
+  {
+    "title": "【JSの全文検索エンジン】elasticlunr.jsを触ってみた～インストールからパイプライン、日本語対応など～ - Qiita",
+    "link": "https://qiita.com/t-kuni/items/410aac718e531c6aee17",
+    "date": "2021-04-30T00:35:42.000Z"
+  },
+  {
+    "title": "TypeScriptで全文検索を実行する – lunr編 | WP-kyoto",
+    "link": "https://wp-kyoto.net/lunr-search-by-typescript/",
+    "date": "2021-04-29T23:56:33.000Z"
+  },
+  {
+    "title": "Elasticlunr.js で日本語と英語が混在した文書の検索に対応する",
+    "link": "https://dev.to/e_ntyo/elasticlunr-js-46n8",
+    "date": "2021-04-29T23:55:25.000Z"
+  },
+  {
+    "title": "Let's build a Full-Text Search engine - Artem Krylysov",
+    "link": "https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/",
+    "date": "2021-04-29T23:54:00.000Z"
+  },
+  {
+    "title": "GitHub - healeycodes/crane-search: 🐦 A full-text WebAssembly search engine for static websites. Build, index, and fly.",
+    "link": "https://github.com/healeycodes/crane-search",
+    "date": "2021-04-29T23:53:38.000Z"
+  },
+  {
+    "title": "GitHub - krisk/Fuse: Lightweight fuzzy-search, in JavaScript",
+    "link": "https://github.com/krisk/Fuse",
+    "date": "2021-04-29T23:53:14.000Z"
+  },
+  {
+    "title": "WebAssembly Search Tools for Static Sites",
+    "link": "https://healeycodes.com/webassembly-search-tools-for-static-websites",
+    "date": "2021-04-29T23:52:01.000Z"
+  },
+  {
+    "title": "tinysearchで日本語検索機能を実装する",
+    "link": "https://blog.mahoroi.com/posts/2020/11/tinysearch-wasm/",
+    "date": "2021-04-29T23:50:05.000Z"
+  },
+  {
+    "title": "Stork Search",
+    "link": "https://stork-search.net/",
+    "date": "2021-04-29T23:49:19.000Z"
+  },
+  {
+    "title": "GitHub - quickwit-oss/tantivy: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "link": "https://github.com/quickwit-oss/tantivy",
+    "date": "2021-04-29T23:47:40.000Z"
+  },
+  {
+    "title": "GitHub - jameslittle230/stork: 🔎 Impossibly fast web search, made for static sites.",
+    "link": "https://github.com/jameslittle230/stork",
+    "date": "2021-04-29T23:47:09.000Z"
+  },
+  {
+    "title": "Stork、JAMStackのためのRust/Wasmベースの高速全文検索",
+    "link": "https://www.infoq.com/jp/news/2020/11/stork-wasm-rust-text-search/",
+    "date": "2021-04-29T23:46:57.000Z"
+  },
+  {
+    "title": "GitHub - weixsong/elasticlunr.js: Based on lunr.js, but more flexible and customized.",
+    "link": "https://github.com/weixsong/elasticlunr.js",
+    "date": "2021-04-29T23:45:57.000Z"
+  },
+  {
+    "title": "GitHub - olivernn/lunr.js: A bit like Solr, but much smaller and not as bright",
+    "link": "https://github.com/olivernn/lunr.js",
+    "date": "2021-04-29T23:45:23.000Z"
+  },
+  {
+    "title": "Lunr: A bit like Solr, but much smaller and not as bright",
+    "link": "https://lunrjs.com/",
+    "date": "2021-04-29T23:45:17.000Z"
+  },
+  {
+    "title": "Writing a full-text search engine using Bloom filters - Stavros' Stuff",
+    "link": "https://www.stavros.io/posts/bloom-filter-search-engine/",
+    "date": "2021-04-29T23:44:26.000Z"
+  },
+  {
+    "title": "A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler",
+    "link": "https://endler.dev/2019/tinysearch/",
+    "date": "2021-04-29T23:43:52.000Z"
+  },
+  {
+    "title": "webworker内でwasmを使用しようとして失敗した(WebGL) - kumuのつぶやき",
+    "link": "https://grekumu.hatenablog.jp/entry/2020/12/08/060559",
+    "date": "2021-04-29T23:41:29.000Z"
+  },
+  {
+    "title": "Rust + wasm-bindgen + WebWorkerの環境構築 | Tech SANDBOX",
+    "link": "https://blog.imasanari.dev/posts/wasm-bindgen-with-worker/",
+    "date": "2021-04-29T23:40:59.000Z"
+  },
+  {
+    "title": "Using WebAssembly with Web Workers - SitePen",
+    "link": "https://www.sitepen.com/blog/using-webassembly-with-web-workers",
+    "date": "2021-04-29T23:40:08.000Z"
+  },
+  {
+    "title": "組込みRust考察②～効率良く安全な組込み開発をしたい～ - 低レイヤ強くなりたい組込み屋さんのブログ",
+    "link": "https://tomo-wait-for-it-yuki.hatenablog.com/entry/2019/02/06/054605",
+    "date": "2021-04-29T23:36:04.000Z"
+  },
+  {
+    "title": "組込みでCからRustにステップアップする順序 - 低レイヤ強くなりたい組込み屋さんのブログ",
+    "link": "https://tomo-wait-for-it-yuki.hatenablog.com/entry/2019/04/18/202423",
+    "date": "2021-04-29T23:36:02.000Z"
+  },
+  {
+    "title": "組込みRust考察①～効率良く安全な組込み開発をしたい～ - 低レイヤ強くなりたい組込み屋さんのブログ",
+    "link": "https://tomo-wait-for-it-yuki.hatenablog.com/entry/2019/01/30/163235",
+    "date": "2021-04-29T23:34:52.000Z"
+  },
+  {
+    "title": "Rustで組み込みプログラミングの第一歩、LチカとHello Worldを試してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/rust-embedded-helloworld/",
+    "date": "2021-04-29T23:34:39.000Z"
+  },
+  {
+    "title": "序文 - The Embedonomicon",
+    "link": "https://tomoyuki-nakabayashi.github.io/embedonomicon/",
+    "date": "2021-04-29T23:34:30.000Z"
+  },
+  {
+    "title": "Choose Your Discovery",
+    "link": "https://tomoyuki-nakabayashi.github.io/discovery/index.html",
+    "date": "2021-04-29T23:34:19.000Z"
+  },
+  {
+    "title": "導入 - The Embedded Rust Book",
+    "link": "https://tomoyuki-nakabayashi.github.io/book/",
+    "date": "2021-04-29T23:33:01.000Z"
+  },
+  {
+    "title": "組込み機器",
+    "link": "https://www.rust-lang.org/ja/what/embedded",
+    "date": "2021-04-29T23:32:56.000Z"
+  },
+  {
+    "title": "AirTagが示した「巨大メッシュネットワーク」の時代",
+    "link": "https://www.itmedia.co.jp/news/articles/2104/29/news034.html",
+    "date": "2021-04-29T23:02:27.000Z"
+  },
+  {
+    "title": "「ユニコーン企業ではスクラムをやっていない」について考える - どこにでもいるSEの備忘録",
+    "link": "https://www.nogawanogawa.work/entry/unicorn_company",
+    "date": "2021-04-29T22:55:25.000Z"
+  },
+  {
+    "title": "「都が見殺しにした」　東京ビッグサイトの同人誌イベントに、緊急事態宣言下の「例外開催」はなぜ認められなかったのか",
+    "link": "https://www.j-cast.com/2021/04/29410630.html?p=all",
+    "date": "2021-04-29T22:53:15.000Z"
+  },
+  {
+    "title": "工場で粉砕機に巻き込まれ１人死亡 綾川町｜NHK 香川県のニュース",
+    "link": "https://www3.nhk.or.jp/lnews/takamatsu/20210427/8030009878.html",
+    "date": "2021-04-29T22:42:05.000Z"
+  },
+  {
+    "title": "京アニ放火殺人事件容疑者に主治医・上田敬博が伝えたこと「俺はおまえに向き合う。絶対に逃げるな」（週プレNEWS） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/c23df430ad639ed9d2b7a9b7d220f3a9f4652226",
+    "date": "2021-04-29T22:28:04.000Z"
+  },
+  {
+    "title": "バッファロー製Wi-Fiルーターに複数の脆弱性",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/1321948.html",
+    "date": "2021-04-29T22:18:33.000Z"
+  },
+  {
+    "title": "16万円！ 「人間の代わりに手書き」する夢のワードライターを使ってみた - 価格.comマガジン",
+    "link": "https://kakakumag.com/houseware/?id=16891",
+    "date": "2021-04-29T22:18:24.000Z"
+  }
+]
