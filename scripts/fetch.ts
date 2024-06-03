@@ -64,7 +64,7 @@ const saveInfoListOfDateOfFeed = async (
 
 (async () => {
   // iterate over many dates
-  for (let i = 1; i < 10000; i++) {
+  for (let i = 1; i < 100; i++) {
     const date = new Date();
     date.setDate(date.getDate() - i);
     const year = date.getFullYear();
