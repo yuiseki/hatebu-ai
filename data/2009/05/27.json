@@ -1,0 +1,617 @@
+[
+  {
+    "title": "はてなブログ | 無料ブログを作成しよう",
+    "link": "https://hatena.blog/api/diary_redirect?path=/y_arim/20090526/1243374811",
+    "date": "2009-05-27T12:40:52.000Z"
+  },
+  {
+    "title": "【catastrophe.】",
+    "link": "http://catastrophe.noor.jp/top.htm",
+    "date": "2009-05-27T12:26:11.000Z"
+  },
+  {
+    "title": "【catastrophe.】",
+    "link": "http://catastrophe.noor.jp/",
+    "date": "2009-05-27T12:25:42.000Z"
+  },
+  {
+    "title": "YouTube - プレパレード (男汁MAX ver .)",
+    "link": "http://www.youtube.com/watch?v=45h0vnNIbX0",
+    "date": "2009-05-27T10:58:57.000Z"
+  },
+  {
+    "title": "Paypal with Django",
+    "link": "http://mauveweb.co.uk/posts/2007/10/paypal-with-django.html",
+    "date": "2009-05-27T09:16:42.000Z"
+  },
+  {
+    "title": "djangosnippets: Encryption Fields",
+    "link": "http://www.djangosnippets.org/snippets/1095/",
+    "date": "2009-05-27T09:16:38.000Z"
+  },
+  {
+    "title": "djangosnippets: Transparent encryption for model fields",
+    "link": "http://www.djangosnippets.org/snippets/824/",
+    "date": "2009-05-27T09:16:33.000Z"
+  },
+  {
+    "title": "http://michilu.com/django/doc-ja/authentication/",
+    "link": "http://michilu.com/django/doc-ja/authentication/",
+    "date": "2009-05-27T08:38:50.000Z"
+  },
+  {
+    "title": "【モデル作成】Django 初心者がコミュニティサイト的な何かにチャレンジしてみる - 技術をかじる猫",
+    "link": "https://white-azalea.hatenablog.jp/entry/20090205/1233840474",
+    "date": "2009-05-27T08:38:26.000Z"
+  },
+  {
+    "title": "【モデル利用】Django 初心者がコミュニティサイト的な何かにチャレンジしてみる - 技術をかじる猫",
+    "link": "https://white-azalea.hatenablog.jp/entry/20090210/1234280779",
+    "date": "2009-05-27T08:38:15.000Z"
+  },
+  {
+    "title": "ユーザ情報の拡張 ni",
+    "link": "https://groups.google.com/d/topic/django-ja/NTvjRvfO2Y8",
+    "date": "2009-05-27T08:33:43.000Z"
+  },
+  {
+    "title": "Django tips: extending the User model",
+    "link": "https://www.b-list.org/weblog/2006/jun/06/django-tips-extending-user-model/",
+    "date": "2009-05-27T08:33:13.000Z"
+  },
+  {
+    "title": "アクセス制御の抜け穴 (Python/Ruby編) - blanket log",
+    "link": "https://blanketsky.hatenadiary.org/entry/20080823/1219452763",
+    "date": "2009-05-27T08:11:19.000Z"
+  },
+  {
+    "title": "汎用ビュー — Django v1.0 documentation",
+    "link": "https://djangoproject.jp/doc/ja/1.0/ref/generic-views.html",
+    "date": "2009-05-27T07:35:26.000Z"
+  },
+  {
+    "title": "Home - reBOOT Canada",
+    "link": "https://www.rebootcanada.ca/",
+    "date": "2009-05-27T06:07:34.000Z"
+  },
+  {
+    "title": "android.git.kernel.org Git - platform/dalvik.git/tree - docs/",
+    "link": "http://android.git.kernel.org/?p=platform/dalvik.git;a=tree;f=docs;h=381f242d06323fbb4459632349f6b75f7dbf3c27;hb=refs/heads/master",
+    "date": "2009-05-27T05:16:59.000Z"
+  },
+  {
+    "title": "Google Code Archive - Long-term storage for Google Code Project Hosting.",
+    "link": "https://code.google.com/archive/p/android-dalvik-vm-on-java",
+    "date": "2009-05-27T05:16:59.000Z"
+  },
+  {
+    "title": "Android Open Source Project",
+    "link": "https://source.android.com/",
+    "date": "2009-05-27T05:16:46.000Z"
+  },
+  {
+    "title": "Android Developers",
+    "link": "https://developer.android.com/",
+    "date": "2009-05-27T05:16:42.000Z"
+  },
+  {
+    "title": "イーフロー、世界初 ケータイJava上にAndroidのDalvik VMを実装、オープンソースとして公開",
+    "link": "https://prtimes.jp/main/html/rd/p/000000001.000001316.html",
+    "date": "2009-05-27T05:16:38.000Z"
+  },
+  {
+    "title": "notfound",
+    "link": "https://kumikomi.typepad.jp/jogai/2009/04/dalvik-vm-bce6.html",
+    "date": "2009-05-27T05:16:21.000Z"
+  },
+  {
+    "title": "Google IO レポート セッション編「オープンな携帯電話環境Android」",
+    "link": "https://pc.watch.impress.co.jp/docs/2008/0602/google02.htm",
+    "date": "2009-05-27T05:16:14.000Z"
+  },
+  {
+    "title": "イーフロー，Androidの仮想マシン「Dalvik VM」を携帯電話機向けJava実行環境に実装",
+    "link": "https://xtech.nikkei.com/dm/article/NEWS/20090318/167408/",
+    "date": "2009-05-27T05:16:06.000Z"
+  },
+  {
+    "title": "[Android] Dalvik VMのGarbage Collectionの議事 - Project Hews by 木南英夫",
+    "link": "https://hkinami.hatenadiary.org/entry/20090315/p1",
+    "date": "2009-05-27T05:16:03.000Z"
+  },
+  {
+    "title": "Androidを解剖（前編）　携帯電話でパソコン並みの機能を実現 - モバイル - Tech-On!",
+    "link": "http://202.214.174.10/article/NEWS/20081022/159959/?ST=mobile_PRINT",
+    "date": "2009-05-27T05:15:59.000Z"
+  },
+  {
+    "title": "Google Android用携帯アプリ作成のための基礎知識",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/0712/03/news128_4.html",
+    "date": "2009-05-27T05:15:50.000Z"
+  },
+  {
+    "title": "Dalvik (software) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Dalvik_(software)",
+    "date": "2009-05-27T05:15:46.000Z"
+  },
+  {
+    "title": "throw Life - Dalvik VMのオブジェクト管理についての概要",
+    "link": "http://www.adamrocker.com/blog/248/overview-of-the-dalviks-object-management.html",
+    "date": "2009-05-27T05:15:41.000Z"
+  },
+  {
+    "title": "Google Sites: Sign-in",
+    "link": "http://sites.google.com/site/developerdayjapan/google-developer-day-2008-japan-sessions/android-dalvik-vm",
+    "date": "2009-05-27T05:15:37.000Z"
+  },
+  {
+    "title": "Track memory allocations（日本語超訳） - Android Zaurusの日記",
+    "link": "https://androidzaurus.hatenadiary.org/entry/20090213/1234485621",
+    "date": "2009-05-27T05:15:32.000Z"
+  },
+  {
+    "title": "throw Life - Dalvik VMのGarbage Collection概要",
+    "link": "http://www.adamrocker.com/blog/246/overview-of-the-dalviks-gc.html",
+    "date": "2009-05-27T05:15:12.000Z"
+  },
+  {
+    "title": "Dalvik VM(ダルビック　バーチャルマシーン)",
+    "link": "http://android.akjava.com/cms/keyword/dalvik.html",
+    "date": "2009-05-27T05:14:19.000Z"
+  },
+  {
+    "title": "OpenEmbedded - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/OpenEmbedded",
+    "date": "2009-05-27T05:06:41.000Z"
+  },
+  {
+    "title": "Linuxザウルス開発メモ/OpenEmbedded - Walrus, Visit.",
+    "link": "http://digit.que.ne.jp/visit/index.cgi?Linux%A5%B6%A5%A6%A5%EB%A5%B9%B3%AB%C8%AF%A5%E1%A5%E2%2FOpenEmbedded",
+    "date": "2009-05-27T05:06:03.000Z"
+  },
+  {
+    "title": "Openembedded-Hotels, Villen, Unterkünfte in Leipzig",
+    "link": "https://www.hotelsinleipzig.de/de/openembedded.html",
+    "date": "2009-05-27T05:05:34.000Z"
+  },
+  {
+    "title": "ImageMagick ( RMagick ) で大量の画像をWEB用に縮小：Goodpic",
+    "link": "https://bridgeword.com/mt/archives2/2007/05/imagemagick_rma_1.html",
+    "date": "2009-05-27T03:33:51.000Z"
+  },
+  {
+    "title": "RMagick 2.0.0 User's Guide and Reference",
+    "link": "http://studio.imagemagick.org/RMagick/doc/",
+    "date": "2009-05-27T03:33:28.000Z"
+  },
+  {
+    "title": "RMagickのTips和訳 - selflearn @ ウィキ",
+    "link": "https://w.atwiki.jp/selflearn/pages/32.html",
+    "date": "2009-05-27T03:31:39.000Z"
+  },
+  {
+    "title": "RMagick/ImageMagickで位置決めをする Gravityの挙動まとめ - Loud Minority",
+    "link": "https://sesejun.hatenadiary.org/entry/20061210/p1",
+    "date": "2009-05-27T03:30:28.000Z"
+  },
+  {
+    "title": "Ruby/RMagick - 俺の基地",
+    "link": "http://yakinikunotare.boo.jp/orebase/index.php?Ruby%2FRMagick",
+    "date": "2009-05-27T03:29:40.000Z"
+  },
+  {
+    "title": "RMagickで日本語文字列を描画する",
+    "link": "http://kyle-in-jp.blogspot.com/2008/05/rmagick_24.html",
+    "date": "2009-05-27T03:28:31.000Z"
+  },
+  {
+    "title": "RMagickで透明な文字列を描画する",
+    "link": "http://kyle-in-jp.blogspot.com/2009/05/rmagick_07.html",
+    "date": "2009-05-27T03:27:44.000Z"
+  },
+  {
+    "title": "RMagickで文字列を右寄せ・左寄せする",
+    "link": "http://kyle-in-jp.blogspot.com/2009/01/rmagick_29.html",
+    "date": "2009-05-27T03:27:25.000Z"
+  },
+  {
+    "title": "CloudServices/Sync/FxSync/Releases/0.3 - MozillaWiki",
+    "link": "https://wiki.mozilla.org/CloudServices/Sync/FxSync/Releases/0.3",
+    "date": "2009-05-27T03:14:28.000Z"
+  },
+  {
+    "title": "TAGBOAT SUMMER AWARD 2009《会員登録》 募集要項 | コンテスト 公募 コンペ の[登竜門]",
+    "link": "https://compe.japandesign.ne.jp/ap/01/art/tagboat_s2009/",
+    "date": "2009-05-27T03:05:04.000Z"
+  },
+  {
+    "title": "Python Japanese Environment プロジェクト日本語トップページ - OSDN",
+    "link": "https://ja.osdn.net/projects/pythonjp/",
+    "date": "2009-05-27T01:34:50.000Z"
+  },
+  {
+    "title": "YACA - Yet Another Calorie API",
+    "link": "http://makimoto.tsuyabu.in/YACA/",
+    "date": "2009-05-27T01:03:33.000Z"
+  },
+  {
+    "title": "phase19 - works",
+    "link": "http://p19.jp/works.html",
+    "date": "2009-05-26T23:23:31.000Z"
+  },
+  {
+    "title": "phase19",
+    "link": "http://p19.jp/",
+    "date": "2009-05-26T23:23:20.000Z"
+  },
+  {
+    "title": "ハヤブサとタカにカメラを搭載！鳥の目線で見る動画 - 地球はすごい！明日の地球 自然 動物 風景の動画や写真",
+    "link": "http://www.tomorrowearth.com/2009/05/birdview.html",
+    "date": "2009-05-26T23:19:32.000Z"
+  },
+  {
+    "title": "ウェブはバカと暇人のもの？ - ある広告人の告白（あるいは愚痴かもね）",
+    "link": "http://mb101bold.cocolog-nifty.com/blog/2009/05/post-d64b.html",
+    "date": "2009-05-26T23:16:23.000Z"
+  },
+  {
+    "title": "Fg Site – 今プレイするならDFS？スポーツベッティング？それともポーカー？",
+    "link": "http://www.fg-site.net/users/login/",
+    "date": "2009-05-26T23:15:46.000Z"
+  },
+  {
+    "title": "PtoPファイル共有ソフト「Perfect Dark」、ゴールデンウィークに1日約4万人が利用",
+    "link": "https://japan.cnet.com/article/20393085/",
+    "date": "2009-05-26T23:13:26.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: テレビの嘘を見破る (新潮新書 88): 今野勉: 本",
+    "link": "https://www.amazon.co.jp/gp/product/4106100886",
+    "date": "2009-05-26T23:08:14.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: テレビの青春: 今野勉: 本",
+    "link": "https://www.amazon.co.jp/gp/product/4757150660",
+    "date": "2009-05-26T23:07:57.000Z"
+  },
+  {
+    "title": "TBS成田事件 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/TBS%E6%88%90%E7%94%B0%E4%BA%8B%E4%BB%B6",
+    "date": "2009-05-26T23:07:30.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: お前はただの現在にすぎない テレビになにが可能か (朝日文庫 む 13-1): 萩元晴彦, 村木良彦, 今野勉: 本",
+    "link": "https://www.amazon.co.jp/gp/product/4022615974",
+    "date": "2009-05-26T23:07:22.000Z"
+  },
+  {
+    "title": "『週刊誌記者の取材に心が汚れた:佐々木俊尚　ジャーナリストの視点』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/blog/sasaki/2009/05/26/entry_27022642/",
+    "date": "2009-05-26T23:06:18.000Z"
+  },
+  {
+    "title": "週刊誌記者の取材に心が汚れた:佐々木俊尚　ジャーナリストの視点",
+    "link": "https://japan.cnet.com/blog/sasaki/2009/05/26/entry_27022642/",
+    "date": "2009-05-26T23:03:28.000Z"
+  },
+  {
+    "title": "Real-Time Web App Performance Monitoring : New Relic",
+    "link": "https://newrelic.com/",
+    "date": "2009-05-26T23:02:48.000Z"
+  },
+  {
+    "title": "masuidrive on rails - RailsアプリをチューニングするならNew Relic RPM",
+    "link": "http://blog.masuidrive.jp/2008/07/19/new-relic/",
+    "date": "2009-05-26T23:02:47.000Z"
+  },
+  {
+    "title": "日本にも上陸なるか？食べるとトリップするLSDフィッシュがイギリスまで北上中",
+    "link": "http://www.zaeega.com/archives/50800263.html",
+    "date": "2009-05-26T22:53:04.000Z"
+  },
+  {
+    "title": "仕事とか - smellman's Broken Diary",
+    "link": "https://smellman.hatenablog.com/entry/20090526/1243365294",
+    "date": "2009-05-26T22:26:38.000Z"
+  },
+  {
+    "title": "ファイルの変化を感知してアクションを実行する·ifchanged MOONGIFT",
+    "link": "https://www.moongift.jp/2009/05/ifchanged/",
+    "date": "2009-05-26T22:23:11.000Z"
+  },
+  {
+    "title": "”ニコカフェプチ\"＠CAFE&BAR DICE 2009/5/30より 毎週土曜に全4回開催決定 : よーし、パパ ”ニコカフェプチ\" に行って盛り上がるぞー！　と思うその前に - livedoor Blog（ブログ）",
+    "link": "http://blog.livedoor.jp/niconicocafe/archives/50237560.html",
+    "date": "2009-05-26T22:22:43.000Z"
+  },
+  {
+    "title": "twitter検索/ジャンル推定API",
+    "link": "http://pcod.no-ip.org/yats/genre",
+    "date": "2009-05-26T21:47:56.000Z"
+  },
+  {
+    "title": "5188円で始めるフィジカルコンピューティング　第1回　～テルミンつくってみるミン～",
+    "link": "https://karaage.hatenadiary.jp/entry/20090517/1242552819",
+    "date": "2009-05-26T21:46:58.000Z"
+  },
+  {
+    "title": "5188円で始めるフィジカルコンピューティング　第1回　～テルミンつくってみるミン～",
+    "link": "https://karaage.hatenadiary.jp/entry/20090517/1242552819",
+    "date": "2009-05-26T21:46:36.000Z"
+  },
+  {
+    "title": "“硬派”なギークの祭典『Make: Tokyo Meeting 03』に行ってきた|ガジェット通信 GetNews",
+    "link": "https://getnews.jp/archives/15039",
+    "date": "2009-05-26T21:46:32.000Z"
+  },
+  {
+    "title": "Make: Tokyo Meeting 03 行ってきたレポート(1) 衝撃の布AR",
+    "link": "https://blog.tarotaro.org/archives/545",
+    "date": "2009-05-26T21:46:15.000Z"
+  },
+  {
+    "title": "【レポート】Where 2.0 - Google「Maps Data API」リリース、Geowebの拡大から進化へ (1) いまなお活発に動くロケーションビジネス | ネット | マイコミジャーナル",
+    "link": "http://journal.mycom.co.jp/articles/2009/05/22/where201/index.html",
+    "date": "2009-05-26T21:46:06.000Z"
+  },
+  {
+    "title": "takuma104 - Overview",
+    "link": "https://github.com/takuma104",
+    "date": "2009-05-26T21:44:04.000Z"
+  },
+  {
+    "title": "GitHub - takuma104/iphone-rubycocoa: Ruby / RubyCocoa for the iPhone SDK",
+    "link": "https://github.com/takuma104/iphone-rubycocoa",
+    "date": "2009-05-26T21:43:55.000Z"
+  },
+  {
+    "title": "Ruby/RubyCocoa for iPhone - UICoderz4",
+    "link": "https://www.slideshare.net/takuma104/rubyrubycocoa-for-iphone-uicoderz4",
+    "date": "2009-05-26T21:43:54.000Z"
+  },
+  {
+    "title": "iPhone で Ruby/RubyCocoa を動かしてみた - @takuma104 log",
+    "link": "https://takuma104.hatenadiary.org/entry/20090225/1235584788",
+    "date": "2009-05-26T21:43:32.000Z"
+  },
+  {
+    "title": "iPhoneアプリケーションをRubyで作る·iPhone RubyCocoa MOONGIFT",
+    "link": "https://www.moongift.jp/2009/05/iphone_rubycocoa/",
+    "date": "2009-05-26T21:43:25.000Z"
+  },
+  {
+    "title": "ページが見つかりませんでした | BiscuitjamBlog",
+    "link": "http://blog.biscuitjam.jp/2008/04/15/wii_flash.html",
+    "date": "2009-05-26T21:38:52.000Z"
+  },
+  {
+    "title": "［3］家電との連携で拡がるフェムトセルの可能性（世界で動き出すフェムトセル）：ITpro",
+    "link": "https://xtech.nikkei.com/it/article/COLUMN/20090518/330206/",
+    "date": "2009-05-26T21:37:55.000Z"
+  },
+  {
+    "title": "MTM03に行ってきました2日目(3) - Sim's blog",
+    "link": "https://blog.goo.ne.jp/sim00/e/e545bae653702f0ae733f5deaa9b4c76",
+    "date": "2009-05-26T21:37:53.000Z"
+  },
+  {
+    "title": "伝説の「刺身の上にタンポポをのせる仕事」がiPhoneアプリに",
+    "link": "https://nlab.itmedia.co.jp/games/articles/0905/26/news078.html",
+    "date": "2009-05-26T21:37:44.000Z"
+  },
+  {
+    "title": "smartchr - Insert several candidates with a single key : vim online",
+    "link": "https://www.vim.org/scripts/script.php?script_id=2290",
+    "date": "2009-05-26T21:37:42.000Z"
+  },
+  {
+    "title": "この先生きのこるには",
+    "link": "https://blog.halt.project-p.jp/2008/08/26/002957/",
+    "date": "2009-05-26T21:37:37.000Z"
+  },
+  {
+    "title": "Guide to Building Your Own Tesla Personal Supercomputer System",
+    "link": "https://www.nvidia.com/en-us/data-center/data-center-gpus/",
+    "date": "2009-05-26T21:37:15.000Z"
+  },
+  {
+    "title": "自滅する地方　郊外化問題は郊外の問題ではない - シートン俗物記",
+    "link": "https://dr-seton.hatenablog.com/entry/20090526/1243347145",
+    "date": "2009-05-26T21:37:00.000Z"
+  },
+  {
+    "title": "https://atmarkit.itmedia.co.jp/fsys/zunouhoudan/108zunou/supercom.html",
+    "link": "https://atmarkit.itmedia.co.jp/fsys/zunouhoudan/108zunou/supercom.html",
+    "date": "2009-05-26T21:36:50.000Z"
+  },
+  {
+    "title": "『Ruby逆引きハンドブック』出版 - http://rubikitch.com/に移転しました",
+    "link": "https://rubikitch.hatenadiary.org/entry/20090525/rubybook",
+    "date": "2009-05-26T21:36:45.000Z"
+  },
+  {
+    "title": "地球平和監視時計",
+    "link": "http://www.pcf.city.hiroshima.jp/virtual/VirtualMuseum_j/tour/ireihi/tour_55.html",
+    "date": "2009-05-26T21:33:52.000Z"
+  },
+  {
+    "title": "世界終末時計 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E7%B5%82%E6%9C%AB%E6%99%82%E8%A8%88",
+    "date": "2009-05-26T21:33:40.000Z"
+  },
+  {
+    "title": "地球平和監視時計 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%B9%B3%E5%92%8C%E7%9B%A3%E8%A6%96%E6%99%82%E8%A8%88",
+    "date": "2009-05-26T21:33:22.000Z"
+  },
+  {
+    "title": "北核実験　地球平和監視時計、１にリセット | 日テレNEWS24",
+    "link": "http://www.ntv.co.jp/news/136255.html",
+    "date": "2009-05-26T21:33:16.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: 暗黙知の次元 (ちくま学芸文庫): マイケルポランニー (著), Polanyi,Michael (原名), 勇夫,高橋 (翻訳): 本",
+    "link": "https://www.amazon.co.jp/gp/product/4480088164",
+    "date": "2009-05-26T21:29:21.000Z"
+  },
+  {
+    "title": "惨劇から1年〜秋葉原のホコテンは復活すべきか？:アルファルファモザイク",
+    "link": "http://alfalfa.livedoor.biz/archives/51470892.html",
+    "date": "2009-05-26T21:27:09.000Z"
+  },
+  {
+    "title": "芸能：ZAKZAK",
+    "link": "http://www.zakzak.co.jp/gei/200905/g2009052622_all.html",
+    "date": "2009-05-26T21:24:53.000Z"
+  },
+  {
+    "title": "Not found | Nomura Research Institute (NRI)",
+    "link": "http://www.nri.co.jp/news/2009/090526_1.html",
+    "date": "2009-05-26T21:24:17.000Z"
+  },
+  {
+    "title": "買物時における情報受発信パターン分析結果 - 博報堂ＤＹメディアパートナーズ",
+    "link": "https://www.hakuhodody-media.co.jp/newsrelease/2009/20090525.html",
+    "date": "2009-05-26T21:24:15.000Z"
+  },
+  {
+    "title": "第3章-2　「親しみやすい」ロボットとは　記号論理の限界と芸術理論　中田亨博士の試み",
+    "link": "https://www.itmedia.co.jp/news/articles/0905/26/news062.html",
+    "date": "2009-05-26T21:24:13.000Z"
+  },
+  {
+    "title": "使い勝手のいい最強タップの作り方 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/post_854/",
+    "date": "2009-05-26T21:24:01.000Z"
+  },
+  {
+    "title": "ニンテンドーＤＳ：ＤＳｉウェア",
+    "link": "https://www.nintendo.co.jp/ds/dsiware/index.html",
+    "date": "2009-05-26T21:23:06.000Z"
+  },
+  {
+    "title": "http://www.ghostwiregame.com/",
+    "link": "http://www.ghostwiregame.com/",
+    "date": "2009-05-26T21:21:20.000Z"
+  },
+  {
+    "title": "ニテンイチリュウ : Ghostwire :: AR Game for DSi",
+    "link": "http://www.nitenichiryu.org/articles/ghostwire-1st-ar-game-for-dsi",
+    "date": "2009-05-26T21:21:04.000Z"
+  },
+  {
+    "title": "NEC、725グラムの極薄軽量モバイルノートPC「VersaPro UltraLite タイプVS」発表（＋D PC USER） - Yahoo!ニュース",
+    "link": "http://headlines.yahoo.co.jp/hl?a=20090526-00000027-zdn_pc-sci",
+    "date": "2009-05-26T21:21:00.000Z"
+  },
+  {
+    "title": "軽量ボディのビジネス向けモバイルノートPC｢VersaPro UltraLite タイプVS｣など30モデルを発売　NEC | Techinsight（テックインサイト）|海外セレブ、国内エンタメのオンリーワンをお届けするニュースサイト",
+    "link": "https://japan.techinsight.jp/2009/05/sanada200905261320.html",
+    "date": "2009-05-26T21:20:57.000Z"
+  },
+  {
+    "title": "NEC世界最軽量ネットブック｢VersaPro UltraLite タイプVS｣発売",
+    "link": "https://www.gizmodo.jp/2009/05/necversapro_ultralite_vs.html",
+    "date": "2009-05-26T21:20:40.000Z"
+  },
+  {
+    "title": "ASCII.jp － TECH",
+    "link": "http://ascii-business.com/review/review070208.html",
+    "date": "2009-05-26T21:20:12.000Z"
+  },
+  {
+    "title": "【埋】VersaPro UltraLite パフォーマンス測定 - 868gの軽量でも高い処理能力",
+    "link": "https://ckworks.jp/blog/archives/2009/01/nec_versapro_ultralite_performance_benchmark.html",
+    "date": "2009-05-26T21:20:12.000Z"
+  },
+  {
+    "title": "極薄軽量ノートPC「VersaPro UltraLite タイプVS」はどれだけ薄いか",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/0905/26/news037.html",
+    "date": "2009-05-26T21:20:05.000Z"
+  },
+  {
+    "title": "NEC、725グラムの極薄軽量モバイルノートPC「VersaPro UltraLite タイプVS」発表",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/0905/26/news032.html",
+    "date": "2009-05-26T21:20:04.000Z"
+  },
+  {
+    "title": "NEC、世界最軽量の10.6型ノートPC 「VersaPro UltraLite タイプVS」 ～最薄部15.8mm、重量約725g",
+    "link": "https://pc.watch.impress.co.jp/docs/news/169995.html",
+    "date": "2009-05-26T21:20:02.000Z"
+  },
+  {
+    "title": "【Hothotレビュー】 NEC「VersaPro UltraLite タイプVS」 ～世界最軽量を実現した約725gのスリムモバイルPC",
+    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/170002.html",
+    "date": "2009-05-26T21:20:00.000Z"
+  },
+  {
+    "title": "UltraLite タイプVS : VersaPro/VersaPro J | ビジネスPC | NEC",
+    "link": "http://www.nec.co.jp/products/bizpc/versapro/vs/index.shtml",
+    "date": "2009-05-26T21:19:21.000Z"
+  },
+  {
+    "title": "UltraLite タイプVC＜WXGA液晶モデル＞ : VersaPro/VersaPro J | ビジネスPC | NEC",
+    "link": "http://www.nec.co.jp/products/bizpc/versapro/vc_wxga/index.shtml",
+    "date": "2009-05-26T21:19:12.000Z"
+  },
+  {
+    "title": "UltraLite タイプVC＜XGA液晶モデル＞ : VersaPro/VersaPro J | ビジネスPC | NEC",
+    "link": "http://www.nec.co.jp/products/bizpc/versapro/vc/index.shtml",
+    "date": "2009-05-26T21:18:59.000Z"
+  },
+  {
+    "title": "【楽天市場】エラー",
+    "link": "https://item.rakuten.co.jp/flashstore/4984279000243-t/",
+    "date": "2009-05-26T21:17:50.000Z"
+  },
+  {
+    "title": "2009年5月22日号　OpenRDのリリース・DisplayLinkのUSB接続VGA・UWN#142 | gihyo.jp",
+    "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/200905/22",
+    "date": "2009-05-26T21:17:24.000Z"
+  },
+  {
+    "title": "libdlo",
+    "link": "http://freedesktop.org/wiki/Software/libdlo",
+    "date": "2009-05-26T21:17:01.000Z"
+  },
+  {
+    "title": "USBディスプレイ - ippeiの日記",
+    "link": "https://ippei.hatenablog.com/entry/20090526/1243337300",
+    "date": "2009-05-26T21:16:36.000Z"
+  },
+  {
+    "title": "世界最軽量725gの軽量ボディと最薄部15.8mmの薄さを実現したビジネス向けモバイルノートパソコンを発売(2009年5月26日): プレスリリース | NEC",
+    "link": "http://www.nec.co.jp/press/ja/0905/2601.html",
+    "date": "2009-05-26T21:15:35.000Z"
+  },
+  {
+    "title": "NEC、世界最軽量725gのAtom搭載ウルトラモバイルノートPC",
+    "link": "https://enterprise.watch.impress.co.jp/docs/news/170126.html",
+    "date": "2009-05-26T21:15:07.000Z"
+  },
+  {
+    "title": "http://atnd.org/events/735",
+    "link": "http://atnd.org/events/735",
+    "date": "2009-05-26T21:13:45.000Z"
+  },
+  {
+    "title": "サーバルーム",
+    "link": "https://www.flickr.com/photos/fumi/3565496255",
+    "date": "2009-05-26T21:12:52.000Z"
+  },
+  {
+    "title": "GitHub - mattn/vim-gist: Vim plugin for Gist",
+    "link": "https://github.com/mattn/vim-gist",
+    "date": "2009-05-26T21:11:26.000Z"
+  },
+  {
+    "title": "Big Sky :: Gistを便利に扱えるvimscript、「Gist.vim」書いた。",
+    "link": "https://mattn.kaoriya.net/software/vim/20081106153534.htm",
+    "date": "2009-05-26T21:11:00.000Z"
+  },
+  {
+    "title": "vimからgistが使えるgist.vim - komagataのブログ",
+    "link": "https://docs.komagata.org/4125",
+    "date": "2009-05-26T21:10:21.000Z"
+  }
+]

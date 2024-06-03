@@ -1,0 +1,812 @@
+[
+  {
+    "title": "itkzヘリコプター",
+    "link": "https://www.youtube.com/watch?v=UsOIcTomMfU",
+    "date": "2008-05-03T14:09:43.000Z"
+  },
+  {
+    "title": "toytter-2.0 - 吉見和也(Kazuya Yoshimi) - ZDNet Japan",
+    "link": "https://japan.zdnet.com/blog/yoshimi/2008/02/05/entry_27016446/",
+    "date": "2008-05-03T14:08:49.000Z"
+  },
+  {
+    "title": "<a>要素のaccesskey属性について(関連コラム集)",
+    "link": "https://www.marguerite.jp/Nihongo/WWW/Columns/Accesskey.html",
+    "date": "2008-05-03T14:08:06.000Z"
+  },
+  {
+    "title": "携帯電話向けコンテンツの書き方 - ウェブの作り方",
+    "link": "https://www.marguerite.jp/Nihongo/WWW/Mobile/index.html",
+    "date": "2008-05-03T14:02:58.000Z"
+  },
+  {
+    "title": "実際にやってみよう(2) - めも帖",
+    "link": "https://d4-1977.hatenablog.com/entry/20070812/1186936150",
+    "date": "2008-05-03T13:51:06.000Z"
+  },
+  {
+    "title": "Rubyist Magazine -RubyOnRails を使ってみる -第3回 ActiveRecord",
+    "link": "http://jp.rubyist.net/magazine/?0006-RubyOnRails",
+    "date": "2008-05-03T13:13:25.000Z"
+  },
+  {
+    "title": "ヽ( ・∀・)ノくまくまー(2006-01-05)",
+    "link": "http://wota.jp/ac/?date=20060105",
+    "date": "2008-05-03T13:10:20.000Z"
+  },
+  {
+    "title": "findは4つのパターンで検索できる - smoothy",
+    "link": "https://smoothy.hatenadiary.org/entry/20080223/1203764008",
+    "date": "2008-05-03T13:03:13.000Z"
+  },
+  {
+    "title": "【今トク】エミナルクリニック徳島院の気になる口コミまとめ＆20代の本音口コミ10選",
+    "link": "http://techno.hippy.jp/rorwiki/?HowtoPagination",
+    "date": "2008-05-03T13:01:54.000Z"
+  },
+  {
+    "title": "http://headlines.yahoo.co.jp/hl?a=20080503-00000042-mai-bus_all",
+    "link": "http://headlines.yahoo.co.jp/hl?a=20080503-00000042-mai-bus_all",
+    "date": "2008-05-03T12:18:07.000Z"
+  },
+  {
+    "title": "プロトタイピングに効くRoRのDB移行・変換機能 ― ＠IT",
+    "link": "https://www.itmedia.co.jp/im/articles/0603/08/news136.html",
+    "date": "2008-05-03T11:46:48.000Z"
+  },
+  {
+    "title": "IBM Developer",
+    "link": "http://www.ibm.com/developerworks/jp/linux/library/l-activescaffold/",
+    "date": "2008-05-03T11:46:27.000Z"
+  },
+  {
+    "title": "oranblue - Ruby on Railsで1対多でActiveScaffold",
+    "link": "http://oranblue.net/blog/item_171.html",
+    "date": "2008-05-03T11:46:22.000Z"
+  },
+  {
+    "title": "oranblue - Ruby on Railsで多対多でActiveScaffold",
+    "link": "http://oranblue.net/blog/item_180.html",
+    "date": "2008-05-03T11:46:07.000Z"
+  },
+  {
+    "title": "[Life] ピザパーティー, [Rails][ruby]バカが征く on Railsをいじる - HsbtDiary(2006-06-10)",
+    "link": "http://www.hsbt.org/diary/20060610.html",
+    "date": "2008-05-03T11:46:05.000Z"
+  },
+  {
+    "title": "補習：『RailsによるアジャイルWebアプリケーション開発 第2版』 part.1 | JAM☆ぱん",
+    "link": "http://playet.jugem.jp/?eid=36",
+    "date": "2008-05-03T11:44:58.000Z"
+  },
+  {
+    "title": "読書メモ＋tips＋日記:[Rails] scaffold で作ったページで、関連するテーブルの値をプルダウンで選択したい - livedoor Blog（ブログ）",
+    "link": "http://blog.livedoor.jp/takaaki_bb/archives/50578701.html",
+    "date": "2008-05-03T11:40:10.000Z"
+  },
+  {
+    "title": "ザリガニが見ていた...。",
+    "link": "https://zariganitosh.hatenablog.jp/",
+    "date": "2008-05-03T11:39:51.000Z"
+  },
+  {
+    "title": "【Rails】マスタの内容をプルダウンに表示する",
+    "link": "http://homepage.mac.com/kurusaki/iblog/C559147560/E20070714042239/index.html",
+    "date": "2008-05-03T11:39:19.000Z"
+  },
+  {
+    "title": "fieldを追加してみる - たけし on Rails",
+    "link": "https://taxshi.hatenadiary.org/entry/20080112/1200162037",
+    "date": "2008-05-03T11:37:10.000Z"
+  },
+  {
+    "title": "ひとまず1から動くところまで作ってみる - たけし on Rails",
+    "link": "https://taxshi.hatenadiary.org/entry/20080111/1200074165",
+    "date": "2008-05-03T11:36:51.000Z"
+  },
+  {
+    "title": "scaffoldをgenerateしてみる - たけし on Rails",
+    "link": "https://taxshi.hatenadiary.org/entry/20080111/1200067318",
+    "date": "2008-05-03T11:36:47.000Z"
+  },
+  {
+    "title": "generateのヘルプを読んでみる - たけし on Rails",
+    "link": "https://taxshi.hatenadiary.org/entry/20080111/1200064907",
+    "date": "2008-05-03T11:36:43.000Z"
+  },
+  {
+    "title": "テーブル間での連携 - たけし on Rails",
+    "link": "https://taxshi.hatenadiary.org/entry/20080113/1200210182",
+    "date": "2008-05-03T10:42:02.000Z"
+  },
+  {
+    "title": "僕は木になりたい。。。 : Rails 2.0.2 データベース関連の rakeタスク - livedoor Blog（ブログ）",
+    "link": "https://blog.emosei.com/archives/51512925.html",
+    "date": "2008-05-03T10:34:27.000Z"
+  },
+  {
+    "title": "バックナンバー – おくvillage",
+    "link": "https://www.iq-servers.com/defaultwebpage/",
+    "date": "2008-05-03T10:34:14.000Z"
+  },
+  {
+    "title": "新たなるrakeタスク db編 - あとで読むRailsのススメ",
+    "link": "https://japan.zdnet.com/blog/yoshimi/2008/01/11/entry_27016443/",
+    "date": "2008-05-03T10:34:06.000Z"
+  },
+  {
+    "title": "2008-03-22",
+    "link": "https://kugini.hatenadiary.org/entries/2008/03/22",
+    "date": "2008-05-03T10:30:19.000Z"
+  },
+  {
+    "title": "2008-03-24",
+    "link": "https://kugini.hatenadiary.org/entries/2008/03/24",
+    "date": "2008-05-03T10:29:53.000Z"
+  },
+  {
+    "title": "2008-03-25",
+    "link": "https://kugini.hatenadiary.org/entries/2008/03/25",
+    "date": "2008-05-03T10:29:45.000Z"
+  },
+  {
+    "title": "2008-04-10",
+    "link": "https://kugini.hatenadiary.org/entries/2008/04/10",
+    "date": "2008-05-03T10:29:41.000Z"
+  },
+  {
+    "title": "あいペガサスのブログ",
+    "link": "https://blog.hatena.ne.jp/api/diary_redirect?path=/kugini/searchdiary",
+    "date": "2008-05-03T10:29:40.000Z"
+  },
+  {
+    "title": "pluginのインストールとか - webとかmacとかやってみようか",
+    "link": "https://dice-t.hatenadiary.org/entry/20080408/1209630751",
+    "date": "2008-05-03T10:24:22.000Z"
+  },
+  {
+    "title": "azito.com",
+    "link": "http://jijixi.azito.com/cgi-bin/diary/index.rb?date=20071209",
+    "date": "2008-05-03T10:24:18.000Z"
+  },
+  {
+    "title": "Railsによるアジャイル〜 rail2.0版　イテレーションA1 - webとかmacとかやってみようか",
+    "link": "https://dice-t.hatenadiary.org/entry/20080408/1207644145",
+    "date": "2008-05-03T10:24:10.000Z"
+  },
+  {
+    "title": "Rails Framework Documentation",
+    "link": "https://api.rubyonrails.org/",
+    "date": "2008-05-03T10:22:56.000Z"
+  },
+  {
+    "title": "Ruby on Rails 2.0.1に対応 - idesaku blog",
+    "link": "https://idesaku.hatenablog.com/entry/20071210/1197260363",
+    "date": "2008-05-03T10:15:07.000Z"
+  },
+  {
+    "title": "rubygemsのオプション変更 - idesaku blog",
+    "link": "https://idesaku.hatenablog.com/entry/20071126/1196050166",
+    "date": "2008-05-03T10:09:21.000Z"
+  },
+  {
+    "title": "Ruby on RailsのActiveScaffoldチュートリアル　設定編 (CodeZine編集部ブログ)",
+    "link": "http://blog.codezine.jp/editor/2007/09/ruby_on_railsactivescaffold.php",
+    "date": "2008-05-03T10:02:45.000Z"
+  },
+  {
+    "title": "Ruby On Rails ピチカート街道 - migration初体験04【migrationファイルを使ってDBを変更】 -",
+    "link": "http://rubist.blog77.fc2.com/blog-entry-28.html",
+    "date": "2008-05-03T09:52:17.000Z"
+  },
+  {
+    "title": "pylori*style wiki - MigrationによるDB管理",
+    "link": "http://tam.qmix.org/wiki/Migration.html",
+    "date": "2008-05-03T09:45:20.000Z"
+  },
+  {
+    "title": "Ruby On Rails ピチカート街道 - migration初体験03【現在のDBテーブルをmigrationファイルに反映】 -",
+    "link": "http://rubist.blog77.fc2.com/blog-entry-27.html",
+    "date": "2008-05-03T09:44:34.000Z"
+  },
+  {
+    "title": "Ruby On Rails ピチカート街道 - migration初体験02【migrationファイル自動生成】 -",
+    "link": "http://rubist.blog77.fc2.com/blog-entry-26.html",
+    "date": "2008-05-03T09:44:19.000Z"
+  },
+  {
+    "title": "Ruby On Rails ピチカート街道 - migration初体験01【やることの整理】 -",
+    "link": "http://rubist.blog77.fc2.com/blog-entry-25.html",
+    "date": "2008-05-03T09:42:56.000Z"
+  },
+  {
+    "title": "FC2Blog - Forbidden",
+    "link": "http://steeeeeeeam.blog98.fc2.com/blog-entry-339.html",
+    "date": "2008-05-03T09:28:19.000Z"
+  },
+  {
+    "title": "Pixel Pour (By Kelly Goeller) - Near Future Laboratory",
+    "link": "https://blog.nearfuturelaboratory.com/2008/04/22/pixel-pour/",
+    "date": "2008-05-03T09:25:27.000Z"
+  },
+  {
+    "title": "キッス (Xiss) の会社概要・アクセス",
+    "link": "http://xiss.jp/outline",
+    "date": "2008-05-03T09:03:49.000Z"
+  },
+  {
+    "title": "『携帯電話の「簡単ログイン」は個体識別番号を使ってこんなふうに作れます』",
+    "link": "https://ameblo.jp/yosswi/entry-10036647527.html",
+    "date": "2008-05-03T08:57:56.000Z"
+  },
+  {
+    "title": "携帯アプリで固体識別番号を聞く - LukeSilvia’s diary",
+    "link": "https://lukesilvia.hatenablog.com/entry/20071213/1198800544",
+    "date": "2008-05-03T08:57:24.000Z"
+  },
+  {
+    "title": "Rails2.0.2 + jpmobile = DoCoMo端末のセッションがダメっぽい？ - unnecessary words",
+    "link": "https://hayori.hatenadiary.org/entry/20080323/1206258705",
+    "date": "2008-05-03T08:56:35.000Z"
+  },
+  {
+    "title": "あるＳＥのつぶやき: 携帯サイト構築メモ",
+    "link": "http://fnya.cocolog-nifty.com/blog/2007/02/post_f0d7.html",
+    "date": "2008-05-03T08:53:53.000Z"
+  },
+  {
+    "title": "restful_authentication - あとで読むRailsのススメ",
+    "link": "https://japan.zdnet.com/blog/yoshimi/2008/03/25/entry_27016453/",
+    "date": "2008-05-03T08:52:26.000Z"
+  },
+  {
+    "title": "Web　酒　肴 - [RoR][NetBeans]ログイン認証プラグインacts_as_authenticated",
+    "link": "http://blog.garden-place.jp/oborobeer/item_117.html",
+    "date": "2008-05-03T08:51:34.000Z"
+  },
+  {
+    "title": "RailsのActionMailer(Tmail)でドットの連続などのRFC違反している携帯メールアドレスに対応する",
+    "link": "http://doruby.kbmj.com/nakahira_on_rails/20080215/Rails_ActionMailer_Tmail_RFC_",
+    "date": "2008-05-03T08:42:39.000Z"
+  },
+  {
+    "title": "wiki . retrospectiva",
+    "link": "http://jpmobile-rails.org/wiki/jpmobile",
+    "date": "2008-05-03T08:41:13.000Z"
+  },
+  {
+    "title": "jpmobileを用いた位置情報取得アプリケーションの作成 - dara日記",
+    "link": "https://hatena.blog/api/diary_redirect?path=/darashi/20061031/1162236300",
+    "date": "2008-05-03T08:41:07.000Z"
+  },
+  {
+    "title": "Railsでの携帯サイト作成時の文字コード変換（@paramsとrequest.body） - 京の路",
+    "link": "http://blog.matake.jp/archives/paramsrequestbody",
+    "date": "2008-05-03T08:40:23.000Z"
+  },
+  {
+    "title": "ライブドアブログ｜無料で豊富な機能が充実",
+    "link": "http://seiryo.nowa.jp/entry/9425acb052",
+    "date": "2008-05-03T08:39:53.000Z"
+  },
+  {
+    "title": "asp-edita.jp",
+    "link": "http://www.asp-edita.jp/doda/one/doda4075_246.html",
+    "date": "2008-05-03T08:39:28.000Z"
+  },
+  {
+    "title": "Mobile on Rails",
+    "link": "http://shindaita.stiq.net/rdoc/mobile_on_rails/",
+    "date": "2008-05-03T08:38:07.000Z"
+  },
+  {
+    "title": "Jpmobile/携帯電話特有の機能を Rails で利用するためのプラグイン。",
+    "link": "http://jpmobile.rubyforge.org/",
+    "date": "2008-05-03T08:37:25.000Z"
+  },
+  {
+    "title": "[Rails] 絵文字変換などの携帯サイト開発をサポートするMobile on Railsを作った",
+    "link": "http://rakuto.blogspot.com/2007/02/rails-mobileonrails.html",
+    "date": "2008-05-03T08:32:06.000Z"
+  },
+  {
+    "title": "Ruby on Railsを携帯電話対応に - Sai10 Sight",
+    "link": "https://sai10sight.typepad.jp/sai10sight/2006/09/ruby_on_rails_93d5.html",
+    "date": "2008-05-03T08:31:49.000Z"
+  },
+  {
+    "title": "STBBS.NET blog: Railsアプリケーションを日本の携帯電話対応にする",
+    "link": "http://www.stbbs.net/blog/2007/10/rails.html",
+    "date": "2008-05-03T08:23:12.000Z"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "http://a01.biz/wiki/index.php?rails%2F0803RailsV2%B4%D8%B7%B8",
+    "date": "2008-05-03T08:22:27.000Z"
+  },
+  {
+    "title": "Persistence is Power:ケータイサイトで機種情報を取得する Rails プラグイン mbterm_db - livedoor Blog（ブログ）",
+    "link": "http://blog.tmty.jp/archives/54984497.html",
+    "date": "2008-05-03T08:22:01.000Z"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "http://a01.biz/wiki/index.php?rails%2F0803RailsV2%B4%D8%B7%B8",
+    "date": "2008-05-03T08:16:52.000Z"
+  },
+  {
+    "title": "Rails2.0のscaffoldの作り方 - あいペガサスのブログ",
+    "link": "https://kugini.hatenadiary.org/entry/20080406/p1",
+    "date": "2008-05-03T08:15:26.000Z"
+  },
+  {
+    "title": "Rails2.0でブックマークアプリ",
+    "link": "http://hibituredure.blogspot.com/2007/12/rails20_22.html",
+    "date": "2008-05-03T08:13:02.000Z"
+  },
+  {
+    "title": "Amazonサインイン",
+    "link": "https://www.amazon.co.jp/gp/cdp/member-reviews/A1NONQ3UZ8KBPO/",
+    "date": "2008-05-03T08:12:54.000Z"
+  },
+  {
+    "title": "歯科衛生士の給与事情",
+    "link": "http://www.zimenu.jp/",
+    "date": "2008-05-03T07:53:41.000Z"
+  },
+  {
+    "title": "近くにいる人と──GPS携帯を利用したチャットサービス「ココチャ！」",
+    "link": "https://www.itmedia.co.jp/mobile/articles/0707/31/news092.html",
+    "date": "2008-05-03T07:53:29.000Z"
+  },
+  {
+    "title": "はてなブログ | 無料ブログを作成しよう",
+    "link": "https://hatena.blog/api/diary_redirect?path=/akio0911/20080422/1208887175",
+    "date": "2008-05-03T07:50:38.000Z"
+  },
+  {
+    "title": "Ittemia（イッテミア）",
+    "link": "http://ittemia.jp/",
+    "date": "2008-05-03T07:36:53.000Z"
+  },
+  {
+    "title": "東京ゲームショウ2007特設ページ - 電撃オンライン",
+    "link": "https://dengekionline.com/sp/tgs2007/event.html",
+    "date": "2008-05-03T07:32:49.000Z"
+  },
+  {
+    "title": "「Ittem!a」でTGSとのタイアップイベントを本日より開催中 - 電撃オンライン",
+    "link": "https://dengekionline.com/data/news/2007/9/4/329678bc9cfb386a5c7c59af98d8c4f7.html",
+    "date": "2008-05-03T07:32:46.000Z"
+  },
+  {
+    "title": "みけねこ小屋ブログ 2008年01月",
+    "link": "http://mikenekogoya.blog15.fc2.com/blog-date-200801.html",
+    "date": "2008-05-03T07:32:42.000Z"
+  },
+  {
+    "title": "@tarosite",
+    "link": "http://www.tarosite.net/2008/03/mikan-seijin-keitai-geo-moblog.html",
+    "date": "2008-05-03T07:32:42.000Z"
+  },
+  {
+    "title": "気まま散財日記 - Hatena Side",
+    "link": "https://msakura.hatenadiary.org/",
+    "date": "2008-05-03T07:32:39.000Z"
+  },
+  {
+    "title": "いつきログ(09-05[長年日記])",
+    "link": "https://ituki.proj.jp/log/0905.html",
+    "date": "2008-05-03T07:32:34.000Z"
+  },
+  {
+    "title": "http://blog.noworks.net/uma/archives/000879.html",
+    "link": "http://blog.noworks.net/uma/archives/000879.html",
+    "date": "2008-05-03T07:20:01.000Z"
+  },
+  {
+    "title": "よしたんのぶろぐ scaffold ? paginate ? なんじゃそれ？",
+    "link": "http://yoshitan.blog6.fc2.com/blog-entry-194.html",
+    "date": "2008-05-03T07:16:11.000Z"
+  },
+  {
+    "title": "技術メモ [それはBooks]",
+    "link": "http://hamasyou.com/archives/Engineer-Soul/naa.php",
+    "date": "2008-05-03T07:16:09.000Z"
+  },
+  {
+    "title": "Java IDE新潮流--第3回 Ruby/Rails開発も可能に：NetBeans 6 - builder by ZDNet Japan",
+    "link": "https://builder.japan.zdnet.com/java/sp_07ide/20350715/",
+    "date": "2008-05-03T06:58:43.000Z"
+  },
+  {
+    "title": "Java・C・Railsに対応、フリーの開発環境「NetBeans IDE 6.0正式版」リリース：CodeZine",
+    "link": "http://codezine.jp/a/article/aid/1945.aspx",
+    "date": "2008-05-03T06:58:30.000Z"
+  },
+  {
+    "title": "Rails IDEとして最強かも？ NetBeans IDE 6.0 - builder by ZDNet Japan",
+    "link": "https://builder.japan.zdnet.com/tool/20362414/",
+    "date": "2008-05-03T06:58:29.000Z"
+  },
+  {
+    "title": "http://blogs.sun.com/katakai/entry/toggle_logial_view_vs_file",
+    "link": "http://blogs.sun.com/katakai/entry/toggle_logial_view_vs_file",
+    "date": "2008-05-03T06:58:27.000Z"
+  },
+  {
+    "title": "NetBeans IDE 6.0登場 - Ruby on Rails/JRubyの開発に対応 | エンタープライズ | マイコミジャーナル",
+    "link": "http://journal.mycom.co.jp/news/2007/12/04/001/",
+    "date": "2008-05-03T06:58:27.000Z"
+  },
+  {
+    "title": "Ruby on Rails での Ajax の使用 - NetBeans 6.0 チュートリアル",
+    "link": "http://www.netbeans.org/kb/60/ruby/ajax_ja.html",
+    "date": "2008-05-03T06:58:21.000Z"
+  },
+  {
+    "title": "Complete Mirage - NetBeansでJRuby on Rails",
+    "link": "http://completemirage.blog55.fc2.com/blog-entry-39.html",
+    "date": "2008-05-03T06:58:21.000Z"
+  },
+  {
+    "title": "NetBeans IDE - RubyおよびRuby on Rails開発",
+    "link": "http://www.netbeans.org/features/ruby/index_ja.html",
+    "date": "2008-05-03T06:58:10.000Z"
+  },
+  {
+    "title": "Executing scripts on a remote machine - Marigan's Weblog",
+    "link": "https://blogs.oracle.com/roller-ui/errors/404.jsp",
+    "date": "2008-05-03T06:58:02.000Z"
+  },
+  {
+    "title": "NetBeans最強伝説 with Ruby on Rails - クロモリロードとかピストとか日々精進",
+    "link": "https://yukizm.hatenadiary.org/entry/20080329",
+    "date": "2008-05-03T06:57:53.000Z"
+  },
+  {
+    "title": "Rails 2.0 の開発環境として、NetBeans は、どうよ - kuginiのブログ - RubyNews",
+    "link": "https://rubynews.hatenadiary.org/entry/20080416/1208360962",
+    "date": "2008-05-03T06:57:48.000Z"
+  },
+  {
+    "title": "Railsの実践：NetBeansによる開発とLinuxへのデプロイ：CodeZine - RubyNews",
+    "link": "https://rubynews.hatenadiary.org/entry/20080402/1207151364",
+    "date": "2008-05-03T06:57:14.000Z"
+  },
+  {
+    "title": "NetBeans(6.1Beta)で作成したRailsアプリのコンテナをGlassFishで動作させる - あいペガサスのブログ",
+    "link": "https://kugini.hatenadiary.org/entry/20080402/p1",
+    "date": "2008-05-03T06:57:11.000Z"
+  },
+  {
+    "title": "NetBeans(jruby 1.0.3)でRedMineが起動しない - Railsなど技術系覚え書き",
+    "link": "https://solis.hatenadiary.org/entry/20080206/1202282377",
+    "date": "2008-05-03T06:57:02.000Z"
+  },
+  {
+    "title": "Ruby on Railsで既存DBを利用して開発したい１ - あいペガサスのブログ",
+    "link": "https://kugini.hatenadiary.org/entry/20080322/p1",
+    "date": "2008-05-03T06:56:56.000Z"
+  },
+  {
+    "title": "NetBeansによるRuby on Railsの開発環境構築 - メモ",
+    "link": "https://toyodahiroshi.hatenadiary.org/entry/20080416/1208360053",
+    "date": "2008-05-03T06:56:46.000Z"
+  },
+  {
+    "title": "NetBeansでRuby on Rails の開発 - yuumi3のお仕事日記",
+    "link": "https://yuumi3.hatenablog.com/entry/20070624/1182664716",
+    "date": "2008-05-03T06:56:30.000Z"
+  },
+  {
+    "title": "NetBeansでRuby on Rails - QAメモ。",
+    "link": "https://yonepin-qa.hatenadiary.org/entry/20071223/1198384752",
+    "date": "2008-05-03T06:56:26.000Z"
+  },
+  {
+    "title": "CodeZine（コードジン） - 遅咲きのエンジニア",
+    "link": "http://d.hatena.ne.jp/kabakiyo/20080404/1207319315",
+    "date": "2008-05-03T06:56:22.000Z"
+  },
+  {
+    "title": "Rails 2.0 の開発環境として、NetBeans は、どうよ - あいペガサスのブログ",
+    "link": "https://kugini.hatenadiary.org/entry/20080310/p1",
+    "date": "2008-05-03T06:55:37.000Z"
+  },
+  {
+    "title": "NetBeans IDE 6.0でRailsアプリケーションを作る／プロジェクト作成からscaffoldまで",
+    "link": "http://www.vividfire.net/knowledges/ruby-on-rails/netbeans6-rails/",
+    "date": "2008-05-03T06:55:34.000Z"
+  },
+  {
+    "title": "【ハウツー】NetBeansでRuby on Rails開発 (1) 開発を始める前に | エンタープライズ | マイコミジャーナル",
+    "link": "http://journal.mycom.co.jp/articles/2008/01/27/rubyonrails/index.html",
+    "date": "2008-05-03T06:55:34.000Z"
+  },
+  {
+    "title": "[tech]NetBeansで(J)Ruby on Rails - yojikのlog",
+    "link": "https://yojik.hatenablog.jp/entry/20070311/1173553458",
+    "date": "2008-05-03T06:55:06.000Z"
+  },
+  {
+    "title": "Plugin Portal Main Page",
+    "link": "http://plugins.netbeans.org/PluginPortal/faces/MainPage.jsp",
+    "date": "2008-05-03T06:52:56.000Z"
+  },
+  {
+    "title": "[Cyberduck-trac] [Cyberduck] #1741: SFTP fails when using public key, invalid PEM structure",
+    "link": "https://lists.cyberduck.io/pipermail/cyberduck-trac/2008-February/005414.html",
+    "date": "2008-05-03T06:52:40.000Z"
+  },
+  {
+    "title": "『rails 2.0のscaffold』",
+    "link": "https://ameblo.jp/neco1220/entry-10061341249.html",
+    "date": "2008-05-03T06:19:19.000Z"
+  },
+  {
+    "title": "Ruby on Railsでscaffoldを実行する (CodeZine編集部ブログ)",
+    "link": "http://blog.codezine.jp/editor/2007/08/ruby_on_railsscaffold_1.php",
+    "date": "2008-05-03T06:18:56.000Z"
+  },
+  {
+    "title": "Ruby on Rails 2.0 の scaffold - 麦酒堂",
+    "link": "http://mt.mizba.net/archives/001252.php?rss=1",
+    "date": "2008-05-03T06:18:54.000Z"
+  },
+  {
+    "title": "Rails 2.0.2 だと scaffoldメソッドが無い - hs9587’s diary",
+    "link": "https://hs9587.hatenablog.com/entry/20080114/1200274133",
+    "date": "2008-05-03T06:18:54.000Z"
+  },
+  {
+    "title": "http://www.machu.jp/posts/20071222/",
+    "link": "https://www.machu.jp/diary/20071222.html",
+    "date": "2008-05-03T06:18:54.000Z"
+  },
+  {
+    "title": "なんてこった。Rails 2.0はscaffoldの使い方が変わっていたなんて - 暴想",
+    "link": "http://java.cocolog-nifty.com/blog/2008/03/rails_20scaffol_9a08.html",
+    "date": "2008-05-03T06:18:53.000Z"
+  },
+  {
+    "title": "403 Forbidden",
+    "link": "http://yamamoto.xrea.jp/2008/02/ruby-on-rails-20scaffold.php",
+    "date": "2008-05-03T06:18:52.000Z"
+  },
+  {
+    "title": "Rails 2.0 - 初心者がすべきことは？",
+    "link": "https://www.infoq.com/jp/news/2008/01/rails-20-docs/",
+    "date": "2008-05-03T06:18:52.000Z"
+  },
+  {
+    "title": "いざRuby on Railsでプロトタイピング ― ＠IT",
+    "link": "https://www.itmedia.co.jp/im/articles/0604/05/news123.html",
+    "date": "2008-05-03T06:15:02.000Z"
+  },
+  {
+    "title": "Rubyist Magazine - RubyOnRails を使ってみる 【第 4 回】 ActionPack",
+    "link": "http://jp.rubyist.net/magazine/?0008-RubyOnRails",
+    "date": "2008-05-03T06:14:46.000Z"
+  },
+  {
+    "title": "ayumu-baby.com",
+    "link": "http://634.ayumu-baby.com/pukiwiki/index.php?Ruby%2FRuby%20on%20Rails%2Fscript%2Fgenerate",
+    "date": "2008-05-03T06:14:44.000Z"
+  },
+  {
+    "title": "script/generateで作られるビューファイルの拡張子が、Rails2.0では\".html.erb\"になる件 - ぐらめぬ・ぜぷつぇんのはてダ(2007 to 2011)",
+    "link": "https://msakamoto-sf-2007-to-2011.hatenadiary.jp/entry/20080413/1208087060",
+    "date": "2008-05-03T06:14:43.000Z"
+  },
+  {
+    "title": "zsh用script/generate補完関数 - Hello, world! - s21g",
+    "link": "https://blog.s21g.com/articles/219",
+    "date": "2008-05-03T06:14:40.000Z"
+  },
+  {
+    "title": "IKUZOボタン",
+    "link": "http://azflash.net/az/fla/ikuzo.htm",
+    "date": "2008-05-03T04:31:02.000Z"
+  },
+  {
+    "title": "はてなグラフ",
+    "link": "http://graph.hatena.ne.jp/",
+    "date": "2008-05-03T04:29:48.000Z"
+  },
+  {
+    "title": "Robometer concept device promises to help you feel happy",
+    "link": "https://www.engadget.com/2008-05-01-robometer-concept-device-promises-to-help-you-feel-happy.html",
+    "date": "2008-05-02T19:36:15.000Z"
+  },
+  {
+    "title": "Studio Psyho",
+    "link": "http://psyho.ua/eng/",
+    "date": "2008-05-02T19:35:48.000Z"
+  },
+  {
+    "title": "fladdict� ブログアーカイブ � Flashは求められる技術が多すぎ！！ な雑感",
+    "link": "http://www.fladdict.net/blog/2008/04/flash%E3%81%AF%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%EF%BC%81%EF%BC%81.html",
+    "date": "2008-05-02T19:35:43.000Z"
+  },
+  {
+    "title": "Blender.jp - ニュース",
+    "link": "http://blender.jp/modules/news/article.php?storyid=2116",
+    "date": "2008-05-02T19:35:38.000Z"
+  },
+  {
+    "title": "TOEFL対策スクールナビ",
+    "link": "http://www.digitaldj.jp/2008/04/28_180000.html",
+    "date": "2008-05-02T19:34:44.000Z"
+  },
+  {
+    "title": "1ピースの天国。快楽を味覚でどうぞ「A piece of the world」Studio Psyho:DDN JAPAN",
+    "link": "http://www.digitaldj.jp/2008/04/29_180000.html",
+    "date": "2008-05-02T19:34:40.000Z"
+  },
+  {
+    "title": "クロン - 人工知能に関する断創録",
+    "link": "https://aidiary.hatenablog.com/entry/20080430/1209528007",
+    "date": "2008-05-02T19:34:33.000Z"
+  },
+  {
+    "title": "「社会工学が面白い」は面白い?(高校生的な意味で) - 6sese.memo",
+    "link": "http://www.6sese.info/wordpress/index.php/archives/556",
+    "date": "2008-05-02T19:34:30.000Z"
+  },
+  {
+    "title": "【ユビキタス センサネット】接続実験の実演 by Crossbow",
+    "link": "https://www.youtube.com/watch?v=Rh6L0ycRFZo",
+    "date": "2008-05-02T19:34:05.000Z"
+  },
+  {
+    "title": "ＡＲ技術　ネタばらし編",
+    "link": "https://www.nicovideo.jp/watch/sm3053947",
+    "date": "2008-05-02T19:33:56.000Z"
+  },
+  {
+    "title": "ついに登場Skype月額プラン - Skype 日本語ブログ",
+    "link": "http://share.skype.com/sites/ja/2008/04/22/skype_new_subscription_plans.html",
+    "date": "2008-05-02T19:31:44.000Z"
+  },
+  {
+    "title": "Doug Engelbart | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/default/60",
+    "date": "2008-05-02T19:31:17.000Z"
+  },
+  {
+    "title": "Wiiリモコンとセンサーバーによる位置認識VRシステム | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/default/59",
+    "date": "2008-05-02T19:31:15.000Z"
+  },
+  {
+    "title": "Gainerと加速度センサー（習作） | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/script/as3/62",
+    "date": "2008-05-02T19:31:09.000Z"
+  },
+  {
+    "title": "マトリクスLED(BU5004-R) | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/default/48",
+    "date": "2008-05-02T19:31:08.000Z"
+  },
+  {
+    "title": "Greener Gadgets | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/gadget/46",
+    "date": "2008-05-02T19:31:07.000Z"
+  },
+  {
+    "title": "Surface系 | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/default/64",
+    "date": "2008-05-02T19:31:02.000Z"
+  },
+  {
+    "title": "firstborn | pcf: physical computing forum",
+    "link": "http://pcf.axisdesign.org/blog/default/70",
+    "date": "2008-05-02T19:31:01.000Z"
+  },
+  {
+    "title": "People, workshops, and Arduinos | Arduino Blog",
+    "link": "https://blog.arduino.cc/2008/04/29/people-workshops-and-arduinos/",
+    "date": "2008-05-02T19:30:59.000Z"
+  },
+  {
+    "title": "Arduino at the Maker Faire - Japan | Arduino Blog",
+    "link": "https://blog.arduino.cc/2008/04/30/arduino-at-the-maker-faire-japan/",
+    "date": "2008-05-02T19:30:56.000Z"
+  },
+  {
+    "title": "「技術戦略マップ２００８」の策定について（METI/経済産業省）",
+    "link": "http://www.meti.go.jp/press/20080418003/20080418003.html",
+    "date": "2008-05-02T19:30:55.000Z"
+  },
+  {
+    "title": "TKYSSTD: 自作",
+    "link": "http://muujp.cocolog-nifty.com/tokyoshashi/2008/04/post_3d81.html",
+    "date": "2008-05-02T19:30:33.000Z"
+  },
+  {
+    "title": "そらみブログ",
+    "link": "http://d.hatena.ne.jp/npaka/20080501",
+    "date": "2008-05-02T19:30:19.000Z"
+  },
+  {
+    "title": "そらみブログ",
+    "link": "http://d.hatena.ne.jp/npaka/20080416",
+    "date": "2008-05-02T19:30:00.000Z"
+  },
+  {
+    "title": "そらみブログ",
+    "link": "http://d.hatena.ne.jp/npaka/20080423",
+    "date": "2008-05-02T19:29:58.000Z"
+  },
+  {
+    "title": "シネマコンプレックス「新宿バルト9」の驚嘆すべき大バカ最低システム - 檜山正幸のキマイラ飼育記 (はてなBlog)",
+    "link": "https://m-hiyama.hatenablog.com/entry/20080428/1209342644",
+    "date": "2008-05-02T19:29:55.000Z"
+  },
+  {
+    "title": "会社とモメモメしそうな件",
+    "link": "https://anond.hatelabo.jp/20080422125849",
+    "date": "2008-05-02T19:29:35.000Z"
+  },
+  {
+    "title": "▼貧乏すぎるくせにやたら毎日楽しい奴! これは集まるしかない! | イﾉﾚコモンズのふた。",
+    "link": "https://illcomm.exblog.jp/7792157/",
+    "date": "2008-05-02T19:29:31.000Z"
+  },
+  {
+    "title": "ディズニーワールドで何をしているかを実況中継できる『Twisney』 | 100SHIKI",
+    "link": "https://www.100shiki.com/archives/2008/04/twisney.html",
+    "date": "2008-05-02T19:29:29.000Z"
+  },
+  {
+    "title": "赤道直下の豪雪地帯の夢 ／ twitterの真実",
+    "link": "http://pastorale.jpn.org/2008-04-29-1.html",
+    "date": "2008-05-02T19:29:05.000Z"
+  },
+  {
+    "title": "Google 急上昇ワードを担当した新卒プロジェクトマネージャーの“Googleyな仕事術”",
+    "link": "https://www.itmedia.co.jp/bizid/articles/0804/25/news012.html",
+    "date": "2008-05-02T19:29:00.000Z"
+  },
+  {
+    "title": "未踏プロジェクト公募はじまったらしい - suztomoのはてなダイアリー",
+    "link": "https://suztomo.hatenadiary.org/entry/20080428/1209391471",
+    "date": "2008-05-02T19:28:39.000Z"
+  },
+  {
+    "title": "「コンテンツは無料」の時代にいかに稼ぐかを考える インターネット-最新ニュース:IT-PLUS",
+    "link": "http://it.nikkei.co.jp/internet/news/index.aspx?n=MMIT12000028042008",
+    "date": "2008-05-02T19:28:28.000Z"
+  },
+  {
+    "title": "mod_railsにするとものすごい負荷が",
+    "link": "http://tumblr.suakx.com/post/33480274",
+    "date": "2008-05-02T18:13:20.000Z"
+  },
+  {
+    "title": "たくさん殺す！それで世の中うまくいく！ - Google 検索",
+    "link": "http://www.google.com/search?client=opera&rls=en&q=%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E6%AE%BA%E3%81%99%EF%BC%81%E3%81%9D%E3%82%8C%E3%81%A7%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F%EF%BC%81&sourceid=opera&ie=utf-8&oe=utf-8",
+    "date": "2008-05-02T18:09:18.000Z"
+  },
+  {
+    "title": "こまっとう会議室へようこそ。",
+    "link": "http://www.voiceblog.jp/komatto/",
+    "date": "2008-05-02T18:08:53.000Z"
+  },
+  {
+    "title": "https://twitter.com/ev/statuses/801530348",
+    "link": "https://twitter.com/ev/statuses/801530348",
+    "date": "2008-05-02T17:00:30.000Z"
+  },
+  {
+    "title": "驚きの最新治療─パウダーをつけただけで切断した指が完全に生える : らばQ",
+    "link": "http://labaq.com/archives/51000558.html",
+    "date": "2008-05-02T17:00:09.000Z"
+  },
+  {
+    "title": "http://twitter.com/SFC_KEIO_TC",
+    "link": "http://twitter.com/SFC_KEIO_TC",
+    "date": "2008-05-02T16:48:02.000Z"
+  }
+]
