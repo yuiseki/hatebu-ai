@@ -1,0 +1,3 @@
+[options]
+ignored-tags = ["head", "script", "style", "iframe"]
+heading-style = "setex"
