@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Instantiation",
+    "link": "https://duckdb.org/docs/api/wasm/instantiation.html",
+    "date": "2024-08-31T05:29:53.000Z"
+  },
+  {
+    "title": "GitHub - DallasHoff/sqlocal: SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.",
+    "link": "https://github.com/DallasHoff/sqlocal",
+    "date": "2024-08-31T05:29:24.000Z"
+  },
+  {
+    "title": "SQLocalで拓かれるフロントエンドデータベースの世界",
+    "link": "https://zenn.dev/okayurisotto/articles/36940a5ce7574d",
+    "date": "2024-08-31T05:29:16.000Z"
+  },
+  {
+    "title": "DuckDB Wasm",
+    "link": "https://duckdb.org/docs/api/wasm/overview.html",
+    "date": "2024-08-31T05:28:30.000Z"
+  },
+  {
+    "title": "Vector Similarity Search Extension",
+    "link": "https://duckdb.org/docs/extensions/vss.html",
+    "date": "2024-08-31T05:28:12.000Z"
+  },
+  {
+    "title": "Vector Similarity Search in DuckDB",
+    "link": "https://duckdb.org/2024/05/03/vector-similarity-search-vss.html",
+    "date": "2024-08-31T05:28:09.000Z"
+  },
+  {
+    "title": "GitHub - ShravanSunder/hnswlib-wasm: hnswlib-wasm attempts to create a browser friendly version of hnswlib",
+    "link": "https://github.com/ShravanSunder/hnswlib-wasm",
+    "date": "2024-08-31T05:27:29.000Z"
+  },
+  {
+    "title": "GitHub - Stevenic/vectra: Vectra is a local vector database for Node.js with features similar to pinecone but built using local files.",
+    "link": "https://github.com/Stevenic/vectra",
+    "date": "2024-08-31T05:26:21.000Z"
+  },
+  {
+    "title": "GitHub - yusufhilmi/client-vector-search: A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and other VectorD",
+    "link": "https://github.com/yusufhilmi/client-vector-search",
+    "date": "2024-08-31T05:25:32.000Z"
+  },
+  {
+    "title": "AI廃墟写真集　Ruin's Cat",
+    "link": "https://books.rakuten.co.jp/rb/17931369/",
+    "date": "2024-08-31T03:31:51.000Z"
+  },
+  {
+    "title": "廃墟写真ブログ -Ruin's Cat-",
+    "link": "https://ruins-cat.com/",
+    "date": "2024-08-31T03:31:04.000Z"
+  },
+  {
+    "title": "『AI廃墟写真集 Ruin’s Cat』発売のお知らせ｜東京キララ社",
+    "link": "https://note.com/tokyokirarasha/n/n56ea6916c28d",
+    "date": "2024-08-31T03:29:09.000Z"
+  },
+  {
+    "title": "Rapid Editor",
+    "link": "https://rapideditor.org/",
+    "date": "2024-08-31T01:11:13.000Z"
+  },
+  {
+    "title": "Overture + Kepler.gl | Overture Maps Documentation",
+    "link": "https://docs.overturemaps.org/examples/kepler-gl/",
+    "date": "2024-08-31T01:10:51.000Z"
+  },
+  {
+    "title": "Overture + PMTiles | Overture Maps Documentation",
+    "link": "https://docs.overturemaps.org/examples/overture-tiles/",
+    "date": "2024-08-31T01:10:46.000Z"
+  },
+  {
+    "title": "Overture + Maplibre | Overture Maps Documentation",
+    "link": "https://docs.overturemaps.org/examples/build-a-map/",
+    "date": "2024-08-31T01:10:27.000Z"
+  },
+  {
+    "title": "AWS、Meta、Microsoft等公開のオープン地図データセットを試してみる - ガンマソフト",
+    "link": "https://gammasoft.jp/blog/trying-overture-open-map-dataset/",
+    "date": "2024-08-31T00:56:45.000Z"
+  },
+  {
+    "title": "Overture Mapsの建物データ（7億件）からDuckDBのPython APIで日本のデータだけ取得してみた！ - Qiita",
+    "link": "https://qiita.com/nokonoko_1203/items/bad218fa93ceabec7741",
+    "date": "2024-08-31T00:56:08.000Z"
+  },
+  {
+    "title": "DuckDB | Overture Maps Documentation",
+    "link": "https://docs.overturemaps.org/getting-data/duckdb/",
+    "date": "2024-08-31T00:55:47.000Z"
+  },
+  {
+    "title": "Rodauth: Ruby's Most Advanced Authentication Framework",
+    "link": "http://rodauth.jeremyevans.net/",
+    "date": "2024-08-31T00:29:25.000Z"
+  },
+  {
+    "title": "How to Fine-tune BERT Model for NER on a Custom Dataset",
+    "link": "https://rajarams.medium.com/how-to-fine-tune-bert-model-for-ner-on-a-custom-dataset-946406e355d9",
+    "date": "2024-08-31T00:29:14.000Z"
+  },
+  {
+    "title": "中央テンキーで立体型の自作キーボード「Ambitent」～ビルドガイド&仕様～ - Cerbekos × Keyboard",
+    "link": "https://cerbekos00.hatenablog.com/entry/ambitent",
+    "date": "2024-08-31T00:29:06.000Z"
+  },
+  {
+    "title": "代数幾何学の研究",
+    "link": "https://yab.yomiuri.co.jp/adv/chuo/research/20240829.php",
+    "date": "2024-08-31T00:27:53.000Z"
+  },
+  {
+    "title": "GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.",
+    "link": "https://github.com/dh1011/llm-term",
+    "date": "2024-08-31T00:27:39.000Z"
+  },
+  {
+    "title": "GitHub - project-tsurugi/tsurugidb: Tsurugi - next generation RDB for the new era",
+    "link": "https://github.com/project-tsurugi/tsurugidb",
+    "date": "2024-08-31T00:27:16.000Z"
+  },
+  {
+    "title": "GitHub - atuinsh/atuin: ✨ Magical shell history",
+    "link": "https://github.com/atuinsh/atuin",
+    "date": "2024-08-31T00:27:02.000Z"
+  },
+  {
+    "title": "AI-Powered Coding Assistant | Boost Productivity with CodingAGI",
+    "link": "https://codingagi.net/",
+    "date": "2024-08-31T00:26:36.000Z"
+  },
+  {
+    "title": "Genie | Screenshot to Google Calendar",
+    "link": "https://www.calendargenie.xyz/",
+    "date": "2024-08-31T00:26:27.000Z"
+  },
+  {
+    "title": "Magic",
+    "link": "https://magic.dev/",
+    "date": "2024-08-31T00:23:50.000Z"
+  },
+  {
+    "title": "歯を守るための力のコントロール　Ⅸ : 西宮市の歯科・歯医者ならタニダ歯科医院",
+    "link": "https://www.tanidashika.jp/blog/2022/08/04/116881/",
+    "date": "2024-08-31T00:23:32.000Z"
+  },
+  {
+    "title": "ヨドバシアキバでトイレ行ったら3階から6階まで全部個室閉まってたし並んで..",
+    "link": "https://anond.hatelabo.jp/20240823131921",
+    "date": "2024-08-31T00:23:23.000Z"
+  },
+  {
+    "title": "検索ワードにsite:bakusai.comを加えるだけであら不思議 google:ヨドバシakiba google:..",
+    "link": "https://anond.hatelabo.jp/20240823132137",
+    "date": "2024-08-31T00:23:21.000Z"
+  },
+  {
+    "title": "いい加減シェルスクリプトで [ $? -eq 0 ] や [ $? -ne 0 ] なんて エラー処理を書くのはやめよう！ - Qiita",
+    "link": "https://qiita.com/ko1nksm/items/09bd50e51cc8663a4f0e",
+    "date": "2024-08-31T00:22:55.000Z"
+  },
+  {
+    "title": "display:contents;って何？どんな時に使うと便利なの？ - Qiita",
+    "link": "https://qiita.com/kana_zzzz/items/db2c9acca5a84c7848c2",
+    "date": "2024-08-31T00:22:41.000Z"
+  },
+  {
+    "title": "複雑な動きをする台風 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%99%E3%82%8B%E5%8F%B0%E9%A2%A8",
+    "date": "2024-08-31T00:22:28.000Z"
+  },
+  {
+    "title": "ＷＨＯ、エムポックス検査加速へ緊急審査　メーカーに申請促す",
+    "link": "https://jp.reuters.com/world/us/YOWCROXY5BIQ7L6ETU46YA64X4-2024-08-29/",
+    "date": "2024-08-31T00:22:20.000Z"
+  },
+  {
+    "title": "OpenAIとAnthropic、米政府機関に公開前のAIモデルを提供する契約",
+    "link": "https://www.itmedia.co.jp/news/articles/2408/30/news097.html",
+    "date": "2024-08-31T00:22:10.000Z"
+  },
+  {
+    "title": "【C言語】ハァ… 困ったなァ 「未定義動作」にもう疲れちゃって 全然動けなくてェ… - Qiita",
+    "link": "https://qiita.com/y-tetsu/items/204fb43c3b9ac91827a0",
+    "date": "2024-08-31T00:22:08.000Z"
+  },
+  {
+    "title": "TRIPLE-1が大容量全固体電池を開発、高レート版は3分充電が可能",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09690/",
+    "date": "2024-08-31T00:21:57.000Z"
+  },
+  {
+    "title": "米ＣＩＡ、スウィフトさんコンサートを狙ったテロ攻撃阻止に成功",
+    "link": "https://www.cnn.co.jp/showbiz/35223360.html",
+    "date": "2024-08-31T00:21:54.000Z"
+  },
+  {
+    "title": "Headless UI",
+    "link": "https://headlessui.com/",
+    "date": "2024-08-31T00:21:38.000Z"
+  },
+  {
+    "title": "生SQLに型を手書きする時代は終わり？Prismaの新機能「TypedSQL」",
+    "link": "https://zenn.dev/tockn/articles/0e6eac6220e072",
+    "date": "2024-08-31T00:21:19.000Z"
+  },
+  {
+    "title": "机に伏したまま4日近く誰も気付かず アメリカの銀行事務所で従業員が死亡",
+    "link": "https://news.tv-asahi.co.jp/news_international/articles/000368996.html",
+    "date": "2024-08-31T00:21:12.000Z"
+  },
+  {
+    "title": "GitHub - naftalibeder/porte: A tool for fixing and organizing a Google Takeout photos export.",
+    "link": "https://github.com/naftalibeder/porte",
+    "date": "2024-08-31T00:20:58.000Z"
+  },
+  {
+    "title": "Trailer - HTTP | MDN",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Trailer",
+    "date": "2024-08-31T00:20:53.000Z"
+  },
+  {
+    "title": "YOLOv10",
+    "link": "https://docs.ultralytics.com/ja/models/yolov10/",
+    "date": "2024-08-31T00:20:19.000Z"
+  },
+  {
+    "title": "ソースコードをリポジトリ丸ごとLLMに読んでもらう方法",
+    "link": "https://zenn.dev/karaage0703/articles/0a546df8941057",
+    "date": "2024-08-31T00:19:00.000Z"
+  },
+  {
+    "title": "Windows App general availability coming soon",
+    "link": "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647",
+    "date": "2024-08-31T00:18:10.000Z"
+  },
+  {
+    "title": "木村花さんへの中傷投稿は「捏造」　母と「投稿者」双方の請求退ける：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASS8Z04MKS8ZPTIL00WM.html",
+    "date": "2024-08-31T00:17:20.000Z"
+  },
+  {
+    "title": "トーバルズ氏、「Linux」カーネル開発状況、「Rust」導入、AIを語る",
+    "link": "https://japan.zdnet.com/article/35223295/",
+    "date": "2024-08-30T23:15:42.000Z"
+  },
+  {
+    "title": "ElasticsearchとKibanaがオープンソースライセンスに復帰、Elasticが発表　「AWSがフォークに投資し、市場の混乱は解決された」と",
+    "link": "https://www.itmedia.co.jp/news/articles/2408/30/news130.html",
+    "date": "2024-08-30T23:15:36.000Z"
+  },
+  {
+    "title": "名作ラノベ『狼と香辛料』から見る、実際の中世ヨーロッパはどうだった？　歴史学者が解説 | SYNCHRONOUS シンクロナス",
+    "link": "https://www.synchronous.jp/articles/-/1794",
+    "date": "2024-08-30T23:15:26.000Z"
+  },
+  {
+    "title": "こんなの絶対騙される……古いURL形式を使った巧妙な詐欺リンクの偽装方法が話題に／なるほど、頭いいなぁ【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1620057.html",
+    "date": "2024-08-30T23:15:15.000Z"
+  },
+  {
+    "title": "スコラボ",
+    "link": "https://www.sucolab.jp/",
+    "date": "2024-08-30T22:48:45.000Z"
+  },
+  {
+    "title": "OBSのブラウザソースで動くものを作るあなたへ",
+    "link": "https://zenn.dev/sucotech/articles/9eb68694936d8a",
+    "date": "2024-08-30T22:48:40.000Z"
+  },
+  {
+    "title": "新しい HTML <permission>> 要素のオリジン トライアル  |  Blog  |  Chrome for Developers",
+    "link": "https://developer.chrome.com/blog/permission-element-origin-trial?hl=ja",
+    "date": "2024-08-30T22:47:19.000Z"
+  }
+]
