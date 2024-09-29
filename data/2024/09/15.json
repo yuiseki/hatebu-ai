@@ -1,0 +1,117 @@
+[
+  {
+    "title": "クロスプラットフォーム対応！ MIDI経由のハードウエア制御システムをサっと作る - Qiita",
+    "link": "https://qiita.com/tadfmac/items/6a51ff11c52766b4cf55",
+    "date": "2024-09-15T06:33:32.000Z"
+  },
+  {
+    "title": "個人開発でもADR （アーキテクチャデシジョンレコード）を書くことの利点 - laiso",
+    "link": "https://laiso.hatenablog.com/entry/2024/09/06/022810",
+    "date": "2024-09-15T06:10:48.000Z"
+  },
+  {
+    "title": "GitHub - sinshu/rustysynth: A SoundFont MIDI synthesizer written in pure Rust",
+    "link": "https://github.com/sinshu/rustysynth",
+    "date": "2024-09-15T06:07:33.000Z"
+  },
+  {
+    "title": "GitHub - chris-zen/coremidi: CoreMIDI library for Rust",
+    "link": "https://github.com/chris-zen/coremidi",
+    "date": "2024-09-15T06:04:11.000Z"
+  },
+  {
+    "title": "【無料配布】1983年に製造されたドラムコンピューター Sequential Circuits Drumtraksを忠実に再現したドラムマシン音源 Full Bucket Music「DrumTraqs」リリース & 無料配布中！！",
+    "link": "https://www.freekontaktina.com/2024/09/full-bucket-music-drumtraqs.html",
+    "date": "2024-09-15T05:49:47.000Z"
+  },
+  {
+    "title": "TIDAL - High Fidelity Music Streaming",
+    "link": "https://tidal.com/",
+    "date": "2024-09-15T05:43:50.000Z"
+  },
+  {
+    "title": "Beatsource: Music Streaming Service for DJs",
+    "link": "https://www.beatsource.com/",
+    "date": "2024-09-15T05:43:45.000Z"
+  },
+  {
+    "title": "Beatport",
+    "link": "https://www.beatport.com/",
+    "date": "2024-09-15T05:42:37.000Z"
+  },
+  {
+    "title": "常に即答できるようにすべき質問は何か - Konifar's ZATSU",
+    "link": "https://konifar-zatsu.hatenadiary.jp/entry/2024/09/15/015320",
+    "date": "2024-09-15T05:41:17.000Z"
+  },
+  {
+    "title": "東遊園地近辺のおすすめランチ・カフェ",
+    "link": "https://speakerdeck.com/ysknsid25/dong-you-yuan-di-jin-bian-noosusumerantikahue",
+    "date": "2024-09-15T03:49:17.000Z"
+  },
+  {
+    "title": "台湾はこうして新型コロナを封じ込めた！",
+    "link": "https://medical.nikkeibp.co.jp/leaf/all/series/xhealth2020/202009/567131.html",
+    "date": "2024-09-15T03:38:25.000Z"
+  },
+  {
+    "title": "薬の在庫把握、厚労省がシステム開発へ　供給不安に対応 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUA109B50Q4A710C2000000/",
+    "date": "2024-09-15T03:29:49.000Z"
+  },
+  {
+    "title": "エンジニア1年目で複雑なコードの改善に取り組んだ話",
+    "link": "https://speakerdeck.com/mtnmr/ensinia1nian-mu-tefu-za-nakotonogai-shan-niqu-rizu-ntahua",
+    "date": "2024-09-15T00:38:44.000Z"
+  },
+  {
+    "title": "ドンキ運営会社がMVNO「マジモバ」発表　3GB/770円～で13日開始",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/1623366.html",
+    "date": "2024-09-15T00:36:32.000Z"
+  },
+  {
+    "title": "130万台のAndroid TVからマルウェア検出、確認と対策を",
+    "link": "https://news.mynavi.jp/techplus/article/20240913-3024647/",
+    "date": "2024-09-15T00:35:13.000Z"
+  },
+  {
+    "title": "ペアPdMがとてもいい感じだなと思いながら見ている - Mitsuyuki.Shiiba",
+    "link": "https://bufferings.hatenablog.com/entry/2024/09/13/233224",
+    "date": "2024-09-15T00:22:16.000Z"
+  },
+  {
+    "title": "GitHub - orhun/binsider: Analyze ELF binaries like a boss 😼🕵️‍♂️",
+    "link": "https://github.com/orhun/binsider",
+    "date": "2024-09-15T00:01:41.000Z"
+  },
+  {
+    "title": "オラクル、本物のようなテストデータ群を生成AIが自動生成してくれる「Select AI for Synthetic Data Generation」発表。Oracle CloudWorld 2024",
+    "link": "https://www.publickey1.jp/blog/24/aiselect_ai_for_synthetic_data_generationoracle_cloudworld_2024.html",
+    "date": "2024-09-15T00:00:40.000Z"
+  },
+  {
+    "title": "Docker、新しいサブスクリプションプランを発表 ～ツールアクセスをまとめてシンプルに／「Docker Personal」はこれまで通り無料",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1623585.html",
+    "date": "2024-09-14T23:59:31.000Z"
+  },
+  {
+    "title": "まつもとゆきひろが解説する「マルチコアの活用」",
+    "link": "https://active.nikkeibp.co.jp/atcl/act/19/00484/080100015/",
+    "date": "2024-09-14T23:58:44.000Z"
+  },
+  {
+    "title": "テストカバレッジ100%を追求しても品質は高くならない理由と推奨されるカバレッジの目標値について - Qiita",
+    "link": "https://qiita.com/odekekepeanuts/items/d02eb38e790b93f44728",
+    "date": "2024-09-14T23:58:38.000Z"
+  },
+  {
+    "title": "【独自】インフルエンサー滝沢ガレソ氏が別人を「殺人犯」と発信「人生壊された」誤情報拡散｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/758037",
+    "date": "2024-09-14T23:58:24.000Z"
+  },
+  {
+    "title": "〝安楽死〟は家族のため―― 「死にたい」娘のエゴ、「生きてほしい」親のエゴ　涙ながらに口に入れた致死薬（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/bfb578c731293878e69ccd86319060aff9628e31",
+    "date": "2024-09-14T23:57:39.000Z"
+  }
+]
