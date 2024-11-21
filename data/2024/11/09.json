@@ -1,0 +1,157 @@
+[
+  {
+    "title": "プロンプト進化を用いた日本語選好データセットの構築",
+    "link": "https://zenn.dev/matsuolab/articles/10a1aa9d43e4fe",
+    "date": "2024-11-09T07:28:04.000Z"
+  },
+  {
+    "title": "記事の女性「割り切れない思いはある」　松本人志さん訴え取り下げ：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASSC83PT7SC8UTIL019M.html",
+    "date": "2024-11-09T03:21:22.000Z"
+  },
+  {
+    "title": "行政サービスをプログラミング言語として扱う技術が特許に、Excelデータ化よりも具体的に何がうれしい？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2411/06/news129.html",
+    "date": "2024-11-09T02:30:44.000Z"
+  },
+  {
+    "title": "ベテランの暗黙知をAIに話すだけでマニュアル化！ 生成AIの活用で製造業を支援するエムニ【AIフェスティバル 2024】／24時間AIハッカソン優勝経験チームが今年は協賛側に",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1637989.html",
+    "date": "2024-11-09T02:30:26.000Z"
+  },
+  {
+    "title": "「Amazonにはびこる劣悪USBハブにうんざりした」という理由で開発されたRaspberry Pi公式USBハブを分解してみた、かなり頑丈な作り＆ホスト不要で充電も可能",
+    "link": "https://gigazine.net/news/20241108-raspberry-pi-usb-3-hub/",
+    "date": "2024-11-09T02:16:18.000Z"
+  },
+  {
+    "title": "光量子計算研究チーム | 理化学研究所",
+    "link": "https://www.riken.jp/research/labs/rqc/opt_qtm_comput_res/",
+    "date": "2024-11-09T02:13:49.000Z"
+  },
+  {
+    "title": "\"光量子コンピュータ\" 世界に先駆け実現　理研やNTT",
+    "link": "https://www.watch.impress.co.jp/docs/news/1637960.html",
+    "date": "2024-11-09T02:13:42.000Z"
+  },
+  {
+    "title": "新方式の量子コンピュータを実現",
+    "link": "https://www.riken.jp/pr/news/2024/20241108_2/index.html",
+    "date": "2024-11-09T02:13:36.000Z"
+  },
+  {
+    "title": "光量子状態の高速生成――光通信技術による光量子コンピュータの加速―― | ニュースリリース | NTT",
+    "link": "https://group.ntt/jp/newsrelease/2024/11/01/241101b.html",
+    "date": "2024-11-09T02:13:02.000Z"
+  },
+  {
+    "title": "光方式の国産量子コンピューター完成、理研・NTT　AI計算も照準：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASSC83QB6SC8ULBH00LM.html",
+    "date": "2024-11-09T02:12:43.000Z"
+  },
+  {
+    "title": "室温で稼働可能な国内初「光量子コンピューター」、年内稼働へ…ニューラルネットワークへの応用にも期待",
+    "link": "https://www.yomiuri.co.jp/science/20241108-OYT1T50133/",
+    "date": "2024-11-09T02:12:34.000Z"
+  },
+  {
+    "title": "光量子コンピューターが完成　あらゆる計算可能な汎用型は世界初　理研など",
+    "link": "https://www.sankei.com/article/20241108-35TM5OO7EZLFVBHKNSRSLSO5B4/",
+    "date": "2024-11-09T02:12:05.000Z"
+  },
+  {
+    "title": "Sources - MapLibre Style Spec",
+    "link": "https://maplibre.org/maplibre-style-spec/sources/",
+    "date": "2024-11-09T02:05:00.000Z"
+  },
+  {
+    "title": "GitHub - mapzen/terrarium: A series of experiments on terrain and elevation data for Tangram",
+    "link": "https://github.com/mapzen/terrarium",
+    "date": "2024-11-09T02:04:49.000Z"
+  },
+  {
+    "title": "joerd/docs/formats.md at master · tilezen/joerd",
+    "link": "https://github.com/tilezen/joerd/blob/master/docs/formats.md",
+    "date": "2024-11-09T02:04:28.000Z"
+  },
+  {
+    "title": "MapLibreで使えるいろんなTerrainを作ってみよう | ドクセル",
+    "link": "https://www.docswell.com/s/smellman/KWW4X4-2024-11-08-mugjp-terrain",
+    "date": "2024-11-09T02:03:02.000Z"
+  },
+  {
+    "title": "DEM5Aデータ河川部への適切な標高自動付与手法の開発 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+    "link": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202265458361862",
+    "date": "2024-11-09T01:58:25.000Z"
+  },
+  {
+    "title": "Pythonで国土地理院のDEM5A標高タイルからGeoTiffを作成 | tm23forest.com",
+    "link": "https://tm23forest.com/contents/python-gdal-cyberjapandata-dem5tile",
+    "date": "2024-11-09T01:57:54.000Z"
+  },
+  {
+    "title": "標高データの等高線を作成するためのフリーソフト",
+    "link": "https://piposoft.sakura.ne.jp/software_eldata_r5.0.html",
+    "date": "2024-11-09T01:57:45.000Z"
+  },
+  {
+    "title": "基盤地図情報数値標高モデルについて｜基盤地図情報ダウンロードサービス",
+    "link": "https://fgd.gsi.go.jp/download/ref_dem.html",
+    "date": "2024-11-09T01:57:39.000Z"
+  },
+  {
+    "title": "react-i18next",
+    "link": "https://github.com/i18next/react-i18next",
+    "date": "2024-11-09T01:57:24.000Z"
+  },
+  {
+    "title": "Introduction - react-i18next documentation",
+    "link": "https://react.i18next.com/",
+    "date": "2024-11-09T01:57:15.000Z"
+  },
+  {
+    "title": "地形データ表示｜【中級編】MapLibre GL JSを使ったWebGIS作成",
+    "link": "https://zenn.dev/asahina820/books/071ba23476fdc4/viewer/e3d359",
+    "date": "2024-11-09T01:56:56.000Z"
+  },
+  {
+    "title": "シェーダーで魅せるMapLibreの動的ラスタータイル",
+    "link": "https://speakerdeck.com/satoshi7190/sietatemei-serumaplibrenodong-de-rasutatairu",
+    "date": "2024-11-09T01:49:06.000Z"
+  },
+  {
+    "title": "Raspberry Pi 5にDocker入れてInfluxdbとGrafanaを動かす手順 - arms22",
+    "link": "https://scrapbox.io/arms22/Raspberry_Pi_5%E3%81%ABDocker%E5%85%A5%E3%82%8C%E3%81%A6Influxdb%E3%81%A8Grafana%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E6%89%8B%E9%A0%86",
+    "date": "2024-11-09T01:42:46.000Z"
+  },
+  {
+    "title": "GitHub - orbstack/orbstack: Fast, light, simple Docker containers & Linux machines for macOS",
+    "link": "https://github.com/orbstack/orbstack",
+    "date": "2024-11-09T01:42:29.000Z"
+  },
+  {
+    "title": "OrbStack使ってみた",
+    "link": "https://zenn.dev/daifukuninja/articles/6285b5491a05e5",
+    "date": "2024-11-09T01:42:20.000Z"
+  },
+  {
+    "title": "Devcontainer ってなに？ 実際につかってみる",
+    "link": "https://zenn.dev/conecone/articles/ab8d71d81e64bb",
+    "date": "2024-11-09T01:40:43.000Z"
+  },
+  {
+    "title": "ACM SIGSPATIAL 2024 - Home",
+    "link": "https://sigspatial2024.sigspatial.org/",
+    "date": "2024-11-09T01:28:43.000Z"
+  },
+  {
+    "title": "落合陽一氏が語る「AIの神事で祈る時代」 ～計算と自然が融合した先にあるものは？～【AIフェスティバル 2024】／基調講演レポート",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1637980.html",
+    "date": "2024-11-09T01:28:37.000Z"
+  },
+  {
+    "title": "WISS 2024: 第32回インタラクティブシステムとソフトウェアに関するワークショップ",
+    "link": "https://www.wiss.org/WISS2024/keynote.html",
+    "date": "2024-11-09T01:12:22.000Z"
+  }
+]
