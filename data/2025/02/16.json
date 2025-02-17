@@ -1,0 +1,137 @@
+[
+  {
+    "title": "GitHub - nlp-waseda/JMMLU: 日本語マルチタスク言語理解ベンチマーク Japanese Massive Multitask Language Understanding Benchmark",
+    "link": "https://github.com/nlp-waseda/JMMLU",
+    "date": "2025-02-16T07:25:38.000Z"
+  },
+  {
+    "title": "https://dl.acm.org/doi/10.1007/978-981-96-0847-8_14",
+    "link": "https://dl.acm.org/doi/10.1007/978-981-96-0847-8_14",
+    "date": "2025-02-16T07:16:36.000Z"
+  },
+  {
+    "title": "地理语义理解能力评测基准",
+    "link": "https://modelscope.cn/datasets/iic/GeoGLUE",
+    "date": "2025-02-16T07:16:20.000Z"
+  },
+  {
+    "title": "GeoGLUE: A GeoGraphic Language Understanding Evaluation Benchmark",
+    "link": "https://arxiv.org/abs/2305.06545",
+    "date": "2025-02-16T06:49:14.000Z"
+  },
+  {
+    "title": "SuperGLUE Benchmark",
+    "link": "https://super.gluebenchmark.com/",
+    "date": "2025-02-16T06:47:00.000Z"
+  },
+  {
+    "title": "GLUE Benchmark",
+    "link": "https://gluebenchmark.com/",
+    "date": "2025-02-16T06:46:54.000Z"
+  },
+  {
+    "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+    "link": "https://arxiv.org/abs/1804.07461",
+    "date": "2025-02-16T06:46:21.000Z"
+  },
+  {
+    "title": "GLUE - 英語圏における自然言語処理の標準ベンチマーク｜npaka",
+    "link": "https://note.com/npaka/n/n5086fc19c5fc",
+    "date": "2025-02-16T06:45:51.000Z"
+  },
+  {
+    "title": "JGLUE: 日本語言語理解ベンチマーク",
+    "link": "https://www.jstage.jst.go.jp/article/jnlp/30/1/30_63/_article/-char/ja",
+    "date": "2025-02-16T06:45:06.000Z"
+  },
+  {
+    "title": "Japanese MT-Benchの中身を見てみる｜yutohub",
+    "link": "https://note.com/yutohub/n/n56755bb0e3f8",
+    "date": "2025-02-16T06:43:52.000Z"
+  },
+  {
+    "title": "GitHub - keichan34/jpksj-to-sql: 国土数値情報をSQLデータベースに読み込む",
+    "link": "https://github.com/keichan34/jpksj-to-sql",
+    "date": "2025-02-16T06:11:22.000Z"
+  },
+  {
+    "title": "ModernBERTを理解する",
+    "link": "https://zenn.dev/tossy21/articles/93591442269292",
+    "date": "2025-02-16T06:00:32.000Z"
+  },
+  {
+    "title": "ollama-deep-researcherを試す",
+    "link": "https://zenn.dev/tossy21/articles/1cf011b42a4efd",
+    "date": "2025-02-16T05:59:34.000Z"
+  },
+  {
+    "title": "Browser-use web-uiでollamaを使ってDeepseek-r1を使用する",
+    "link": "https://zenn.dev/tossy21/articles/cd0a97d6c0101d",
+    "date": "2025-02-16T05:59:07.000Z"
+  },
+  {
+    "title": "Browser-useでollamaを使ってローカルLLMを使用する",
+    "link": "https://zenn.dev/tossy21/articles/5b0ff1452af70a",
+    "date": "2025-02-16T05:58:49.000Z"
+  },
+  {
+    "title": "GitHub - unum-cloud/usearch: Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍",
+    "link": "https://github.com/unum-cloud/usearch",
+    "date": "2025-02-16T05:56:47.000Z"
+  },
+  {
+    "title": "AIの力を借りてスライドを簡単に生成しようとしてみた - Qiita",
+    "link": "https://qiita.com/nakaizumi_slj/items/1470b7adf0f9d72ed672",
+    "date": "2025-02-16T05:49:41.000Z"
+  },
+  {
+    "title": "Marp×Cursor(Claude)でスライドと台本作成をAIに任せる｜yuki@AIキャラ開発P",
+    "link": "https://note.com/yuki_tech/n/n9de6eca93d5f",
+    "date": "2025-02-16T05:49:33.000Z"
+  },
+  {
+    "title": "45分登壇で75%効率化したMarkdown+生成AIスライド作成術 - Qiita",
+    "link": "https://qiita.com/piyonakajima/items/1084e2f2ba765e855271",
+    "date": "2025-02-16T05:49:26.000Z"
+  },
+  {
+    "title": "おいでよMarkdown界隈へ -生成AIでスライド作り-",
+    "link": "https://zenn.dev/yasuna/articles/56c949ec54d2f6",
+    "date": "2025-02-16T05:49:21.000Z"
+  },
+  {
+    "title": "生成AIにスライドを作らせる「Marp記法」で、資料作成の自動化を試みるべし｜安達裕哉",
+    "link": "https://note.com/yuyadachi/n/n7f9622df1443",
+    "date": "2025-02-16T05:49:10.000Z"
+  },
+  {
+    "title": "SynapseRack",
+    "link": "https://synapserack.com/",
+    "date": "2025-02-16T04:28:03.000Z"
+  },
+  {
+    "title": "Slackの会話からドキュメントを育てるGo製AIエージェント「Docgent」を開発しました",
+    "link": "https://zenn.dev/kecy/articles/84509c63e76218",
+    "date": "2025-02-16T04:19:50.000Z"
+  },
+  {
+    "title": "The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey",
+    "link": "https://arxiv.org/abs/2404.11584",
+    "date": "2025-02-16T01:31:27.000Z"
+  },
+  {
+    "title": "ハッキングの世界に迫る～攻撃者の思考で考えるセキュリティ～",
+    "link": "https://speakerdeck.com/nomizone/hatukingunoshi-jie-nipo-ru-gong-ji-zhe-nosi-kao-dekao-erusekiyuritei",
+    "date": "2025-02-16T01:31:21.000Z"
+  },
+  {
+    "title": "買わせる心理学　進化する本能マーケティング",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/01106/",
+    "date": "2025-02-16T01:19:36.000Z"
+  },
+  {
+    "title": "How mixi2 Uses TiDB for SNS Scalability and Performance",
+    "link": "https://speakerdeck.com/kanmo/how-mixi2-uses-tidb-for-sns-scalability-and-performance",
+    "date": "2025-02-16T01:00:09.000Z"
+  }
+]
