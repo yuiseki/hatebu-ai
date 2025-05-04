@@ -94,7 +94,7 @@ function App() {
           <div className="year-details">
             {sortedValidYears.map((year) => {
               const maxFreq = getYearMaxFrequency(year);
-              const maxHeight = 100; // 最大の高さ (px)
+              const maxHeight = 200; // 最大の高さ (px)
 
               return (
                 <div key={year} className="year-card">
@@ -107,7 +107,7 @@ function App() {
                         .map(([uploads, days]) => {
                           // 最頻値に対する相対的な高さを計算
                           const relativeHeight = (days / maxFreq) * maxHeight;
-                          const height = Math.max(5, relativeHeight); // 最小の高さは5px
+                          const height = Math.max(1, relativeHeight); // 最小の高さは1px
 
                           return (
                             <div
