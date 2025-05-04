@@ -40,3 +40,122 @@
 .read-the-docs {
   color: #888;
 }
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #444;
+}
+
+.error {
+  color: #e74c3c;
+  padding: 10px;
+  background-color: #fce4e4;
+  border-radius: 4px;
+}
+
+.histogram-container {
+  margin-top: 20px;
+}
+
+.histogram-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+.histogram-table th,
+.histogram-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.histogram-table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+.histogram-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.histogram-table tr:hover {
+  background-color: #eaf2ff;
+}
+
+.year-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.year-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  min-width: 300px;
+  flex: 1;
+}
+
+.year-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #2c3e50;
+}
+
+.histogram-bars {
+  display: flex;
+  align-items: flex-end;
+  height: 150px;
+  gap: 2px;
+  overflow-x: auto;
+  padding-bottom: 25px;
+}
+
+.histogram-bar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 3px;
+  min-width: 15px;
+}
+
+.histogram-bar {
+  width: 15px;
+  background-color: #3498db;
+  border-radius: 2px 2px 0 0;
+  transition: all 0.2s ease;
+}
+
+.histogram-bar:hover {
+  background-color: #2980b9;
+}
+
+.uploads-label {
+  font-size: 10px;
+  color: #777;
+  transform: rotate(-90deg);
+  margin-top: 5px;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .year-card {
+    min-width: 100%;
+  }
+}
