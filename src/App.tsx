@@ -90,7 +90,7 @@ function App() {
 
       {histogramData && (
         <div className="histogram-container">
-          <h2>年ごとの投稿数分布</h2>
+          <h2>年ごとのブックマーク数分布</h2>
           <div className="year-details">
             {sortedValidYears.map((year) => {
               const maxFreq = getYearMaxFrequency(year);
@@ -119,9 +119,7 @@ function App() {
                                 style={{
                                   height: `${height}px`,
                                 }}
-                                title={`${uploads}件の投稿: ${days}日 (最頻値の${Math.round(
-                                  (days / maxFreq) * 100
-                                )}%)`}
+                                title={`${uploads}件の投稿: ${days}日`}
                               ></div>
                             </div>
                           );
