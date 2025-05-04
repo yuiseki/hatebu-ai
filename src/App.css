@@ -124,19 +124,18 @@ h2 {
   height: 150px;
   gap: 2px;
   overflow-x: auto;
-  padding-bottom: 25px;
 }
 
 .histogram-bar-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 2px; /* 3pxから2pxに縮小 */
-  min-width: 8px; /* 15pxから8pxに縮小 */
+  margin-right: 1px; /* 3pxから1pxに縮小 */
+  min-width: 4px; /* 15pxから4pxに縮小 */
 }
 
 .histogram-bar {
-  width: 8px; /* 15pxから8pxに縮小 */
+  width: 4px; /* 15pxから4pxに縮小 */
   background-color: #3498db;
   border-radius: 2px 2px 0 0;
   transition: all 0.2s ease;
@@ -144,14 +143,6 @@ h2 {
 
 .histogram-bar:hover {
   background-color: #2980b9;
-}
-
-.uploads-label {
-  font-size: 10px;
-  color: #777;
-  transform: rotate(-90deg);
-  margin-top: 5px;
-  white-space: nowrap;
 }
 
 @media (max-width: 768px) {

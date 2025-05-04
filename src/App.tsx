@@ -123,7 +123,6 @@ function App() {
                                   (days / maxFreq) * 100
                                 )}%)`}
                               ></div>
-                              <div className="uploads-label">{uploads}</div>
                             </div>
                           );
                         })}
