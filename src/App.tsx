@@ -83,7 +83,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>はてなブックマーク 投稿数ヒストグラム</h1>
+      <h1>はてなブックマーク ブックマーク数ヒストグラム</h1>
 
       {loading && <p>データを読み込み中...</p>}
       {error && <p className="error">エラー: {error}</p>}
