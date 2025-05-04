@@ -98,7 +98,7 @@ h2 {
 
 .year-details {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column; /* 縦に並べるように変更 */
   gap: 20px;
 }
 
@@ -108,8 +108,8 @@ h2 {
   padding: 15px;
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  min-width: 300px;
-  flex: 1;
+  width: 100%; /* 幅を100%に設定 */
+  max-width: 100%; /* 最大幅も100%に設定 */
 }
 
 .year-card h3 {
@@ -131,12 +131,12 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 3px;
-  min-width: 15px;
+  margin-right: 2px; /* 3pxから2pxに縮小 */
+  min-width: 8px; /* 15pxから8pxに縮小 */
 }
 
 .histogram-bar {
-  width: 15px;
+  width: 8px; /* 15pxから8pxに縮小 */
   background-color: #3498db;
   border-radius: 2px 2px 0 0;
   transition: all 0.2s ease;
@@ -157,5 +157,6 @@ h2 {
 @media (max-width: 768px) {
   .year-card {
     min-width: 100%;
+    max-width: 100%; /* モバイル表示時は100%幅に */
   }
 }
