@@ -163,3 +163,7 @@ h2 {
 .bookmark-list {
   min-height: 90vh;
 }
+
+.bookmark-favicon {
+  margin-right: 8px;
+}
