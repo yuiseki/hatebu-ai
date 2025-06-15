@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Autonomous GIS as infrastructure? – Geoinformation and Big Data Research Laboratory",
+    "link": "https://giscience.psu.edu/2025/04/13/autonomous-gis-as-infrastructure/",
+    "date": "2025-06-13T09:58:02.000Z"
+  },
+  {
+    "title": "From PowerPoint UI Sketches to Web-Based Applications: Pattern-Driven Code Generation for GIS Dashboard Development Using Knowledge-Augmented LLMs, Context-Aware Visual Prompting, and the React Framework",
+    "link": "https://arxiv.org/abs/2502.08756",
+    "date": "2025-06-13T09:56:53.000Z"
+  },
+  {
+    "title": "GeoBenchX: Benchmarking LLMs for Multistep Geospatial Tasks",
+    "link": "https://arxiv.org/abs/2503.18129",
+    "date": "2025-06-13T09:56:41.000Z"
+  },
+  {
+    "title": "Multi-Agent Geospatial Copilots for Remote Sensing Workflows",
+    "link": "https://arxiv.org/abs/2501.16254",
+    "date": "2025-06-13T09:56:26.000Z"
+  },
+  {
+    "title": "Institutional Books 1.0: A 242B token dataset from Harvard Library's collections, refined for accuracy and usability",
+    "link": "https://arxiv.org/abs/2506.08300",
+    "date": "2025-06-13T09:48:34.000Z"
+  },
+  {
+    "title": "ツイート地図 @tomo3141592653",
+    "link": "https://tomo3141592653.github.io/twitter-map-archive/",
+    "date": "2025-06-13T07:00:38.000Z"
+  },
+  {
+    "title": "GitHub - Continual-Intelligence/SEAL: Self-Adapting Language Models",
+    "link": "https://github.com/Continual-Intelligence/SEAL",
+    "date": "2025-06-13T06:27:54.000Z"
+  },
+  {
+    "title": "Self-Adapting Language Models",
+    "link": "https://jyopari.github.io/posts/seal",
+    "date": "2025-06-13T06:27:46.000Z"
+  },
+  {
+    "title": "https://arxiv.org/abs/2506.10943",
+    "link": "https://arxiv.org/abs/2506.10943",
+    "date": "2025-06-13T06:27:41.000Z"
+  },
+  {
+    "title": "著作権フリーな98万冊の書籍からテキストを抽出したデータセット「Institutional Books」をハーバード大学が公開、Googleブックスの書籍インデックス化プロジェクトのデータを活用",
+    "link": "https://gigazine.net/news/20250613-institutional-books-google-harvard/",
+    "date": "2025-06-13T01:34:16.000Z"
+  },
+  {
+    "title": "GitHub - SakanaAI/text-to-lora: Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input",
+    "link": "https://github.com/SakanaAI/text-to-lora",
+    "date": "2025-06-13T01:25:25.000Z"
+  },
+  {
+    "title": "Text-to-LoRA: Instant Transformer Adaption",
+    "link": "https://arxiv.org/abs/2506.06105",
+    "date": "2025-06-13T01:25:18.000Z"
+  },
+  {
+    "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+    "link": "https://arxiv.org/abs/2505.22954",
+    "date": "2025-06-13T01:14:34.000Z"
+  },
+  {
+    "title": "Next.js 15.1+ is unusable outside of Vercel",
+    "link": "https://omarabid.com/nextjs-vercel",
+    "date": "2025-06-13T01:13:53.000Z"
+  },
+  {
+    "title": "Windsurf、AI統合型ブラウザ「Windsurf Browser」を発表",
+    "link": "https://codezine.jp/article/detail/21713",
+    "date": "2025-06-13T01:12:04.000Z"
+  },
+  {
+    "title": "MCPの概念とLINE Messaging APIを利用したMCPサーバー構築事例の紹介",
+    "link": "https://techblog.lycorp.co.jp/ja/20250612a",
+    "date": "2025-06-13T01:11:57.000Z"
+  },
+  {
+    "title": "happy-css-modulesからcss-modules-kitに移行しました | PR TIMES 開発者ブログ",
+    "link": "https://developers.prtimes.jp/2025/06/10/migrate-from-happy-css-modules-to-css-modules-kit/",
+    "date": "2025-06-13T01:09:51.000Z"
+  },
+  {
+    "title": "アプリ乱立問題を解決する新たな手法「ミニプログラム」を導入した話 ｜AEON TECH HUB",
+    "link": "https://engineer-recruiting.aeon.info/aeon-tech-hub/interview_miniprogram",
+    "date": "2025-06-13T01:07:54.000Z"
+  },
+  {
+    "title": "bplustree.app",
+    "link": "https://bplustree.app/",
+    "date": "2025-06-13T01:06:53.000Z"
+  },
+  {
+    "title": "Local Tiny Agents: MCP Agents on Ryzen AI with Lemonade Server",
+    "link": "https://www.amd.com/ja/developer/resources/technical-articles/2025/local-tiny-agents--mcp-agents-on-ryzen-ai-with-lemonade-server.html",
+    "date": "2025-06-13T01:06:40.000Z"
+  },
+  {
+    "title": "Cursor で100日間アプリを作り続けた中で、全然うまくいかなかったこと - フラミナル",
+    "link": "https://blog.framinal.life/entry/2025/06/12/143349",
+    "date": "2025-06-13T01:05:53.000Z"
+  },
+  {
+    "title": "Text-to-SQLの評価データセットを作って最新LLMモデルの性能評価をしてみた",
+    "link": "https://speakerdeck.com/gotalab555/text-to-sqlnoping-jia-detasetutowozuo-tutezui-xin-llmmoderunoxing-neng-ping-jia-wositemita?slide=15",
+    "date": "2025-06-13T01:05:39.000Z"
+  },
+  {
+    "title": "Claude Code 版 Orchestaror で複雑なタスクをステップ実行する",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-orchestrator",
+    "date": "2025-06-13T00:43:18.000Z"
+  }
+]
