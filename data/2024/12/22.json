@@ -1,0 +1,587 @@
+[
+  {
+    "title": "TIMELINE_PAPER.md",
+    "link": "https://gist.github.com/yuiseki/4f438cf8f24ad908052537159b95f682",
+    "date": "2024-12-22T13:35:18.000Z"
+  },
+  {
+    "title": "Global Disaster Alert and Coordination System - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Global_Disaster_Alert_and_Coordination_System",
+    "date": "2024-12-22T10:50:24.000Z"
+  },
+  {
+    "title": "GitHub - ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model: Multimodal Large Language Models for Remote Sensing (RS-MLLMs): A Survey",
+    "link": "https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model",
+    "date": "2024-12-22T08:40:07.000Z"
+  },
+  {
+    "title": "GitHub - HosamGen/GeoLLaVA: Code base and information about the GeoLLaVA project",
+    "link": "https://github.com/HosamGen/GeoLLaVA",
+    "date": "2024-12-22T06:00:40.000Z"
+  },
+  {
+    "title": "GeoLingIt Shared Task",
+    "link": "https://sites.google.com/view/geolingit",
+    "date": "2024-12-22T05:34:41.000Z"
+  },
+  {
+    "title": "GitHub - AI-team-UoA/GeoQA",
+    "link": "https://github.com/AI-team-UoA/GeoQA",
+    "date": "2024-12-22T04:45:37.000Z"
+  },
+  {
+    "title": "MBZUAI/GeoChat_Instruct · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct",
+    "date": "2024-12-22T04:19:35.000Z"
+  },
+  {
+    "title": "GitHub - mbzuai-oryx/GeoChat: [CVPR 2024 🔥] GeoChat, the first grounded Large Vision Language Model for Remote Sensing",
+    "link": "https://github.com/mbzuai-oryx/GeoChat",
+    "date": "2024-12-22T04:19:27.000Z"
+  },
+  {
+    "title": "GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing",
+    "link": "https://arxiv.org/abs/2410.19552",
+    "date": "2024-12-22T04:18:42.000Z"
+  },
+  {
+    "title": "GitHub - ShramanPramanick/Transformer_Based_Geo-localization: This is the repository for ECCV2022 paper titled: \"Where in the World is this Image? Transformer-based Geo-localization in the Wild\".",
+    "link": "https://github.com/ShramanPramanick/Transformer_Based_Geo-localization",
+    "date": "2024-12-22T04:13:38.000Z"
+  },
+  {
+    "title": "GitHub - gmberton/CosPlace: Official code for CVPR 2022 paper \"Rethinking Visual Geo-localization for Large-Scale Applications\"",
+    "link": "https://github.com/gmberton/CosPlace",
+    "date": "2024-12-22T04:12:07.000Z"
+  },
+  {
+    "title": "Rethinking Visual Geo-localization for Large-Scale Applications",
+    "link": "https://arxiv.org/abs/2204.02287",
+    "date": "2024-12-22T04:11:59.000Z"
+  },
+  {
+    "title": "Where in the World is this Image? Transformer-based Geo-localization in the Wild",
+    "link": "https://arxiv.org/abs/2204.13861",
+    "date": "2024-12-22T04:10:58.000Z"
+  },
+  {
+    "title": "CityGuessr68k",
+    "link": "https://www.crcv.ucf.edu/data1/CityGuessr68k/",
+    "date": "2024-12-22T04:10:19.000Z"
+  },
+  {
+    "title": "GitHub - ParthPK/CityGuessr: Official Repository for the paper CityGuessr: City-Level Video Geo-Localization on a Global Scale",
+    "link": "https://github.com/ParthPK/CityGuessr",
+    "date": "2024-12-22T04:10:11.000Z"
+  },
+  {
+    "title": "CityGuessr: City-Level Video Geo-Localization on a Global Scale",
+    "link": "https://arxiv.org/abs/2411.06344",
+    "date": "2024-12-22T04:09:46.000Z"
+  },
+  {
+    "title": "Context Aware Object Geotagging",
+    "link": "https://arxiv.org/abs/2108.06302",
+    "date": "2024-12-22T04:09:13.000Z"
+  },
+  {
+    "title": "Image-Based Geolocation Using Large Vision-Language Models",
+    "link": "https://arxiv.org/abs/2408.09474",
+    "date": "2024-12-22T04:08:02.000Z"
+  },
+  {
+    "title": "AutoGeoLabel: Automated Label Generation for Geospatial Machine Learning",
+    "link": "https://arxiv.org/abs/2202.00067",
+    "date": "2024-12-22T04:05:11.000Z"
+  },
+  {
+    "title": "DeepShovel: An Online Collaborative Platform for Data Extraction in Geoscience Literature with AI Assistance",
+    "link": "https://arxiv.org/abs/2202.10163",
+    "date": "2024-12-22T04:04:47.000Z"
+  },
+  {
+    "title": "FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing",
+    "link": "https://arxiv.org/abs/2003.03697",
+    "date": "2024-12-22T04:02:04.000Z"
+  },
+  {
+    "title": "Geo-Information Harvesting from Social Media Data",
+    "link": "https://arxiv.org/abs/2211.00543",
+    "date": "2024-12-22T04:01:15.000Z"
+  },
+  {
+    "title": "Discovering Geo-dependent Stories by Combining Density-based Clustering and Thread-based Aggregation techniques",
+    "link": "https://arxiv.org/abs/2312.11076",
+    "date": "2024-12-22T04:00:08.000Z"
+  },
+  {
+    "title": "SE-KGE: A Location-Aware Knowledge Graph Embedding Model for Geographic Question Answering and Spatial Semantic Lifting",
+    "link": "https://arxiv.org/abs/2004.14171",
+    "date": "2024-12-22T03:59:08.000Z"
+  },
+  {
+    "title": "Learning Geospatial Region Embedding with Heterogeneous Graph",
+    "link": "https://arxiv.org/abs/2405.14135",
+    "date": "2024-12-22T03:57:58.000Z"
+  },
+  {
+    "title": "GitHub - ylqi/HAF: This repo is the PyTorch implementation of ICASSP2021 paper \"HIERARCHICAL ATTENTION FUSION FOR GEO-LOCALIZATION\"",
+    "link": "https://github.com/ylqi/HAF",
+    "date": "2024-12-22T03:56:24.000Z"
+  },
+  {
+    "title": "Hierarchical Attention Fusion for Geo-Localization",
+    "link": "https://arxiv.org/abs/2102.09186",
+    "date": "2024-12-22T03:56:05.000Z"
+  },
+  {
+    "title": "GitHub - mever-team/visloc-estimation: Authors official PyTorch implementation of the \"Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation\" [ICMR 2021] and \"Leveraging Selective Prediction for Reliable Image Geol",
+    "link": "https://github.com/mever-team/visloc-estimation",
+    "date": "2024-12-22T03:55:46.000Z"
+  },
+  {
+    "title": "Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation",
+    "link": "https://arxiv.org/abs/2105.07645",
+    "date": "2024-12-22T03:55:29.000Z"
+  },
+  {
+    "title": "GitHub - mever-team/visloc-estimation: Authors official PyTorch implementation of the \"Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation\" [ICMR 2021] and \"Leveraging Selective Prediction for Reliable Image Geol",
+    "link": "https://github.com/mever-team/visloc-estimation",
+    "date": "2024-12-22T03:55:05.000Z"
+  },
+  {
+    "title": "Leveraging Selective Prediction for Reliable Image Geolocation",
+    "link": "https://arxiv.org/abs/2111.11952",
+    "date": "2024-12-22T03:54:45.000Z"
+  },
+  {
+    "title": "Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes",
+    "link": "https://arxiv.org/abs/2303.04249",
+    "date": "2024-12-22T03:53:17.000Z"
+  },
+  {
+    "title": "GitHub - Applied-Machine-Learning-Lab/G3: Code repository for paper: \"G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models\"",
+    "link": "https://github.com/Applied-Machine-Learning-Lab/G3",
+    "date": "2024-12-22T03:52:44.000Z"
+  },
+  {
+    "title": "G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models",
+    "link": "https://arxiv.org/abs/2405.14702",
+    "date": "2024-12-22T03:52:25.000Z"
+  },
+  {
+    "title": "GitHub - g-luo/geolocation_via_guidebook_grounding: G^3: Geolocation via Guidebook Grounding, Findings of EMNLP 2022",
+    "link": "https://github.com/g-luo/geolocation_via_guidebook_grounding",
+    "date": "2024-12-22T03:51:41.000Z"
+  },
+  {
+    "title": "G^3: Geolocation via Guidebook Grounding",
+    "link": "https://arxiv.org/abs/2211.15521",
+    "date": "2024-12-22T03:51:27.000Z"
+  },
+  {
+    "title": "Multilingual News Location Detection using an Entity-Based Siamese Network with Semi-Supervised Contrastive Learning and Knowledge Base",
+    "link": "https://arxiv.org/abs/2212.11856",
+    "date": "2024-12-22T03:50:31.000Z"
+  },
+  {
+    "title": "CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement",
+    "link": "https://arxiv.org/abs/2311.11604",
+    "date": "2024-12-22T03:49:07.000Z"
+  },
+  {
+    "title": "GitHub - npupilab/CurriculumLoc: Geolocalization via Multi-Stage Refinement",
+    "link": "https://github.com/npupilab/CurriculumLoc",
+    "date": "2024-12-22T03:49:00.000Z"
+  },
+  {
+    "title": "Location reference recognition from texts: A survey and comparison",
+    "link": "https://arxiv.org/abs/2207.01683",
+    "date": "2024-12-22T03:48:12.000Z"
+  },
+  {
+    "title": "Challenges in data-based geospatial modeling for environmental research and practice",
+    "link": "https://arxiv.org/abs/2311.11057",
+    "date": "2024-12-22T03:46:58.000Z"
+  },
+  {
+    "title": "Urban context and delivery performance: Modelling service time for cargo bikes and vans across diverse urban environments",
+    "link": "https://arxiv.org/abs/2409.06730",
+    "date": "2024-12-22T03:45:17.000Z"
+  },
+  {
+    "title": "GeoAI in resource-constrained environments",
+    "link": "https://arxiv.org/abs/2408.17361",
+    "date": "2024-12-22T03:44:50.000Z"
+  },
+  {
+    "title": "Beyond Words: Evaluating Large Language Models in Transportation Planning",
+    "link": "https://arxiv.org/abs/2409.14516",
+    "date": "2024-12-22T03:44:17.000Z"
+  },
+  {
+    "title": "Building Damage Assessment in Conflict Zones: A Deep Learning Approach Using Geospatial Sub-Meter Resolution Data",
+    "link": "https://arxiv.org/abs/2410.04802",
+    "date": "2024-12-22T03:43:37.000Z"
+  },
+  {
+    "title": "Geometric Feature Enhanced Knowledge Graph Embedding and Spatial Reasoning",
+    "link": "https://arxiv.org/abs/2410.18345",
+    "date": "2024-12-22T03:42:02.000Z"
+  },
+  {
+    "title": "Evaluating the Effectiveness of Large Language Models in Representing Textual Descriptions of Geometry and Spatial Relations",
+    "link": "https://arxiv.org/abs/2307.03678",
+    "date": "2024-12-22T03:40:55.000Z"
+  },
+  {
+    "title": "Foundation Models for Generalist Geospatial Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2310.18660",
+    "date": "2024-12-22T03:39:46.000Z"
+  },
+  {
+    "title": "GitHub - amazon-science/geographical-erasure-in-language-generation: Code accompanying 'Geographical Erasure in Language Generation', EMNLP '23 Findings.",
+    "link": "https://github.com/amazon-science/geographical-erasure-in-language-generation",
+    "date": "2024-12-22T03:37:44.000Z"
+  },
+  {
+    "title": "Geographical Erasure in Language Generation",
+    "link": "https://arxiv.org/abs/2310.14777",
+    "date": "2024-12-22T03:36:46.000Z"
+  },
+  {
+    "title": "GitHub - manestay/borderlines: Repository for the NAACL 2024 paper \"This Land is {Your, My} Land: Evaluating Geopolitical Biases in Language Models\"",
+    "link": "https://github.com/manestay/borderlines",
+    "date": "2024-12-22T03:36:13.000Z"
+  },
+  {
+    "title": "This Land is {Your, My} Land: Evaluating Geopolitical Biases in Language Models",
+    "link": "https://arxiv.org/abs/2305.14610",
+    "date": "2024-12-22T03:35:19.000Z"
+  },
+  {
+    "title": "Geographic and Geopolitical Biases of Language Models",
+    "link": "https://arxiv.org/abs/2212.10408",
+    "date": "2024-12-22T03:34:53.000Z"
+  },
+  {
+    "title": "Large Language Models are Geographically Biased",
+    "link": "https://arxiv.org/abs/2402.02680",
+    "date": "2024-12-22T03:34:15.000Z"
+  },
+  {
+    "title": "Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping",
+    "link": "https://arxiv.org/abs/2401.08787",
+    "date": "2024-12-22T03:33:15.000Z"
+  },
+  {
+    "title": "GitHub - IBM/remote-sensing-image-retrieval: Multi-Spectral Remote Sensing Image Retrieval using Geospatial Foundation Models",
+    "link": "https://github.com/IBM/remote-sensing-image-retrieval",
+    "date": "2024-12-22T03:32:04.000Z"
+  },
+  {
+    "title": "Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models",
+    "link": "https://arxiv.org/abs/2403.02059",
+    "date": "2024-12-22T03:31:46.000Z"
+  },
+  {
+    "title": "GitHub - ServiceNow/geo-bench: GEO-Bench: Toward Foundation Models for Earth Monitoring",
+    "link": "https://github.com/ServiceNow/geo-bench",
+    "date": "2024-12-22T03:30:31.000Z"
+  },
+  {
+    "title": "GEO-Bench: Toward Foundation Models for Earth Monitoring",
+    "link": "https://arxiv.org/abs/2306.03831",
+    "date": "2024-12-22T03:30:08.000Z"
+  },
+  {
+    "title": "Improving QA Model Performance with Cartographic Inoculation",
+    "link": "https://arxiv.org/abs/2401.17498",
+    "date": "2024-12-22T03:28:23.000Z"
+  },
+  {
+    "title": "Evaluating and Benchmarking Foundation Models for Earth Observation and Geospatial AI",
+    "link": "https://arxiv.org/abs/2406.18295",
+    "date": "2024-12-22T03:27:40.000Z"
+  },
+  {
+    "title": "https://dl.acm.org/doi/10.1145/3681763.3698478",
+    "link": "https://dl.acm.org/doi/10.1145/3681763.3698478",
+    "date": "2024-12-22T03:25:32.000Z"
+  },
+  {
+    "title": "Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi's domain adaptability",
+    "link": "https://arxiv.org/abs/2409.00489",
+    "date": "2024-12-22T03:25:09.000Z"
+  },
+  {
+    "title": "Assessment of a new GeoAI foundation model for flood inundation mapping",
+    "link": "https://arxiv.org/abs/2309.14500",
+    "date": "2024-12-22T03:24:04.000Z"
+  },
+  {
+    "title": "GitHub - jonathan-roberts1/charting-new-territories: Accompanying repo for 'Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs' project",
+    "link": "https://github.com/jonathan-roberts1/charting-new-territories",
+    "date": "2024-12-22T03:23:36.000Z"
+  },
+  {
+    "title": "Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs",
+    "link": "https://arxiv.org/abs/2311.14656",
+    "date": "2024-12-22T03:23:12.000Z"
+  },
+  {
+    "title": "GitHub - zytx121/Awesome-VLGFM: A Survey on Vision-Language Geo-Foundation Models (VLGFMs)",
+    "link": "https://github.com/zytx121/Awesome-VLGFM",
+    "date": "2024-12-22T03:22:35.000Z"
+  },
+  {
+    "title": "Towards Vision-Language Geo-Foundation Model: A Survey",
+    "link": "https://arxiv.org/abs/2406.09385",
+    "date": "2024-12-22T03:22:10.000Z"
+  },
+  {
+    "title": "On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2304.06798",
+    "date": "2024-12-22T03:21:22.000Z"
+  },
+  {
+    "title": "Towards Geospatial Foundation Models via Continual Pretraining",
+    "link": "https://arxiv.org/abs/2302.04476",
+    "date": "2024-12-22T03:18:32.000Z"
+  },
+  {
+    "title": "A General Purpose Neural Architecture for Geospatial Systems",
+    "link": "https://arxiv.org/abs/2211.02348",
+    "date": "2024-12-22T03:17:40.000Z"
+  },
+  {
+    "title": "Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning",
+    "link": "https://arxiv.org/abs/2408.12116",
+    "date": "2024-12-22T03:16:40.000Z"
+  },
+  {
+    "title": "Geographic Adaptation of Pretrained Language Models",
+    "link": "https://arxiv.org/abs/2203.08565",
+    "date": "2024-12-22T03:16:37.000Z"
+  },
+  {
+    "title": "Leveraging Large Language Models to Geolocate Linguistic Variations in Social Media Posts",
+    "link": "https://arxiv.org/abs/2407.16047",
+    "date": "2024-12-22T03:16:34.000Z"
+  },
+  {
+    "title": "Where on Earth Do Users Say They Are?: Geo-Entity Linking for Noisy Multilingual User Input",
+    "link": "https://arxiv.org/abs/2404.18784",
+    "date": "2024-12-22T03:16:32.000Z"
+  },
+  {
+    "title": "Fine-grained Geolocation Prediction of Tweets with Human Machine Collaboration",
+    "link": "https://arxiv.org/abs/2106.13411",
+    "date": "2024-12-22T03:16:28.000Z"
+  },
+  {
+    "title": "Land Use Detection & Identification using Geo-tagged Tweets",
+    "link": "https://arxiv.org/abs/2101.03337",
+    "date": "2024-12-22T03:16:08.000Z"
+  },
+  {
+    "title": "Correctness Comparison of ChatGPT-4, Gemini, Claude-3, and Copilot for Spatial Tasks",
+    "link": "https://arxiv.org/abs/2401.02404",
+    "date": "2024-12-22T03:06:57.000Z"
+  },
+  {
+    "title": "Fugu-MT: arxivの論文翻訳(概要)",
+    "link": "https://fugumt.com/fugumt/paper/index.html",
+    "date": "2024-12-22T03:06:25.000Z"
+  },
+  {
+    "title": "ぷるーふおぶこんせぷと | いろいろやったことをまとめたBlog",
+    "link": "https://staka.jp/wordpress/",
+    "date": "2024-12-22T03:06:19.000Z"
+  },
+  {
+    "title": "Self-supervised Learning for Geospatial AI: A Survey",
+    "link": "https://arxiv.org/abs/2408.12133",
+    "date": "2024-12-22T02:47:22.000Z"
+  },
+  {
+    "title": "GitHub - remyxai/VQASynth: Compose multimodal datasets 🎹",
+    "link": "https://github.com/remyxai/VQASynth",
+    "date": "2024-12-22T02:24:33.000Z"
+  },
+  {
+    "title": "Configuration Files - ESLint - Pluggable JavaScript Linter",
+    "link": "https://eslint.org/docs/latest/use/configure/configuration-files",
+    "date": "2024-12-22T00:55:33.000Z"
+  },
+  {
+    "title": "Genesis 入門 (1) - 事始め｜npaka",
+    "link": "https://note.com/npaka/n/n07b448c74613",
+    "date": "2024-12-22T00:38:42.000Z"
+  },
+  {
+    "title": "GitHub - Genesis-Embodied-AI/Genesis: A generative world for general-purpose robotics & embodied AI learning.",
+    "link": "https://github.com/Genesis-Embodied-AI/Genesis",
+    "date": "2024-12-22T00:38:11.000Z"
+  },
+  {
+    "title": "音元出版 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E5%85%83%E5%87%BA%E7%89%88",
+    "date": "2024-12-22T00:24:41.000Z"
+  },
+  {
+    "title": "音元出版 風間社長｜就活も仕事もねばり強さが重要｜困難があっても夢中になれる道を探そう",
+    "link": "https://careerpark-agent.jp/interview/203-2",
+    "date": "2024-12-22T00:24:35.000Z"
+  },
+  {
+    "title": "月額3万円の最強ChatGPTに「電源で音質が変わるか」と聞いたら意外な展開に - Phile-web",
+    "link": "https://www.phileweb.com/review/column/202412/21/2505.html",
+    "date": "2024-12-22T00:21:28.000Z"
+  },
+  {
+    "title": "医用コンセントって、何が違うの？",
+    "link": "https://oyaideshop.blogspot.com/2014/11/blog-post_17.html",
+    "date": "2024-12-22T00:20:12.000Z"
+  },
+  {
+    "title": "人に仕事を振ることが苦手だった私が、「タスクを振る力」を身につけるためにやったこと",
+    "link": "https://blog.tinect.jp/?p=88549",
+    "date": "2024-12-22T00:18:50.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その１０） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/11/post-dc28b1.html",
+    "date": "2024-12-22T00:18:24.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その９） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/10/post-2a1783.html",
+    "date": "2024-12-22T00:18:21.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その８） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/10/post-906fa3.html",
+    "date": "2024-12-22T00:18:18.000Z"
+  },
+  {
+    "title": "https://karte-m.cocolog-nifty.com/free/2021/10/post-31f089.html",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/10/post-31f089.html",
+    "date": "2024-12-22T00:18:16.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その６） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/10/post-c7f7f1.html",
+    "date": "2024-12-22T00:18:14.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その５） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/09/post-1ad489.html",
+    "date": "2024-12-22T00:18:11.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その４） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/09/post-1b847a.html",
+    "date": "2024-12-22T00:18:09.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その３） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/09/post-4c7553.html",
+    "date": "2024-12-22T00:18:06.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その２） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/08/post-d73170.html",
+    "date": "2024-12-22T00:18:02.000Z"
+  },
+  {
+    "title": "オンライン資格確認システムの導入方法（その１） - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/08/post-ed476e.html",
+    "date": "2024-12-22T00:17:57.000Z"
+  },
+  {
+    "title": "オンライン資格確認につながらない、安定しない時の対処法 - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/04/post-8d9023.html",
+    "date": "2024-12-22T00:17:53.000Z"
+  },
+  {
+    "title": "オンライン資格確認 IPv6接続設定　その２ - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/01/post-af9b59.html",
+    "date": "2024-12-22T00:17:48.000Z"
+  },
+  {
+    "title": "オンライン資格確認 IPv6接続設定　その１ - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2021/01/post-cda3c8.html",
+    "date": "2024-12-22T00:17:43.000Z"
+  },
+  {
+    "title": "オンライン資格確認 院内ネットワーク構成例　その２ - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2020/11/post-9a4ae2.html",
+    "date": "2024-12-22T00:15:30.000Z"
+  },
+  {
+    "title": "オンライン資格確認 院内ネットワーク構成例　その１ - カルテメーカー.番外編",
+    "link": "https://karte-m.cocolog-nifty.com/free/2020/11/post-1f68ea.html",
+    "date": "2024-12-22T00:15:15.000Z"
+  },
+  {
+    "title": "米OpenAI、新たなAIモデル「o3」発表　「AGI」に最も近い性能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2412/21/news080.html",
+    "date": "2024-12-22T00:11:36.000Z"
+  },
+  {
+    "title": "Googleマップの便利機能「タイムライン」に大幅変更。何ができてどう変わるのか？ | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2412-timeline-is-the-best-google-maps-feature-but-itll-be-less-useful-after/",
+    "date": "2024-12-22T00:09:54.000Z"
+  },
+  {
+    "title": "ユーザー名をURLに含めるなら@始まりにするとよさそう",
+    "link": "https://zenn.dev/catatsuy/articles/56b85bf22ce77c",
+    "date": "2024-12-22T00:04:28.000Z"
+  },
+  {
+    "title": "陽を浴びないと気分が落ち込む！？　“雪国うつ”って何？",
+    "link": "https://weathernews.jp/s/topics/201802/200155/",
+    "date": "2024-12-22T00:01:37.000Z"
+  },
+  {
+    "title": "金庫のダイヤルは電動マッサージ機で解錠できる",
+    "link": "https://radiolife.com/security/burglar/9015521/",
+    "date": "2024-12-21T23:59:39.000Z"
+  },
+  {
+    "title": "「やらなきゃ」駆動から「やりたい」駆動へ切り替える方法をついに見つけたかもしれない｜F太",
+    "link": "https://note.com/fta7/n/n18f9146d52ac",
+    "date": "2024-12-21T23:58:46.000Z"
+  },
+  {
+    "title": "暇空さんにカンパしてる人達に読んで欲しいやつ｜ヨッピー",
+    "link": "https://note.com/yoppymodel/n/nb2b29b3d0ac3",
+    "date": "2024-12-21T23:54:01.000Z"
+  },
+  {
+    "title": "暇空さんと決裂しました。｜ヨッピー",
+    "link": "https://note.com/yoppymodel/n/n621bfa22db3c",
+    "date": "2024-12-21T23:53:09.000Z"
+  },
+  {
+    "title": "児童生徒を有害サイトから守る - NetFilterクラウド| 株式会社YEデジタル",
+    "link": "https://www.ye-digital.com/jp/product/netfilter_cloud/",
+    "date": "2024-12-21T23:47:49.000Z"
+  },
+  {
+    "title": "Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+    "link": "https://arxiv.org/abs/2412.13663",
+    "date": "2024-12-21T23:46:51.000Z"
+  },
+  {
+    "title": "ModernBert",
+    "link": "https://huggingface.co/docs/transformers/main/model_doc/modernbert",
+    "date": "2024-12-21T23:46:29.000Z"
+  },
+  {
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT",
+    "link": "https://huggingface.co/blog/modernbert",
+    "date": "2024-12-21T23:46:12.000Z"
+  }
+]

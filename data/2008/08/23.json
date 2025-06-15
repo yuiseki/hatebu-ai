@@ -1,0 +1,672 @@
+[
+  {
+    "title": "Caught ActiveRecord::StatementInvalid: SQLite3::BusyException: database is locked: SQL - リンギオ",
+    "link": "https://zankey.hatenadiary.org/entry/20080530/ruby",
+    "date": "2008-08-23T14:14:24.000Z"
+  },
+  {
+    "title": "pylori*style: ActiveRecordでSQLiteのbusy_timeoutをひきのばす",
+    "link": "http://tam.qmix.org/archives/2006/01/activerecordsql.html",
+    "date": "2008-08-23T14:12:37.000Z"
+  },
+  {
+    "title": "「やればできる俺」という欲望：日経ビジネスオンライン",
+    "link": "http://business.nikkeibp.co.jp/article/life/20080820/168407/?P=1",
+    "date": "2008-08-23T13:49:22.000Z"
+  },
+  {
+    "title": "kekelog - subversionでディレクトリを無視したい",
+    "link": "http://webworks-inc.jp/keke/archives/543",
+    "date": "2008-08-23T13:41:46.000Z"
+  },
+  {
+    "title": "つぶすとでてくる白いやつ",
+    "link": "http://d.hatena.ne.jp/chotoare/",
+    "date": "2008-08-23T12:57:52.000Z"
+  },
+  {
+    "title": "xinetd - 純正玄箱鯖化計画＠まとめ",
+    "link": "http://kuro.crow2.net/normal/xinetd.htm",
+    "date": "2008-08-23T12:09:54.000Z"
+  },
+  {
+    "title": "2008-08-22",
+    "link": "https://soorce.hatenablog.com/entries/2008/08/22",
+    "date": "2008-08-23T12:06:13.000Z"
+  },
+  {
+    "title": "Google、位置情報特定のためのAPI「Gears Geolocation API」を公開",
+    "link": "https://www.itmedia.co.jp/news/articles/0808/23/news008.html",
+    "date": "2008-08-23T12:04:49.000Z"
+  },
+  {
+    "title": "堀江貴文『夢精の話』",
+    "link": "https://ameblo.jp/takapon-jp/entry-10130616755.html",
+    "date": "2008-08-23T12:00:23.000Z"
+  },
+  {
+    "title": "秋月通販で買えるAVRの比較 - ふつうのプログラマーが電子工作に再チャレンジ",
+    "link": "https://elec-avr.hatenadiary.org/entry/20080823/1219465506",
+    "date": "2008-08-23T11:59:47.000Z"
+  },
+  {
+    "title": "いますぐ星野は死ぬべき - やまもといちろうBLOG（ブログ）",
+    "link": "http://kirik.tea-nifty.com/diary/2008/08/post_f8b9.html",
+    "date": "2008-08-23T11:59:13.000Z"
+  },
+  {
+    "title": "京都市民会議不参加に関するＪＦＡの考え方",
+    "link": "http://jfa.jfa-fc.or.jp/20080822.html",
+    "date": "2008-08-23T11:55:46.000Z"
+  },
+  {
+    "title": "映画『20世紀少年』“35点” 「原作が映画向きではない」「60億円かけたゴミ」…超映画批評 : 痛いニュース(ﾉ∀`)",
+    "link": "https://itainews.com/archives/1168513.html",
+    "date": "2008-08-23T11:53:38.000Z"
+  },
+  {
+    "title": "『「理解」する気はありません - HALTANの日記』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/d.hatena.ne.jp/HALTAN/20080819/p1",
+    "date": "2008-08-23T11:53:16.000Z"
+  },
+  {
+    "title": "「脳の失敗」タグには呆れた",
+    "link": "https://anond.hatelabo.jp/20080823075056",
+    "date": "2008-08-23T11:53:06.000Z"
+  },
+  {
+    "title": "masayashi.com",
+    "link": "http://www.masayashi.com/2008/08/23/836",
+    "date": "2008-08-23T11:52:56.000Z"
+  },
+  {
+    "title": "Amazon Web Servicesが新ストレージサービスを提供",
+    "link": "https://japan.cnet.com/article/20379106/",
+    "date": "2008-08-23T11:46:35.000Z"
+  },
+  {
+    "title": "ニュース超速報！ 警官がスーパーで拳銃を紛失→200人で大捜索→スーパー「ところで、カバンならここにありますよ」",
+    "link": "http://turenet.blog91.fc2.com/blog-entry-3003.html",
+    "date": "2008-08-23T11:42:32.000Z"
+  },
+  {
+    "title": "Rails2.1 でScaffoldする時にbelongs_toを使うと - gom68の日記",
+    "link": "https://gom.hatenablog.com/entry/20080810/1218294992",
+    "date": "2008-08-23T11:41:15.000Z"
+  },
+  {
+    "title": "MOONGIFT: » 未来的！新感覚の入力システム「ShapeWriter」:オープンソースを毎日紹介",
+    "link": "https://www.moongift.jp/2008/08/shapewriter/",
+    "date": "2008-08-23T11:40:59.000Z"
+  },
+  {
+    "title": "大塚英志＋東浩紀『リアルのゆくえ』 - logical cypher scape2",
+    "link": "https://sakstyle.hatenadiary.jp/entry/20080823/1219474670",
+    "date": "2008-08-23T11:40:47.000Z"
+  },
+  {
+    "title": "「札幌Ruby会議01」を開催します - RubyKaigi Nikki(2008-08-23)",
+    "link": "https://rubykaigi.tdiary.net/20080823.html",
+    "date": "2008-08-23T11:39:17.000Z"
+  },
+  {
+    "title": "はてなブログ | 無料ブログを作成しよう",
+    "link": "https://hatena.blog/api/diary_redirect?path=/tokyocrawler/20080821/p1",
+    "date": "2008-08-23T11:39:17.000Z"
+  },
+  {
+    "title": "新人が一人で客先常駐って時点で、完全に終わってることを自覚しなさい。 - @katzchang.contexts",
+    "link": "https://katzchang.hatenadiary.org/entry/20080823/p1",
+    "date": "2008-08-23T11:39:14.000Z"
+  },
+  {
+    "title": "情報処理推進機構：オープンソフトウェア：「Rubyの国際標準化に関する調査の請負契約」 公募概要",
+    "link": "http://www.ipa.go.jp/software/open/ossc/2008/ruby/koubo.html",
+    "date": "2008-08-23T11:39:13.000Z"
+  },
+  {
+    "title": "コンテストを勝ち抜いたFirefox3拡張機能　BEST 13 : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア",
+    "link": "https://www.lifehacker.jp/article/firefox3mozilla_crowns_13/",
+    "date": "2008-08-23T11:39:12.000Z"
+  },
+  {
+    "title": "タイツワールド | Tights World　 集え、タイツの旗の下に: アツギのレリッシュのサイトが楽しいことに。",
+    "link": "http://www.tights.jp/blog/2008/08/post_268.html",
+    "date": "2008-08-23T11:38:51.000Z"
+  },
+  {
+    "title": "Flash CS3とRoRで構築する業務アプリケーション 第1回",
+    "link": "https://codezine.jp/article/detail/2805",
+    "date": "2008-08-23T11:38:42.000Z"
+  },
+  {
+    "title": "収入0で17歳で子持ちになったオレが書いてみるよ",
+    "link": "https://anond.hatelabo.jp/20080823045600",
+    "date": "2008-08-23T11:37:12.000Z"
+  },
+  {
+    "title": "妻が亡くなった……だけど悲しくない",
+    "link": "https://anond.hatelabo.jp/20080822195823",
+    "date": "2008-08-23T11:36:52.000Z"
+  },
+  {
+    "title": "Tumblr",
+    "link": "http://otsune.tumblr.com/post/47070167/saya-konishiroku-ginzuna-rnyhrt",
+    "date": "2008-08-23T11:33:47.000Z"
+  },
+  {
+    "title": "近所のじいちゃんばあちゃんのサイバーサポート - また君か。＠d.hatena 2008-08-21",
+    "link": "https://matakimika.hatenadiary.jp/entries/2008/08/21",
+    "date": "2008-08-23T11:28:15.000Z"
+  },
+  {
+    "title": "livedoor ニュース - 新作映画レビュー／浦沢直樹の2000万部コミックが超大作3部作に",
+    "link": "http://news.livedoor.com/article/detail/3789125/",
+    "date": "2008-08-23T11:27:21.000Z"
+  },
+  {
+    "title": "svnの属性 各ファイル・ディレクトリへの付加情報 [svn:ignore]] - Web newbie",
+    "link": "https://belog.hatenadiary.org/entry/20070110/1168432881",
+    "date": "2008-08-23T10:41:47.000Z"
+  },
+  {
+    "title": "LinuxSettingMemo/ディストリビューション共通/SVN(Subversion)導入設定(複数リポジトリ管理) - ★YamakanZ Linux Setting Memo",
+    "link": "http://f29.aaa.livedoor.jp/~yamakan/index.php?LinuxSettingMemo%2F%A5%C7%A5%A3%A5%B9%A5%C8%A5%EA%A5%D3%A5%E5%A1%BC%A5%B7%A5%E7%A5%F3%B6%A6%C4%CC%2FSVN(Subversion)%C6%B3%C6%FE%C0%DF%C4%EA(%CA%A3%BF%F4%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%B4%C9%CD%FD)",
+    "date": "2008-08-23T10:41:20.000Z"
+  },
+  {
+    "title": "subversionのsvn:ignoreプロパティの効果 - yellowback's blog",
+    "link": "https://blog.yellowback.net/archives/40-20060603.html",
+    "date": "2008-08-23T10:40:51.000Z"
+  },
+  {
+    "title": "un-q.net",
+    "link": "http://un-q.net/2007/12/svn_propset_svnignore.html",
+    "date": "2008-08-23T10:40:01.000Z"
+  },
+  {
+    "title": "http://blog.mynet.co.jp/hibino/2008/05/svn_svn_propedit_svnignore.html",
+    "link": "http://blog.mynet.co.jp/hibino/2008/05/svn_svn_propedit_svnignore.html",
+    "date": "2008-08-23T10:39:51.000Z"
+  },
+  {
+    "title": "svn:ignore 一括設定 - 電脳ではたらくOpenPNE開発者の日記@ネット",
+    "link": "https://openpne.hatenadiary.org/entry/20080813/1218608077",
+    "date": "2008-08-23T10:39:16.000Z"
+  },
+  {
+    "title": "Rails 2.0 » Rails2.0によるAtom/RSSフィードの実装（GET）",
+    "link": "http://rails20.jp/2008/03/rails20_atom_rss/",
+    "date": "2008-08-23T10:08:54.000Z"
+  },
+  {
+    "title": "xml用のヘッダ記述 - Be an Idealistic Realist",
+    "link": "https://beyondseeker.hatenadiary.org/entry/20060420/1145513241",
+    "date": "2008-08-23T10:08:03.000Z"
+  },
+  {
+    "title": "Plugins - xmlcache - Agile Web Development",
+    "link": "http://agilewebdevelopment.com/plugins/xmlcache",
+    "date": "2008-08-23T10:00:47.000Z"
+  },
+  {
+    "title": "Caching and MIME Types in Rails - igvita.com",
+    "link": "https://www.igvita.com/2007/06/13/caching-and-mime-types-in-rails/",
+    "date": "2008-08-23T09:59:17.000Z"
+  },
+  {
+    "title": "Clickable Bliss Blog » Rails + Caching + XML = Bad Mime Types",
+    "link": "http://blog.clickablebliss.com/2006/02/17/rails-caching-xml-bad-mime-types/",
+    "date": "2008-08-23T09:58:35.000Z"
+  },
+  {
+    "title": "https://www.railsenvy.com/2007/2/28/rails-caching-tutorial",
+    "link": "https://www.railsenvy.com/2007/2/28/rails-caching-tutorial",
+    "date": "2008-08-23T09:57:34.000Z"
+  },
+  {
+    "title": "Twitpic",
+    "link": "http://twitpic.com/8cl8",
+    "date": "2008-08-23T08:40:18.000Z"
+  },
+  {
+    "title": "http://www.technobahn.com/news/2008/200808222056.html",
+    "link": "http://www.technobahn.com/news/2008/200808222056.html",
+    "date": "2008-08-23T08:39:11.000Z"
+  },
+  {
+    "title": "ブログの未来はどうなる--新しいコミュニケーション手段「ライフストリーミング」",
+    "link": "https://japan.cnet.com/article/20378702/",
+    "date": "2008-08-23T03:56:03.000Z"
+  },
+  {
+    "title": "建築発明工作ゼミ2008",
+    "link": "https://kousaku-kousaku.blogspot.com/",
+    "date": "2008-08-23T03:55:56.000Z"
+  },
+  {
+    "title": "おさんぽブログ",
+    "link": "http://d.hatena.ne.jp/kokoromo/20080822/1219352356",
+    "date": "2008-08-23T03:55:49.000Z"
+  },
+  {
+    "title": "アプリケーション研究 観察と記述(2008-08-23)",
+    "link": "http://www.persistent.org/d/?date=20080823",
+    "date": "2008-08-23T03:12:26.000Z"
+  },
+  {
+    "title": "[公開終了]ホットパンツの画像ください - アルカン速報",
+    "link": "http://alsoku.blog47.fc2.com/blog-entry-180.html",
+    "date": "2008-08-23T02:50:12.000Z"
+  },
+  {
+    "title": "「Google Media Server」- PC内の動画をTVにストリーミング | パソコン | マイコミジャーナル",
+    "link": "http://journal.mycom.co.jp/news/2008/06/30/003/index.html",
+    "date": "2008-08-23T02:50:07.000Z"
+  },
+  {
+    "title": "Big Sky :: Google Maps APIにIPから現在位置を取得するAPIが追加された。",
+    "link": "https://mattn.kaoriya.net/software/lang/javascript/20080822212905.htm",
+    "date": "2008-08-23T02:50:06.000Z"
+  },
+  {
+    "title": "ライフサイエンス統合DBプロジェクトの中に乗り込んできた - ミームの死骸を待ちながら",
+    "link": "https://hash.hateblo.jp/entry/20080820/1219250662",
+    "date": "2008-08-23T02:50:05.000Z"
+  },
+  {
+    "title": "IBM Developer",
+    "link": "http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby3/?ca=drs-jp",
+    "date": "2008-08-23T02:41:28.000Z"
+  },
+  {
+    "title": "ドメインパーキング",
+    "link": "http://www.tatamilab.jp/rnd/archives/000396.html",
+    "date": "2008-08-23T02:41:09.000Z"
+  },
+  {
+    "title": "Rails 開発者こそモデリングするべきだって思った - Akasata's Page（あかさたのページ）",
+    "link": "http://www.rmake-labo.com/akasata/articles/show/221",
+    "date": "2008-08-23T02:39:09.000Z"
+  },
+  {
+    "title": "「Ruby on Rails によるシステム開発をモデリングで効率的に行う」連載記事を書いた - Akasata's Page（あかさたのページ）",
+    "link": "http://www.rmake-labo.com/akasata/articles/show/254",
+    "date": "2008-08-23T02:38:46.000Z"
+  },
+  {
+    "title": "RubyOnRailsの設計手法もレールに乗せよう",
+    "link": "http://fromnorth.blogspot.com/2008/08/rubyonrails.html",
+    "date": "2008-08-23T02:38:35.000Z"
+  },
+  {
+    "title": "http://twitter.com/iwkn/statuses/895213194",
+    "link": "http://twitter.com/iwkn/statuses/895213194",
+    "date": "2008-08-23T02:38:12.000Z"
+  },
+  {
+    "title": "イノベーション・ジャパン2010 - 大学見本市",
+    "link": "http://expo.nikkeibp.co.jp/innovation/index.html",
+    "date": "2008-08-23T02:37:55.000Z"
+  },
+  {
+    "title": "http://twitter.com/Lily_nonnon/statuses/895356371",
+    "link": "http://twitter.com/Lily_nonnon/statuses/895356371",
+    "date": "2008-08-23T02:37:38.000Z"
+  },
+  {
+    "title": "新しいケストレル ベータ 2がやってきた - Choose Opera 日本支部 - by Choose Opera 日本支部",
+    "link": "https://blogs.opera.com/japan/",
+    "date": "2008-08-23T02:33:16.000Z"
+  },
+  {
+    "title": "Googleストリートビューの壮大過ぎる可能性 - 新温暖化メモ",
+    "link": "https://satohhide.hatenablog.com/entry/20080820/1219160439",
+    "date": "2008-08-23T02:31:59.000Z"
+  },
+  {
+    "title": "ドメインパーキング",
+    "link": "http://shadow-city.blogzine.jp/net/2008/08/post_4976.html",
+    "date": "2008-08-23T02:31:15.000Z"
+  },
+  {
+    "title": "旧旧はちま起稿 - FC2 BLOG パスワード認証",
+    "link": "http://hatimaki.blog110.fc2.com/blog-entry-571.html",
+    "date": "2008-08-23T02:29:14.000Z"
+  },
+  {
+    "title": "怠惰な Linux: 管理者に必須の 10 の秘訣",
+    "link": "http://www.ibm.com/developerworks/jp/linux/library/l-10sysadtips/?ca=drs-jp",
+    "date": "2008-08-23T02:19:06.000Z"
+  },
+  {
+    "title": "egawauemon - ニコニコ",
+    "link": "https://www.nicovideo.jp/user/5324899/mylist/7930888",
+    "date": "2008-08-23T02:00:30.000Z"
+  },
+  {
+    "title": "【歩いてみた】20080809渋谷",
+    "link": "https://www.nicovideo.jp/watch/sm4243488",
+    "date": "2008-08-23T01:59:46.000Z"
+  },
+  {
+    "title": "南海キャンディーズ山里亮太のつっこみ一覧",
+    "link": "http://meglauran.fc2web.com/yamasatotukkomi.htm",
+    "date": "2008-08-23T01:58:56.000Z"
+  },
+  {
+    "title": "堀江貴文『麻布十番祭り』",
+    "link": "https://ameblo.jp/takapon-jp/entry-10130397175.html",
+    "date": "2008-08-23T01:58:09.000Z"
+  },
+  {
+    "title": "茨城 | NTT東日本",
+    "link": "http://www.ntt-east.co.jp/ibaraki/kao/aqua/j_640_01.html",
+    "date": "2008-08-23T01:56:58.000Z"
+  },
+  {
+    "title": "銀行のミスで口座に2800万→食料買って貧困者に配る→遺失物横領で逮捕 : 痛いニュース(ﾉ∀`)",
+    "link": "https://itainews.com/archives/1168376.html",
+    "date": "2008-08-23T01:56:13.000Z"
+  },
+  {
+    "title": "yukatamblr",
+    "link": "http://yukata.tumblr.com/",
+    "date": "2008-08-23T01:47:09.000Z"
+  },
+  {
+    "title": "ライブドアブログ｜無料で豊富な機能が充実",
+    "link": "http://qsuke.nowa.jp/entry/6f23fd1d92",
+    "date": "2008-08-23T01:46:29.000Z"
+  },
+  {
+    "title": "Wiiのあれをマネ・・・できてない",
+    "link": "https://www.nicovideo.jp/watch/sm4335763",
+    "date": "2008-08-23T01:43:21.000Z"
+  },
+  {
+    "title": "向こう側を覗ける窓を作ってみた",
+    "link": "https://www.nicovideo.jp/watch/sm4373656",
+    "date": "2008-08-23T01:40:37.000Z"
+  },
+  {
+    "title": "やる夫が生きて死ぬようです:ハムスター速報　２ろぐ",
+    "link": "http://urasoku.blog106.fc2.com/blog-entry-392.html",
+    "date": "2008-08-23T01:05:42.000Z"
+  },
+  {
+    "title": "Yahoo!天気・災害 - ブログパーツ",
+    "link": "https://weather.yahoo.co.jp/weather/promo/blogparts/",
+    "date": "2008-08-23T00:46:29.000Z"
+  },
+  {
+    "title": "KML と Google GeoIndex の関係図 - Cirius Lab. ブログ",
+    "link": "http://lab.cirius.co.jp/blog/2008/08/google-kml.php",
+    "date": "2008-08-22T16:11:40.000Z"
+  },
+  {
+    "title": "818nc.jp",
+    "link": "http://remoto.818nc.jp/archives/otodust/200808411346.php",
+    "date": "2008-08-22T16:11:16.000Z"
+  },
+  {
+    "title": "凝縮黒ウコンDEXに増大効果なし？口コミに隠れた嘘を一刀両断！",
+    "link": "http://lab.cirius.co.jp/blog/2008/08/-24.php",
+    "date": "2008-08-22T16:10:28.000Z"
+  },
+  {
+    "title": "2008-08-22",
+    "link": "https://projectitoh.hatenadiary.org/entries/2008/08/22",
+    "date": "2008-08-22T16:07:28.000Z"
+  },
+  {
+    "title": "Csis Workshop",
+    "link": "http://www.csis.u-tokyo.ac.jp/japanese/research_activities/symposium/uews.htm",
+    "date": "2008-08-22T16:04:15.000Z"
+  },
+  {
+    "title": "FLARToolKit＋FlashDevelopで難しい事しようとしても(｀・ω・´)シャキーンできる設定",
+    "link": "https://blog.tarotaro.org/archives/207",
+    "date": "2008-08-22T16:04:04.000Z"
+  },
+  {
+    "title": "Papervision3DとFLARToolKitで、現実を拡張しようぜ！最新版！！",
+    "link": "https://blog.tarotaro.org/archives/212",
+    "date": "2008-08-22T16:03:57.000Z"
+  },
+  {
+    "title": "ITニュース｜ニフティニュース",
+    "link": "http://news.nifty.com/cs/technology/internetdetail/itmns-20080819020/1.htm",
+    "date": "2008-08-22T16:02:48.000Z"
+  },
+  {
+    "title": "http://www.footloosemoose.com/michael_wp/2008/08/21/ai-enhanced-graffiti-artificial-dummies/",
+    "link": "http://www.footloosemoose.com/michael_wp/2008/08/21/ai-enhanced-graffiti-artificial-dummies/",
+    "date": "2008-08-22T15:57:40.000Z"
+  },
+  {
+    "title": "「サイエンス・イマジネーション 科学とＳＦの最前線、そして未来へ」 | Self-Reference ENGINE",
+    "link": "http://self-reference.engine.sub.jp/?eid=594068",
+    "date": "2008-08-22T15:56:53.000Z"
+  },
+  {
+    "title": "「不気味の谷」を越えた？ Image Metrics社のフォトリアルなCGアニメ | WIRED VISION",
+    "link": "http://wiredvision.jp/blog/takamori/200808/200808211300.html",
+    "date": "2008-08-22T15:54:41.000Z"
+  },
+  {
+    "title": "GeekBrief.TV | Video Podcast » Blog Archive » GBTV #409 | GeekBrief.TV",
+    "link": "http://www.geekbrief.tv/gbtv-409-geekbrieftv",
+    "date": "2008-08-22T15:54:29.000Z"
+  },
+  {
+    "title": "IDEA * IDEA",
+    "link": "https://www.ideaxidea.com/archives/2008/08/igdesktop.html",
+    "date": "2008-08-22T15:54:05.000Z"
+  },
+  {
+    "title": "IDEA * IDEA",
+    "link": "https://www.ideaxidea.com/archives/2008/08/post_660.html",
+    "date": "2008-08-22T15:54:04.000Z"
+  },
+  {
+    "title": "IDEA * IDEA",
+    "link": "https://www.ideaxidea.com/archives/2008/08/skypewriteboard.html",
+    "date": "2008-08-22T15:53:58.000Z"
+  },
+  {
+    "title": "【楽天】楽天研究開発シンポジウム2008｜開催概要",
+    "link": "http://www.rakuten.co.jp/event/rrds2008/",
+    "date": "2008-08-22T15:53:44.000Z"
+  },
+  {
+    "title": "ゲームの臨場感を楽しめる半球スクリーン「jDome」、GC 2008にお目見え",
+    "link": "https://www.itmedia.co.jp/news/articles/0808/20/news012.html",
+    "date": "2008-08-22T15:53:40.000Z"
+  },
+  {
+    "title": "STマイクロエレクトロニクスは、フル機能を集積したNFC（Near Field Communication）システム･オン･チップを発表 -- Tech-On！",
+    "link": "http://techon.nikkeibp.co.jp/PR/10000011/10005806/",
+    "date": "2008-08-22T15:42:55.000Z"
+  },
+  {
+    "title": "【IDF】Intel社，複数の機器から「マッシュアップ」のアプリケーションを作成する技術の概要を公開",
+    "link": "https://xtech.nikkei.com/dm/article/NEWS/20080821/156665/",
+    "date": "2008-08-22T15:42:43.000Z"
+  },
+  {
+    "title": "【CROSS†CHANNEL】加藤の凶行はあの美少女ゲームを強く連想させる",
+    "link": "http://workingnews.blog117.fc2.com/blog-entry-1396.html",
+    "date": "2008-08-22T15:40:01.000Z"
+  },
+  {
+    "title": "痛いニュース(ﾉ∀`):箱○テイルズ、レベルアップやゲーム内のお金をDCLで販売",
+    "link": "http://blog.livedoor.jp/dqnplus/archives/1168109.html",
+    "date": "2008-08-22T15:32:18.000Z"
+  },
+  {
+    "title": "東陽テクニカがフォレンジック装置に新モデル，11.4Tの大容量機など",
+    "link": "https://xtech.nikkei.com/it/article/NEWS/20080822/313207/",
+    "date": "2008-08-22T15:31:53.000Z"
+  },
+  {
+    "title": "ストリートビューから３次元マップ - potasiumchの日記",
+    "link": "https://potasiumch.hatenadiary.org/entry/20080822/1219391113",
+    "date": "2008-08-22T15:31:50.000Z"
+  },
+  {
+    "title": "CAPSキー抹殺指令 - 趣味は積ん読＠日記風味",
+    "link": "http://saki.moe-nifty.com/blog/2007/09/caps_d4ec.html",
+    "date": "2008-08-22T15:31:49.000Z"
+  },
+  {
+    "title": "未来の電源「ワイヤレス電源システム」、米インテルが研究成果を公開",
+    "link": "https://www.afpbb.com/articles/-/2509234",
+    "date": "2008-08-22T15:31:41.000Z"
+  },
+  {
+    "title": "HolyGrail――オンライン勉強会Roppongi.JSの挑戦 － ＠IT自分戦略研究所",
+    "link": "https://jibun.atmarkit.co.jp/lcom01/rensai/border/03/01.html",
+    "date": "2008-08-22T15:31:00.000Z"
+  },
+  {
+    "title": "大発見！Googleストビュー自体はキモくないが、その狂信者はキモい - 女教師ブログ",
+    "link": "http://d.hatena.ne.jp/terracao/20080821/1219259784",
+    "date": "2008-08-22T15:30:52.000Z"
+  },
+  {
+    "title": "ドワンゴでインターンはじまってます - まめ畑",
+    "link": "https://conmame.hatenablog.com/entry/20080821/1219327024",
+    "date": "2008-08-22T15:30:40.000Z"
+  },
+  {
+    "title": "東大情報学環・読売新聞共催　連続シンポジウム「情報の海〜漕ぎ出す船〜」 : お知らせ : YOMIURI ONLINE（読売新聞）",
+    "link": "http://www.yomiuri.co.jp/info/umi/",
+    "date": "2008-08-22T15:27:56.000Z"
+  },
+  {
+    "title": "はてなグループの終了日を2020年1月31日(金)に決定しました - はてなの告知",
+    "link": "http://hatena.g.hatena.ne.jp/hatelabo/20080821/1219322426",
+    "date": "2008-08-22T15:27:41.000Z"
+  },
+  {
+    "title": "学会で電子ペーパーが配られた日――実証実験したブラザー工業に聞く ≪追加あり≫",
+    "link": "https://xtech.nikkei.com/dm/article/NEWS/20080819/156580/",
+    "date": "2008-08-22T15:27:11.000Z"
+  },
+  {
+    "title": "【IDF】Intel社はタッチ・スクリーン対応の新型「Classmate PC」を公開",
+    "link": "https://xtech.nikkei.com/dm/article/NEWS/20080821/156688/",
+    "date": "2008-08-22T15:27:08.000Z"
+  },
+  {
+    "title": "【IDF】Intel社もワイヤレス電源，電球を光らせる",
+    "link": "https://xtech.nikkei.com/dm/article/NEWS/20080822/156722/",
+    "date": "2008-08-22T15:26:56.000Z"
+  },
+  {
+    "title": "図書館でいつも会っていた人を探してます。長文です。すいません。",
+    "link": "https://oshiete.goo.ne.jp/qa/4263878.html",
+    "date": "2008-08-22T15:22:17.000Z"
+  },
+  {
+    "title": "Home » Prolocation",
+    "link": "https://prolocation.net/?mode=news",
+    "date": "2008-08-22T15:22:10.000Z"
+  },
+  {
+    "title": "GC 08: カメラを通じてペットとふれあえちゃう『EyePet』発表トレイラー | Game*Spark - 国内・海外ゲーム情報サイト",
+    "link": "https://www.gamespark.jp/article/2008/08/21/16789.html",
+    "date": "2008-08-22T15:21:41.000Z"
+  },
+  {
+    "title": "社説・春秋（8/21）：人気アイドル歌手の初音ミクをご存じだろうか…",
+    "link": "http://www.nikkei.co.jp/news/shasetsu/20080820AS1K2000B20082008.html",
+    "date": "2008-08-22T15:20:37.000Z"
+  },
+  {
+    "title": "TechCrunch | Startup and Technology News",
+    "link": "https://jp.techcrunch.com/2008/08/22/20080821for-tokyo-tourists-and-watch-geeks-only-seahopes-awesome-yamanote-line-led-watch/",
+    "date": "2008-08-22T15:18:43.000Z"
+  },
+  {
+    "title": "山手線の電光掲示板が腕時計に　「新宿・池袋方面 06：41　電車がまいります」と光る",
+    "link": "https://www.itmedia.co.jp/news/articles/0808/21/news062.html",
+    "date": "2008-08-22T15:18:16.000Z"
+  },
+  {
+    "title": "Expired",
+    "link": "https://www.itmedia.co.jp/news/articles/0808/22/news046.html",
+    "date": "2008-08-22T15:18:06.000Z"
+  },
+  {
+    "title": "Portable GPS",
+    "link": "https://www.techeblog.com/portable-gps/",
+    "date": "2008-08-22T15:15:49.000Z"
+  },
+  {
+    "title": "coji - ニコニコ",
+    "link": "https://www.nicovideo.jp/user/41473/mylist/8066747",
+    "date": "2008-08-22T15:15:37.000Z"
+  },
+  {
+    "title": "同性愛、宗教などは携帯フィルタリング対象外に～EMAが意見書案",
+    "link": "https://internet.watch.impress.co.jp/cda/news/2008/08/21/20625.html",
+    "date": "2008-08-22T15:15:28.000Z"
+  },
+  {
+    "title": "Something Orange",
+    "link": "http://d.hatena.ne.jp/kaien/20080821/p1",
+    "date": "2008-08-22T15:13:26.000Z"
+  },
+  {
+    "title": "Ganzbot: An Arduino robot who reads Twitter — The Mozmonkey Blog",
+    "link": "http://blog.mozmonkey.com/2008/ganzbot-an-arduino-robot-who-reads-twitter/",
+    "date": "2008-08-22T15:09:23.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: 図説ロボット: 野田SFコレクション (ふくろうの本): 野田昌宏: 本",
+    "link": "https://www.amazon.co.jp/gp/product/4309726496",
+    "date": "2008-08-22T15:09:13.000Z"
+  },
+  {
+    "title": "Video: Nabaztag reads bedtime stories better than daddy",
+    "link": "https://www.engadget.com/2008-03-05-video-nabaztag-reads-bedtime-stories-better-than-daddy.html",
+    "date": "2008-08-22T15:09:13.000Z"
+  },
+  {
+    "title": "Ganzbot: An Arduino Robot That Twitters",
+    "link": "https://makezine.com/article/technology/arduino/ganzbot-an-arduino-robot/",
+    "date": "2008-08-22T15:09:05.000Z"
+  },
+  {
+    "title": "Engadget | Technology News & Reviews",
+    "link": "https://japanese.engadget.com/jp-2008-08-21-twitter-ganzbot.html",
+    "date": "2008-08-22T15:08:40.000Z"
+  },
+  {
+    "title": "MarkeZine Day 2008",
+    "link": "https://event.shoeisha.jp/mzday",
+    "date": "2008-08-22T15:06:04.000Z"
+  },
+  {
+    "title": "【社会】",
+    "link": "https://mamono.5ch.net/test/read.cgi/newsplus/1219320928/",
+    "date": "2008-08-22T15:05:29.000Z"
+  },
+  {
+    "title": "ソマリア - Chakuwiki",
+    "link": "https://chakuwiki.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2",
+    "date": "2008-08-22T15:04:12.000Z"
+  },
+  {
+    "title": "ブラックホークダウン-ソマリア",
+    "link": "http://bhdaamov.hp.infoseek.co.jp/somalia.html",
+    "date": "2008-08-22T15:04:04.000Z"
+  },
+  {
+    "title": "ゾマホン・ドットコム",
+    "link": "http://www.zomahoun.com/",
+    "date": "2008-08-22T15:02:34.000Z"
+  }
+]

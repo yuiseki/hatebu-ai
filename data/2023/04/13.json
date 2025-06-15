@@ -1,0 +1,402 @@
+[
+  {
+    "title": "gradio 入門 (1) - 事始め｜npaka",
+    "link": "https://note.com/npaka/n/nb9d4902f8f4d",
+    "date": "2023-04-13T11:54:36.000Z"
+  },
+  {
+    "title": "Gradio",
+    "link": "https://www.gradio.app/",
+    "date": "2023-04-13T11:54:23.000Z"
+  },
+  {
+    "title": "暗号の歴史と現代暗号の基礎理論（RSA, 楕円曲線）-前半- - ABEJA Tech Blog",
+    "link": "https://tech-blog.abeja.asia/entry/cryptographic-fundamental-theory-202304-1",
+    "date": "2023-04-13T10:43:14.000Z"
+  },
+  {
+    "title": "CTO 3度目の正直 / My 3rd CTO Career",
+    "link": "https://speakerdeck.com/sotarok/my-3rd-cto-career",
+    "date": "2023-04-13T10:43:06.000Z"
+  },
+  {
+    "title": "Towards Digital Nature: Bridging the Gap between Turing Machine Objects and Linguistic Objects in LLMMs for Universal Interaction of Object-Oriented Descriptions",
+    "link": "https://arxiv.org/abs/2304.04498",
+    "date": "2023-04-13T10:25:17.000Z"
+  },
+  {
+    "title": "[翻訳]デジタルネイチャーに向けて：オブジェクト指向記述の普遍的相互作用のためのLLMMにおけるチューリングマシンオブジェクトと言語オブジェクト間のギャップの橋渡し｜株式会社ガラパゴス",
+    "link": "https://note.com/glpgs_pr/n/n5f901364035f",
+    "date": "2023-04-13T10:25:12.000Z"
+  },
+  {
+    "title": "正統性 - 西尾泰和のScrapbox",
+    "link": "https://scrapbox.io/nishio/%E6%AD%A3%E7%B5%B1%E6%80%A7",
+    "date": "2023-04-13T10:20:35.000Z"
+  },
+  {
+    "title": "Pluralityとは - 西尾泰和のScrapbox",
+    "link": "https://scrapbox.io/nishio/Plurality%E3%81%A8%E3%81%AF",
+    "date": "2023-04-13T10:19:43.000Z"
+  },
+  {
+    "title": "huggingface/transformersでストリーミング - cockscomblog?",
+    "link": "https://cockscomb.hatenablog.com/entry/streaming-with-huggingface-transformers",
+    "date": "2023-04-13T07:59:40.000Z"
+  },
+  {
+    "title": "クックパッドの toB 向け事業における ChatGPT API の活用事例紹介 - クックパッド開発者ブログ",
+    "link": "https://techlife.cookpad.com/entry/2023/04/12/142744",
+    "date": "2023-04-13T07:59:37.000Z"
+  },
+  {
+    "title": "言語ミックス文章 - bluemo-public",
+    "link": "https://scrapbox.io/blu3mo-public/%E8%A8%80%E8%AA%9E%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E6%96%87%E7%AB%A0",
+    "date": "2023-04-13T02:07:13.000Z"
+  },
+  {
+    "title": "ChatGPTは言語ミックス文章を理解してくれる - bluemo-public",
+    "link": "https://scrapbox.io/blu3mo-public/ChatGPT%E3%81%AF%E8%A8%80%E8%AA%9E%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E6%96%87%E7%AB%A0%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B",
+    "date": "2023-04-13T02:07:01.000Z"
+  },
+  {
+    "title": "Phind",
+    "link": "https://www.phind.com/",
+    "date": "2023-04-13T00:44:19.000Z"
+  },
+  {
+    "title": "Azure OpenAI Service と Azure Cache for Redis でベクトル検索を行う",
+    "link": "https://zenn.dev/microsoft/articles/22d03aa3b2462c",
+    "date": "2023-04-13T00:42:12.000Z"
+  },
+  {
+    "title": "Vector similarity",
+    "link": "https://redis.io/docs/stack/search/reference/vectors/",
+    "date": "2023-04-13T00:42:00.000Z"
+  },
+  {
+    "title": "NLPのテキスト埋め込みとベクトル検索をデプロイする方法",
+    "link": "https://www.elastic.co/jp/blog/how-to-deploy-nlp-text-embeddings-and-vector-search",
+    "date": "2023-04-13T00:40:30.000Z"
+  },
+  {
+    "title": "Lucene90HnswVectorsFormat (Lucene 9.0.0 core API)",
+    "link": "https://lucene.apache.org/core/9_0_0/core/org/apache/lucene/codecs/lucene90/Lucene90HnswVectorsFormat.html",
+    "date": "2023-04-13T00:39:46.000Z"
+  },
+  {
+    "title": "$cos (aggregation) — MongoDB Manual",
+    "link": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/cos/",
+    "date": "2023-04-13T00:37:26.000Z"
+  },
+  {
+    "title": "pgvector: Embeddings and vector similarity | Supabase Docs",
+    "link": "https://supabase.com/docs/guides/database/extensions/pgvector",
+    "date": "2023-04-13T00:36:40.000Z"
+  },
+  {
+    "title": "GitHub - pgvector/pgvector: Open-source vector similarity search for Postgres",
+    "link": "https://github.com/pgvector/pgvector",
+    "date": "2023-04-13T00:36:30.000Z"
+  },
+  {
+    "title": "ChatGPT4 本格RPG「チャット転生 〜 死んだはずの幼馴染が異世界で勇者になっていた件」（体験版）｜深津 貴之 (fladdict)",
+    "link": "https://note.com/fladdict/n/n2a82d26f10dc",
+    "date": "2023-04-12T23:40:06.000Z"
+  },
+  {
+    "title": "RFCの読み方",
+    "link": "https://heartbeats.jp/hbblog/2023/04/rfc.html",
+    "date": "2023-04-12T22:37:12.000Z"
+  },
+  {
+    "title": "地理・地図好きな学生は必見！ ジオな人々が集結する、年に一度の展示会「ジオ展」4月21日に開催【地図と位置情報】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/1492799.html",
+    "date": "2023-04-12T22:34:06.000Z"
+  },
+  {
+    "title": "GitHub - everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision",
+    "link": "https://github.com/everythingishacked/Semaphore",
+    "date": "2023-04-12T22:33:00.000Z"
+  },
+  {
+    "title": "マインクラフトでプレイヤーと共同作業可能なAIを実装するためのオープンソースプラットフォーム「CraftAssist」をFacebookが発表",
+    "link": "https://gigazine.net/news/20190719-craftassist-collaborative-ai-minecraft/",
+    "date": "2023-04-12T22:00:14.000Z"
+  },
+  {
+    "title": "GitHub - PrismarineJS/mineflayer: Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+    "link": "https://github.com/PrismarineJS/mineflayer",
+    "date": "2023-04-12T22:00:02.000Z"
+  },
+  {
+    "title": "コマンド",
+    "link": "https://minecraft.fandom.com/ja/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89",
+    "date": "2023-04-12T21:59:55.000Z"
+  },
+  {
+    "title": "GitHub - Tiiffi/mcrcon: Rcon client for Minecraft",
+    "link": "https://github.com/Tiiffi/mcrcon",
+    "date": "2023-04-12T21:59:53.000Z"
+  },
+  {
+    "title": "GitHub - minerllabs/minerl: MineRL Competition for Sample Efficient Reinforcement Learning - Python Package",
+    "link": "https://github.com/minerllabs/minerl",
+    "date": "2023-04-12T21:59:50.000Z"
+  },
+  {
+    "title": "GitHub - SpockBotMC/RikerBot: C++20/Python based Minecraft bot",
+    "link": "https://github.com/SpockBotMC/RikerBot",
+    "date": "2023-04-12T21:59:48.000Z"
+  },
+  {
+    "title": "PythonでMinecraft bot を作るために",
+    "link": "https://zenn.dev/etrnl_tamayura/scraps/b17db73e6c7920",
+    "date": "2023-04-12T21:59:26.000Z"
+  },
+  {
+    "title": "Facebook is creating an AI assistant for Minecraft",
+    "link": "https://www.technologyreview.com/2019/08/29/133212/facebook-is-creating-an-ai-assistant-for-minecraft/",
+    "date": "2023-04-12T21:59:00.000Z"
+  },
+  {
+    "title": "GitHub - facebookresearch/craftassist: A virtual assistant bot in Minecraft",
+    "link": "https://github.com/facebookresearch/craftassist",
+    "date": "2023-04-12T21:58:56.000Z"
+  },
+  {
+    "title": "Facebook、「Minecraft」内で活動するAIアシスタントを開発中",
+    "link": "https://www.itmedia.co.jp/news/articles/1908/30/news070.html",
+    "date": "2023-04-12T21:58:48.000Z"
+  },
+  {
+    "title": "ChatGPT API にコードを書かせて eval する際のエラーハンドリング・プラクティス",
+    "link": "https://zenn.dev/ryo_kawamata/articles/b39ba0452fec81",
+    "date": "2023-04-12T21:58:25.000Z"
+  },
+  {
+    "title": "ダイヤモンドのつるはしを作ったOpenAIのMinecraftプレイAIが持つ射程とは？ | モリカトロンAIラボ",
+    "link": "https://morikatron.ai/2022/08/openai_minecraft/",
+    "date": "2023-04-12T21:58:17.000Z"
+  },
+  {
+    "title": "学習データなしでMinecraftのダイヤモンド採取に成功。世界モデルを採用したDreamerV3の意義 | モリカトロンAIラボ",
+    "link": "https://morikatron.ai/2023/02/world-models/",
+    "date": "2023-04-12T21:58:07.000Z"
+  },
+  {
+    "title": "MicrosoftがAIにマインクラフトをプレイさせる機能を開発している",
+    "link": "https://gigazine.net/news/20230219-microsoft-ai-minecraft/",
+    "date": "2023-04-12T21:57:37.000Z"
+  },
+  {
+    "title": "GitHub - fubira/TemzinBot: Temzinbot, minecraft bot implementation with mineflayer.",
+    "link": "https://github.com/fubira/TemzinBot",
+    "date": "2023-04-12T21:57:24.000Z"
+  },
+  {
+    "title": "ユーチューブを7万時間見続けたAI、最高のマイクラボットになる",
+    "link": "https://www.technologyreview.jp/s/291472/a-bot-that-watched-70000-hours-of-minecraft-could-unlock-ais-next-big-thing/",
+    "date": "2023-04-12T21:57:16.000Z"
+  },
+  {
+    "title": "[Minecraft × ChatGPT] マイクラで作りたいものを伝えると魔法みたいに実現してくれるコマンドを作る",
+    "link": "https://zenn.dev/ryo_kawamata/articles/5980d30972ff29",
+    "date": "2023-04-12T21:57:01.000Z"
+  },
+  {
+    "title": "GPT-4でPythonコードをエラーがなくなるまで自動修正・実行繰り返すAIツール「ウルヴァリン」 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2023/04/12/1150.html",
+    "date": "2023-04-12T21:56:02.000Z"
+  },
+  {
+    "title": "開発視点から見る、新しい分散型SNS「Bluesky」とAT Protocolの可能性 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2023/04/bluesky-atprotocol",
+    "date": "2023-04-12T21:55:14.000Z"
+  },
+  {
+    "title": "OpenAIの共同設立者が「私たちは間違っていた」と語る、AIの危険性からデータをオープンにしない方針へと大転換",
+    "link": "https://gigazine.net/news/20230317-openai-co-founder-interview-wrong/",
+    "date": "2023-04-12T21:54:58.000Z"
+  },
+  {
+    "title": "AI時代の精神医療を想像する──１．診断と治療について - シロクマの屑籠",
+    "link": "https://p-shirokuma.hatenadiary.com/entry/20230412/1681297200",
+    "date": "2023-04-12T21:54:31.000Z"
+  },
+  {
+    "title": "Stailerの開発を支える取り組み 2023春 - 10X Product Blog",
+    "link": "https://product.10x.co.jp/entry/tool-culture-and-structure-for-stailer-development",
+    "date": "2023-04-12T21:50:51.000Z"
+  },
+  {
+    "title": "GitHub - reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "link": "https://github.com/reworkd/AgentGPT",
+    "date": "2023-04-12T21:37:36.000Z"
+  },
+  {
+    "title": "AutoGPTをブラウザベースにしたようなAgentGPTを使ってみた｜Masayuki Abe",
+    "link": "https://note.com/masayuki_abe/n/nb920d97b8079",
+    "date": "2023-04-12T21:37:31.000Z"
+  },
+  {
+    "title": "クリエイティブAI講座：自立型AIモデルautoGPT～自然言語でタスクを与えると次々実行してくれる",
+    "link": "https://www.youtube.com/watch?v=PuW2YJ2u4_A",
+    "date": "2023-04-12T21:37:22.000Z"
+  },
+  {
+    "title": "【GPT要約】クリエイティブAI講座：自立型AIモデルautoGPT～自然言語でタスクを与えると次々実行してくれる｜だいち",
+    "link": "https://note.com/daichi_mu/n/n23d539767a25",
+    "date": "2023-04-12T21:37:16.000Z"
+  },
+  {
+    "title": "AutoGPT",
+    "link": "https://autogpt.net/",
+    "date": "2023-04-12T21:37:09.000Z"
+  },
+  {
+    "title": "AutoGPT: ChatGPT の次のステップの進化 – Kanaries",
+    "link": "https://docs.kanaries.net/ja/articles/autogpt-4.ja",
+    "date": "2023-04-12T21:36:45.000Z"
+  },
+  {
+    "title": "AgentGPT: Autonomous AI in your browser 🤖",
+    "link": "https://agentgpt.reworkd.ai/",
+    "date": "2023-04-12T21:35:48.000Z"
+  },
+  {
+    "title": "【レビュー】 消費電力減で扱いやすくなった高性能GPU「GeForce RTX 4070」",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/review/1492732.html",
+    "date": "2023-04-12T21:35:39.000Z"
+  },
+  {
+    "title": "エージェント論文：Chat GPTによる人間社会のシミュラクラ｜teftef",
+    "link": "https://note.com/te_ftef/n/n24d5f915f9a0",
+    "date": "2023-04-12T21:35:35.000Z"
+  },
+  {
+    "title": "Storybook 7.0",
+    "link": "https://storybook.js.org/blog/storybook-7-0/",
+    "date": "2023-04-12T21:35:30.000Z"
+  },
+  {
+    "title": "期待のミドルハイクラスGPU「GeForce RTX 4070」を検証。RTX 3080並みの性能で消費電力を大幅に低減",
+    "link": "https://www.4gamer.net/games/656/G065603/20230410049/",
+    "date": "2023-04-12T21:35:23.000Z"
+  },
+  {
+    "title": "ソニー、ラズベリーパイへ出資。エッジAI強化で協業",
+    "link": "https://www.watch.impress.co.jp/docs/news/1492780.html",
+    "date": "2023-04-12T21:35:15.000Z"
+  },
+  {
+    "title": "バイト先での動画が大炎上した22歳「僕の人生は終了した」300万円の賠償金、実家にまで誹謗中傷…炎上は本当に正義か（週刊SPA!） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/2c56e183cd7480d2263f7791b99ea09d1ba343bd",
+    "date": "2023-04-12T21:34:40.000Z"
+  },
+  {
+    "title": "マイナカード管理できず94％　高齢者施設、保険証一本化 ｜ 共同通信",
+    "link": "https://nordot.app/1018830090073309184",
+    "date": "2023-04-12T21:34:21.000Z"
+  },
+  {
+    "title": "「ジャニー喜多川氏から性的被害」　元ジャニーズJr.歌手が会見 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20230412/k00/00m/200/255000c",
+    "date": "2023-04-12T21:34:19.000Z"
+  },
+  {
+    "title": "「ジャニーさんと性的な接触をしてないと先に進めない」　ジャニーズ8人目「性被害ジュニア」の証言 | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/62084",
+    "date": "2023-04-12T21:34:16.000Z"
+  },
+  {
+    "title": "「ジャニーさんから性被害」元ジャニーズJr.会見　「未遂」証言も：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASR4D71Z8R4DUTIL01T.html",
+    "date": "2023-04-12T21:34:08.000Z"
+  },
+  {
+    "title": "パンタグラフに布団が…吹っ飛んできたか　京王線で一時運転見合わせ：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASR4D4RC0R4DUTIL01J.html",
+    "date": "2023-04-12T21:33:55.000Z"
+  },
+  {
+    "title": "「ジャニー喜多川さんから性被害、中学卒業前だった」 元ジュニアが顔出し会見で告白「ファンは目を背けないで」 - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_18/n_15883/",
+    "date": "2023-04-12T21:33:39.000Z"
+  },
+  {
+    "title": "ジャニーズ事務所のコメント全文 ｜ 共同通信",
+    "link": "https://nordot.app/1018857052009005056",
+    "date": "2023-04-12T21:33:31.000Z"
+  },
+  {
+    "title": "ジャニー氏の「性加害」証言、沈黙してきたメディアに責任は？　NHKディレクターの問いかけ - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_18/n_15884/",
+    "date": "2023-04-12T21:33:28.000Z"
+  },
+  {
+    "title": "元ジャニーズ「性的被害受けた」　カウアン・オカモトさんが会見 ｜ 共同通信",
+    "link": "https://nordot.app/1018712195029352448",
+    "date": "2023-04-12T21:33:27.000Z"
+  },
+  {
+    "title": "Linux におけるファイル I/O の基礎",
+    "link": "https://itkq.jp/blog/2017/05/10/linux-file-and-io/",
+    "date": "2023-04-12T21:33:11.000Z"
+  },
+  {
+    "title": "複雑系はなぜ廃れてしまったか？(私的考察)",
+    "link": "https://zenn.dev/crmind/articles/fddccd0c3aa4fd",
+    "date": "2023-04-12T21:25:17.000Z"
+  },
+  {
+    "title": "元ジャニーズ「性的被害受けた」　カウアン・オカモトさんが会見：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/243653",
+    "date": "2023-04-12T21:24:24.000Z"
+  },
+  {
+    "title": "驚異の高精度AIリアルタイムボイチェン「RVC」で友人になりすまして本人と会話したときの反応（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2023/04/12/1146.html",
+    "date": "2023-04-12T21:24:12.000Z"
+  },
+  {
+    "title": "LangChain の RetrievalQA を試す｜npaka",
+    "link": "https://note.com/npaka/n/nf2849b26a524",
+    "date": "2023-04-12T21:20:25.000Z"
+  },
+  {
+    "title": "Google Colab で GPT4ALL を試す｜npaka",
+    "link": "https://note.com/npaka/n/nf12146bf1677",
+    "date": "2023-04-12T21:20:23.000Z"
+  },
+  {
+    "title": "自律駆動型のAIエージェントまとめ｜npaka",
+    "link": "https://note.com/npaka/n/nb8bf95253033",
+    "date": "2023-04-12T21:20:20.000Z"
+  },
+  {
+    "title": "LlamaIndex のハイブリッド検索を試す｜npaka",
+    "link": "https://note.com/npaka/n/n63afe0e6684a",
+    "date": "2023-04-12T21:18:55.000Z"
+  },
+  {
+    "title": "パナソニックコネクトの｢社内ChatGPT｣全社導入。1カ月使い倒して見えてきた成果とは",
+    "link": "https://www.businessinsider.jp/post-268299",
+    "date": "2023-04-12T15:16:39.000Z"
+  },
+  {
+    "title": "サンリオキャラクター大賞はもう終わりだよ",
+    "link": "https://anond.hatelabo.jp/20230411182448",
+    "date": "2023-04-12T15:12:02.000Z"
+  },
+  {
+    "title": "JOCHUM ジェオチャム",
+    "link": "https://jochum.sanrio.co.jp/",
+    "date": "2023-04-12T15:11:45.000Z"
+  },
+  {
+    "title": "「ニンニク入れますか？」「普通で」ラーメン二郎店主のツッコミで勃発した “ルール論争” ふたたび（SmartFLASH） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/cd73e1cd30dd602c986ea13dfa597339c9185cb6",
+    "date": "2023-04-12T15:10:29.000Z"
+  }
+]

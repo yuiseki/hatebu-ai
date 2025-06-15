@@ -1,0 +1,247 @@
+[
+  {
+    "title": "アクセンチュア、社員と一緒に仕事をこなすAIエージェントを2025年春に全社員へ展開 | IT Leaders",
+    "link": "https://it.impress.co.jp/articles/-/27190",
+    "date": "2024-12-06T11:24:20.000Z"
+  },
+  {
+    "title": "M4 Maxチップ搭載「16インチMacBook Pro」の実力をチェック　誰に勧めるべきモデルなのか？",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2412/06/news141.html",
+    "date": "2024-12-06T11:23:56.000Z"
+  },
+  {
+    "title": "LiteLLM を使って色々な LLM API サービスをいい感じに使いこなす",
+    "link": "https://zenn.dev/magicmoment/articles/litellm-is-useful-202412",
+    "date": "2024-12-06T11:23:49.000Z"
+  },
+  {
+    "title": "DuckDB を使ったデータ品質保証の実践 - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/data-quality-check-with-duckdb",
+    "date": "2024-12-06T11:23:46.000Z"
+  },
+  {
+    "title": "セブン-イレブン公式アプリの在庫チェック機能が便利すぎる　人気の“ビリヤニ”など売り切れ気にせず買いに行ける",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2412/06/news163.html",
+    "date": "2024-12-06T11:23:35.000Z"
+  },
+  {
+    "title": "Mozillaがブランドを刷新へ ～新しいロゴやフォントをお披露目／黒×緑のモダンな装いに。アスキーアートスタイルの新しい恐竜マスコットもかわいい【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1645295.html",
+    "date": "2024-12-06T10:27:39.000Z"
+  },
+  {
+    "title": "東京都がAI活用に向け有識者会議　開発中の生成AIプラットフォームに松尾豊教授「めちゃくちゃいい」",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2412/06/news102.html",
+    "date": "2024-12-06T10:13:42.000Z"
+  },
+  {
+    "title": "GitHub - graelo/pumas: Power Usage Monitor for Apple Silicon",
+    "link": "https://github.com/graelo/pumas",
+    "date": "2024-12-06T05:43:30.000Z"
+  },
+  {
+    "title": "Apple silicon Mac用モニタリングツール「pumas」を使ってみる",
+    "link": "https://zenn.dev/kun432/scraps/ca44c945e0879d",
+    "date": "2024-12-06T05:43:19.000Z"
+  },
+  {
+    "title": "asitop : AppleSilicon GPU Monitor",
+    "link": "https://zenn.dev/reij061/scraps/be1c56ad8dd3e7",
+    "date": "2024-12-06T05:43:03.000Z"
+  },
+  {
+    "title": "Apple Silicon のモニターツール：asitop｜Lucas",
+    "link": "https://note.com/lucas_san/n/nd443e06bc756",
+    "date": "2024-12-06T05:42:55.000Z"
+  },
+  {
+    "title": "GitHub - tlkh/asitop: Perf monitoring CLI tool for Apple Silicon",
+    "link": "https://github.com/tlkh/asitop",
+    "date": "2024-12-06T05:42:22.000Z"
+  },
+  {
+    "title": "Googleがファインチューニングしやすいビジュアル言語モデル「PaliGemma 2」をリリース",
+    "link": "https://gigazine.net/news/20241206-google-paligemma-2/",
+    "date": "2024-12-06T04:13:05.000Z"
+  },
+  {
+    "title": "LLaVA-o1: Let Vision Language Models Reason Step-by-Step",
+    "link": "https://arxiv.org/abs/2411.10440",
+    "date": "2024-12-06T04:09:59.000Z"
+  },
+  {
+    "title": "GitHub - PKU-YuanGroup/LLaVA-CoT: LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning",
+    "link": "https://github.com/PKU-YuanGroup/LLaVA-CoT",
+    "date": "2024-12-06T04:09:57.000Z"
+  },
+  {
+    "title": "画像認識の新手法『LLaVA-o1』4段階推論で実現した高精度のAIモデル | ARCHETYP Staffing Magazine",
+    "link": "https://staffing.archetyp.jp/magazine/llava-o1/",
+    "date": "2024-12-06T04:09:51.000Z"
+  },
+  {
+    "title": "Gemini-1.5-proやGPT-4o-miniなどの性能を上回るLLaVA-o1（11Bパラメータ） | AIDB",
+    "link": "https://ai-data-base.com/archives/79215",
+    "date": "2024-12-06T04:08:51.000Z"
+  },
+  {
+    "title": "LoRAアダプターのホットスワッピングを使ったColQwen2単体でのRAGを試す",
+    "link": "https://zenn.dev/kun432/scraps/2145a851102507",
+    "date": "2024-12-06T04:06:24.000Z"
+  },
+  {
+    "title": "GitHub - QwenLM/Qwen-Agent: Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+    "link": "https://github.com/QwenLM/Qwen-Agent",
+    "date": "2024-12-06T04:05:59.000Z"
+  },
+  {
+    "title": "VLM用の合成instructionデータセットを作ろう",
+    "link": "https://zenn.dev/kendama/articles/cd5196a33bc46c",
+    "date": "2024-12-06T04:05:13.000Z"
+  },
+  {
+    "title": "Build a Retrieval Augmented Generation (RAG) App: Part 2 | 🦜️🔗 LangChain",
+    "link": "https://python.langchain.com/docs/tutorials/qa_chat_history/",
+    "date": "2024-12-06T04:04:42.000Z"
+  },
+  {
+    "title": "Agentic RAG",
+    "link": "https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/",
+    "date": "2024-12-06T04:04:34.000Z"
+  },
+  {
+    "title": "Agentic RAGとは",
+    "link": "https://zenn.dev/hijikix/articles/870e996aafeac7",
+    "date": "2024-12-06T04:04:29.000Z"
+  },
+  {
+    "title": "Agents | LlamaIndex.TS",
+    "link": "https://legacy.ts.llamaindex.ai/modules/agent",
+    "date": "2024-12-06T04:03:23.000Z"
+  },
+  {
+    "title": "How to build LLM Agents in TypeScript with LlamaIndex.TS — LlamaIndex - Build Knowledge Assistants over your Enterprise Data",
+    "link": "https://www.llamaindex.ai/blog/how-to-build-llm-agents-in-typescript-with-llamaindex-ts-a88ed364a7aa",
+    "date": "2024-12-06T04:03:11.000Z"
+  },
+  {
+    "title": "Codestral: Hello, World!",
+    "link": "https://mistral.ai/news/codestral/",
+    "date": "2024-12-06T04:00:46.000Z"
+  },
+  {
+    "title": "codestral",
+    "link": "https://ollama.com/library/codestral",
+    "date": "2024-12-06T04:00:41.000Z"
+  },
+  {
+    "title": "AiPPT - AI-Powered One-click PowerPoint Generation for Free",
+    "link": "https://www.aippt.com/",
+    "date": "2024-12-06T03:55:27.000Z"
+  },
+  {
+    "title": "GitHub - gusye1234/nano-graphrag: A simple, easy-to-hack GraphRAG implementation",
+    "link": "https://github.com/gusye1234/nano-graphrag",
+    "date": "2024-12-06T03:55:05.000Z"
+  },
+  {
+    "title": "cl-nagoya/ruri-dataset-ft · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/cl-nagoya/ruri-dataset-ft",
+    "date": "2024-12-06T01:31:12.000Z"
+  },
+  {
+    "title": "Sakana AI",
+    "link": "https://sakana.ai/careers/",
+    "date": "2024-12-05T23:59:56.000Z"
+  },
+  {
+    "title": "GitHub - KellerJordan/modded-nanogpt: NanoGPT (124M) quality in 2.67B tokens",
+    "link": "https://github.com/KellerJordan/modded-nanogpt",
+    "date": "2024-12-05T23:45:25.000Z"
+  },
+  {
+    "title": "Agent Skill Acquisition for Large Language Models via CycleQD",
+    "link": "https://arxiv.org/abs/2410.14735",
+    "date": "2024-12-05T23:41:25.000Z"
+  },
+  {
+    "title": "Sakana AI",
+    "link": "https://sakana.ai/cycleqd-jp/",
+    "date": "2024-12-05T23:39:57.000Z"
+  },
+  {
+    "title": "GitHub - ollama/ollama-js: Ollama JavaScript library",
+    "link": "https://github.com/ollama/ollama-js",
+    "date": "2024-12-05T23:24:14.000Z"
+  },
+  {
+    "title": "AI risk atlas",
+    "link": "https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas",
+    "date": "2024-12-05T23:14:47.000Z"
+  },
+  {
+    "title": "GitHub - AIDC-AI/Marco-o1: An Open Large Reasoning Model for Real-World Solutions",
+    "link": "https://github.com/AIDC-AI/Marco-o1",
+    "date": "2024-12-05T23:11:26.000Z"
+  },
+  {
+    "title": "GitHub - ibm-granite/granite-guardian: The Granite Guardian models are designed to detect risks in prompts and responses.",
+    "link": "https://github.com/ibm-granite/granite-guardian",
+    "date": "2024-12-05T23:11:07.000Z"
+  },
+  {
+    "title": "AIDC-AI/Marco-o1 · Hugging Face",
+    "link": "https://huggingface.co/AIDC-AI/Marco-o1",
+    "date": "2024-12-05T23:08:53.000Z"
+  },
+  {
+    "title": "marco-o1:7b",
+    "link": "https://ollama.com/library/marco-o1:7b",
+    "date": "2024-12-05T23:08:49.000Z"
+  },
+  {
+    "title": "Snowflake/snowflake-arctic-embed-l-v2.0 · Hugging Face",
+    "link": "https://huggingface.co/Snowflake/snowflake-arctic-embed-l-v2.0",
+    "date": "2024-12-05T23:03:50.000Z"
+  },
+  {
+    "title": "Snowflake’s Arctic Embed 2.0 Goes Multilingual",
+    "link": "https://www.snowflake.com/engineering-blog/snowflake-arctic-embed-2-multilingual/",
+    "date": "2024-12-05T23:03:43.000Z"
+  },
+  {
+    "title": "snowflake-arctic-embed2",
+    "link": "https://ollama.com/library/snowflake-arctic-embed2",
+    "date": "2024-12-05T23:03:29.000Z"
+  },
+  {
+    "title": "Bluetooth 6.0が実現する高精度な距離測定 - Channel Soundingの仕組みと可能性 - Qiita",
+    "link": "https://qiita.com/hu11911/items/2f1f4ea271d97f6ae674",
+    "date": "2024-12-05T22:56:23.000Z"
+  },
+  {
+    "title": "Windowsには「究極のパフォーマンス」という隠し機能が存在する",
+    "link": "https://gigazine.net/news/20241205-windows-ultimate-performance/",
+    "date": "2024-12-05T22:43:21.000Z"
+  },
+  {
+    "title": "Microsoftが改めてWindows 11の要件であるTPM 2.0の重要性を説く",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1645176.html",
+    "date": "2024-12-05T22:42:55.000Z"
+  },
+  {
+    "title": "紛争地域で多発のGPS信号妨害、米中欧日で「低軌道測位衛星」開発激化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10039/",
+    "date": "2024-12-05T22:40:29.000Z"
+  },
+  {
+    "title": "スタバ、紙ストローやめます　25年1月からバイオプラに - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC0308T0T01C24A2000000/",
+    "date": "2024-12-05T22:39:54.000Z"
+  },
+  {
+    "title": "Hono と Cloudflare Images で Next.js の画像リサイズを再現する",
+    "link": "https://zenn.dev/naporin24690/articles/e8b81c30861a9b",
+    "date": "2024-12-05T22:38:51.000Z"
+  }
+]

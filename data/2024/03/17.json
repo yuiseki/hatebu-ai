@@ -1,0 +1,47 @@
+[
+  {
+    "title": "GitHub - lavague-ai/LaVague: Automate automation with Large Action Model framework",
+    "link": "https://github.com/lavague-ai/LaVague",
+    "date": "2024-03-17T10:08:00.000Z"
+  },
+  {
+    "title": "検索サジェストにおける多様性評価指標とゴール指標の相関について - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/query-suggest-diversity-evaluation",
+    "date": "2024-03-17T10:07:49.000Z"
+  },
+  {
+    "title": "【速報】決闘罪で実刑判決　「タイマンしたらええやんけ」とキャバクラ従業員少女ら決闘させた罪に問われた男の裁判　決闘を主導したと認定（ABCニュース） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/062199b419b04b95dc0123ec48d653b053a6c769",
+    "date": "2024-03-17T10:07:23.000Z"
+  },
+  {
+    "title": "ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters - Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/",
+    "date": "2024-03-17T07:43:27.000Z"
+  },
+  {
+    "title": "Distributed data parallel training using Pytorch on AWS | Telesens",
+    "link": "https://www.telesens.co/2019/04/04/distributed-data-parallel-training-using-pytorch-on-aws/",
+    "date": "2024-03-17T07:42:49.000Z"
+  },
+  {
+    "title": "DataParallel — PyTorch 2.2 documentation",
+    "link": "https://pytorch.org/docs/stable/generated/torch.nn.DataParallel.html",
+    "date": "2024-03-17T07:42:17.000Z"
+  },
+  {
+    "title": "Distributed Data Parallel — PyTorch 2.2 documentation",
+    "link": "https://pytorch.org/docs/stable/notes/ddp.html",
+    "date": "2024-03-17T07:42:11.000Z"
+  },
+  {
+    "title": "Methods and tools for efficient training on a single GPU",
+    "link": "https://huggingface.co/docs/transformers/ja/perf_train_gpu_one",
+    "date": "2024-03-17T07:37:50.000Z"
+  },
+  {
+    "title": "Efficient Training on Multiple GPUs",
+    "link": "https://huggingface.co/docs/transformers/ja/perf_train_gpu_many",
+    "date": "2024-03-17T07:37:44.000Z"
+  }
+]

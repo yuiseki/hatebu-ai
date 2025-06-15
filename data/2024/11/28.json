@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Sarashina2-8x70Bの公開 - SB Intuitions TECH BLOG",
+    "link": "https://www.sbintuitions.co.jp/blog/entry/2024/11/25/175000",
+    "date": "2024-11-28T11:11:17.000Z"
+  },
+  {
+    "title": "累計2500万着電を支える大規模 電話自動応答サービスのアーキテクチャ / Architecture of a Large-Scale Automated Phone Response Service Supporting 25 Million Cumulative Calls",
+    "link": "https://speakerdeck.com/ymachida/architecture-of-a-large-scale-automated-phone-response-service-supporting-25-million-cumulative-calls",
+    "date": "2024-11-28T01:24:42.000Z"
+  },
+  {
+    "title": "Microsoftのデータ消失事件、事の真相とユーザーへの影響",
+    "link": "https://kn.itmedia.co.jp/kn/articles/2411/26/news073.html",
+    "date": "2024-11-27T23:31:10.000Z"
+  },
+  {
+    "title": "Threadsが1カ月に3500万人の新規ユーザーを獲得",
+    "link": "https://gigazine.net/news/20241127-threads-adds-35-million-users-in-november/",
+    "date": "2024-11-27T23:30:43.000Z"
+  },
+  {
+    "title": "「つながらないところが減ってきた」、通信品質の改善進む楽天モバイル",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/1643082.html",
+    "date": "2024-11-27T23:30:26.000Z"
+  },
+  {
+    "title": "斎藤知事弁護士　PR会社社長の最初期投稿を把握せず　記者団から「会見やり直して」「そこが大事」の声 - スポニチ Sponichi Annex 社会",
+    "link": "https://www.sponichi.co.jp/society/news/2024/11/27/kiji/20241127s00042000245000c.html",
+    "date": "2024-11-27T23:30:03.000Z"
+  },
+  {
+    "title": "一晩で２０万人超が一斉サイクリング、「道一帯が自転車でふさがる」…中国政府は抗議行動再燃を警戒し外出規制も",
+    "link": "https://www.yomiuri.co.jp/world/20241125-OYT1T50120/",
+    "date": "2024-11-27T23:29:53.000Z"
+  },
+  {
+    "title": "GitHub - modelcontextprotocol/typescript-sdk: The official Typescript SDK for Model Context Protocol servers and clients",
+    "link": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "date": "2024-11-27T23:17:40.000Z"
+  },
+  {
+    "title": "Anthropic の Model Context Protocol のクイックスタート｜npaka",
+    "link": "https://note.com/npaka/n/ncd797acdad06",
+    "date": "2024-11-27T23:17:35.000Z"
+  },
+  {
+    "title": "GitHub - modelcontextprotocol/servers: Model Context Protocol Servers",
+    "link": "https://github.com/modelcontextprotocol/servers",
+    "date": "2024-11-27T23:17:17.000Z"
+  },
+  {
+    "title": "gemma-2-2b-jpn-it を試す｜ぬこぬこ",
+    "link": "https://note.com/schroneko/n/nf2d000a3cc48",
+    "date": "2024-11-27T23:00:42.000Z"
+  },
+  {
+    "title": "7shi",
+    "link": "https://ollama.com/7shi",
+    "date": "2024-11-27T23:00:35.000Z"
+  },
+  {
+    "title": "google/gemma-2-2b-jpn-it · Hugging Face",
+    "link": "https://huggingface.co/google/gemma-2-2b-jpn-it",
+    "date": "2024-11-27T23:00:03.000Z"
+  },
+  {
+    "title": "Gemma 2 JPN Release - a google Collection",
+    "link": "https://huggingface.co/collections/google/gemma-2-jpn-release-66f5d3337fdf061dff76a4f1",
+    "date": "2024-11-27T22:59:58.000Z"
+  },
+  {
+    "title": "日本語版 Gemma 2 2B を公開",
+    "link": "https://developers-jp.googleblog.com/2024/10/gemma-2-for-japan.html",
+    "date": "2024-11-27T22:59:48.000Z"
+  },
+  {
+    "title": "Introduction - Model Context Protocol",
+    "link": "https://modelcontextprotocol.io/introduction",
+    "date": "2024-11-27T22:59:44.000Z"
+  },
+  {
+    "title": "AIエージェントを研究・開発していて、MCPに注目してない人はモグリだ｜erukiti",
+    "link": "https://note.com/erukiti/n/ndf066b854135",
+    "date": "2024-11-27T22:59:35.000Z"
+  },
+  {
+    "title": "Anthropic、生成AIとデータソースを接続するプロトコル「Model Context Protocol」をオープンソースとして公開 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2024/11/model-context-protocol",
+    "date": "2024-11-27T22:59:08.000Z"
+  },
+  {
+    "title": "Model Context Protocol",
+    "link": "https://github.com/modelcontextprotocol",
+    "date": "2024-11-27T22:58:53.000Z"
+  },
+  {
+    "title": "既存アプリとAIシステム間でデータを橋渡しするためのユニバーサルプロトコル「Model Context Protocol」をAnthropicが提唱しオープンソースで公開",
+    "link": "https://gigazine.net/news/20241126-anthropic-model-context-protocol/",
+    "date": "2024-11-27T22:58:46.000Z"
+  },
+  {
+    "title": "Introducing the Model Context Protocol",
+    "link": "https://www.anthropic.com/news/model-context-protocol",
+    "date": "2024-11-27T22:58:39.000Z"
+  },
+  {
+    "title": "Anthropic の Model Context Protocol の概要｜npaka",
+    "link": "https://note.com/npaka/n/nfbb9337bf4e9",
+    "date": "2024-11-27T22:58:35.000Z"
+  },
+  {
+    "title": "Anthropic社のClaude発！AIアシスタントが「何でも繋がる」時代へ。新技術MCPが切り開く可能性｜Kyutaro",
+    "link": "https://note.com/kyutaro15/n/n4b5ee8fd5d85",
+    "date": "2024-11-27T22:58:23.000Z"
+  },
+  {
+    "title": "LINEヤフー、「LINEミニアプリ」を強化へ--審査不要の「未認証ミニアプリ」実装",
+    "link": "https://japan.cnet.com/article/35226570/",
+    "date": "2024-11-27T22:58:13.000Z"
+  },
+  {
+    "title": "「Firefox 133」が正式版に ～Windows版で「Canvas2D」がGPUアクセラレーション／強化型トラッキング防止に新しい保護機能、セキュリティ関連の修正は17件",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1642801.html",
+    "date": "2024-11-27T22:58:09.000Z"
+  },
+  {
+    "title": "「不当な要求には応じない」　カシオ、ランサムウェア攻撃で身代金の要求を拒絶　販売機会の損失は約130億円",
+    "link": "https://www.itmedia.co.jp/news/articles/2411/27/news201.html",
+    "date": "2024-11-27T22:54:02.000Z"
+  },
+  {
+    "title": "Railsを使っている組織の検索サービス usingrails.com を立ち上げました（翻訳）｜TechRacho by BPS株式会社",
+    "link": "https://techracho.bpsinc.jp/hachi8833/2024_11_27/145796",
+    "date": "2024-11-27T22:53:37.000Z"
+  },
+  {
+    "title": "「原発ゼロでは政権取れず」　国民代表、立民に政策見直し要求：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2024071800875&g=pol",
+    "date": "2024-11-27T22:52:01.000Z"
+  },
+  {
+    "title": "立憲民主の原発ゼロは「国民に選ばれない」　国民民主・玉木氏が批判　泉氏は「4年前、玉木氏もいいと…」：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/341104",
+    "date": "2024-11-27T22:49:31.000Z"
+  },
+  {
+    "title": "国民民主党・玉木代表 原発「新増設を」　石破首相に直接申し入れ｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/793825",
+    "date": "2024-11-27T22:48:57.000Z"
+  },
+  {
+    "title": "原発新増設、石破首相に要請へ　エネルギー基本計画―国民民主：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2024112601066&g=pol",
+    "date": "2024-11-27T22:48:55.000Z"
+  },
+  {
+    "title": "玉木国民民主代表、エネルギー政策で石破首相に申し入れ　原発新増設を",
+    "link": "https://jp.reuters.com/markets/japan/funds/LDZWVGTUQJLP7HMAI3G4F3WUKE-2024-11-27/",
+    "date": "2024-11-27T22:48:54.000Z"
+  },
+  {
+    "title": "国民民主党・玉木代表が石破総理に原発新増設など提言 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/1581436",
+    "date": "2024-11-27T22:48:51.000Z"
+  },
+  {
+    "title": "N党への名誉毀損認めず　「カルト」投稿のネット記者勝訴",
+    "link": "https://www.47news.jp/11826726.html",
+    "date": "2024-11-27T22:26:55.000Z"
+  },
+  {
+    "title": "「AI松下幸之助」爆誕　パナが開発",
+    "link": "https://www.itmedia.co.jp/news/articles/2411/27/news227.html",
+    "date": "2024-11-27T22:26:39.000Z"
+  },
+  {
+    "title": "PR会社女性社長は「キラキラに見えてドロドロ」　斎藤知事当選の立役者の素顔を親族が明かす（デイリー新潮） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/cf9058a16e992691d9fa9f568ab851afc62c93ad",
+    "date": "2024-11-27T22:25:27.000Z"
+  },
+  {
+    "title": "ソフトウェア開発の複雑さに立ち向かう",
+    "link": "https://speakerdeck.com/masuda220/sohutoueakai-fa-nofu-za-sanili-tixiang-kau",
+    "date": "2024-11-27T22:24:56.000Z"
+  },
+  {
+    "title": "NHKのネット受信契約（案）が“ダークパターン”過ぎて見過ごせない件（前編）　NHKの見解は？",
+    "link": "https://www.itmedia.co.jp/news/articles/2411/27/news153.html",
+    "date": "2024-11-27T22:24:53.000Z"
+  },
+  {
+    "title": "児童の口にしょうゆ、暴行疑い　柔道教室の男逮捕、千葉県警 ｜ 共同通信",
+    "link": "https://nordot.app/1234467102989828909",
+    "date": "2024-11-27T22:24:32.000Z"
+  },
+  {
+    "title": "斎藤知事「SNS運用はボランティア」説明の破綻、結末は猪瀬東京都知事5000万円問題と同様か（郷原信郎） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/d5d6c2851b1127cccbc0789dd2bac21c854a1903",
+    "date": "2024-11-27T22:23:57.000Z"
+  }
+]

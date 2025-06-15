@@ -1,0 +1,102 @@
+[
+  {
+    "title": "osanseviero/twitter-airline-sentiment · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/osanseviero/twitter-airline-sentiment",
+    "date": "2024-03-28T08:41:19.000Z"
+  },
+  {
+    "title": "Twitter US Airline Sentiment",
+    "link": "https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment",
+    "date": "2024-03-28T08:40:59.000Z"
+  },
+  {
+    "title": "GitHub - t-davidson/hate-speech-and-offensive-language: Repository for the paper \"Automated Hate Speech Detection and the Problem of Offensive Language\", ICWSM 2017",
+    "link": "https://github.com/t-davidson/hate-speech-and-offensive-language",
+    "date": "2024-03-28T08:40:50.000Z"
+  },
+  {
+    "title": "LibrAI/do-not-answer · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/LibrAI/do-not-answer",
+    "date": "2024-03-28T08:39:23.000Z"
+  },
+  {
+    "title": "GitHub - Libr-AI/do-not-answer: Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs",
+    "link": "https://github.com/Libr-AI/do-not-answer",
+    "date": "2024-03-28T08:39:08.000Z"
+  },
+  {
+    "title": "GitHub - kunishou/do-not-answer-ja",
+    "link": "https://github.com/kunishou/do-not-answer-ja",
+    "date": "2024-03-28T08:38:59.000Z"
+  },
+  {
+    "title": "kunishou/do-not-answer-120-ja · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/kunishou/do-not-answer-120-ja",
+    "date": "2024-03-28T08:38:33.000Z"
+  },
+  {
+    "title": "【Nishika】ヘイトスピーチ検出コンペに参加し、準優勝しました",
+    "link": "https://blog.recruit.co.jp/data/articles/nishika-hate-speech-detection/",
+    "date": "2024-03-28T08:38:14.000Z"
+  },
+  {
+    "title": "p1atdev/open2ch · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/p1atdev/open2ch",
+    "date": "2024-03-28T08:36:34.000Z"
+  },
+  {
+    "title": "LLM Fine-Tuning (東大松尾研LLM講座 Day5資料)",
+    "link": "https://speakerdeck.com/schulta/llm-fine-tuning-dong-da-song-wei-yan-llmjiang-zuo-day5zi-liao",
+    "date": "2024-03-28T06:31:33.000Z"
+  },
+  {
+    "title": "https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T-Sample",
+    "link": "https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T-Sample",
+    "date": "2024-03-28T04:13:21.000Z"
+  },
+  {
+    "title": "日本語tokenizerを学習する",
+    "link": "https://zenn.dev/if001/articles/87bbe893411fa1",
+    "date": "2024-03-28T02:30:39.000Z"
+  },
+  {
+    "title": "Mixtral 250MのpretrainingからInstruction Tuningまで",
+    "link": "https://zenn.dev/if001/articles/9bb90e0d8c201f",
+    "date": "2024-03-27T23:00:51.000Z"
+  },
+  {
+    "title": "llama2のpretrainingを試す",
+    "link": "https://zenn.dev/if001/articles/6c507e15cd958b",
+    "date": "2024-03-27T22:58:04.000Z"
+  },
+  {
+    "title": "cis-lmu/udhr-lid · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/cis-lmu/udhr-lid",
+    "date": "2024-03-27T22:41:22.000Z"
+  },
+  {
+    "title": "cis-lmu/GlotStoryBook · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/cis-lmu/GlotStoryBook",
+    "date": "2024-03-27T22:40:06.000Z"
+  },
+  {
+    "title": "cis-lmu/Glot500 · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "date": "2024-03-27T22:39:16.000Z"
+  },
+  {
+    "title": "サンゴ語 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B4%E8%AA%9E",
+    "date": "2024-03-27T22:37:43.000Z"
+  },
+  {
+    "title": "Muennighoff/flores200 · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/Muennighoff/flores200",
+    "date": "2024-03-27T22:37:21.000Z"
+  },
+  {
+    "title": "lbourdois/language_tags · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/lbourdois/language_tags",
+    "date": "2024-03-27T22:36:28.000Z"
+  }
+]

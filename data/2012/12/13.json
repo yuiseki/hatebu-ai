@@ -1,0 +1,477 @@
+[
+  {
+    "title": "MongoDB: The Developer Data Platform",
+    "link": "http://cookbook.mongodb.org/patterns/date_range/",
+    "date": "2012-12-13T13:59:50.000Z"
+  },
+  {
+    "title": "タッチ対応の格安AndroidノートPCが発売、9,980円",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/578521.html",
+    "date": "2012-12-13T12:48:02.000Z"
+  },
+  {
+    "title": "ラーメン「熱烈麺家いち 末広町店」オープン！ 酸辣湯麺ならぬ\"酸辛麺（サンラー麺）\"の専門店が秋葉原でリニューアル - アキバ総研",
+    "link": "https://akiba-souken.com/article/15069/",
+    "date": "2012-12-13T12:17:07.000Z"
+  },
+  {
+    "title": "MongoDBで位置情報お手軽検索。あとついでにPython",
+    "link": "https://zafiel.wingall.com/archives/2713",
+    "date": "2012-12-13T12:10:36.000Z"
+  },
+  {
+    "title": "vimと端末エミュレーション - Qiita",
+    "link": "https://qiita.com/kefir_/items/415a30930a80b9b42adb",
+    "date": "2012-12-13T12:00:26.000Z"
+  },
+  {
+    "title": "mod_mrubyの拡張ライブラリ開発のススメ",
+    "link": "http://blog.matsumoto-r.jp/?p=3103",
+    "date": "2012-12-13T11:55:05.000Z"
+  },
+  {
+    "title": "mrubyでRedisを操作するmruby-redis書いたよー",
+    "link": "http://blog.matsumoto-r.jp/?p=3118",
+    "date": "2012-12-13T11:55:01.000Z"
+  },
+  {
+    "title": "ICCF Holland - News",
+    "link": "https://www.iccf.nl/news.html",
+    "date": "2012-12-13T11:52:13.000Z"
+  },
+  {
+    "title": "デジカメの顔検出を“無効化”するゴーグル「プライバシーバイザー」",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/1212/13/news020.html",
+    "date": "2012-12-13T11:41:11.000Z"
+  },
+  {
+    "title": "秋葉原で「ダンボー工作キット」製作教室－「着ぐるみダンボー」撮影会も",
+    "link": "http://akiba.keizai.biz/headline/2921/",
+    "date": "2012-12-13T11:33:43.000Z"
+  },
+  {
+    "title": "NFC搭載モデル 開発者インタビュー | ヘッドホン | ソニー",
+    "link": "https://www.sony.jp/headphone/special/park/products_sp/tech1.html",
+    "date": "2012-12-13T11:33:35.000Z"
+  },
+  {
+    "title": "スマホで操作できるトイレが来年2月に発売。価格は約36万円～（動画あり）",
+    "link": "https://www.gizmodo.jp/2012/12/239.html",
+    "date": "2012-12-13T11:29:53.000Z"
+  },
+  {
+    "title": "色々なbreakpointを使ったJSデバッグ - Qiita",
+    "link": "https://qiita.com/yaotti/items/1b0d86f3f8e68ccb0d68",
+    "date": "2012-12-13T11:29:20.000Z"
+  },
+  {
+    "title": "バックグラウンドプロセス(ジョブ)の管理 - satake7’s memo",
+    "link": "https://satake7.hatenadiary.org/entry/20080606/p1",
+    "date": "2012-12-13T11:27:15.000Z"
+  },
+  {
+    "title": "Tenjin - the fastest template engine in the world - kuwata-lab.com",
+    "link": "http://www.kuwata-lab.com/tenjin/",
+    "date": "2012-12-13T11:24:26.000Z"
+  },
+  {
+    "title": "京都市明細図 on the Web",
+    "link": "http://www.geo.lt.ritsumei.ac.jp/meisaizu/googlemaps.html",
+    "date": "2012-12-13T11:24:03.000Z"
+  },
+  {
+    "title": "はてなブックマーク開発ブログ",
+    "link": "http://hatena.g.hatena.ne.jp/hatenabookmark/20121213/1355392696",
+    "date": "2012-12-13T11:22:04.000Z"
+  },
+  {
+    "title": "NimbusKit - Feature Catalog",
+    "link": "https://nimbuskit.info/catalog/",
+    "date": "2012-12-13T11:21:15.000Z"
+  },
+  {
+    "title": "NimbusKit - The iOS framework that grows only as fast as its documentation",
+    "link": "https://nimbuskit.info/",
+    "date": "2012-12-13T11:20:34.000Z"
+  },
+  {
+    "title": "新Google Mapsアプリ採用のフレームワーク NimbusKit がいい感じ | fladdict",
+    "link": "http://fladdict.net/blog/2012/12/nimbus-kit.html",
+    "date": "2012-12-13T11:20:32.000Z"
+  },
+  {
+    "title": "東京 渋谷駅前のビルの地下で火事　NHKニュース",
+    "link": "http://www3.nhk.or.jp/news/html/20121213/k10014171061000.html",
+    "date": "2012-12-13T10:39:55.000Z"
+  },
+  {
+    "title": "ITビジネス情報サイト - 週刊BCN+",
+    "link": "http://biz.bcnranking.jp/article/distribution/gekisen/1212/121213_131956.html",
+    "date": "2012-12-13T08:57:25.000Z"
+  },
+  {
+    "title": "MeCab で非同期に形態素解析する node-mecab-async を作って npm に登録してみた - 凹みTips",
+    "link": "https://tips.hecomi.com/entry/20121029/1351531920",
+    "date": "2012-12-13T08:42:28.000Z"
+  },
+  {
+    "title": "Twitter用にMecabの辞書をパワーアップ #perl",
+    "link": "http://hujimi.seesaa.net/article/218393550.html",
+    "date": "2012-12-13T08:39:42.000Z"
+  },
+  {
+    "title": "JavaScriptで形態素解析してみた - shogo82148's blog",
+    "link": "https://shogo82148.hatenablog.com/entry/2012/03/11/173555",
+    "date": "2012-12-13T08:37:01.000Z"
+  },
+  {
+    "title": "GitHub - shogo82148/igo-javascript: Morphological analyzer for Node.js",
+    "link": "https://github.com/shogo82148/igo-javascript",
+    "date": "2012-12-13T08:36:32.000Z"
+  },
+  {
+    "title": "Igo-pythonの導入メモ",
+    "link": "http://hideaki-t.blogspot.com/2010/11/igo-python.html",
+    "date": "2012-12-13T08:35:27.000Z"
+  },
+  {
+    "title": "GitHub - hakobera/node-mecab-binding: Very simple MeCab binding for Node.js",
+    "link": "https://github.com/hakobera/node-mecab-binding",
+    "date": "2012-12-13T08:34:16.000Z"
+  },
+  {
+    "title": "Node.js と MongoDB でナイーブベイズによる文書分類をやってみた - Cheese Pie",
+    "link": "https://cheesepie.hatenadiary.org/entry/20111106/1320515215",
+    "date": "2012-12-13T08:33:59.000Z"
+  },
+  {
+    "title": "PCRE - Perl Compatible Regular Expressions",
+    "link": "http://www.pcre.org/",
+    "date": "2012-12-13T08:10:19.000Z"
+  },
+  {
+    "title": "http://www.pcre.org/pcre.txt",
+    "link": "http://www.pcre.org/pcre.txt",
+    "date": "2012-12-13T08:10:06.000Z"
+  },
+  {
+    "title": "地理情報システム - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "date": "2012-12-13T07:43:36.000Z"
+  },
+  {
+    "title": "Learn",
+    "link": "http://www.google.com/earth/outreach/tutorials/index.html",
+    "date": "2012-12-13T07:40:43.000Z"
+  },
+  {
+    "title": "None",
+    "link": "http://www.google.com/earth/outreach/index.html",
+    "date": "2012-12-13T07:40:08.000Z"
+  },
+  {
+    "title": "Activate Google Maps Platform credits - Google for Nonprofits Help",
+    "link": "http://www.google.com/earth/outreach/grants/software/index.html",
+    "date": "2012-12-13T07:39:58.000Z"
+  },
+  {
+    "title": "Google Earth Engine",
+    "link": "https://earthengine.google.com/",
+    "date": "2012-12-13T07:39:37.000Z"
+  },
+  {
+    "title": "アジアの大気汚染を鼻毛で可視化した鼻毛マップ",
+    "link": "https://labs.cybozu.co.jp/blog/akky/2012/12/hairynose-pollution-map/",
+    "date": "2012-12-13T07:29:07.000Z"
+  },
+  {
+    "title": "Discover データ活用が導く新たな世界へ",
+    "link": "http://discovermapsforbusiness.jp/",
+    "date": "2012-12-13T07:26:58.000Z"
+  },
+  {
+    "title": "Google エンタープライズ Earth とマップ",
+    "link": "http://www.google.com/intl/ja_ALL/enterprise/earthmaps/index.html",
+    "date": "2012-12-13T07:26:34.000Z"
+  },
+  {
+    "title": "Google Maps Platform - Location and Mapping Solutions",
+    "link": "https://enterprise.google.com/earthmaps/index.html",
+    "date": "2012-12-13T07:25:36.000Z"
+  },
+  {
+    "title": "Google Enterprise Solutions - Google Search Appliance",
+    "link": "https://developers.google.com/maps",
+    "date": "2012-12-13T07:25:20.000Z"
+  },
+  {
+    "title": "Google Maps Platform - Location and Mapping Solutions",
+    "link": "https://enterprise.google.com/maps/products/mapsengine.html",
+    "date": "2012-12-13T07:25:17.000Z"
+  },
+  {
+    "title": "Swisstrains.ch – Die Schweiz im Schnellzug",
+    "link": "http://swisstrains.ch/",
+    "date": "2012-12-13T07:24:33.000Z"
+  },
+  {
+    "title": "地図を「情報プラットフォーム」に、ビジネスデータが動き出す～ グーグルが提案する、地理空間情報の活用",
+    "link": "https://japan.cnet.com/extra/google_201212/35024956/",
+    "date": "2012-12-13T07:23:42.000Z"
+  },
+  {
+    "title": "ニュース : T&D Corporation",
+    "link": "http://www.tandd.co.jp/about/newsrelease/20121207001.html",
+    "date": "2012-12-13T07:22:36.000Z"
+  },
+  {
+    "title": "新製品　ワイヤレスデータ収集　モバイルベースステーション RTR-500MBS (エレキジャック　ニュース＆イベント)",
+    "link": "http://www.eleki-jack.com/news/2012/12/_rtr500mbs.html",
+    "date": "2012-12-13T07:22:31.000Z"
+  },
+  {
+    "title": "Creative Commands Compilation Data",
+    "link": "http://bunkai-kei.com/special/cccd/",
+    "date": "2012-12-13T07:14:01.000Z"
+  },
+  {
+    "title": "カレースタンド PLUCK (岩本町/カレー)",
+    "link": "https://tabelog.com/tokyo/A1310/A131002/13149086/",
+    "date": "2012-12-13T06:44:06.000Z"
+  },
+  {
+    "title": "Reference — MongoDB Manual",
+    "link": "https://www.mongodb.com/docs/manual/reference/",
+    "date": "2012-12-13T06:23:43.000Z"
+  },
+  {
+    "title": "Twitter Streaming APIをMongoDBに保存して遊んでみる",
+    "link": "https://blog.dakatsuka.jp/2010/10/31/streaming-api-to-mongodb.html",
+    "date": "2012-12-13T06:21:29.000Z"
+  },
+  {
+    "title": "MongoDBノート - $regex を使ったクエリでのインデックスの使われ方 - Alone Like a Rhinoceros Horn",
+    "link": "https://h1mesuke.hatenadiary.org/entry/20111216/p1",
+    "date": "2012-12-13T06:17:54.000Z"
+  },
+  {
+    "title": "GitHub - square/cubism: Cubism.js: A JavaScript library for time series visualization.",
+    "link": "https://github.com/square/cubism",
+    "date": "2012-12-13T05:48:04.000Z"
+  },
+  {
+    "title": "Cubism.js",
+    "link": "http://square.github.io/cubism/",
+    "date": "2012-12-13T05:47:52.000Z"
+  },
+  {
+    "title": "東京名物油そば総本店が閉店になって鉄板王国ができるみたい #akiba",
+    "link": "http://twitpic.com/bli1dm",
+    "date": "2012-12-13T05:15:50.000Z"
+  },
+  {
+    "title": "文書をクラスタリングする | 774::Blog",
+    "link": "http://blog.id774.net/post/2012/12/13/320/",
+    "date": "2012-12-13T05:12:02.000Z"
+  },
+  {
+    "title": "Operators — MongoDB Manual",
+    "link": "https://www.mongodb.com/docs/manual/reference/operator/",
+    "date": "2012-12-13T03:55:11.000Z"
+  },
+  {
+    "title": "Query Documents — MongoDB Manual",
+    "link": "https://www.mongodb.com/docs/manual/tutorial/query-documents/",
+    "date": "2012-12-13T03:53:49.000Z"
+  },
+  {
+    "title": "タレント仲間に誘われ…ほしの「どんなサイトか分からず」30万で加担 - スポニチ Sponichi Annex 芸能",
+    "link": "https://www.sponichi.co.jp/entertainment/news/2012/12/13/kiji/K20121213004767950.html",
+    "date": "2012-12-13T03:26:13.000Z"
+  },
+  {
+    "title": "太陽電池繊維を開発、商品化目指す 福井県",
+    "link": "https://www.afpbb.com/articles/-/2916090",
+    "date": "2012-12-13T03:25:04.000Z"
+  },
+  {
+    "title": "川や水路の自然な水流で発電する新しい水力発電「Cappa」 | エンタープライズ | マイナビニュース",
+    "link": "http://news.mynavi.jp/news/2012/12/13/005/index.html",
+    "date": "2012-12-13T03:24:09.000Z"
+  },
+  {
+    "title": "サイバーエージェント、ペニオクを宣伝する芸能人ブログへの関与を否定　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/578434.html",
+    "date": "2012-12-13T03:23:38.000Z"
+  },
+  {
+    "title": "ソーシャルゲームは社会的善になれるのか",
+    "link": "http://pskmt.tumblr.com/post/22774260634",
+    "date": "2012-12-13T03:21:13.000Z"
+  },
+  {
+    "title": "Microdata を使ってみよう。サンプルソースで学ぶ Microdata",
+    "link": "https://hyper-text.org/archives/2012/12/html5_microdata_getstarted/",
+    "date": "2012-12-13T03:20:49.000Z"
+  },
+  {
+    "title": "ほしのあき「軽率でした」謝罪文掲載へ - 芸能社会 - SANSPO.COM（サンスポ）",
+    "link": "http://www.sanspo.com/geino/news/20121213/sca12121305040000-n1.html",
+    "date": "2012-12-13T02:17:15.000Z"
+  },
+  {
+    "title": "地図アプリは“スマホの金脈”だった、AppleがGoogleに対抗した理由を探る　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/577843.html",
+    "date": "2012-12-13T02:16:12.000Z"
+  },
+  {
+    "title": "日立造船と住友化学、津波被害の農地修復技術を確立 - MSN産経ニュース",
+    "link": "http://sankei.jp.msn.com/economy/news/121212/biz12121219060029-n1.htm",
+    "date": "2012-12-13T02:08:19.000Z"
+  },
+  {
+    "title": "タブ切り替え式デザインのページで見えないコンテンツは無視されるかも",
+    "link": "https://www.suzukikenichi.com/blog/goolge-may-ignore-content-behind-tabs/",
+    "date": "2012-12-13T02:06:40.000Z"
+  },
+  {
+    "title": ": _",
+    "link": "http://mechag.asks.jp/507590.html",
+    "date": "2012-12-13T02:04:36.000Z"
+  },
+  {
+    "title": "GitHub - NUKnightLab/TimelineJS: TimelineJS: A Storytelling Timeline built in JavaScript.",
+    "link": "https://github.com/NUKnightLab/TimelineJS",
+    "date": "2012-12-13T01:57:50.000Z"
+  },
+  {
+    "title": "2012年末に観ておきたいJavaScript20選: githubでwatch数の多い200件から - memo.yomukaku.net",
+    "link": "http://memo.yomukaku.net/entries/AthlOFU",
+    "date": "2012-12-12T21:12:52.000Z"
+  },
+  {
+    "title": "みんなでつくる未来予想図：未来技術まとめ Wiki",
+    "link": "https://forevision.jp/wiki/",
+    "date": "2012-12-12T19:39:49.000Z"
+  },
+  {
+    "title": "未来ロードマップ：未来技術まとめ Wiki",
+    "link": "https://forevision.jp/wiki/?%E6%9C%AA%E6%9D%A5%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97",
+    "date": "2012-12-12T19:39:45.000Z"
+  },
+  {
+    "title": "日常をぶち破れ！",
+    "link": "https://xtech.nikkei.com/dm/article/HONSHI/20121207/255151/",
+    "date": "2012-12-12T18:17:21.000Z"
+  },
+  {
+    "title": "https://play.google.com/store/apps/details?id=com.appspot.darkyoshicpp.akibanow",
+    "link": "https://play.google.com/store/apps/details?id=com.appspot.darkyoshicpp.akibanow",
+    "date": "2012-12-12T17:48:22.000Z"
+  },
+  {
+    "title": "あきばっぷ - Google Play の Android アプリ",
+    "link": "https://play.google.com/store/apps/details?id=jp.world.perfect.android.app.Akibap",
+    "date": "2012-12-12T17:44:40.000Z"
+  },
+  {
+    "title": "アキバいくよー。 - Google Play の Android アプリ",
+    "link": "https://play.google.com/store/apps/details?id=soburi.akibaikuyo",
+    "date": "2012-12-12T17:42:24.000Z"
+  },
+  {
+    "title": "へいのなかにいる - Apps on Google Play",
+    "link": "https://play.google.com/store/apps/details?id=com.astralsystem.heyinside&hl=en_US",
+    "date": "2012-12-12T17:39:02.000Z"
+  },
+  {
+    "title": "秋葉原でお買い物 - Google Play の Android アプリ",
+    "link": "https://play.google.com/store/apps/details?id=org.Shopper",
+    "date": "2012-12-12T17:37:56.000Z"
+  },
+  {
+    "title": "迷える有権者.comのPR動画がすばらしい | ICHINOHE Blog",
+    "link": "https://shinyai.com/2012/12/13/mayoeru/",
+    "date": "2012-12-12T17:20:03.000Z"
+  },
+  {
+    "title": "Amazon.co.jp: MongoDBイン・アクション: Kyle Banker (著), Sky株式会社玉川竜司 (翻訳): 本",
+    "link": "https://www.amazon.co.jp/gp/product/4873115906",
+    "date": "2012-12-12T16:51:22.000Z"
+  },
+  {
+    "title": "ぱくたそ - フリー写真素材・無料ダウンロード",
+    "link": "https://www.pakutaso.com/",
+    "date": "2012-12-12T15:29:54.000Z"
+  },
+  {
+    "title": "「連鎖して自己組織化する極小ロボ」MIT開発",
+    "link": "https://wired.jp/2012/12/12/tiny-transformer-robot/",
+    "date": "2012-12-12T15:29:52.000Z"
+  },
+  {
+    "title": "候補者を知る - Google 選ぼう 2012",
+    "link": "http://www.google.co.jp/landing/senkyo2012/candidates/index.html",
+    "date": "2012-12-12T15:29:45.000Z"
+  },
+  {
+    "title": "迷える有権者.com",
+    "link": "http://charitv.me/btt311.com/upmayoeru/p1.html",
+    "date": "2012-12-12T15:29:43.000Z"
+  },
+  {
+    "title": "毎日新聞ボートマッチ　えらぼーと　2022参院選",
+    "link": "http://mainichi.jp/votematch/46shu/index.php",
+    "date": "2012-12-12T15:29:42.000Z"
+  },
+  {
+    "title": "サービス終了のお知らせ",
+    "link": "https://thanks.yahoo.co.jp/guide/position/diplomacy/",
+    "date": "2012-12-12T15:29:42.000Z"
+  },
+  {
+    "title": "サービス終了のお知らせ",
+    "link": "https://thanks.yahoo.co.jp/guide/position/",
+    "date": "2012-12-12T15:29:40.000Z"
+  },
+  {
+    "title": "日本版ボートマッチ　-2012総選挙版-",
+    "link": "https://www.votematch.jp/",
+    "date": "2012-12-12T15:29:39.000Z"
+  },
+  {
+    "title": "投票マッチング - 日本政治.com",
+    "link": "http://nihonseiji.com/votematches",
+    "date": "2012-12-12T15:29:35.000Z"
+  },
+  {
+    "title": "選挙前に見ておきたいサイト７選 - www.さとなお.com（さなメモ）",
+    "link": "http://www.satonao.com/archives/2012/12/post_3489.html",
+    "date": "2012-12-12T15:29:13.000Z"
+  },
+  {
+    "title": "1分じゃわからないUXをめぐる議論 | インタラクションとデザイン",
+    "link": "http://www.persistent.org/me/?p=419",
+    "date": "2012-12-12T15:05:34.000Z"
+  },
+  {
+    "title": "正論、説教について――『ロスジェネ心理学』を書きながら考えていたこと - シロクマの屑籠",
+    "link": "https://p-shirokuma.hatenadiary.com/entry/20121212/p1",
+    "date": "2012-12-12T15:05:24.000Z"
+  },
+  {
+    "title": "htmlを拡張するビルドツールHammer【Mac】 | Sou-Lablog",
+    "link": "http://blog.sou-lab.com/hammer/",
+    "date": "2012-12-12T15:05:20.000Z"
+  },
+  {
+    "title": "デジカメの最終形　IKEA「段ボールカメラ」を分解 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXNASFK0604B_W2A800C1000000/",
+    "date": "2012-12-12T15:05:17.000Z"
+  },
+  {
+    "title": "ユニークすぎるメカトロニクス機器が集結『電子工作フェスティバル2012』 - 週刊アスキー",
+    "link": "https://weekly.ascii.jp/elem/000/002/612/2612917/?r=1",
+    "date": "2012-12-12T15:05:12.000Z"
+  }
+]

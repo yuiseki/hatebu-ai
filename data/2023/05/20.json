@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Anthropic - Prompt Engineer & Librarian",
+    "link": "https://jobs.lever.co/Anthropic/e3cde481-d446-460f-b576-93cab67bd1ed",
+    "date": "2023-05-20T13:36:01.000Z"
+  },
+  {
+    "title": "OpenAIのライバルAnthropic、ChatGPTに挑む対話型AI「Claude」を投入 - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+    "link": "https://thebridge.jp/2023/03/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api",
+    "date": "2023-05-20T13:35:21.000Z"
+  },
+  {
+    "title": "Anthropic - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Anthropic",
+    "date": "2023-05-20T13:35:19.000Z"
+  },
+  {
+    "title": "ChatGPTのWebブラウジング機能をBingやBardと比較してみた｜IT navi",
+    "link": "https://note.com/it_navi/n/n4360935a81b9",
+    "date": "2023-05-20T12:08:48.000Z"
+  },
+  {
+    "title": "ChatGPT Plugins | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/integrations/tools/aiplugin-tool",
+    "date": "2023-05-20T04:33:26.000Z"
+  },
+  {
+    "title": "SQL | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/chains/popular/sqlite",
+    "date": "2023-05-20T04:31:32.000Z"
+  },
+  {
+    "title": "Dynamically selecting from multiple retrievers | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/chains/additional/multi_retrieval_qa_router",
+    "date": "2023-05-20T04:30:49.000Z"
+  },
+  {
+    "title": "Self Query Chroma Retriever | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/indexes/retrievers/chroma-self-query",
+    "date": "2023-05-20T04:28:23.000Z"
+  },
+  {
+    "title": "Self Query Pinecone Retriever | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/indexes/retrievers/pinecone-self-query",
+    "date": "2023-05-20T04:28:04.000Z"
+  },
+  {
+    "title": "Example selectors | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/modules/model_io/prompts/example_selector_types/",
+    "date": "2023-05-20T04:24:48.000Z"
+  },
+  {
+    "title": "SemanticSimilarityExampleSelector | 🦜️🔗 Langchain",
+    "link": "https://js.langchain.com/docs/api/prompts/classes/SemanticSimilarityExampleSelector",
+    "date": "2023-05-20T04:24:42.000Z"
+  },
+  {
+    "title": "【DL輪読会】Reward Design with Language Models",
+    "link": "https://www.slideshare.net/DeepLearningJP2016/dlreward-design-with-language-models",
+    "date": "2023-05-20T04:17:25.000Z"
+  },
+  {
+    "title": "Neural scaling law - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Neural_scaling_law",
+    "date": "2023-05-20T04:14:39.000Z"
+  },
+  {
+    "title": "Scaling Laws for Neural Language Models",
+    "link": "https://arxiv.org/abs/2001.08361",
+    "date": "2023-05-20T04:00:49.000Z"
+  },
+  {
+    "title": "30分で完全理解するTransformerの世界",
+    "link": "https://zenn.dev/zenkigen_tech/articles/2023-01-shimizu",
+    "date": "2023-05-20T03:59:36.000Z"
+  },
+  {
+    "title": "Don't blindly trust LLM responses. Threats to chatbots. · Embrace The Red",
+    "link": "https://embracethered.com/blog/posts/2023/ai-injections-threats-context-matters/",
+    "date": "2023-05-20T03:32:15.000Z"
+  },
+  {
+    "title": "Cookie support required",
+    "link": "https://noteable.io/",
+    "date": "2023-05-20T03:16:04.000Z"
+  },
+  {
+    "title": "玄人志向、ピンクのグラフィックスカード「GK-RTX4070-E12GB/PINK/TP」 - エルミタージュ秋葉原",
+    "link": "https://www.gdm.or.jp/pressrelease/2023/0519/489066",
+    "date": "2023-05-20T02:19:55.000Z"
+  },
+  {
+    "title": "Zennで見つけたXSSとmarkdown-it",
+    "link": "https://zenn.dev/ooooooo_q/articles/zenn_and_markdown_it",
+    "date": "2023-05-20T01:51:19.000Z"
+  },
+  {
+    "title": "XSS Vectors Cheat Sheet",
+    "link": "https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45",
+    "date": "2023-05-20T01:26:06.000Z"
+  },
+  {
+    "title": "猿之助さん「死んで生まれ変わろうと家族で話し合い、両親が睡眠薬を飲んだ」",
+    "link": "https://news.ntv.co.jp/category/society/d683d2bb8c754c0cae74ec68931513fd",
+    "date": "2023-05-20T00:43:08.000Z"
+  },
+  {
+    "title": "AI Tests - Plug-In calls other PlugIn",
+    "link": "https://wuzzi.net/ai-tests/einstein-plugin-call.html",
+    "date": "2023-05-19T23:49:28.000Z"
+  },
+  {
+    "title": "ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery · Embrace The Red",
+    "link": "https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/",
+    "date": "2023-05-19T23:47:27.000Z"
+  },
+  {
+    "title": "Indirect Prompt Injection via YouTube Transcripts · Embrace The Red",
+    "link": "https://embracethered.com/blog/posts/2023/chatgpt-plugin-youtube-indirect-prompt-injection/",
+    "date": "2023-05-19T23:47:24.000Z"
+  },
+  {
+    "title": "AI Injections: Direct and Indirect Prompt Injections and Their Implications · Embrace The Red",
+    "link": "https://embracethered.com/blog/posts/2023/ai-injections-direct-and-indirect-prompt-injection-basics/",
+    "date": "2023-05-19T23:46:56.000Z"
+  },
+  {
+    "title": "From Theory to Reality: Explaining the Best Prompt Injection Proof of Concept",
+    "link": "https://josephthacker.com/ai/2023/05/19/prompt-injection-poc.html",
+    "date": "2023-05-19T23:42:11.000Z"
+  },
+  {
+    "title": "ChatGPTを活用した新しい読書体験〜BookChatアプリ〜｜masa_kazama",
+    "link": "https://note.com/masa_kazama/n/n42349add3a3e",
+    "date": "2023-05-19T23:34:21.000Z"
+  },
+  {
+    "title": "0518LLMmeetup_LLMシステムの非機能要件対応_現場レポート.pdf",
+    "link": "https://speakerdeck.com/hirosatogamo/0518llmmeetup-llmsisutemunofei-ji-neng-yao-jian-dui-ying-xian-chang-repoto",
+    "date": "2023-05-19T23:31:51.000Z"
+  },
+  {
+    "title": "LLMとPluralityの関係 - 西尾泰和のScrapbox",
+    "link": "https://scrapbox.io/nishio/LLM%E3%81%A8Plurality%E3%81%AE%E9%96%A2%E4%BF%82",
+    "date": "2023-05-19T23:31:38.000Z"
+  },
+  {
+    "title": "Google Slides: Sign-in",
+    "link": "https://docs.google.com/presentation/d/1oBxQ3N93xRRMdujJwhOFZVOdnJElB8yqiGofz5qjK0E/edit",
+    "date": "2023-05-19T23:30:59.000Z"
+  },
+  {
+    "title": "2022/05/18 STUDIO に GPT 入れてみた",
+    "link": "https://speakerdeck.com/ryunosukeheaven/18-studio-ni-gpt-ru-retemita",
+    "date": "2023-05-19T23:30:57.000Z"
+  },
+  {
+    "title": "LLMの出力フォーマットはTOMLが良いかも",
+    "link": "https://docs.google.com/presentation/d/e/2PACX-1vQ99t5kHIvMk8XbdC9gOw9HAmlmbEn6aezklNVs-LD4SdcEB8HcM29oxVxceFlt2773LauZH0kG4o2c/pub?start=false&loop=false&delayms=3000&slide=id.p",
+    "date": "2023-05-19T23:30:12.000Z"
+  },
+  {
+    "title": "GitHub - Algoage-Research/llm-experiments-manager",
+    "link": "https://github.com/Algoage-Research/llm-experiments-manager",
+    "date": "2023-05-19T23:30:10.000Z"
+  },
+  {
+    "title": "GPT3を使った 自動メッセージ作成",
+    "link": "https://docs.google.com/presentation/d/1YOdy8zr8nWoiH869TB7a5Rzi0Pilc03ymMCPrSruwOU/edit",
+    "date": "2023-05-19T23:30:05.000Z"
+  },
+  {
+    "title": "全自動でデータ分析してくれるAIエージェントを作った",
+    "link": "https://speakerdeck.com/dory/llm-agent-meetuptokyo2",
+    "date": "2023-05-19T23:30:03.000Z"
+  },
+  {
+    "title": "ChatGPTを使ったSlackbotの実装いろいろ紹介",
+    "link": "https://speakerdeck.com/mkazutaka/chatgptwoshi-tutaslackbotnoshi-zhuang-iroiroshao-jie",
+    "date": "2023-05-19T23:30:00.000Z"
+  },
+  {
+    "title": "LLMによるプロット生成の試み（スターウォーズ）",
+    "link": "https://speakerdeck.com/hitokun/llmniyorupurotutosheng-cheng-noshi-mi-sutauozu",
+    "date": "2023-05-19T23:28:52.000Z"
+  },
+  {
+    "title": "情報セキュリティ対策の強化およびシステム品質改善に向けた当社の取り組みについて : 富士通",
+    "link": "https://pr.fujitsu.com/jp/news/2023/05/19.html",
+    "date": "2023-05-19T23:15:15.000Z"
+  },
+  {
+    "title": "頑張らない3D表現！ WebGLを使わずにウェブサイトで3Dを実現するCSSテクニック - ICS MEDIA",
+    "link": "https://ics.media/entry/230519/",
+    "date": "2023-05-19T23:07:33.000Z"
+  },
+  {
+    "title": "Ruby 3.2+YJIT 本番運用カンパニーになりました #rubykaigi - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2023/05/10/133000",
+    "date": "2023-05-19T21:55:48.000Z"
+  },
+  {
+    "title": "画面のないノートPC「Spacetop」を体験--ARメガネで無数のウィンドウを表示",
+    "link": "https://japan.cnet.com/article/35204035/",
+    "date": "2023-05-19T21:55:30.000Z"
+  },
+  {
+    "title": "List of genocides - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/List_of_genocides",
+    "date": "2023-05-19T15:28:20.000Z"
+  },
+  {
+    "title": "ジェノサイド - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89",
+    "date": "2023-05-19T15:27:45.000Z"
+  },
+  {
+    "title": "List of events named massacres - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/List_of_events_named_massacres",
+    "date": "2023-05-19T15:26:13.000Z"
+  },
+  {
+    "title": "サラリーマンが宇宙開発！？ 手作り人工衛星に託す夢 | NHK",
+    "link": "https://www.nhk.or.jp/shutoken/wr/20210714b.html",
+    "date": "2023-05-19T15:01:22.000Z"
+  },
+  {
+    "title": "“ハッカー”たちは人工衛星の地上局も自作する：たった「1ドル」のDIYキットの実力",
+    "link": "https://wired.jp/2020/08/21/nyansat-open-source-satellite-tracker/",
+    "date": "2023-05-19T15:01:06.000Z"
+  }
+]
