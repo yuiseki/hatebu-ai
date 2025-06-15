@@ -1,7 +1,7 @@
-// input filePaths: ./data/year/month/day.json
+// input filePaths: ./public/data/year/month/day.json
 // output filePaths:
-// - ./data/histogram.json (元の形式): { key[year] : value{ key[number_of_uploads] : value[number_of_days] } }
-// - ./data/histogram_array.json (新形式): { key[year] : value[ [number_of_uploads, number_of_days], ... ] }
+// - ./public/data/histogram.json (元の形式): { key[year] : value{ key[number_of_uploads] : value[number_of_days] } }
+// - ./public/data/histogram_array.json (新形式): { key[year] : value[ [number_of_uploads, number_of_days], ... ] }
 
 import fs from "fs";
 import path from "path";
@@ -14,7 +14,7 @@ const processAllFiles = async () => {
   const histogramArray: Record<string, Array<[number, number]>> = {};
 
   // データディレクトリを走査
-  const dataDir = "./data";
+  const dataDir = "./public/data";
   const years = fs
     .readdirSync(dataDir)
     .filter(
@@ -78,12 +78,12 @@ const processAllFiles = async () => {
   console.info("ヒストグラム作成完了");
 
   // 元の形式のヒストグラムを保存
-  const histogramFilePath = `./data/histogram.json`;
+  const histogramFilePath = `./public/data/histogram.json`;
   fs.writeFileSync(histogramFilePath, JSON.stringify(histogram, null, 2));
   console.info(`保存しました: ${histogramFilePath}`);
 
   // 配列形式のヒストグラムを保存
-  const histogramArrayFilePath = `./data/histogram_array.json`;
+  const histogramArrayFilePath = `./public/data/histogram_array.json`;
   fs.writeFileSync(
     histogramArrayFilePath,
     JSON.stringify(histogramArray, null, 2)

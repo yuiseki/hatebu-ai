@@ -11,12 +11,12 @@ const saveInfoListOfDateOfFeed = async (
   const dayStr = day.toString().padStart(2, "0");
 
   // create directory if not exists
-  const dirPath = `./data/${yearStr}/${monthStr}`;
+  const dirPath = `./public/data/${yearStr}/${monthStr}`;
   if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath, { recursive: true });
   }
 
-  // save path is ./data/${year}/${month}/${day}.json
+  // save path is ./public/data/${year}/${month}/${day}.json
   const filePath = `${dirPath}/${dayStr}.json`;
 
   // if file exists, skip
