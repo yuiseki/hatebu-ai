@@ -20,7 +20,7 @@ function App() {
     // public/data/histogram.jsonを読み込む
     const fetchHistogramData = async () => {
       try {
-        const response = await fetch("/public/data/histogram.json");
+        const response = await fetch("./public/data/histogram.json");
         if (!response.ok) {
           throw new Error("ヒストグラムデータの取得に失敗しました");
         }
