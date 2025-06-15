@@ -152,6 +152,10 @@ h2 {
   }
 }
 
+.bookmarks-title {
+  color: #333;
+}
+
 .bookmarks-loading {
   min-height: 90vh;
 }
