@@ -69,8 +69,8 @@ function BookmarksView({ initialDate }: BookmarksProps) {
   return (
     <div className="app-container">
       <h1>ゆいせきのブックマーク</h1>
-      {loading && <p>データを読み込み中...</p>}
-      {error && <p className="error">エラー: {error}</p>}
+      {loading && <p className="bookmarks-loading">データを読み込み中...</p>}
+      {error && <p className="bookmarks-error">エラー: {error}</p>}
       {!loading && !error && (
         <div>
           <div style={{ marginBottom: "10px" }}>
@@ -78,7 +78,7 @@ function BookmarksView({ initialDate }: BookmarksProps) {
             <span style={{ margin: "0 1em" }}>{dateStr}</span>
             <button onClick={() => moveDate(1)}>翌日</button>
           </div>
-          <ul>
+          <ul className="bookmark-list">
             {bookmarks.map((b) => (
               <li key={b.link} style={{ textAlign: "left" }}>
                 <a href={b.link} target="_blank" rel="noopener noreferrer">

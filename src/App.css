@@ -151,3 +151,15 @@ h2 {
     max-width: 100%; /* モバイル表示時は100%幅に */
   }
 }
+
+.bookmarks-loading {
+  min-height: 90vh;
+}
+
+.bookmarks-error {
+  min-height: 90vh;
+}
+
+.bookmark-list {
+  min-height: 90vh;
+}
