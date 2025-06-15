@@ -68,7 +68,7 @@ function BookmarksView({ initialDate }: BookmarksProps) {
 
   return (
     <div className="app-container">
-      <h1>最新のブックマーク</h1>
+      <h1>ゆいせきのブックマーク</h1>
       {loading && <p>データを読み込み中...</p>}
       {error && <p className="error">エラー: {error}</p>}
       {!loading && !error && (
