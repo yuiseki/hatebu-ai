@@ -1,0 +1,287 @@
+[
+  {
+    "title": "「Firefox」の更新を妨げる悪質なアドオンが発見、45万人以上に影響 ～プロキシAPIを悪用／「Firefox」が最新バージョンになっているか確認を",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1361780.html",
+    "date": "2021-10-27T11:12:50.000Z"
+  },
+  {
+    "title": "Firefoxのアップデート阻害する拡張機能、45万人超がインストール",
+    "link": "https://news.mynavi.jp/techplus/article/20211027-2170584/",
+    "date": "2021-10-27T11:12:47.000Z"
+  },
+  {
+    "title": "「FIRE」実現のために必要な金額をタイプ別に紹介！｢悠々自適｣｢副業しながら｣など、日本版FIREの4つのタイプと、それぞれに必要な資金の計算方法を紹介！",
+    "link": "https://diamond.jp/zai/articles/-/285693",
+    "date": "2021-10-27T11:08:40.000Z"
+  },
+  {
+    "title": "Next.jsのmiddlewareはVercel以外でも問題なく使えるか",
+    "link": "https://zenn.dev/catnose99/articles/0df722f3f025bb",
+    "date": "2021-10-27T10:29:51.000Z"
+  },
+  {
+    "title": "東京証券取引所 取引時間30分延長を正式発表 午後3時半までに | NHKニュース",
+    "link": "https://www3.nhk.or.jp/news/html/20211027/k10013323671000.html",
+    "date": "2021-10-27T10:27:25.000Z"
+  },
+  {
+    "title": "Sound Horizon",
+    "link": "https://www.youtube.com/channel/UCTtMq_Oy4vF1H_oLzOTfiLw",
+    "date": "2021-10-27T10:09:15.000Z"
+  },
+  {
+    "title": "Engadget | Technology News & Reviews",
+    "link": "https://japanese.engadget.com/pixel-220015467.html",
+    "date": "2021-10-27T10:09:06.000Z"
+  },
+  {
+    "title": "謎だった家畜ウマの起源、ついに特定",
+    "link": "https://natgeo.nikkeibp.co.jp/atcl/news/21/102200520/",
+    "date": "2021-10-27T10:08:52.000Z"
+  },
+  {
+    "title": "最近知ったCloudflareで実はこんなこともできる集",
+    "link": "https://zenn.dev/devneko/articles/3b47c933b11e85",
+    "date": "2021-10-27T10:03:43.000Z"
+  },
+  {
+    "title": "Feature Attributions の監視：Google はいかに大規模な ML サービスの障害を乗り越えたのか | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/monitoring-feature-attributions-how-google-saved-one-largest-ml-services-trouble",
+    "date": "2021-10-27T10:00:29.000Z"
+  },
+  {
+    "title": "GitHub - megagonlabs/ginza: A Japanese NLP Library using spaCy as framework based on Universal Dependencies",
+    "link": "https://github.com/megagonlabs/ginza",
+    "date": "2021-10-27T09:42:25.000Z"
+  },
+  {
+    "title": "国内最大規模の日本語言語処理資源「SudachiDict」 および「chiVe」をOpen Data on AWSで公開開始｜ERP:大手企業向けERPパッケージ「HUE」 / ワークスアプリケーションズ",
+    "link": "https://www.worksap.co.jp/news/2020/1009/",
+    "date": "2021-10-27T09:25:13.000Z"
+  },
+  {
+    "title": "Elasticsearch キーワードサジェスト日本語のための設計",
+    "link": "https://medium.com/hello-elasticsearch/elasticsearch-%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B5%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A8%AD%E8%A8%88-352a230030dd",
+    "date": "2021-10-27T09:22:42.000Z"
+  },
+  {
+    "title": "【Techの道も一歩から】第34回「固有表現抽出のためのデータを作る」 - Sansan Tech Blog",
+    "link": "https://buildersbox.corp-sansan.com/entry/2020/12/01/110000",
+    "date": "2021-10-27T09:20:37.000Z"
+  },
+  {
+    "title": "nerman: AllenNLP と Optuna で作る固有表現抽出システム - クックパッド開発者ブログ",
+    "link": "https://techlife.cookpad.com/entry/2020/11/06/110000",
+    "date": "2021-10-27T09:20:27.000Z"
+  },
+  {
+    "title": "GiNZAと患者表現辞書を使って患者テキストの表記ゆれを吸収した意味構造検索を試した - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/meaning-structure-search",
+    "date": "2021-10-27T09:19:53.000Z"
+  },
+  {
+    "title": "GiNZAの固有表現抽出とElasticsearchを使って自動でタグ検索 - Taste of Tech Topics",
+    "link": "https://acro-engineer.hatenablog.com/entry/2020/04/28/120000",
+    "date": "2021-10-27T09:19:47.000Z"
+  },
+  {
+    "title": "GiNZA+Elasticsearchで係り受け検索の第一歩 - Taste of Tech Topics",
+    "link": "https://acro-engineer.hatenablog.com/entry/2019/12/06/120000",
+    "date": "2021-10-27T09:19:05.000Z"
+  },
+  {
+    "title": "量子計算のための「テンソル積」入門 - めもめも",
+    "link": "https://enakai00.hatenablog.com/entry/2018/06/03/165815",
+    "date": "2021-10-27T05:54:37.000Z"
+  },
+  {
+    "title": "Engadget | Technology News & Reviews",
+    "link": "https://japanese.engadget.com/softbank-ymobile-081027855.html",
+    "date": "2021-10-27T05:47:52.000Z"
+  },
+  {
+    "title": "スシローが回転寿司業界で「一人勝ち」できる理由【決算書で比較】",
+    "link": "https://diamond.jp/articles/-/285756",
+    "date": "2021-10-27T05:47:25.000Z"
+  },
+  {
+    "title": "米、5～11歳のファイザー製接種許可へ　欧米主要国初 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN26DN30W1A021C2000000/",
+    "date": "2021-10-27T04:20:10.000Z"
+  },
+  {
+    "title": "コロナで失業長引く女性、急増34万人　「事務職の仕事、見つからない」 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20211026/k00/00m/100/244000c",
+    "date": "2021-10-27T04:19:57.000Z"
+  },
+  {
+    "title": "『ブラック企業に潜入して労働基準法違反を指摘していくゲーム』がやばい「まさかの公式」「レビューに闇がある」",
+    "link": "https://togetter.com/li/1793824",
+    "date": "2021-10-27T04:19:47.000Z"
+  },
+  {
+    "title": "Twitter、売上高は37％増だが訴訟コストで約5億ドルの純損失　iOS変更の影響は軽微",
+    "link": "https://www.itmedia.co.jp/news/articles/2110/27/news090.html",
+    "date": "2021-10-27T04:04:55.000Z"
+  },
+  {
+    "title": "iPhoneがなぜ日本人に受け入れられたか",
+    "link": "https://anond.hatelabo.jp/20211026193844",
+    "date": "2021-10-27T04:04:11.000Z"
+  },
+  {
+    "title": "Launchable の人とカジュアル面談した",
+    "link": "https://yoheikikuta.github.io/casual_talk_launchable/",
+    "date": "2021-10-27T03:56:22.000Z"
+  },
+  {
+    "title": "ワクチンじゃない？謎のコロナ急減解く3つの鍵",
+    "link": "https://toyokeizai.net/articles/-/464336",
+    "date": "2021-10-27T03:55:50.000Z"
+  },
+  {
+    "title": "山口環境大臣、“凄絶パワハラ”で秘書が大量逃走　オカルト団体に傾倒で武田良太氏を「呪い殺す」 | デイリー新潮",
+    "link": "https://www.dailyshincho.jp/article/2021/10270556/",
+    "date": "2021-10-27T03:54:44.000Z"
+  },
+  {
+    "title": "【レビュー】 M1 Max搭載16インチMacBook Proはどれだけ速いのか？Intel CPUだけでなくGeForceも上回る高性能を発揮",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/review/1361579.html",
+    "date": "2021-10-27T03:43:13.000Z"
+  },
+  {
+    "title": "Raspberry Pi Picoを使った自作地震計キットが入荷、地震観測の歴史などを解説した同人誌も付属",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1360874.html",
+    "date": "2021-10-27T01:49:55.000Z"
+  },
+  {
+    "title": "iOSアプリ「はてなブックマーク」でiOS 13以下のサポートを終了します - はてなブックマーク開発ブログ",
+    "link": "https://bookmark.hatenastaff.com/entry/2021/10/26/103314",
+    "date": "2021-10-27T00:38:59.000Z"
+  },
+  {
+    "title": "山田祥平のニュース羅針盤(302) ロジクールの新しいLogi Bolt規格、活躍の場はオフィスへ",
+    "link": "https://news.mynavi.jp/article/compass-302/",
+    "date": "2021-10-27T00:38:56.000Z"
+  },
+  {
+    "title": "新型MacBook Proのノッチ、思ったよりも｢なんだこりゃ｣感ありますな",
+    "link": "https://www.gizmodo.jp/2021/10/macbook-pro-m1-pro-notch.html",
+    "date": "2021-10-27T00:38:37.000Z"
+  },
+  {
+    "title": "夫婦別姓に反対する候補は…サイボウズ社長が「落選運動」始めた理由：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASPBV33XFPBMUPQJ00M.html",
+    "date": "2021-10-27T00:36:58.000Z"
+  },
+  {
+    "title": "Amazon.com、同社内で使われていた従業員向けのセキュリティオンライントレーニングを無償で一般公開、日本語版も提供",
+    "link": "https://www.publickey1.jp/blog/21/amazoncom_1.html",
+    "date": "2021-10-27T00:35:44.000Z"
+  },
+  {
+    "title": "共産党が規制対象としてコミケを名指し。”規制を求めるべき、子供を性的に虐待したり搾取したりする漫画やアニメがコミックマーケットで沢山売られている”",
+    "link": "https://togetter.com/li/1793832",
+    "date": "2021-10-27T00:33:06.000Z"
+  },
+  {
+    "title": "miibo(ミーボ) - 会話AI構築プラットフォーム",
+    "link": "https://mebo.work/",
+    "date": "2021-10-27T00:29:22.000Z"
+  },
+  {
+    "title": "煮えたぎる食品サンプルで注文増　カレーのグツグツをプロジェクションマッピングで",
+    "link": "https://www.itmedia.co.jp/news/articles/2110/26/news062.html",
+    "date": "2021-10-27T00:27:36.000Z"
+  },
+  {
+    "title": "“終生、家族で” ネコと一緒に入れる老人ホーム完成 新潟｜NHK 新潟県のニュース",
+    "link": "https://www3.nhk.or.jp/lnews/niigata/20211020/1030018670.html",
+    "date": "2021-10-27T00:25:32.000Z"
+  },
+  {
+    "title": "Windows 11の「テーマ」を入手する方法。デスクトップの見た目をまとめて変更できる",
+    "link": "https://dekiru.net/article/22275/",
+    "date": "2021-10-27T00:20:12.000Z"
+  },
+  {
+    "title": "新世代Apple Watch用血糖値センサー、台湾企業EnnostarとTASが開発か",
+    "link": "https://www.itmedia.co.jp/news/articles/2110/26/news100.html",
+    "date": "2021-10-27T00:19:57.000Z"
+  },
+  {
+    "title": "ソニーがSF作家と協力し「2050年の未来予想図」を発表 - ナゾロジー",
+    "link": "https://nazology.net/archives/98488",
+    "date": "2021-10-27T00:19:40.000Z"
+  },
+  {
+    "title": "「何も変わらないから投票に行かない」のではなく、「投票に行かないから何も変わらない」という単純な事実。 神保哲生 | トピックス | TBSラジオ FM90.5 + AM954～何かが始まる音がする～",
+    "link": "https://www.tbsradio.jp/articles/46171/",
+    "date": "2021-10-27T00:16:20.000Z"
+  },
+  {
+    "title": "最近Steamでやった「めちゃおもろゲーム」6選 | オモコロブロス！",
+    "link": "https://omocoro.jp/bros/kiji/314517/",
+    "date": "2021-10-27T00:15:27.000Z"
+  },
+  {
+    "title": "政府配布の布マスク、8200万枚・115億円分余剰　検査院 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUE266JY0W1A021C2000000/",
+    "date": "2021-10-27T00:13:44.000Z"
+  },
+  {
+    "title": "日本初、ベンチャー企業の株式がオンラインでいつでも注文可能に。第一種金融商品取引業への変更登録が完了。",
+    "link": "https://prtimes.jp/main/html/rd/p/000000130.000021941.html",
+    "date": "2021-10-27T00:11:50.000Z"
+  },
+  {
+    "title": "ソニー、RX100VII相当の1型センサーカメラ搭載スマホ「Xperia PRO-I」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1361247.html",
+    "date": "2021-10-27T00:10:46.000Z"
+  },
+  {
+    "title": "Pixel 6、Pixel 6 Pro：機械学習の技術がようやく1つの完成形に。スマホの概念を変えうる1台",
+    "link": "https://www.gizmodo.jp/2021/10/pixel-6-series-review.html",
+    "date": "2021-10-27T00:10:43.000Z"
+  },
+  {
+    "title": "【やじうまミニレビュー】 もはや16GBは時代遅れかも……ノートPCのメモリを64GBに増設してみた",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/1360740.html",
+    "date": "2021-10-27T00:10:36.000Z"
+  },
+  {
+    "title": "MonotaROのデータ基盤10年史（前編） - MonotaRO Tech Blog",
+    "link": "https://tech-blog.monotaro.com/entry/2021/10/26/090000",
+    "date": "2021-10-27T00:10:08.000Z"
+  },
+  {
+    "title": "Ubuntu 20.04 をインストールしたら設定すること 13 ヶ条",
+    "link": "https://zenn.dev/sprout2000/articles/112116c4edb265",
+    "date": "2021-10-27T00:09:56.000Z"
+  },
+  {
+    "title": "君のプロダクトはビタミン剤か？鎮痛剤か？それとも治療薬か？ デザイン会社 ビートラックス: ブログ",
+    "link": "https://blog.btrax.com/jp/product-types/",
+    "date": "2021-10-27T00:09:34.000Z"
+  },
+  {
+    "title": "Engadget | Technology News & Reviews",
+    "link": "https://japanese.engadget.com/xperia-105015969.html",
+    "date": "2021-10-27T00:09:16.000Z"
+  },
+  {
+    "title": "ノーコードの限界は意外と近い　 まつもとゆきひろ氏が語る、プログラマーが仕事する相手は“人間”ということ",
+    "link": "https://logmi.jp/tech/articles/325270",
+    "date": "2021-10-27T00:08:52.000Z"
+  },
+  {
+    "title": "Noを伝える技術 #pmconf2021",
+    "link": "https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021",
+    "date": "2021-10-27T00:08:33.000Z"
+  },
+  {
+    "title": "レビューの仕方",
+    "link": "https://speakerdeck.com/yosuke_furukawa/rebiyufalseshi-fang",
+    "date": "2021-10-27T00:07:42.000Z"
+  }
+]

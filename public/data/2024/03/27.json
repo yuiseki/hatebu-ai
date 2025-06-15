@@ -1,0 +1,347 @@
+[
+  {
+    "title": "augmxnt/ultra-orca-boros-en-ja-v1 · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/augmxnt/ultra-orca-boros-en-ja-v1",
+    "date": "2024-03-27T14:22:53.000Z"
+  },
+  {
+    "title": "Llama2に3行要約タスクを学習させる - Qiita",
+    "link": "https://qiita.com/lighlighlighlighlight/items/d3bfb0430fb747f768be",
+    "date": "2024-03-27T14:12:19.000Z"
+  },
+  {
+    "title": "tinyllama - Overview",
+    "link": "https://github.com/tinyllama",
+    "date": "2024-03-27T12:31:03.000Z"
+  },
+  {
+    "title": "好きな場所を集めよう | CafePin",
+    "link": "https://www.cafepin.jp/",
+    "date": "2024-03-27T07:39:55.000Z"
+  },
+  {
+    "title": "ai",
+    "link": "https://www.npmjs.com/package/ai",
+    "date": "2024-03-27T07:21:35.000Z"
+  },
+  {
+    "title": "ファイルアップロードではNFC/NFD問題に気をつけろ！~MacファイルシステムにおけるUnicode正規化の闇~",
+    "link": "https://zenn.dev/hacobell_dev/articles/68ccc92bffd6cc",
+    "date": "2024-03-27T07:09:07.000Z"
+  },
+  {
+    "title": "Unicode正規化 - Qiita",
+    "link": "https://qiita.com/fury00812/items/b98a7f9428d1395fc230",
+    "date": "2024-03-27T07:08:55.000Z"
+  },
+  {
+    "title": "「キャッシュは麻薬」という標語からの脱却 - id:onk のはてなブログ",
+    "link": "https://onk.hatenablog.jp/entry/2023/12/18/000000",
+    "date": "2024-03-27T07:06:41.000Z"
+  },
+  {
+    "title": "webbigdata/C3TR-Adapter · Hugging Face",
+    "link": "https://huggingface.co/webbigdata/C3TR-Adapter",
+    "date": "2024-03-27T06:48:16.000Z"
+  },
+  {
+    "title": "Python(PyTorch)で自作して理解するTransformer",
+    "link": "https://zenn.dev/yukiyada/articles/59f3b820c52571",
+    "date": "2024-03-27T06:46:40.000Z"
+  },
+  {
+    "title": "Stable Code Instruct 3B のご紹介 — Stability AI Japan — Stability AI Japan",
+    "link": "https://ja.stability.ai/blog/stable-code-instruct-3b",
+    "date": "2024-03-27T06:40:43.000Z"
+  },
+  {
+    "title": "Ruby: テストを不安定にする5つの残念な書き方（翻訳）｜TechRacho by BPS株式会社",
+    "link": "https://techracho.bpsinc.jp/hachi8833/2023_03_01/39364",
+    "date": "2024-03-27T05:12:55.000Z"
+  },
+  {
+    "title": "Railsプロジェクトで発生するflaky testの傾向と対策｜グロービス・デジタル・プラットフォーム",
+    "link": "https://note.com/globis_engineers/n/n35c9cfe28e4e",
+    "date": "2024-03-27T05:12:37.000Z"
+  },
+  {
+    "title": "toshi456/Gemma-Alpaca-Data-13k · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/toshi456/Gemma-Alpaca-Data-13k",
+    "date": "2024-03-27T03:31:28.000Z"
+  },
+  {
+    "title": "ローカルLLMでAlpacaデータのようなインストラクションデータを自動生成してみた - Qiita",
+    "link": "https://qiita.com/toshi_456/items/2794bdbf6d95e6140db1",
+    "date": "2024-03-27T03:31:20.000Z"
+  },
+  {
+    "title": "GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System",
+    "link": "https://github.com/agiresearch/AIOS",
+    "date": "2024-03-27T03:14:01.000Z"
+  },
+  {
+    "title": "日本語版：AIOS LLM Agent Operating System - Sun wood AI labs.2",
+    "link": "https://hamaruki.com/japanese-version-aios-llm-agent-operating-system/",
+    "date": "2024-03-27T03:13:52.000Z"
+  },
+  {
+    "title": "Cerebras Systems、史上最速の AI チップの発売で AI イノベーションの新たなベンチマークを確立",
+    "link": "https://www.unite.ai/ja/cerebras-Systems-%E3%81%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%80%9F%E3%81%AE-AI-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%80%81AI-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E5%9F%BA%E6%BA%96%E3%82%92%E8%A8%AD%E5%AE%9A/",
+    "date": "2024-03-27T03:12:39.000Z"
+  },
+  {
+    "title": "4兆個のトランジスタを搭載した世界最速のAIチップ「WSE-3」をCerebrasが発表",
+    "link": "https://gigazine.net/news/20240314-cerebras-wse-3-world-fastest-ai-chip/",
+    "date": "2024-03-27T03:12:36.000Z"
+  },
+  {
+    "title": "Product - System - Cerebras",
+    "link": "https://www.cerebras.net/product-system/",
+    "date": "2024-03-27T03:12:33.000Z"
+  },
+  {
+    "title": "Cerebras CS-3: the world’s fastest and most scalable AI accelerator - Cerebras",
+    "link": "https://www.cerebras.net/blog/cerebras-cs3",
+    "date": "2024-03-27T03:12:31.000Z"
+  },
+  {
+    "title": "マイクロソフトの計算資源を経済産業省と NEDO が公募する生成 AI 基盤モデル開発プロジェクトに提供 - News Center Japan",
+    "link": "https://news.microsoft.com/ja-jp/2024/02/22/240222-microsofts-computational-resources-will-be-provided-to-meti-and-nedo-for-a-publicly-solicited-project-to-develop-a-generative-ai-infrastructure-model/",
+    "date": "2024-03-27T03:11:11.000Z"
+  },
+  {
+    "title": "Weights & Biasesが経済産業省のGENIACプロジェクトで採用",
+    "link": "https://prtimes.jp/main/html/rd/p/000000013.000119963.html",
+    "date": "2024-03-27T03:10:53.000Z"
+  },
+  {
+    "title": "国産AI基盤モデル開発支援「GENIAC」にMicrosoft Azureが採用",
+    "link": "https://www.watch.impress.co.jp/docs/news/1570961.html",
+    "date": "2024-03-27T03:10:40.000Z"
+  },
+  {
+    "title": "国産生成AI基盤モデル開発を政府が支援 「GENIAC」開始",
+    "link": "https://www.watch.impress.co.jp/docs/news/1565857.html",
+    "date": "2024-03-27T03:09:20.000Z"
+  },
+  {
+    "title": "経産省の国産LLM開発プロジェクト「GENIAC」追加公募、計算資源はAzure",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/00267/",
+    "date": "2024-03-27T03:09:06.000Z"
+  },
+  {
+    "title": "shi3z/alpaca_cleaned_ja_json · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/shi3z/alpaca_cleaned_ja_json",
+    "date": "2024-03-27T00:40:11.000Z"
+  },
+  {
+    "title": "shi3z/OpenOrcaJapanese · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/shi3z/OpenOrcaJapanese",
+    "date": "2024-03-27T00:40:08.000Z"
+  },
+  {
+    "title": "https://research-er.jp/projects/view/1234837",
+    "link": "https://research-er.jp/projects/view/1234837",
+    "date": "2024-03-27T00:38:18.000Z"
+  },
+  {
+    "title": "yahma/alpaca-cleaned · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/yahma/alpaca-cleaned",
+    "date": "2024-03-27T00:38:09.000Z"
+  },
+  {
+    "title": "matsuo-lab/weblab-10b · Hugging Face",
+    "link": "https://huggingface.co/matsuo-lab/weblab-10b",
+    "date": "2024-03-27T00:37:10.000Z"
+  },
+  {
+    "title": "[GENIAC 採択プロジェクト] 多様な日本語能力の向上を目指した公開の基盤モデル開発 | 東京大学松尾研究室 - Matsuo Lab",
+    "link": "https://weblab.t.u-tokyo.ac.jp/geniac_llm/",
+    "date": "2024-03-27T00:36:20.000Z"
+  },
+  {
+    "title": "大規模言語モデルを作ります(10-50b, 2024年3-8月頃)｜Kan Hatakeyama",
+    "link": "https://note.com/kan_hatakeyama/n/n867e09f1d32c",
+    "date": "2024-03-27T00:35:53.000Z"
+  },
+  {
+    "title": "Announcing VitePress 1.0 | The Vue Point",
+    "link": "https://blog.vuejs.org/posts/vitepress-1.0",
+    "date": "2024-03-26T23:56:05.000Z"
+  },
+  {
+    "title": "GitHub - GitbookIO/gitbook: 📝 Modern documentation format and toolchain using Git and Markdown",
+    "link": "https://github.com/GitbookIO/gitbook",
+    "date": "2024-03-26T23:56:02.000Z"
+  },
+  {
+    "title": "カニの殻が半導体や蓄電池に利用できる可能性。東北大らが発見",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1579244.html",
+    "date": "2024-03-26T23:55:10.000Z"
+  },
+  {
+    "title": "UN Report Finds Israel Has Met Threshold for Genocide",
+    "link": "https://www.commondreams.org/news/gaza-genocide-2667597341",
+    "date": "2024-03-26T23:55:07.000Z"
+  },
+  {
+    "title": "安保理、ガザ停戦決議を採択 米棄権にイスラエル反発",
+    "link": "https://www.afpbb.com/articles/-/3511550",
+    "date": "2024-03-26T23:55:00.000Z"
+  },
+  {
+    "title": "[第1話] 女装男子はスカートを脱ぎたい！ - しなぎれ | となりのヤングジャンプ",
+    "link": "https://tonarinoyj.jp/episode/14079602755644369102",
+    "date": "2024-03-26T23:54:24.000Z"
+  },
+  {
+    "title": "「ナイキ エア」誕生の歴史を辿る　ワッフルソールから空気を可視化するまで",
+    "link": "https://www.fashionsnap.com/article/nikeair-1/",
+    "date": "2024-03-26T23:48:01.000Z"
+  },
+  {
+    "title": "肌着のグンゼ、欧州での紅麹サプリメント注意喚起の2年後に紅麹事業部門を小林製薬に売却し結果的に色々助かる : 市況かぶ全力２階建",
+    "link": "https://kabumatome.doorblog.jp/archives/66020165.html",
+    "date": "2024-03-26T23:47:28.000Z"
+  },
+  {
+    "title": "Node.js — Diving into the Node.js Website Redesign",
+    "link": "https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign",
+    "date": "2024-03-26T23:46:56.000Z"
+  },
+  {
+    "title": "site: 検索演算子の誤った使い方をこの世からなくしたい - ブログ - 株式会社JADE",
+    "link": "https://blog.ja.dev/entry/blog/2024/03/21/common-mistakes-about-serch-operator-site",
+    "date": "2024-03-26T23:46:47.000Z"
+  },
+  {
+    "title": "Misskey チャートエンジン | gihyo.jp",
+    "link": "https://gihyo.jp/article/2024/03/misskey-11",
+    "date": "2024-03-26T23:46:34.000Z"
+  },
+  {
+    "title": "JSON をプレビューしながら jq のフィルタを書くことができる「jnv」を試してみる",
+    "link": "https://zenn.dev/kou_pg_0131/articles/jnv-introduction",
+    "date": "2024-03-26T23:46:26.000Z"
+  },
+  {
+    "title": "Build Your Own curl - Rust",
+    "link": "https://dev.to/chaudharypraveen98/build-your-own-curl-rust-5cj6",
+    "date": "2024-03-26T23:46:23.000Z"
+  },
+  {
+    "title": "VR映像作品「機動戦士ガンダム：銀灰の幻影」ティザーPVとキーアートが公開！",
+    "link": "https://game.watch.impress.co.jp/docs/news/1578219.html",
+    "date": "2024-03-26T23:39:39.000Z"
+  },
+  {
+    "title": "ゲームクリエイター三上真司氏、新会社「カムイ」設立。『シャドウ オブ ザ ダムド』リマスター版公式サイトにて明らかに - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20240322-286880/",
+    "date": "2024-03-26T23:39:36.000Z"
+  },
+  {
+    "title": "『シャニソン』の“『シャニマス』の3D化”という高難度ミッションは、いかに挑戦されたのか。違和感を生まないために活用されたＣＲＩ・ミドルウェアの技術とは - AUTOMATON",
+    "link": "https://automaton-media.com/articles/interviewsjp/20240312-286136/",
+    "date": "2024-03-26T23:39:23.000Z"
+  },
+  {
+    "title": "「アイマス」菊地真と萩原雪歩のツインライブで見た“xR技術を活用した意欲的な3DCGライブ”",
+    "link": "https://japan.cnet.com/article/35216706/",
+    "date": "2024-03-26T23:39:14.000Z"
+  },
+  {
+    "title": "『シャニソン』櫻木 真乃から見る、アイドルの実在感を高める3DCG技術とは。キャラクターモデル仕様やリップシンクの重要性を開発コアメンバー3名が語る",
+    "link": "https://gamemakers.jp/article/2024_03_21_59940/",
+    "date": "2024-03-26T23:39:01.000Z"
+  },
+  {
+    "title": "ロボット蟻コロニー自動化シム『Microtopia』発表、いきなり無料デモ版配信中。女王アリのためにアリを働かせる、工場自動化シム風アリ繁殖ゲーム - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20240321-286827/",
+    "date": "2024-03-26T23:36:40.000Z"
+  },
+  {
+    "title": "B: ゲーム性1 (まとめ動画) #01～#06",
+    "link": "https://www.youtube.com/watch?v=i7WJTzwEuFI",
+    "date": "2024-03-26T23:35:04.000Z"
+  },
+  {
+    "title": "VRChatterのためのUnity基礎｜きくじん",
+    "link": "https://note.com/kikjin/n/n013030dfec82",
+    "date": "2024-03-26T23:34:57.000Z"
+  },
+  {
+    "title": "【ABA Games】インディーゲーム制作歴40年。PC黎明期から生成AI時代まで折れずに続ける理由",
+    "link": "https://levtech.jp/media/article/interview/detail_405/",
+    "date": "2024-03-26T23:34:50.000Z"
+  },
+  {
+    "title": "濃すぎる経営ゲーム「Coffee Inc 2」　有料アプリ1位に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC1122T0R10C24A3000000/",
+    "date": "2024-03-26T23:34:43.000Z"
+  },
+  {
+    "title": "「ゲームと言語研究会」というのをやってみます - 誰がログ",
+    "link": "https://dlit.hatenadiary.com/entry/2024/03/26/081041",
+    "date": "2024-03-26T23:33:31.000Z"
+  },
+  {
+    "title": "ウクライナ政府が『マインクラフト』にて、ロシアに占領された町「ソレダル」を再現。ミニゲームや歴史学習、学校再建のための寄付も可能 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20240326-287307/",
+    "date": "2024-03-26T23:32:37.000Z"
+  },
+  {
+    "title": "四次元空間でゴルフをしていく頭がバグりそうなゲーム『4D Golf』がSteamにて配信開始。レビューには「直観的で面白い」という声のほか「四次元を理解できるようになった」人も",
+    "link": "https://news.denfaminicogamer.jp/news/240326u",
+    "date": "2024-03-26T23:31:47.000Z"
+  },
+  {
+    "title": "二階氏、年齢の質問に不快感「お前もその年が来る」「ばかやろう」 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20240325/k00/00m/010/127000c",
+    "date": "2024-03-26T23:29:21.000Z"
+  },
+  {
+    "title": "【関連書籍】戸田奈津子 金子裕子『KEEP ON DREAMING』で語った、『フルメタル・ジャケット』翻訳家降板事件の戸田氏の言い分 : KUBRICK.blog.jp｜スタンリー・キューブリック",
+    "link": "https://kubrick.blog.jp/archives/52383447.html",
+    "date": "2024-03-26T23:27:08.000Z"
+  },
+  {
+    "title": "Cognition",
+    "link": "https://www.cognition-labs.com/",
+    "date": "2024-03-26T23:26:45.000Z"
+  },
+  {
+    "title": "Introducing Devin, the first AI software engineer",
+    "link": "https://www.cognition-labs.com/introducing-devin",
+    "date": "2024-03-26T23:26:37.000Z"
+  },
+  {
+    "title": "GitHub - stitionai/devika: Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competiti",
+    "link": "https://github.com/stitionai/devika",
+    "date": "2024-03-26T23:26:29.000Z"
+  },
+  {
+    "title": "OSSプロジェクト「Devika」登場　全自動でゲームもつくれる完全自律型AIエンジニア「Devin」超え目指す【技術紹介】",
+    "link": "https://levtech.jp/media/article/column/detail_404/",
+    "date": "2024-03-26T23:26:14.000Z"
+  },
+  {
+    "title": "小林製薬「紅麹」 厚生労働省が2人目の死亡発表 入院は106人に | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20240326/k10014402561000.html",
+    "date": "2024-03-26T23:23:20.000Z"
+  },
+  {
+    "title": "【速報】小林製薬「紅麹コレステヘルプ」腎疾患の患者が死亡　生前に約3年間サプリを摂取　死亡との因果関係を調査　会社側が26日に遺族と面会へ（MBSニュース） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/90528d4ca3e92b245bda5d5c5d5f8b08fd532713",
+    "date": "2024-03-26T23:23:17.000Z"
+  },
+  {
+    "title": "「カラス語」でゴミ集積所を荒らすカラス撃退、足立区の対策が大きな成果…ゴミ出す住民の意識も向上",
+    "link": "https://www.yomiuri.co.jp/national/20240325-OYT1T50284/",
+    "date": "2024-03-26T23:22:44.000Z"
+  },
+  {
+    "title": "globis-university/aozorabunko-chats · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/globis-university/aozorabunko-chats",
+    "date": "2024-03-26T23:14:44.000Z"
+  }
+]

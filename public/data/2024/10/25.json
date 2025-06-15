@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Bluesky、1500万ドル調達　追加機能が使えるサブスクプラン開発中",
+    "link": "https://www.itmedia.co.jp/news/articles/2410/25/news110.html",
+    "date": "2024-10-25T13:00:49.000Z"
+  },
+  {
+    "title": "Cursor vs GitHub Copilot",
+    "link": "https://www.builder.io/blog/cursor-vs-github-copilot",
+    "date": "2024-10-25T13:00:47.000Z"
+  },
+  {
+    "title": "転職ドラフトの提示年収伸び率推定 - 提示年収はインフレに勝てているのか - - LIVESENSE ENGINEER BLOG",
+    "link": "https://made.livesense.co.jp/entry/2024/10/25/080000",
+    "date": "2024-10-25T13:00:41.000Z"
+  },
+  {
+    "title": "Sidekiqで実現する 長時間非同期処理の中断と再開 / Pausing and Resuming Long-Running Asynchronous Jobs with Sidekiq",
+    "link": "https://speakerdeck.com/hypermkt/pausing-and-resuming-long-running-asynchronous-jobs-with-sidekiq",
+    "date": "2024-10-25T12:58:42.000Z"
+  },
+  {
+    "title": "TSMCも頼る、コンピュータの守護スナック「乖乖」。AIを組み合わせると何が起こる？（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2024/10/25/3786.html",
+    "date": "2024-10-25T12:58:31.000Z"
+  },
+  {
+    "title": "Linux Foundation、無料オンラインコース「Linux入門」の提供を開始 - The Linux Foundation",
+    "link": "https://www.linuxfoundation.jp/press-release/2024/10/fee-online-course-introduction-to-linux-now-available-in-japanese/",
+    "date": "2024-10-25T12:58:15.000Z"
+  },
+  {
+    "title": "Linux 入門 (LFS101-JP) | Linux Foundation Education",
+    "link": "https://training.linuxfoundation.org/ja/training/introduction-to-linux-lfs101-jp/",
+    "date": "2024-10-25T12:58:03.000Z"
+  },
+  {
+    "title": "Transeeds Inc.",
+    "link": "https://transeeds.com/",
+    "date": "2024-10-25T12:16:27.000Z"
+  },
+  {
+    "title": "「龍の肉」世界初公開【国立新美術館】最先端バイオや生成AIを応用したアート博覧会 NAVIGATE ARTS[Bio/Digital/Human]　LOM BABY by Transeeds Inc.",
+    "link": "https://prtimes.jp/main/html/rd/p/000000030.000056442.html",
+    "date": "2024-10-25T12:14:36.000Z"
+  },
+  {
+    "title": "JAXA認定の宇宙ベンチャー企業のエンジニアがECCV2024に参加しリモートセンシング研究の概要まとめてみた",
+    "link": "https://zenn.dev/tenchijin/articles/202410_eccv_milano",
+    "date": "2024-10-25T10:35:35.000Z"
+  },
+  {
+    "title": "TPP 2024 at Kyushu University",
+    "link": "https://www.math.nagoya-u.ac.jp/~garrigue/tpp2024/",
+    "date": "2024-10-25T10:32:37.000Z"
+  },
+  {
+    "title": "インテルサットの通信衛星が静止軌道上で“分解”か　数十の破片に",
+    "link": "https://www.itmedia.co.jp/news/articles/2410/24/news203.html",
+    "date": "2024-10-25T08:22:14.000Z"
+  },
+  {
+    "title": "RailsのPull requestsのレビューの時に私が考えていること",
+    "link": "https://speakerdeck.com/yahonda/railsnopull-requestsnorebiyunoshi-nisi-gakao-eteirukoto",
+    "date": "2024-10-25T08:22:11.000Z"
+  },
+  {
+    "title": "日本発3Dアバター用ファイル形式「VRM」国際標準化に一歩　“3DにおけるJPEG”開発元と連携",
+    "link": "https://www.itmedia.co.jp/news/articles/2410/25/news135.html",
+    "date": "2024-10-25T08:22:09.000Z"
+  },
+  {
+    "title": "近代麻雀史上、最も重要なマンガ5選",
+    "link": "https://anond.hatelabo.jp/20241025105139",
+    "date": "2024-10-25T08:21:23.000Z"
+  },
+  {
+    "title": "セブン社長に「上げ底弁当」疑惑を直撃「そんなアコギなことはできない」「ネットに投稿する方は、事実をもって投稿してほしい」 | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/74278",
+    "date": "2024-10-25T08:21:17.000Z"
+  },
+  {
+    "title": "まるで物知りな友人に尋ねるかのように ～DuckDBに空間データベースの機能を持たせると～｜Puuuii | 伝える技術と心理学で戦うデータエンジニア",
+    "link": "https://note.com/puuuii/n/n146689e6bb3f",
+    "date": "2024-10-25T07:53:11.000Z"
+  },
+  {
+    "title": "GDAL Integration",
+    "link": "https://duckdb.org/docs/extensions/spatial/gdal.html",
+    "date": "2024-10-25T07:52:54.000Z"
+  },
+  {
+    "title": "宇宙利用プロジェクト",
+    "link": "https://www.osgeo.jp/projects/foss4g-mext",
+    "date": "2024-10-25T07:51:20.000Z"
+  },
+  {
+    "title": "Yahoo!検索、検索結果上に生成AIによる回答の表示とチャット形式で情報の深堀りができる機能の提供を開始｜LINEヤフー株式会社",
+    "link": "https://www.lycorp.co.jp/ja/news/release/009460/",
+    "date": "2024-10-25T07:42:27.000Z"
+  },
+  {
+    "title": "文章中の人物の移動軌跡を実世界の地図上に接地するための基礎研究とその応用",
+    "link": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24904/",
+    "date": "2024-10-25T04:36:34.000Z"
+  },
+  {
+    "title": "Graph-Structured Trajectory Extraction from Travelogues",
+    "link": "https://arxiv.org/abs/2410.16633",
+    "date": "2024-10-25T04:36:25.000Z"
+  },
+  {
+    "title": "OllamaがローカルLLMをどうやって呼び出しているのか",
+    "link": "https://zenn.dev/laiso/articles/c1bc554b38228b",
+    "date": "2024-10-25T03:51:32.000Z"
+  },
+  {
+    "title": "外務省 海外安全情報オープンデータ",
+    "link": "https://www.ezairyu.mofa.go.jp/html/opendata/index.html",
+    "date": "2024-10-25T03:47:54.000Z"
+  },
+  {
+    "title": "｢心を読む能力｣が人により異なるという衝撃事実",
+    "link": "https://toyokeizai.net/articles/-/804022",
+    "date": "2024-10-25T03:26:40.000Z"
+  },
+  {
+    "title": "ODBCドライバーとは？ ODBCの仕組みからドライバーの使い方まで解説！",
+    "link": "https://ascii.jp/elem/000/004/229/4229115/",
+    "date": "2024-10-25T03:26:25.000Z"
+  },
+  {
+    "title": "「園児の声がうるさい」保育園を訴えた住民の敗訴確定　一審「受忍限度超えていない」…最高裁が上告棄却：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/362357",
+    "date": "2024-10-25T03:26:17.000Z"
+  },
+  {
+    "title": "ロシア・イラン・中国が民主主義の弱体化を狙ってアメリカの大統領選挙を猛攻撃中だとMicrosoftが緊急レポート",
+    "link": "https://gigazine.net/news/20241024-microsoft-us-election/",
+    "date": "2024-10-25T03:26:11.000Z"
+  },
+  {
+    "title": "“ロシアのトロールどもに告ぐ、この変更が元に戻ることはない” ―Linus、ロシア系メンテナーの&quot;追放&quot;を認める | gihyo.jp",
+    "link": "https://gihyo.jp/article/2024/10/daily-linux-241025",
+    "date": "2024-10-25T01:10:33.000Z"
+  },
+  {
+    "title": "リーナス・トーバルズが開発者に「ギリギリになってあわてて作業するのは高校で卒業すべき」と助言",
+    "link": "https://gigazine.net/news/20221019-linus-tovalds-say-stop-pull-all-nighters/",
+    "date": "2024-10-25T00:38:28.000Z"
+  },
+  {
+    "title": "「ロシア人がLinuxのカーネルメンテナーを解任されている件」についてリーナス・トーバルズが説明",
+    "link": "https://gigazine.net/news/20241024-linus-torvalds-russian-devs/",
+    "date": "2024-10-25T00:38:17.000Z"
+  },
+  {
+    "title": "ブランド運営者に見過ごされてきたカスタマージャーニーの課題「ロストジャーニー」を7つに類型化",
+    "link": "https://prtimes.jp/main/html/rd/p/000000038.000080319.html",
+    "date": "2024-10-25T00:21:25.000Z"
+  },
+  {
+    "title": "microsoft/OmniParser · Hugging Face",
+    "link": "https://huggingface.co/microsoft/OmniParser",
+    "date": "2024-10-25T00:11:00.000Z"
+  },
+  {
+    "title": "GitHub - microsoft/OmniParser: A simple screen parsing tool towards pure vision based GUI agent",
+    "link": "https://github.com/microsoft/OmniParser",
+    "date": "2024-10-25T00:09:40.000Z"
+  },
+  {
+    "title": "SOCIAL MEDIA TITLE TAG",
+    "link": "https://microsoft.github.io/OmniParser/",
+    "date": "2024-10-25T00:09:27.000Z"
+  },
+  {
+    "title": "Astropy",
+    "link": "https://www.astropy.org/",
+    "date": "2024-10-24T23:55:20.000Z"
+  },
+  {
+    "title": "自営でやってる唐揚げ屋に変な客がたまに来る。 ふらっとやってきて店のも..",
+    "link": "https://anond.hatelabo.jp/20241024054023",
+    "date": "2024-10-24T23:23:56.000Z"
+  },
+  {
+    "title": "アドビ、イラスト作成アプリ「Fresco」を完全無料に",
+    "link": "https://www.itmedia.co.jp/news/articles/2410/24/news135.html",
+    "date": "2024-10-24T23:23:08.000Z"
+  },
+  {
+    "title": "いいようにされた船井電機、お金が綺麗に抜かれて最後は捨てられて破産へ : 市況かぶ全力２階建",
+    "link": "https://kabumatome.doorblog.jp/archives/66024458.html",
+    "date": "2024-10-24T23:14:18.000Z"
+  },
+  {
+    "title": "宗教学専攻の女がスヤスヤ教（笑）に思うこと｜お嬢",
+    "link": "https://note.com/__juttoku__/n/n640a01208f53",
+    "date": "2024-10-24T23:13:42.000Z"
+  },
+  {
+    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる｜Kanon",
+    "link": "https://note.com/samurai_se/n/n389f89ad58a3",
+    "date": "2024-10-24T23:13:30.000Z"
+  },
+  {
+    "title": "Meiji Seika ファルマ　原口一博前衆院議員を提訴へ　選挙ビラにコスタイベの非科学的主張、看過できず | ニュース | ミクスOnline",
+    "link": "https://www.mixonline.jp/tabid55.html?artid=77313",
+    "date": "2024-10-24T23:13:22.000Z"
+  },
+  {
+    "title": "アラブ系が“親イスラエル”トランプ氏に投票？いったい何が？ | NHK | WEB特集",
+    "link": "https://www3.nhk.or.jp/news/html/20241021/k10014613211000.html",
+    "date": "2024-10-24T23:02:22.000Z"
+  },
+  {
+    "title": "WebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog",
+    "link": "https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/",
+    "date": "2024-10-24T22:54:22.000Z"
+  },
+  {
+    "title": "宇宙探索ADV『Outer Wilds』は「詳しくは言えないけどマジで面白い」…それってどういうこと？ ガチ勢の“布教”が続くタイムループから脱出するべく、未プレイライターが初挑戦してみた | Game*Spark - 国内・海外ゲーム情報サイト",
+    "link": "https://www.gamespark.jp/article/2024/10/24/146308.html",
+    "date": "2024-10-24T22:54:18.000Z"
+  },
+  {
+    "title": "不凍液連続殺人、夫妻を父親への殺人容疑で再逮捕へ　異例の3人目：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASSBS3W3DSBSUTIL024M.html",
+    "date": "2024-10-24T22:20:02.000Z"
+  },
+  {
+    "title": "6年前死亡の父親も殺害か…4歳娘と姉殺害で逮捕のホテル経営夫婦・細谷健一・志保被告を再逮捕へ　東京・浅草「不凍液」連続殺害事件｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/777457",
+    "date": "2024-10-24T22:19:54.000Z"
+  },
+  {
+    "title": "Yogibo社員が会長からのパワハラ訴え提訴　会社側は「事実なく争う姿勢」 - ライブドアニュース",
+    "link": "https://news.livedoor.com/article/detail/27427987/",
+    "date": "2024-10-24T22:17:00.000Z"
+  },
+  {
+    "title": "主キーサイズの違いによるPostgreSQLの検索性能の違いを比較する - ドワンゴ教育サービス開発者ブログ",
+    "link": "https://blog.nnn.dev/entry/2024/10/24/110000",
+    "date": "2024-10-24T22:16:43.000Z"
+  },
+  {
+    "title": "How we built a new powerful JSON data type for ClickHouse",
+    "link": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse",
+    "date": "2024-10-24T22:16:38.000Z"
+  },
+  {
+    "title": "いかにして問題をとくか",
+    "link": "https://no-hack-no.life/post/2024-06-27-how-to-resolve-the-issue/",
+    "date": "2024-10-24T22:16:21.000Z"
+  },
+  {
+    "title": "大阪王将「ナメクジ大量発生」SNS投稿事件。告発した元従業員が犯した“最大のミス”とは（週刊SPA!） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/a9ad645d778b116e5782aeaeee7af80879282606",
+    "date": "2024-10-24T22:15:44.000Z"
+  },
+  {
+    "title": "ナメクジ発生投稿で実刑　元飲食店員に仙台地裁判決",
+    "link": "https://www.sankei.com/article/20241024-5MNJ3RPPAVLVBMMXAKMQ25UFPM/",
+    "date": "2024-10-24T22:15:42.000Z"
+  },
+  {
+    "title": "UIを作る、減らす、完全になくす - 橋本商会",
+    "link": "https://scrapbox.io/shokai/UI%E3%82%92%E4%BD%9C%E3%82%8B%E3%80%81%E6%B8%9B%E3%82%89%E3%81%99%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E3%81%AA%E3%81%8F%E3%81%99",
+    "date": "2024-10-24T22:14:55.000Z"
+  },
+  {
+    "title": "大阪王将ナメクジ告発の元店員おとはPさん(窃盗罪で服役中のため住所不定無職)、懲役1年の実刑判決 : 市況かぶ全力２階建",
+    "link": "https://kabumatome.doorblog.jp/archives/66024452.html",
+    "date": "2024-10-24T22:14:33.000Z"
+  },
+  {
+    "title": "『三体』の劉慈欣と並び称される作家・韓松による超ド級のＳＦ長篇──『無限病院』 - 基本読書",
+    "link": "https://huyukiitoichi.hatenadiary.jp/entry/2024/10/24/080000",
+    "date": "2024-10-24T22:14:04.000Z"
+  },
+  {
+    "title": "なんとなくから脱却する GitHub Actionsグッドプラクティス11選 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2024/10/good-practices-for-github-actions",
+    "date": "2024-10-24T22:13:36.000Z"
+  },
+  {
+    "title": "コロナ死者、年間3万2千人　5類移行後、インフルの15倍",
+    "link": "https://www.47news.jp/11670184.html",
+    "date": "2024-10-24T22:13:30.000Z"
+  },
+  {
+    "title": "位置情報サービス「Foursquare」が15年の歴史に幕、サイト上のデータは「Swarm」に移行へ【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1633908.html",
+    "date": "2024-10-24T22:06:52.000Z"
+  },
+  {
+    "title": "VMware、vCenter Serverの重大な脆弱性に対応　回避策はなし",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2410/24/news072.html",
+    "date": "2024-10-24T22:06:41.000Z"
+  },
+  {
+    "title": "営業中のホテル最上階のワンフロアで大量の大麻草を栽培した疑い　乾燥大麻4500万円相当を押収　北九州市｜FBS NEWS NNN",
+    "link": "https://news.ntv.co.jp/n/fbs/category/society/fs07808d562d0d4234b85de7d7b2cd5c89",
+    "date": "2024-10-24T22:05:21.000Z"
+  },
+  {
+    "title": "『ドカ食いダイスキ！ もちづきさん』と冷凍食品のニチレイがコラボ！もちづきさんの焼おにぎりの食べ方は？【コラボマンガ＆作者インタビュー】 | ダ・ヴィンチWeb",
+    "link": "https://ddnavi.com/interview/1430622/a/",
+    "date": "2024-10-24T22:05:09.000Z"
+  }
+]

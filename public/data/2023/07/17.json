@@ -1,0 +1,197 @@
+[
+  {
+    "title": "mpi : attempt inference of 65B LLaMA on a cluster of Raspberry Pis · Issue #2164 · ggerganov/llama.cpp",
+    "link": "https://github.com/ggerganov/llama.cpp/issues/2164",
+    "date": "2023-07-17T13:59:47.000Z"
+  },
+  {
+    "title": "論文解説∶Segment Any Anomaly∶プロンプトを使った学習要らずの異常検知",
+    "link": "https://zenn.dev/kosuke_sugimoto/articles/b00b0a79cfb0eb",
+    "date": "2023-07-17T13:15:16.000Z"
+  },
+  {
+    "title": "GitHub - naruya/aruco: get camera position and rotation using aruco markers",
+    "link": "https://github.com/naruya/aruco",
+    "date": "2023-07-17T13:14:30.000Z"
+  },
+  {
+    "title": "Prompt engineering of GPT-4 for chemical research: what can/cannot be done?",
+    "link": "https://chemrxiv.org/engage/chemrxiv/article-details/647d305dbe16ad5c577b6627",
+    "date": "2023-07-17T13:14:13.000Z"
+  },
+  {
+    "title": "GitHub - Blealtan/RWKV-LM-LoRA: RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training,",
+    "link": "https://github.com/Blealtan/RWKV-LM-LoRA",
+    "date": "2023-07-17T13:13:38.000Z"
+  },
+  {
+    "title": "Google Colab で RWKV-LoRA のファインチューニングを試す｜npaka",
+    "link": "https://note.com/npaka/n/ndb1df153aed5",
+    "date": "2023-07-17T13:13:30.000Z"
+  },
+  {
+    "title": "BlinkDL/rwkv-4-world · Hugging Face",
+    "link": "https://huggingface.co/BlinkDL/rwkv-4-world",
+    "date": "2023-07-17T13:13:24.000Z"
+  },
+  {
+    "title": "大規模言語モデル RWKV-worldで学習で巨大なデータ(学会の予稿集のpdf)をファインチューニング(LoRA)する｜Kan Hatakeyama",
+    "link": "https://note.com/kan_hatakeyama/n/n56c819862385",
+    "date": "2023-07-17T13:12:50.000Z"
+  },
+  {
+    "title": "福祉避難所なのに床上浸水　豊橋市「改修考えていない」：中日新聞Web",
+    "link": "https://www.chunichi.co.jp/article/708669",
+    "date": "2023-07-17T12:54:55.000Z"
+  },
+  {
+    "title": "指定避難所3割が浸水区域、水害時に懸念　内閣府調査 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUE20AF70Q2A120C2000000/",
+    "date": "2023-07-17T12:53:59.000Z"
+  },
+  {
+    "title": "防災アプリ初搭載！「全国避難所ガイド」防災情報にChat GPTがアドバイス",
+    "link": "https://prtimes.jp/main/html/rd/p/000000007.000023590.html",
+    "date": "2023-07-17T12:53:43.000Z"
+  },
+  {
+    "title": "【避難所で被災】視察中の市議が過去最多の雨量でそのまま出られなく…なぜ、避難先の小学校が浸水被害？【愛知・豊川市】｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/541846",
+    "date": "2023-07-17T12:53:32.000Z"
+  },
+  {
+    "title": "Test and publicly share PostGIS queries in a free online environment",
+    "link": "https://gis.stackexchange.com/questions/435288/test-and-publicly-share-postgis-queries-in-a-free-online-environment",
+    "date": "2023-07-17T09:20:12.000Z"
+  },
+  {
+    "title": "PG-Strom Manual",
+    "link": "https://heterodb.github.io/pg-strom/ja/",
+    "date": "2023-07-17T09:08:32.000Z"
+  },
+  {
+    "title": "Chapter�8.�PostGISリファレンス",
+    "link": "http://postgres.cn/docs/postgis-2.3/reference.html",
+    "date": "2023-07-17T09:07:52.000Z"
+  },
+  {
+    "title": "第4章 PostGISを使う: データ管理とクエリ",
+    "link": "http://cse.naro.affrc.go.jp/yellow/pgisman/1.5.1/ch04.html",
+    "date": "2023-07-17T09:07:26.000Z"
+  },
+  {
+    "title": "コンビニを近い順に5つだけ抽出する",
+    "link": "https://zenn.dev/boiledorange73/articles/0015-pgis-searchneighbour",
+    "date": "2023-07-17T09:02:23.000Z"
+  },
+  {
+    "title": "FlatGeobuf",
+    "link": "http://flatgeobuf.org/",
+    "date": "2023-07-17T09:00:10.000Z"
+  },
+  {
+    "title": "sqlite-utilsを使ってみよう(Pythonライブラリ) - PythonOsaka",
+    "link": "https://scrapbox.io/PythonOsaka/sqlite-utils%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86(Python%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)",
+    "date": "2023-07-17T07:41:44.000Z"
+  },
+  {
+    "title": "geojson-to-sqlite",
+    "link": "https://pypi.org/project/geojson-to-sqlite/",
+    "date": "2023-07-17T07:38:24.000Z"
+  },
+  {
+    "title": "Let's play with SpatiaLite",
+    "link": "https://observablehq.com/@neocartocnrs/spatialite",
+    "date": "2023-07-17T06:44:46.000Z"
+  },
+  {
+    "title": "GeoPackageでも空間関数が使えるようになる話 - Qiita",
+    "link": "https://qiita.com/ozo360/items/8e9887aa2b637f1df95d",
+    "date": "2023-07-17T06:36:52.000Z"
+  },
+  {
+    "title": "SpatiaLite SQL functions reference list",
+    "link": "https://www.gaia-gis.it/gaia-sins/spatialite-sql-5.0.1.html",
+    "date": "2023-07-17T05:18:25.000Z"
+  },
+  {
+    "title": "「初回1万台が3日で完売」──ソニーの新型「着るエアコン」、猛暑でバカ売れ中",
+    "link": "https://www.itmedia.co.jp/business/articles/2307/16/news037.html",
+    "date": "2023-07-17T03:53:52.000Z"
+  },
+  {
+    "title": "『男女の胸を「平等に」　ドイツで“トップレス”容認プールが広がる理由 | 毎日新聞』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20230715/k00/00m/030/142000c",
+    "date": "2023-07-17T03:51:46.000Z"
+  },
+  {
+    "title": "書き手の意図やコードの背景を残す方法のあれこれ −きれいなコードの次に意識すべきこと− - give IT a try",
+    "link": "https://blog.jnito.com/entry/2023/07/15/200755",
+    "date": "2023-07-17T03:49:00.000Z"
+  },
+  {
+    "title": "世界を想う日焼け止め、ALLIE クロノビューティを想う - めんどくさいけどメイクしたい",
+    "link": "https://www.makemendokusai.com/entry/allie_22",
+    "date": "2023-07-17T03:46:42.000Z"
+  },
+  {
+    "title": "無印良品のUVルースパウダープレストタイプを持ち歩きたい夏 - めんどくさいけどメイクしたい",
+    "link": "https://www.makemendokusai.com/entry/muji_uv_powder",
+    "date": "2023-07-17T03:42:36.000Z"
+  },
+  {
+    "title": "貸せ、日焼け止めの塗り直しってのはこうやるんだ - めんどくさいけどメイクしたい",
+    "link": "https://www.makemendokusai.com/entry/re_uv",
+    "date": "2023-07-17T03:40:00.000Z"
+  },
+  {
+    "title": "AI SQL Copilot - Automatically write, suggest, fix, and optimize SQL queries directly on your own custom database schema",
+    "link": "https://www.logicloop.com/ai",
+    "date": "2023-07-17T03:39:12.000Z"
+  },
+  {
+    "title": "Developer Tools 2.0",
+    "link": "https://www.sequoiacap.com/article/ai-powered-developer-tools/",
+    "date": "2023-07-17T03:35:22.000Z"
+  },
+  {
+    "title": "SQL Chat",
+    "link": "https://www.sqlchat.ai/",
+    "date": "2023-07-17T03:32:14.000Z"
+  },
+  {
+    "title": "お前らが ryuchell を追い詰めた理由がわからん",
+    "link": "https://anond.hatelabo.jp/20230713193927",
+    "date": "2023-07-17T03:29:22.000Z"
+  },
+  {
+    "title": "世界で大流行する｢やせ薬｣は本当に悪者なのか",
+    "link": "https://toyokeizai.net/articles/-/685653",
+    "date": "2023-07-17T03:23:33.000Z"
+  },
+  {
+    "title": "Tamagotchi Uni Toy OSS | たまごっち公式サイト",
+    "link": "https://tamagotchi-official.com/legalinfo/toy/uni/",
+    "date": "2023-07-17T02:55:32.000Z"
+  },
+  {
+    "title": "ウクライナ、医療で大麻利用を合法化か　負傷兵の治療にも",
+    "link": "https://www.cnn.co.jp/world/35206627.html",
+    "date": "2023-07-17T02:44:41.000Z"
+  },
+  {
+    "title": "デレステ解析ノート",
+    "link": "https://subdiox.github.io/deresute/",
+    "date": "2023-07-17T02:43:45.000Z"
+  },
+  {
+    "title": "母『Twitterってすごいのね』近所で災害などがあった時にニュースではやらないような細かい地域の情報が手に入る事がすごく助かる",
+    "link": "https://togetter.com/li/2187502",
+    "date": "2023-07-17T02:42:16.000Z"
+  },
+  {
+    "title": "何かがサーバー代を下回ったらサ終!?　スマホゲーム「偽りのアリス」新規コンテンツ更新を停止して「謎のカウンター」を設置　「斬新だわ」の声",
+    "link": "https://nlab.itmedia.co.jp/nl/articles/2307/16/news055.html",
+    "date": "2023-07-17T02:41:01.000Z"
+  }
+]

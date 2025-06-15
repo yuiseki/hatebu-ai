@@ -1,0 +1,467 @@
+[
+  {
+    "title": "Jest + PuppeteerのE2Eテストで使うコード集",
+    "link": "https://zenn.dev/at946/articles/b85083350a87c01fa40e",
+    "date": "2022-12-09T13:15:36.000Z"
+  },
+  {
+    "title": "GitHub - argos-ci/jest-puppeteer: Run tests using Jest & Puppeteer 🎪✨",
+    "link": "https://github.com/argos-ci/jest-puppeteer",
+    "date": "2022-12-09T13:15:18.000Z"
+  },
+  {
+    "title": "puppeteer を使用する · Jest",
+    "link": "https://jestjs.io/ja/docs/puppeteer",
+    "date": "2022-12-09T13:15:16.000Z"
+  },
+  {
+    "title": "Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+    "link": "https://preactjs.com/",
+    "date": "2022-12-09T13:15:00.000Z"
+  },
+  {
+    "title": "【計画通りじゃなくても、面白い人生を送りたいのなら起業した方がいい】さくらインターネット株式会社代表取締役社長田中邦裕さんインタビュー - EO GSEA",
+    "link": "https://gsea-japan.org/media-article/92/",
+    "date": "2022-12-09T12:56:48.000Z"
+  },
+  {
+    "title": "秋葉原でドーンときた「世界中の人が一瞬でつながる世界」　高専生がさくらインターネットを作るまで",
+    "link": "https://logmi.jp/tech/articles/325538",
+    "date": "2022-12-09T12:56:45.000Z"
+  },
+  {
+    "title": "一般社団法人全国高等専門学校連合会｜高専卒業生からのメッセージ｜1998年舞鶴高専＿田中邦裕さん",
+    "link": "https://www.kosen-all.or.jp/messages/cat/1998-1.html",
+    "date": "2022-12-09T12:56:43.000Z"
+  },
+  {
+    "title": "さくらインターネット田中氏（2）「やってられん」と社長を辞任",
+    "link": "https://business.nikkei.com/atcl/NBD/19/00129/102600047/",
+    "date": "2022-12-09T12:56:41.000Z"
+  },
+  {
+    "title": "田中邦裕氏が高専時代に18歳で創業！Webとともに発展した「さくらインターネット」の歴史と今後の展望",
+    "link": "https://strainer.jp/notes/2988",
+    "date": "2022-12-09T12:56:39.000Z"
+  },
+  {
+    "title": "【舞鶴高専】テクノロジーで地域に貢献！日本を未来を担う若者たちの今 - さくマガ",
+    "link": "https://sakumaga.sakura.ad.jp/entry/knowledge-13",
+    "date": "2022-12-09T12:56:37.000Z"
+  },
+  {
+    "title": "代表挨拶 | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/corp/message/",
+    "date": "2022-12-09T12:56:34.000Z"
+  },
+  {
+    "title": "筑波大学における雙峰祭オンライン開催の舞台裏 | さくらのナレッジ",
+    "link": "https://knowledge.sakura.ad.jp/30221/",
+    "date": "2022-12-09T12:56:29.000Z"
+  },
+  {
+    "title": "東京学芸大学 教室検索（非公式）",
+    "link": "https://u-gakugei-uoa.pages.dev/akitan/",
+    "date": "2022-12-09T12:26:47.000Z"
+  },
+  {
+    "title": "免許外教科担任制度：文部科学省",
+    "link": "https://www.mext.go.jp/a_menu/shotou/kyoin/1410141.htm",
+    "date": "2022-12-09T12:07:03.000Z"
+  },
+  {
+    "title": "高等学校 情報｜日本文教出版",
+    "link": "https://www.nichibun-g.co.jp/textbooks/joho/",
+    "date": "2022-12-09T12:06:22.000Z"
+  },
+  {
+    "title": "教科書｜情報Ⅱ｜高等学校 情報｜日本文教出版",
+    "link": "https://www.nichibun-g.co.jp/textbooks/joho/2023_joho02/textbook/",
+    "date": "2022-12-09T12:06:17.000Z"
+  },
+  {
+    "title": "新しい情報科「情報Ⅰ」「情報Ⅱ」を教える準備を｜学校とICT｜Ｓｋｙ株式会社 ICTを活用した学習活動をサポート",
+    "link": "https://www.sky-school-ict.net/shidoyoryo/210108/",
+    "date": "2022-12-09T12:06:14.000Z"
+  },
+  {
+    "title": "詳細（情II702　情報II）｜情報｜高等学校　教科書・副教材｜実教出版",
+    "link": "https://www.jikkyo.co.jp/book/detail/23023323",
+    "date": "2022-12-09T12:06:11.000Z"
+  },
+  {
+    "title": "情報Ⅱ | 令和7年度用高等学校教科書・シラバス | 東京書籍",
+    "link": "https://ten.tokyo-shoseki.co.jp/text/hs/joho/16652/",
+    "date": "2022-12-09T12:06:08.000Z"
+  },
+  {
+    "title": "高等学校情報科「情報Ⅰ」教員研修用教材（本編）：文部科学省",
+    "link": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416756.htm",
+    "date": "2022-12-09T12:05:46.000Z"
+  },
+  {
+    "title": "地図で検索 | ポストマップ",
+    "link": "https://www.postmap.org/map",
+    "date": "2022-12-09T11:35:46.000Z"
+  },
+  {
+    "title": "【エンジニア対談】みんチャレで習慣化に成功したこと、チャレンジ中のことについて｜三日坊主防止アプリ「みんチャレ」",
+    "link": "https://note.com/minchalle/n/n373890d06cf3",
+    "date": "2022-12-09T11:04:01.000Z"
+  },
+  {
+    "title": "“もくもく会”できず、モヤモヤしてるエンジニアに朗報！挫折せず結果を出すアプリ「みんチャレ」って何がすごい？",
+    "link": "https://and-engineer.com/articles/Xr0NGhEAAOEv2DyD",
+    "date": "2022-12-09T11:03:59.000Z"
+  },
+  {
+    "title": "日本地図学会　サービス",
+    "link": "https://jcacj.org/service.html",
+    "date": "2022-12-09T10:52:12.000Z"
+  },
+  {
+    "title": "日本地図学会",
+    "link": "https://jcacj.org/",
+    "date": "2022-12-09T10:52:10.000Z"
+  },
+  {
+    "title": "みんなでつくる案内板データベース - Monumento(モニュメント)",
+    "link": "https://monumen.to/",
+    "date": "2022-12-09T10:48:14.000Z"
+  },
+  {
+    "title": "シェアロ - インタラクティブ動画・ストーリー作成プラットフォーム",
+    "link": "https://www.shareloapp.com/ja",
+    "date": "2022-12-09T10:37:56.000Z"
+  },
+  {
+    "title": "Elixir で Absinthe を使って GraphQL に触れてみた - Qiita",
+    "link": "https://qiita.com/ma2ge/items/52dcebd54c5bdecafcb6",
+    "date": "2022-12-09T10:35:59.000Z"
+  },
+  {
+    "title": "【Elixir】Dataloaderを導入してGraphQLのN+1問題を解消する",
+    "link": "https://zenn.dev/koga1020/articles/14a49472394b22",
+    "date": "2022-12-09T10:35:57.000Z"
+  },
+  {
+    "title": "Overview — absinthe v1.7.6",
+    "link": "https://hexdocs.pm/absinthe/overview.html",
+    "date": "2022-12-09T10:35:56.000Z"
+  },
+  {
+    "title": "Absinthe: Home",
+    "link": "https://absinthe-graphql.org/",
+    "date": "2022-12-09T10:35:55.000Z"
+  },
+  {
+    "title": "GitHub - absinthe-graphql/absinthe: The GraphQL toolkit for Elixir",
+    "link": "https://github.com/absinthe-graphql/absinthe",
+    "date": "2022-12-09T10:35:53.000Z"
+  },
+  {
+    "title": "Transcoding API",
+    "link": "https://docs.qencode.com/api-reference/transcoding/",
+    "date": "2022-12-09T10:35:05.000Z"
+  },
+  {
+    "title": "Cloud Video Services | Qencode",
+    "link": "https://cloud.qencode.com/",
+    "date": "2022-12-09T10:35:04.000Z"
+  },
+  {
+    "title": "Laravel + Pusher でスマホでパソコンの文字を入力",
+    "link": "https://blog.capilano-fw.com/?p=9936",
+    "date": "2022-12-09T10:25:46.000Z"
+  },
+  {
+    "title": "手軽にできる！PusherとLaravelでWebアプリにリアルタイム通知を実装する方法",
+    "link": "https://ascii.jp/elem/000/001/580/1580741/",
+    "date": "2022-12-09T10:25:43.000Z"
+  },
+  {
+    "title": "プロジェクト:翻訳検証/コンテンツ翻訳の機械翻訳廃止について - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%BF%BB%E8%A8%B3%E6%A4%9C%E8%A8%BC/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E7%BF%BB%E8%A8%B3%E3%81%AE%E6%A9%9F%E6%A2%B0%E7%BF%BB%E8%A8%B3%E5%BB%83%E6%AD%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "date": "2022-12-09T09:41:40.000Z"
+  },
+  {
+    "title": "コンテンツ翻訳 - MediaWiki",
+    "link": "https://www.mediawiki.org/wiki/Content_translation/ja",
+    "date": "2022-12-09T09:41:38.000Z"
+  },
+  {
+    "title": "プロジェクト‐ノート:翻訳検証 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E7%BF%BB%E8%A8%B3%E6%A4%9C%E8%A8%BC",
+    "date": "2022-12-09T09:41:37.000Z"
+  },
+  {
+    "title": "プロジェクト:翻訳検証 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%BF%BB%E8%A8%B3%E6%A4%9C%E8%A8%BC",
+    "date": "2022-12-09T09:41:34.000Z"
+  },
+  {
+    "title": "インタラクティブシステムにおける未来を切り拓くアイデア・技術を議論するワークショップ『WISS 2022』にHelpfeelが協賛",
+    "link": "https://prtimes.jp/main/html/rd/p/000000182.000027275.html",
+    "date": "2022-12-09T04:47:37.000Z"
+  },
+  {
+    "title": "手順のレシピ頻度特徴量とLexRankに基づくアレンジ抽出手法 | Interactive Media Lab.",
+    "link": "http://www.ns.kogakuin.ac.jp/~wwj1019/research/202009oonita/",
+    "date": "2022-12-09T02:55:18.000Z"
+  },
+  {
+    "title": "レシピ頻度特徴量とLexRankに基づくアレンジ抽出手法の評価 | Interactive Media Lab.",
+    "link": "http://www.ns.kogakuin.ac.jp/~wwj1019/research/202103oonita/",
+    "date": "2022-12-09T02:55:15.000Z"
+  },
+  {
+    "title": "論文紹介 LexRank: Graph-based Lexical Centrality as Salience in Text Summarization",
+    "link": "https://www.slideshare.net/KazunariHemmi/lexrank-graphbased-lexical-centrality-as-salience-in-text-summarization-251515188",
+    "date": "2022-12-09T02:55:13.000Z"
+  },
+  {
+    "title": "LexRankを用いた小説文章からの自動要約手法の検討",
+    "link": "https://www.jstage.jst.go.jp/article/wii/16/0/16_38/_article/-char/ja/",
+    "date": "2022-12-09T02:55:08.000Z"
+  },
+  {
+    "title": "論文翻訳: LexRank: Graph-based Lexical Centrality as Salience in Text Summarization - MOXBOX #NLP #LexRank",
+    "link": "https://hazm.at/mox/machine-learning/natural-language-processing/summarization/lexrank/index.html",
+    "date": "2022-12-09T02:55:05.000Z"
+  },
+  {
+    "title": "文書要約のLexRankや、Googleページランクのアルゴリズムではなぜ固有ベクトルが登場するの？ - Qiita",
+    "link": "https://qiita.com/sugulu_Ogawa_ISID/items/960116ec90b54bf924d7",
+    "date": "2022-12-09T02:55:00.000Z"
+  },
+  {
+    "title": "Hyper Estraierの類似検索を使用して関連記事を表示する",
+    "link": "https://www.anothersky.jp/2019/02/similarity-entries-search.html",
+    "date": "2022-12-09T02:54:57.000Z"
+  },
+  {
+    "title": "全文検索システム Hyper Estraier",
+    "link": "https://dbmx.net/hyperestraier/index.ja.html",
+    "date": "2022-12-09T02:54:54.000Z"
+  },
+  {
+    "title": "LexRankによるWebコンテンツの自動要約機能の実装",
+    "link": "https://powercmsx.jp/blog/auto_summarize.html",
+    "date": "2022-12-09T02:54:38.000Z"
+  },
+  {
+    "title": "sumy",
+    "link": "https://pypi.org/project/sumy/",
+    "date": "2022-12-09T02:54:36.000Z"
+  },
+  {
+    "title": "Python: LexRankで日本語の記事を要約する - け日記",
+    "link": "https://ohke.hateblo.jp/entry/2018/11/17/230000",
+    "date": "2022-12-09T02:54:29.000Z"
+  },
+  {
+    "title": "LexRankによる代表文抽出 | 株式会社AI Shift",
+    "link": "https://www.ai-shift.co.jp/techblog/938",
+    "date": "2022-12-09T02:54:25.000Z"
+  },
+  {
+    "title": "Nextra – Next.js Static Site Generator – Nextra",
+    "link": "https://nextra.site/",
+    "date": "2022-12-09T01:08:04.000Z"
+  },
+  {
+    "title": "YouTube Premium、ファミリープランを500円値上げ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1449835.html",
+    "date": "2022-12-09T01:07:36.000Z"
+  },
+  {
+    "title": "‎Microsoft SwiftKey AI Keyboard",
+    "link": "https://apps.apple.com/jp/app/microsoft-swiftkey-ai-keyboard/id911813648",
+    "date": "2022-12-09T01:07:31.000Z"
+  },
+  {
+    "title": "【田原総一朗】30年ほぼ変わらない朝ごはん「バターは厚く」は妻の遺言",
+    "link": "https://www.youtube.com/watch?v=vDZZzMmprzw",
+    "date": "2022-12-09T01:00:53.000Z"
+  },
+  {
+    "title": "https://twitter.com/chirashinoke/status/1600022311377440770",
+    "link": "https://twitter.com/chirashinoke/status/1600022311377440770",
+    "date": "2022-12-09T00:59:57.000Z"
+  },
+  {
+    "title": "Codeium · Free AI Code Completion & Chat",
+    "link": "https://codeium.com/",
+    "date": "2022-12-09T00:59:42.000Z"
+  },
+  {
+    "title": "Brownfield (software development) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Brownfield_(software_development)",
+    "date": "2022-12-09T00:59:08.000Z"
+  },
+  {
+    "title": "Amazon.comのヴォゲルスCTOが基調講演に登場、「システムは時間とともに複雑になるのが宿命、だから開発の初期段階の取り組みが重要」と指摘",
+    "link": "https://cloud.watch.impress.co.jp/docs/event/1460896.html",
+    "date": "2022-12-09T00:58:49.000Z"
+  },
+  {
+    "title": "みんなでつくる案内板データベース - Monumento(モニュメント)",
+    "link": "https://ja.monumen.to/",
+    "date": "2022-12-09T00:57:21.000Z"
+  },
+  {
+    "title": "Spring Boot WebSocket でインタラクティブ Web アプリケーション作成 - 公式サンプルコード",
+    "link": "https://spring.pleiades.io/guides/gs/messaging-stomp-websocket/",
+    "date": "2022-12-09T00:55:36.000Z"
+  },
+  {
+    "title": "人気家族SNS「wellnote」データ消失騒動が急転直下　競合から異例の助け船、一括ダウンロード可能に",
+    "link": "https://www.j-cast.com/2022/12/07451990.html?p=all",
+    "date": "2022-12-09T00:52:05.000Z"
+  },
+  {
+    "title": "インシデントレスポンスを支えるincident.io",
+    "link": "https://zenn.dev/ubie_dev/articles/incident-response-with-incidentio",
+    "date": "2022-12-09T00:51:45.000Z"
+  },
+  {
+    "title": "ChatGPTの中身についてちょっと詳しくなるためのメモ書き - Qiita",
+    "link": "https://qiita.com/sakasegawa/items/e13e29c96fc711cf84bb",
+    "date": "2022-12-09T00:51:43.000Z"
+  },
+  {
+    "title": "早川書房の某著著者、James Lindsayのユダヤ人差別が尋常じゃないので記事にしてみた―\"文化的マルクス主義陰謀論\"とは？｜アズロのデンジャラスゾーン",
+    "link": "https://note.com/azuro_danger/n/n5264bcc7b983",
+    "date": "2022-12-09T00:51:18.000Z"
+  },
+  {
+    "title": "「草津バッシング事件」の教訓…「推定有罪」に疑問を抱かない人びとの恐ろしさ（御田寺 圭） @gendai_biz",
+    "link": "https://gendai.media/articles/-/102974",
+    "date": "2022-12-09T00:50:58.000Z"
+  },
+  {
+    "title": "G-SHOCKカスタマイズにアルファベットのバックライト追加。メタルパーツと機能名入り文字板も",
+    "link": "https://travel.watch.impress.co.jp/docs/news/1461776.html",
+    "date": "2022-12-09T00:49:44.000Z"
+  },
+  {
+    "title": "AutoPagerize - SWDYH",
+    "link": "https://swdyh.hatenadiary.org/entry/20070111/1168517600",
+    "date": "2022-12-09T00:49:38.000Z"
+  },
+  {
+    "title": "ElasticsearchのIngest Pipelineでtext embeddingを埋め込む & サクッとKNN+BM25のHybrid Searchを試せるリポジトリを作った - ときどき起きる",
+    "link": "https://hit-the-sack.hatenablog.com/entry/TestingHybridSearchWithElasticsearch",
+    "date": "2022-12-09T00:48:56.000Z"
+  },
+  {
+    "title": "「ナスカの地上絵」　新たに168点発見　山形大の研究グループ | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20221208/k00/00m/040/198000c",
+    "date": "2022-12-09T00:48:38.000Z"
+  },
+  {
+    "title": "ダンバー数 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%90%E3%83%BC%E6%95%B0",
+    "date": "2022-12-09T00:48:28.000Z"
+  },
+  {
+    "title": "【Recoil】Reactの状態管理ライブラリ基礎学習 ~リファクタ編~ - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20221208/recoil",
+    "date": "2022-12-09T00:48:15.000Z"
+  },
+  {
+    "title": "サイドパネルでMastodonを表示できるようになった「Vivaldi 5.6」が正式公開／タブスタックをピン止めする機能も追加",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1462124.html",
+    "date": "2022-12-09T00:48:03.000Z"
+  },
+  {
+    "title": "N予備校で利用しているAWS CodeBuildについて - ドワンゴ教育サービス開発者ブログ",
+    "link": "https://blog.nnn.dev/entry/2022/12/08/170000",
+    "date": "2022-12-09T00:47:56.000Z"
+  },
+  {
+    "title": "プログラマーに贈る、わかりやすい文章を書くための技法 - LIVESENSE ENGINEER BLOG",
+    "link": "https://made.livesense.co.jp/entry/2022/12/08/163000",
+    "date": "2022-12-09T00:47:32.000Z"
+  },
+  {
+    "title": "Ctrl+Cとkill -SIGINTの違いからLinuxプロセスグループを理解する | ギークを目指して",
+    "link": "http://equj65.net/tech/linuxprocessgroup/",
+    "date": "2022-12-09T00:47:28.000Z"
+  },
+  {
+    "title": "最強の「Pi Zero」はどれなのかを示すベンチマーク結果",
+    "link": "https://gigazine.net/news/20221208-pi-zero-benchmark/",
+    "date": "2022-12-09T00:47:03.000Z"
+  },
+  {
+    "title": "TVアニメ「AIの遺電子」公式サイト",
+    "link": "https://ai-no-idenshi.com/",
+    "date": "2022-12-09T00:46:29.000Z"
+  },
+  {
+    "title": "【速報】岸田首相　所得税除いた形で1兆円増税　防衛費の増額で（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/81ebd3dc22e902686775bb6d46eba17de1c43308",
+    "date": "2022-12-09T00:46:25.000Z"
+  },
+  {
+    "title": "授けるべきは、ゲームの禁止ではなく、ゲームの規律だと思います",
+    "link": "https://blog.tinect.jp/?p=79772",
+    "date": "2022-12-09T00:45:22.000Z"
+  },
+  {
+    "title": "https://twitter.com/razokulover/status/1600726341137358848",
+    "link": "https://twitter.com/razokulover/status/1600726341137358848",
+    "date": "2022-12-09T00:44:27.000Z"
+  },
+  {
+    "title": "披露宴の席次を Gromov-Wasserstein 最適輸送で決めた話",
+    "link": "https://zenn.dev/akira_t/articles/seat-opt-via-gw",
+    "date": "2022-12-09T00:44:15.000Z"
+  },
+  {
+    "title": "覚醒剤使用の疑いで神戸の牧師逮捕　元暴力団からNPO、異色の経歴：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQD86263QD8PIHB016.html",
+    "date": "2022-12-09T00:44:06.000Z"
+  },
+  {
+    "title": "CSSの100vhがスマホで高さいっぱいにならない問題はこれで解決！ CSSの新しいビューポート単位の使い方と注意事項",
+    "link": "https://coliss.com/articles/build-websites/operation/css/css-large-small-dynamic-viewport-units.html",
+    "date": "2022-12-09T00:43:35.000Z"
+  },
+  {
+    "title": "要件定義を専門でやる技術者(Requirement Engineer)に関する雑感 - 勘と経験と読経",
+    "link": "https://agnozingdays.hatenablog.com/entry/2022/12/08/083710",
+    "date": "2022-12-09T00:43:30.000Z"
+  },
+  {
+    "title": "チャットできるAI、ChatGPTが｢そこまですごくない｣理由。見えてしまった限界",
+    "link": "https://www.businessinsider.jp/post-263042",
+    "date": "2022-12-09T00:43:25.000Z"
+  },
+  {
+    "title": "アバター2はなぜ48コマなのか。HFR映画がもたらす視覚効果とリアリティ",
+    "link": "https://av.watch.impress.co.jp/docs/topic/1461878.html",
+    "date": "2022-12-09T00:43:13.000Z"
+  },
+  {
+    "title": "元組員：「人生やり直せる」神戸で牧師に | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20171204/k00/00e/040/191000c",
+    "date": "2022-12-09T00:17:07.000Z"
+  },
+  {
+    "title": "Colaboと仁藤夢乃さんを支える会 on Twitter: \"森康彦さん（NPO 法人ホザナ・ハウ ス 代表理事) 「誰もやらない、誰もできない事に勇気をもって立ち上がり、成し遂げようと試行錯誤している御法人と代表並びスタッフに。 祝福をお祈りいたします。」 https://t.co/rRbFWNQi0q\"",
+    "link": "https://twitter.com/Colabomamorukai/status/1598950763359002624",
+    "date": "2022-12-09T00:16:52.000Z"
+  },
+  {
+    "title": "牧師を覚醒剤使用容疑で逮捕　少年の自立支援NPO設立の元組員 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20221208/k00/00m/040/307000c",
+    "date": "2022-12-09T00:16:43.000Z"
+  },
+  {
+    "title": "覚醒剤使用の疑いで神戸の牧師逮捕　元暴力団からNPO、異色の経歴：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASQD86263QD8PIHB016.html",
+    "date": "2022-12-09T00:16:23.000Z"
+  }
+]

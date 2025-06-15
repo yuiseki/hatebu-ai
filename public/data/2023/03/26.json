@@ -1,0 +1,92 @@
+[
+  {
+    "title": "lambdalabs (Lambda)",
+    "link": "https://huggingface.co/lambdalabs",
+    "date": "2023-03-26T14:40:05.000Z"
+  },
+  {
+    "title": "Huggingface Transformersで可能な限り多くの事前学習済み画像キャプション生成機械学習モデルを試して考察せよ🤗。実行：",
+    "link": "https://zenn.dev/yuiseki/articles/c86e6120414b6c",
+    "date": "2023-03-26T13:46:15.000Z"
+  },
+  {
+    "title": "OFA-Sys/ofa-large-caption · Hugging Face",
+    "link": "https://huggingface.co/OFA-Sys/ofa-large-caption",
+    "date": "2023-03-26T12:59:24.000Z"
+  },
+  {
+    "title": "[ClipCap] 機械学習で画像からキャプション(説明)を生成する [Python]",
+    "link": "https://www.12-technology.com/2021/11/clipcap-python.html",
+    "date": "2023-03-26T12:57:42.000Z"
+  },
+  {
+    "title": "A Dive into Vision-Language Models",
+    "link": "https://huggingface.co/blog/vision_language_pretraining",
+    "date": "2023-03-26T12:55:29.000Z"
+  },
+  {
+    "title": "2022年 Image CaptioningのSoTA OFAを試してみる",
+    "link": "https://tech.fusic.co.jp/posts/2022-07-11-ofa-test/",
+    "date": "2023-03-26T12:52:07.000Z"
+  },
+  {
+    "title": "GitHub - OFA-Sys/OFA: Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+    "link": "https://github.com/OFA-Sys/OFA",
+    "date": "2023-03-26T12:52:03.000Z"
+  },
+  {
+    "title": "[OFA] 機械学習でImage Captioning, VQA [Python]",
+    "link": "https://www.12-technology.com/2022/03/ofa-image-captioning-vqa-python.html",
+    "date": "2023-03-26T12:51:58.000Z"
+  },
+  {
+    "title": "Image captioning",
+    "link": "https://huggingface.co/docs/transformers/main/tasks/image_captioning",
+    "date": "2023-03-26T12:17:18.000Z"
+  },
+  {
+    "title": "Raspberry Pi のスワップ領域拡張 - Qiita",
+    "link": "https://qiita.com/nyas/items/f4d0675061ee8cdcc3e7",
+    "date": "2023-03-26T11:51:52.000Z"
+  },
+  {
+    "title": "nlpconnect/vit-gpt2-image-captioning · Hugging Face",
+    "link": "https://huggingface.co/nlpconnect/vit-gpt2-image-captioning",
+    "date": "2023-03-26T11:39:51.000Z"
+  },
+  {
+    "title": "ロシア、ベラルーシに戦術核配備へ　プーチン氏が表明",
+    "link": "https://www.cnn.co.jp/world/35201723.html",
+    "date": "2023-03-26T06:17:27.000Z"
+  },
+  {
+    "title": "🤗15行のPythonでBLIPによる画像キャプション生成🤗",
+    "link": "https://zenn.dev/yuiseki/articles/bd73f607a2acf0",
+    "date": "2023-03-26T04:20:36.000Z"
+  },
+  {
+    "title": "https://ai.google.com/research/ConceptualCaptions/download",
+    "link": "https://ai.google.com/research/ConceptualCaptions/download",
+    "date": "2023-03-26T01:49:54.000Z"
+  },
+  {
+    "title": "google/pix2struct-screen2words-large · Hugging Face",
+    "link": "https://huggingface.co/google/pix2struct-screen2words-large",
+    "date": "2023-03-26T01:17:44.000Z"
+  },
+  {
+    "title": "GPT-4やPaLMなどの大規模言語モデルは規模が大きくなると突然予想外の能力を開花させることがある",
+    "link": "https://gigazine.net/news/20230325-large-language-model-emergent/",
+    "date": "2023-03-26T00:27:01.000Z"
+  },
+  {
+    "title": "ChatGPT-Dan-Jailbreak.md",
+    "link": "https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516",
+    "date": "2023-03-26T00:18:01.000Z"
+  },
+  {
+    "title": "Hello Dolly: オープンなモデルでChatGPTの魔法を民主化する - Qiita",
+    "link": "https://qiita.com/taka_yayoi/items/e9c895c169da652c6efb",
+    "date": "2023-03-26T00:05:10.000Z"
+  }
+]

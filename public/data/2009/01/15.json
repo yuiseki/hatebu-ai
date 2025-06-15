@@ -1,0 +1,552 @@
+[
+  {
+    "title": "Skype API Plugin for Pidgin/libpurple/Adium",
+    "link": "https://eion.robbmob.com/",
+    "date": "2009-01-15T14:28:14.000Z"
+  },
+  {
+    "title": "https://www.manast.com/2007/05/11/how-to-configure-pidgin-to-work-with-google-talk/",
+    "link": "https://www.manast.com/2007/05/11/how-to-configure-pidgin-to-work-with-google-talk/",
+    "date": "2009-01-15T14:23:45.000Z"
+  },
+  {
+    "title": "Nabble - Pidgin - Tracker - #7390: HTML tag in XMPP conversation history",
+    "link": "http://www.nabble.com/-7390:-HTML-tag-in-XMPP-conversation-history-td20201133.html",
+    "date": "2009-01-15T14:04:46.000Z"
+  },
+  {
+    "title": "xmpppy: the jabber python project",
+    "link": "https://xmpppy.sourceforge.net/",
+    "date": "2009-01-15T14:02:44.000Z"
+  },
+  {
+    "title": "API Documentation",
+    "link": "https://xmpppy.sourceforge.net/apidocs/index.html",
+    "date": "2009-01-15T14:02:31.000Z"
+  },
+  {
+    "title": "Sam Ruby: Sending XHTML over Jabber",
+    "link": "http://intertwingly.net/blog/2007/08/09/Sending-XHTML-over-Jabber",
+    "date": "2009-01-15T14:01:48.000Z"
+  },
+  {
+    "title": "XEP-0183: Jingle Telepathy Transport",
+    "link": "https://xmpp.org/extensions/xep-0183.html",
+    "date": "2009-01-15T13:57:21.000Z"
+  },
+  {
+    "title": "Jabber Forum",
+    "link": "http://jabberforum.org/",
+    "date": "2009-01-15T13:54:24.000Z"
+  },
+  {
+    "title": "XEP-0231: Bits of Binary",
+    "link": "https://xmpp.org/extensions/xep-0231.html",
+    "date": "2009-01-15T10:24:39.000Z"
+  },
+  {
+    "title": "deepen ～Yoshiaki FUKAMI’s view",
+    "link": "https://yofukami.hatenablog.com/",
+    "date": "2009-01-15T10:21:18.000Z"
+  },
+  {
+    "title": "深見嘉明「ウェブは菩薩である」 - ICHINOHE Blog",
+    "link": "http://shinyai.cocolog-nifty.com/shinyai/2008/06/deepen_yoshiaki_a610.html",
+    "date": "2009-01-15T10:20:41.000Z"
+  },
+  {
+    "title": "XEP-0239: Binary XMPP",
+    "link": "https://xmpp.org/extensions/xep-0239.html",
+    "date": "2009-01-15T10:17:17.000Z"
+  },
+  {
+    "title": "XEP-0080: User Location",
+    "link": "https://xmpp.org/extensions/xep-0080.html",
+    "date": "2009-01-15T10:15:16.000Z"
+  },
+  {
+    "title": "XEP-0255: Location Query",
+    "link": "https://xmpp.org/extensions/xep-0255.html",
+    "date": "2009-01-15T10:14:44.000Z"
+  },
+  {
+    "title": "XEP-0001: XMPP Extension Protocols",
+    "link": "https://xmpp.org/extensions/xep-0001.html",
+    "date": "2009-01-15T10:13:20.000Z"
+  },
+  {
+    "title": "iGoogle ガジェットの作り方 : ガジェット間通信機能（PubSub）を使う - WebOS Goodies",
+    "link": "http://webos-goodies.jp/archives/51205654.html",
+    "date": "2009-01-15T10:12:49.000Z"
+  },
+  {
+    "title": "hellohiro.com",
+    "link": "http://www.hellohiro.com/jmspubsub.htm",
+    "date": "2009-01-15T10:12:36.000Z"
+  },
+  {
+    "title": "XEP-0060: Publish-Subscribe",
+    "link": "https://xmpp.org/extensions/xep-0060.html",
+    "date": "2009-01-15T10:10:34.000Z"
+  },
+  {
+    "title": "XEP-0071: XHTML-IM",
+    "link": "https://xmpp.org/extensions/xep-0071.html",
+    "date": "2009-01-15T10:07:46.000Z"
+  },
+  {
+    "title": "XMPP",
+    "link": "https://xmpp.org/extensions/",
+    "date": "2009-01-15T10:02:27.000Z"
+  },
+  {
+    "title": "ニコニコ動画のカテゴリ別動画数の現状 - longlow’s diary",
+    "link": "https://longlow.hatenablog.com/entry/20090108/p1",
+    "date": "2009-01-15T09:07:06.000Z"
+  },
+  {
+    "title": "XEP-0153: vCard-Based Avatars",
+    "link": "https://xmpp.org/extensions/xep-0153.html",
+    "date": "2009-01-15T09:02:11.000Z"
+  },
+  {
+    "title": "freehg - Informasi Terupdate dan Terkini",
+    "link": "http://freehg.org/u/honeyplanet/pidgin-twitter/",
+    "date": "2009-01-15T08:57:46.000Z"
+  },
+  {
+    "title": "みかん箱",
+    "link": "http://mikanbako.blog.shinobi.jp/%E6%9C%AA%E5%88%86%E9%A1%9E/pidgin-twitter%20%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92%20windows%20%E3%81%A7%E3%83%93%E3%83%AB%E3%83%89%E3%81%99%E3%82%8B%E3%83%A1%E3%83%A2",
+    "date": "2009-01-15T08:57:41.000Z"
+  },
+  {
+    "title": "pidgin-twitter (ぴじつた)",
+    "link": "http://www.honeyplanet.jp/pidgin-twitter/",
+    "date": "2009-01-15T08:57:24.000Z"
+  },
+  {
+    "title": "Gordian Knot in my head: XMPP, RSS, Microblogging & Social Streams - NoseRub Blog",
+    "link": "http://noserub.com/blog/archives/56-Gordian-Knot-in-my-head-XMPP,-RSS,-Microblogging-Social-Streams.html",
+    "date": "2009-01-15T08:40:20.000Z"
+  },
+  {
+    "title": "XMPPでP2Pの音声チャットセッションを確立する方法1 : maaash.jp",
+    "link": "http://maaash.jp/p2p/xmpp%E3%81%A7p2p%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%A2%BA%E7%AB%8B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%951/",
+    "date": "2009-01-15T08:39:36.000Z"
+  },
+  {
+    "title": "XMPPでP2Pの音声チャットセッションを確立する方法2 : maaash.jp",
+    "link": "http://maaash.jp/xmpp/xmpp%E3%81%A7p2p%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%A2%BA%E7%AB%8B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%952/",
+    "date": "2009-01-15T08:39:29.000Z"
+  },
+  {
+    "title": "Google Code Archive - Long-term storage for Google Code Project Hosting.",
+    "link": "https://code.google.com/archive/p/exodus",
+    "date": "2009-01-15T08:35:15.000Z"
+  },
+  {
+    "title": "Clients - JabberWiki",
+    "link": "http://www.jabber.org/web/Clients",
+    "date": "2009-01-15T08:34:17.000Z"
+  },
+  {
+    "title": "http://blogs.sun.com/oha/entry/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%90_gaim%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B",
+    "link": "http://blogs.sun.com/oha/entry/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%90_gaim%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B",
+    "date": "2009-01-15T08:33:28.000Z"
+  },
+  {
+    "title": "twitim - Google Code",
+    "link": "https://code.google.com/archive/p/twitim",
+    "date": "2009-01-15T08:32:16.000Z"
+  },
+  {
+    "title": "throw Life - イマドキのAndroidアプリケーション開発方法",
+    "link": "http://www.adamrocker.com/blog/180/development_of_google_talk_client_for_android.html",
+    "date": "2009-01-15T08:30:54.000Z"
+  },
+  {
+    "title": "Sending XMPP messages in Android – Standalone sample (Ant build.xml/intellij project)",
+    "link": "https://davanum.wordpress.com/2007/11/14/sending-xmpp-messages-in-android-standalone-sample-ant-buildxmlintellij-project/",
+    "date": "2009-01-15T08:30:32.000Z"
+  },
+  {
+    "title": "Session Initiation Protocol - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/Session_Initiation_Protocol",
+    "date": "2009-01-15T07:02:03.000Z"
+  },
+  {
+    "title": "SIP技術",
+    "link": "http://www.isr.co.jp/so_swdev_sip.php",
+    "date": "2009-01-15T07:01:45.000Z"
+  },
+  {
+    "title": "GoogleのChromeブラウザの構成モジュールのそれぞれのバイナリ・サイズの表 - [モ]Modern Syntax",
+    "link": "http://www.aivy.co.jp/BLOG_TEST/nagasawa/archives/2004/07/xmpptosip_gatew.html",
+    "date": "2009-01-15T07:01:40.000Z"
+  },
+  {
+    "title": "サービス終了のお知らせ",
+    "link": "https://thanks.yahoo.co.jp/mazbeer/23025134.html",
+    "date": "2009-01-15T07:01:29.000Z"
+  },
+  {
+    "title": "XMPP Federation",
+    "link": "http://googletalk.blogspot.com/2006/01/xmpp-federation.html",
+    "date": "2009-01-15T07:00:54.000Z"
+  },
+  {
+    "title": "http://japan.internet.com/busnews/20040722/12.html",
+    "link": "http://japan.internet.com/busnews/20040722/12.html",
+    "date": "2009-01-15T07:00:27.000Z"
+  },
+  {
+    "title": "https://xmpp.org/about/technology-overview/",
+    "link": "https://xmpp.org/tech/jingle.shtml",
+    "date": "2009-01-15T06:56:39.000Z"
+  },
+  {
+    "title": "XEP-0166: Jingle",
+    "link": "https://xmpp.org/extensions/xep-0166.html",
+    "date": "2009-01-15T06:56:08.000Z"
+  },
+  {
+    "title": "Google、IMのマルチメディア標準を支持",
+    "link": "https://www.itmedia.co.jp/news/articles/0512/17/news013.html",
+    "date": "2009-01-15T06:55:41.000Z"
+  },
+  {
+    "title": "Android XMPP - Vox",
+    "link": "http://kiyonari.vox.com/library/post/android-xmpp.html",
+    "date": "2009-01-15T06:53:33.000Z"
+  },
+  {
+    "title": "Emailの未来：SMTPからXMPPへ | 技術動向 | 家で働くママ日記 | あすなろBLOG",
+    "link": "http://blog.pasonatech.co.jp/hibi/101/7531.html",
+    "date": "2009-01-15T06:52:22.000Z"
+  },
+  {
+    "title": "ケータイからGoogleMapやXMPPが使えるみたい、Androidだと。でGUIは？ - ウィリアムのいたずらの、まちあるき、たべあるき",
+    "link": "https://blog.goo.ne.jp/xmldtp/e/095112060209b2e658a43210fb5c85d8",
+    "date": "2009-01-15T06:51:48.000Z"
+  },
+  {
+    "title": "XMPP(Jabberのプロトコル)技術メモ &mdash; ありえるえりあ",
+    "link": "http://dev.ariel-networks.com/column/tech/xmpp/",
+    "date": "2009-01-15T06:51:18.000Z"
+  },
+  {
+    "title": "ブログなんだよもん - SmackでXMPPクライアントを作る",
+    "link": "http://pascal.orz.cn/muse/pascal/80131010216.html;jsessionid=F8FA88B83F98E2E066093C5E278DC1DC",
+    "date": "2009-01-15T06:50:52.000Z"
+  },
+  {
+    "title": "http://www.sabamiso.net/yoggy/tdiary/?date=20070215",
+    "link": "http://www.sabamiso.net/yoggy/tdiary/?date=20070215",
+    "date": "2009-01-15T06:50:35.000Z"
+  },
+  {
+    "title": "はてなグループの終了日を2020年1月31日(金)に決定しました - はてなの告知",
+    "link": "http://subtech.g.hatena.ne.jp/cho45/20080206/1202232309",
+    "date": "2009-01-15T06:48:47.000Z"
+  },
+  {
+    "title": "XMPP4R: XMPP/Jabber Library for Ruby",
+    "link": "http://home.gna.org/xmpp4r/",
+    "date": "2009-01-15T06:48:37.000Z"
+  },
+  {
+    "title": "deadbeaf.org",
+    "link": "http://deadbeaf.org/talk/20080326/",
+    "date": "2009-01-15T06:47:55.000Z"
+  },
+  {
+    "title": "Coccinella | Instant Messaging Program with Whiteboard",
+    "link": "https://thecoccinella.org/node.1.html",
+    "date": "2009-01-15T06:46:45.000Z"
+  },
+  {
+    "title": "ajaxbber",
+    "link": "https://sourceforge.net/projects/ajaxbber/",
+    "date": "2009-01-15T06:46:26.000Z"
+  },
+  {
+    "title": "Ajaxbber - Jabber web client",
+    "link": "https://ajaxbber.sourceforge.net/",
+    "date": "2009-01-15T06:46:26.000Z"
+  },
+  {
+    "title": "JavaScriptベースのJabberクライアント·Ajaxbber MOONGIFT",
+    "link": "https://www.moongift.jp/2008/03/ajaxbber/",
+    "date": "2009-01-15T06:46:09.000Z"
+  },
+  {
+    "title": "ActionMessenger :: Trypticon",
+    "link": "http://trypticon.org/software/actionmessenger/",
+    "date": "2009-01-15T06:45:27.000Z"
+  },
+  {
+    "title": "ActionMessenger: Basic IM / Jabber support for Rails",
+    "link": "http://www.rubyinside.com/actionmessenger-basic-im-jabber-support-for-rails-142.html",
+    "date": "2009-01-15T06:44:50.000Z"
+  },
+  {
+    "title": "Plugins - Acts As Notifiable - Agile Web Development",
+    "link": "http://agilewebdevelopment.com/plugins/acts_as_notifiable",
+    "date": "2009-01-15T06:44:35.000Z"
+  },
+  {
+    "title": "acts_as_notifiable: Jabberを使って通知を送るRails plugin - satoko's blog - s21g",
+    "link": "https://blog.s21g.com/articles/415",
+    "date": "2009-01-15T06:44:17.000Z"
+  },
+  {
+    "title": "RubyForge: XMPP4R: Project Info",
+    "link": "http://rubyforge.org/projects/xmpp4r/",
+    "date": "2009-01-15T06:44:01.000Z"
+  },
+  {
+    "title": "acts_as_notifiable: Rails plugin to send a notification via Jabber - hibi's blog - s21g",
+    "link": "https://blog.s21g.com/articles/414",
+    "date": "2009-01-15T06:43:23.000Z"
+  },
+  {
+    "title": "livedoor ラボ「EDGE」 開発日誌 : livedoorから研究用データを提供します - livedoor Blog（ブログ）",
+    "link": "http://blog.livedoor.jp/edge_labs/archives/681179.html",
+    "date": "2009-01-15T06:26:09.000Z"
+  },
+  {
+    "title": "「クローリングしてる暇があるなら論文書いたら？」ライブドアがソーシャルブックマークの生データを研究者に無料提供",
+    "link": "https://markezine.jp/article/detail/6325",
+    "date": "2009-01-15T06:21:20.000Z"
+  },
+  {
+    "title": "クローリングしてる暇があるなら…論文かいたら? | EDGE Datasets(研究用データセット)",
+    "link": "https://github.com/livedoor",
+    "date": "2009-01-15T06:21:16.000Z"
+  },
+  {
+    "title": "GoogleがDodgeball, Jaiku, Videoなどなどを切り捨て",
+    "link": "https://jp.techcrunch.com/2009/01/15/20090114google-axes-dodgeball-jaiku-video-and-more/",
+    "date": "2009-01-15T06:10:20.000Z"
+  },
+  {
+    "title": "NASA、ゴムのアヒルちゃんを鋭意捜索中 | スラド",
+    "link": "https://srad.jp/story/09/01/14/049245/",
+    "date": "2009-01-14T18:14:48.000Z"
+  },
+  {
+    "title": "世界初開催！AR（拡張現実）ビジネスの最前線",
+    "link": "https://xtech.nikkei.com/it/article/EVENTS/20090107/322349/",
+    "date": "2009-01-14T18:12:41.000Z"
+  },
+  {
+    "title": "転送中",
+    "link": "http://semanticlog.blogspot.com/2009/01/arar.html",
+    "date": "2009-01-14T18:12:29.000Z"
+  },
+  {
+    "title": "ニコニコ技術部　まとめwiki - PukiWiki",
+    "link": "http://syunei.no-ip.org/nico_tech/index.php?",
+    "date": "2009-01-14T18:10:24.000Z"
+  },
+  {
+    "title": "インターネット側からiPhone上のソケットに接続できました « ku",
+    "link": "http://ido.nu/kuma/2009/01/15/smb-allows-accessing-any-port-on-iphone/",
+    "date": "2009-01-14T17:58:12.000Z"
+  },
+  {
+    "title": "MWS:Rationale - OpenSource",
+    "link": "http://wiki.opensource.nokia.com/projects/MWS:Rationale",
+    "date": "2009-01-14T17:58:04.000Z"
+  },
+  {
+    "title": "http://twitter.com/Japan_Blogs",
+    "link": "http://twitter.com/Japan_Blogs",
+    "date": "2009-01-14T17:51:52.000Z"
+  },
+  {
+    "title": "http://twitter.com/1rick/status/1110452950",
+    "link": "http://twitter.com/1rick/status/1110452950",
+    "date": "2009-01-14T17:51:00.000Z"
+  },
+  {
+    "title": "DropCatch.com",
+    "link": "https://www.dropcatch.com/domain/hackers-cafe.net",
+    "date": "2009-01-14T17:50:37.000Z"
+  },
+  {
+    "title": "Page Not Found (404)",
+    "link": "http://asia.cnet.com/blogs/tokyo-shift/post.htm?id=63008305",
+    "date": "2009-01-14T17:49:35.000Z"
+  },
+  {
+    "title": "湯川鶴章のIT潮流 powered by ココログ: グーグルはアンドロイドでモバイルＯＳ市場を席巻したいとは思っていない－夏野剛氏",
+    "link": "http://it.blog-jiji.com/0001/2009/01/post-10e1.html",
+    "date": "2009-01-14T17:49:21.000Z"
+  },
+  {
+    "title": "http://twitter.com/oquno/status/1110576261",
+    "link": "http://twitter.com/oquno/status/1110576261",
+    "date": "2009-01-14T17:49:11.000Z"
+  },
+  {
+    "title": "フェイトのblog | やっぱり死ねなかった",
+    "link": "http://fatenews.blog63.fc2.com/blog-entry-92.html",
+    "date": "2009-01-14T17:46:14.000Z"
+  },
+  {
+    "title": "脳波で念力ゲーム――シリコンバレーの起業アイデア",
+    "link": "https://www.itmedia.co.jp/bizid/articles/0901/09/news018.html",
+    "date": "2009-01-14T17:45:22.000Z"
+  },
+  {
+    "title": "ハヤカワ文庫SFで短編集が占める割合の変化について - good reading",
+    "link": "https://gern.hatenadiary.org/entry/20090113/1231787448",
+    "date": "2009-01-14T17:42:11.000Z"
+  },
+  {
+    "title": "地域住民に対する公共の地理情報システム（GIS）のオープン化とその意義 | OSDN Magazine",
+    "link": "https://mag.osdn.jp/09/01/07/0133238",
+    "date": "2009-01-14T17:41:59.000Z"
+  },
+  {
+    "title": "「Google Maps」上に路線図レイヤー、世界50以上の都市で公開",
+    "link": "https://internet.watch.impress.co.jp/cda/news/2009/01/14/22081.html",
+    "date": "2009-01-14T17:41:56.000Z"
+  },
+  {
+    "title": "安藤日記",
+    "link": "http://opengl.jp/blogger/2009/01/ces-2009-blogger-lounge.html",
+    "date": "2009-01-14T17:40:15.000Z"
+  },
+  {
+    "title": "デブサミ2009開発プロセストラックのコンテンツ委員としての立場を離れて言う。おまえらは2/12(木)はこのセッションに参加しろ - 角谷HTML化計画(2009-01-14)",
+    "link": "https://kakutani.com/20090114.html",
+    "date": "2009-01-14T17:28:33.000Z"
+  },
+  {
+    "title": "求む「電源カフェ」 | 情報・通信 | nikkei BPnet 〈日経BPネット〉",
+    "link": "http://www.nikkeibp.co.jp/it/article/COLUMN/20090113/322739/",
+    "date": "2009-01-14T17:27:07.000Z"
+  },
+  {
+    "title": "FPN-ゼイヴェル・大浜史太郎社長へのインタビューを読んだ",
+    "link": "https://future-planning.net/?storyid=3683",
+    "date": "2009-01-14T17:23:36.000Z"
+  },
+  {
+    "title": "リックテレコム 書籍情報",
+    "link": "http://www.ric.co.jp/book/error/error646.html",
+    "date": "2009-01-14T17:23:27.000Z"
+  },
+  {
+    "title": "「Zigbee開発ハンドブック」の正誤表: Under Power 研究所",
+    "link": "https://hamayan.blog.ss-blog.jp/2009-01-14",
+    "date": "2009-01-14T17:23:24.000Z"
+  },
+  {
+    "title": "vim萌えになるまで - あと味",
+    "link": "https://taiju.hatenablog.com/entry/20090114/1231926407",
+    "date": "2009-01-14T17:22:41.000Z"
+  },
+  {
+    "title": "宮咲志帆☆裏Blog〜パイパン娘の日々〜:裸ランドセル - livedoor Blog（ブログ）",
+    "link": "http://blog.livedoor.jp/shiho_miyazaki/archives/51224997.html",
+    "date": "2009-01-14T17:22:10.000Z"
+  },
+  {
+    "title": "【１８禁】バーチャル中学生現る:ハムスター速報　２ろぐ",
+    "link": "http://urasoku.blog106.fc2.com/blog-entry-474.html",
+    "date": "2009-01-14T17:22:07.000Z"
+  },
+  {
+    "title": "2009年の携帯電話業界，私はこう読む：米グーグルのAndroidで何ができるのか，絶対に売れない：ITpro",
+    "link": "https://xtech.nikkei.com/it/article/COLUMN/20090106/322302/",
+    "date": "2009-01-14T17:22:05.000Z"
+  },
+  {
+    "title": "スキマ時間活用には“タイマー”なのだ",
+    "link": "https://www.itmedia.co.jp/bizid/articles/0807/10/news001.html",
+    "date": "2009-01-14T17:22:02.000Z"
+  },
+  {
+    "title": "http://twitter.com/commit_log",
+    "link": "http://twitter.com/commit_log",
+    "date": "2009-01-14T17:16:40.000Z"
+  },
+  {
+    "title": "「ITは文系領域も多いからコンピュータサイエンスなんて知らなくていいんだよ」的な言説が蔓延ることが業界の現状を招いているのだが - novtan別館",
+    "link": "https://nov1975.hatenablog.com/entry/20081230/p3",
+    "date": "2009-01-14T17:04:39.000Z"
+  },
+  {
+    "title": "qsb-mac - Google Code",
+    "link": "https://code.google.com/archive/p/qsb-mac",
+    "date": "2009-01-14T17:04:21.000Z"
+  },
+  {
+    "title": "MOONGIFT: Google版QuickSilver「Quick Search Box」:オープンソースを毎日紹介",
+    "link": "https://www.moongift.jp/2009/01/quick_search_box/",
+    "date": "2009-01-14T17:04:15.000Z"
+  },
+  {
+    "title": "ウノウラボ Unoh Labs: シェルの仕組み(後編)",
+    "link": "http://labs.unoh.net/2009/01/post_129.html",
+    "date": "2009-01-14T17:04:13.000Z"
+  },
+  {
+    "title": "FrontPage - 女医ハックWiki",
+    "link": "http://desireforwealth.com/cgi-bin/wiki/wiki.cgi",
+    "date": "2009-01-14T17:03:56.000Z"
+  },
+  {
+    "title": "JoyHack System ヘルプ＆チュートリアル",
+    "link": "https://desireforwealth.com/joyhack/index.shtml",
+    "date": "2009-01-14T17:03:53.000Z"
+  },
+  {
+    "title": "Desire for wealth : Mac/Win版持ち込みカラオケ「女医ハック」最新ビルド公開…つうか、準備中のiPhone版をちら見せ",
+    "link": "https://desireforwealth.com/diary/200901_joyhack_iphone.shtml",
+    "date": "2009-01-14T17:03:24.000Z"
+  },
+  {
+    "title": "JoyHack System ヘルプ＆チュートリアル：はじめに／おもな特徴／動作環境・構成図",
+    "link": "https://desireforwealth.com/joyhack/about.shtml",
+    "date": "2009-01-14T17:03:22.000Z"
+  },
+  {
+    "title": "じゃヴぁｓｃりｐｔ - ぼくはまちちゃん！(Hatena)",
+    "link": "https://blog.hamachiya.jp/entry/20090114/javascript",
+    "date": "2009-01-14T17:02:17.000Z"
+  },
+  {
+    "title": "アニメーターにねんめ日記blog　 規制ラッシュ",
+    "link": "http://mushisasare.blog58.fc2.com/blog-entry-109.html",
+    "date": "2009-01-14T17:01:17.000Z"
+  },
+  {
+    "title": "Phantom of the Disco",
+    "link": "https://www.nicovideo.jp/watch/nm5751839",
+    "date": "2009-01-14T16:58:27.000Z"
+  },
+  {
+    "title": "Latest topics > 「ディアスポラ」「順列都市」をよく読み返す僕にはたまらなかった、SFで青春な「ゼーガペイン」 - outsider reflex",
+    "link": "https://piro.sakura.ne.jp/latest/blosxom.cgi/review/anime/2009-01-14_zegapain.htm",
+    "date": "2009-01-14T16:58:20.000Z"
+  },
+  {
+    "title": "麻雀上達コミュニティ「何切る!?」",
+    "link": "https://nnkr.jp/",
+    "date": "2009-01-14T16:52:52.000Z"
+  },
+  {
+    "title": "http://atnd.org/events/279",
+    "link": "http://atnd.org/events/279",
+    "date": "2009-01-14T15:34:41.000Z"
+  },
+  {
+    "title": "Events/Offline200901 - Ubuntu Japanese Wiki",
+    "link": "https://wiki.ubuntulinux.jp/Events/Offline200901?action=show&redirect=Offline200901",
+    "date": "2009-01-14T15:33:30.000Z"
+  }
+]

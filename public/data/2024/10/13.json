@@ -1,0 +1,127 @@
+[
+  {
+    "title": "[新機能]クエリサイズを日時で分割しbackfill処理も行いやすいdbt incremental modelの「microbatch」strategyを試してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/dbt-incremental-model-microbatch-strategy/",
+    "date": "2024-10-13T11:07:45.000Z"
+  },
+  {
+    "title": "「生成AI×RAG」の効果と課題は？　実装しないと「競争力を保てない」これだけの理由",
+    "link": "https://www.itmedia.co.jp/business/articles/2410/11/news075.html",
+    "date": "2024-10-13T11:07:25.000Z"
+  },
+  {
+    "title": "セブンイレブンがネット上で袋叩きにあっている件について解説します｜ルート",
+    "link": "https://note.com/ruto_map/n/nf60e07441198",
+    "date": "2024-10-13T11:06:34.000Z"
+  },
+  {
+    "title": "ローソン、ファミマが増益　セブン苦戦で明暗―８月中間決算：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2024101101131&g=eco",
+    "date": "2024-10-13T11:05:53.000Z"
+  },
+  {
+    "title": "GitHub - Stengo/DeskPad: A virtual monitor for screen sharing",
+    "link": "https://github.com/Stengo/DeskPad",
+    "date": "2024-10-13T11:05:37.000Z"
+  },
+  {
+    "title": "ガザで4000人の子供が手足切断　イスラエルが使った「特殊兵器」 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20241012/k00/00m/030/113000c",
+    "date": "2024-10-13T11:05:16.000Z"
+  },
+  {
+    "title": "GitHub - yuiseki/study-duckdb-wasm-spatial: Example code for DuckDB-Wasm + DuckDB-Spatial with react-map-gl",
+    "link": "https://github.com/yuiseki/study-duckdb-wasm-spatial",
+    "date": "2024-10-13T10:46:28.000Z"
+  },
+  {
+    "title": "DuckDB-Wasm + DuckDB-Spatial with Vite.js, React, react-map-gl, maplibre-gl",
+    "link": "https://yuiseki.github.io/study-duckdb-wasm-spatial/",
+    "date": "2024-10-13T10:46:12.000Z"
+  },
+  {
+    "title": "DuckDB-Wasm + DuckDB-Spatial = Webブラウザ上で完結する地理空間情報分析",
+    "link": "https://zenn.dev/yuiseki/articles/d89aaba0eb80c6",
+    "date": "2024-10-13T10:28:08.000Z"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://webcontainers.io/guides/introduction",
+    "date": "2024-10-13T08:58:34.000Z"
+  },
+  {
+    "title": "R-tree - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/R-tree",
+    "date": "2024-10-13T03:45:02.000Z"
+  },
+  {
+    "title": "R木 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/R%E6%9C%A8",
+    "date": "2024-10-13T03:44:52.000Z"
+  },
+  {
+    "title": "MySQLのSpatial index(R-tree index)を使った地理的検索のパフォーマンス検証",
+    "link": "https://zenn.dev/reiwatravel/articles/5fa349847939ec",
+    "date": "2024-10-13T03:44:44.000Z"
+  },
+  {
+    "title": "空間インデックス(R-tree)入門 - たにしきんぐダム",
+    "link": "https://tanishiking24.hatenablog.com/entry/introduction_rtree_index",
+    "date": "2024-10-13T03:44:38.000Z"
+  },
+  {
+    "title": "R-Tree Indexes",
+    "link": "https://duckdb.org/docs/extensions/spatial/r-tree_indexes.html",
+    "date": "2024-10-13T03:44:28.000Z"
+  },
+  {
+    "title": "Working Groups",
+    "link": "https://www2.isprs.org/commissions/comm4/wgs/",
+    "date": "2024-10-13T03:28:22.000Z"
+  },
+  {
+    "title": "ウェブの表情を変える - W3C Web Fonts Working GroupとMPEGがテクノロジー＆エンジニアリング・エミー賞を受賞",
+    "link": "https://www.w3.org/ja/press-releases/2022/woff-emmyaward/",
+    "date": "2024-10-13T02:58:18.000Z"
+  },
+  {
+    "title": "BIZ UDGothic - Google Fonts",
+    "link": "https://fonts.google.com/specimen/BIZ+UDGothic",
+    "date": "2024-10-13T02:51:03.000Z"
+  },
+  {
+    "title": "Cloud-Native Geospatial Forum - CNG",
+    "link": "https://cloudnativegeo.org/",
+    "date": "2024-10-13T02:50:46.000Z"
+  },
+  {
+    "title": "About CNG",
+    "link": "https://cloudnativegeo.org/about/",
+    "date": "2024-10-13T02:50:42.000Z"
+  },
+  {
+    "title": "StackBlitz on X: \"What if AI dev products (Claude, v0, etc) let you install packages, run backends &amp; edit code? Introducing https://t.co/XXroNZNn7H, by StackBlitz: - Prompt, edit, run &amp; deploy fullstack apps - Full dev env (npm, Vite, Next.js, …)",
+    "link": "https://x.com/stackblitz/status/1841873251313844631",
+    "date": "2024-10-13T02:44:24.000Z"
+  },
+  {
+    "title": "GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ",
+    "link": "https://github.blog/jp/2024-04-30-github-copilot-workspace/",
+    "date": "2024-10-13T02:36:51.000Z"
+  },
+  {
+    "title": "現場から学ぶMLOps: MonotaROでの実践的アプローチ～オンライン推論編～ - MonotaRO Tech Blog",
+    "link": "https://tech-blog.monotaro.com/entry/2024/10/10/090000",
+    "date": "2024-10-13T00:57:58.000Z"
+  },
+  {
+    "title": "Steamにて、「あなたが買うのはゲームソフト自体ではなくプレイ権」と明示されるように。永続所有じゃないと「買う」と書いちゃいけない米州法への対策か - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/steam-20241012-314220/",
+    "date": "2024-10-13T00:56:23.000Z"
+  },
+  {
+    "title": "Liquid AI、トランスフォーマーとは別の次世代AI基盤モデル「Liquid Foundation Models」発表 | Ledge.ai",
+    "link": "https://ledge.ai/articles/liquid_ai_lfms",
+    "date": "2024-10-12T23:56:24.000Z"
+  }
+]

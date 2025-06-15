@@ -1,0 +1,697 @@
+[
+  {
+    "title": "ViteのTemplateリポジトリを作り込んだらawesome-viteに掲載してもらった！",
+    "link": "https://zenn.dev/meijin/articles/awesome-vite",
+    "date": "2021-12-30T07:25:59.000Z"
+  },
+  {
+    "title": "GitHub - TeXmeijin/vite-react-ts-tailwind-firebase-starter: Starter using Vite + React + TypeScript + Tailwind CSS. And already set up Firebase(v9), Prettier and ESLint.",
+    "link": "https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter",
+    "date": "2021-12-30T07:24:51.000Z"
+  },
+  {
+    "title": "bash スクリプトの実行中上書き動作について",
+    "link": "https://zenn.dev/mattn/articles/5af86b61004bdc",
+    "date": "2021-12-30T00:51:41.000Z"
+  },
+  {
+    "title": "シェル芸bot on Twitter: \"1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 Fiz… https://t.co/MkzXHPY1PA\"",
+    "link": "https://twitter.com/minyoruminyon/status/1117436811364556801",
+    "date": "2021-12-30T00:51:08.000Z"
+  },
+  {
+    "title": "PWAをNativeAppだと錯覚させる",
+    "link": "https://zenn.dev/kaa_a_zu/articles/701efdbb4a7a49",
+    "date": "2021-12-30T00:49:58.000Z"
+  },
+  {
+    "title": "Web3.0に向けて、Stake Technologies渡辺氏が「日本人として」志すこと 〜WFFJ2021 Report1 | LoveTechMedia - ラブテックメディア",
+    "link": "https://lovetech-media.com/eventreport/20211112_wffj2021_1/",
+    "date": "2021-12-30T00:49:53.000Z"
+  },
+  {
+    "title": "Cloud Functions上でheadress-chromeをPythonで動かす",
+    "link": "https://zenn.dev/kenghaya/articles/bad86052e475e8",
+    "date": "2021-12-30T00:39:37.000Z"
+  },
+  {
+    "title": "PCのUSBに挿してBASICプログラミングできるワンボードコンピュータ「GIGA IchigoDake」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1377046.html",
+    "date": "2021-12-30T00:39:06.000Z"
+  },
+  {
+    "title": "カリフォルニア州が「数学の才能がある生徒」という概念を否定するようになった理由 | 数学にも“お目覚め文化”の波？",
+    "link": "https://courrier.jp/news/archives/268338/",
+    "date": "2021-12-30T00:39:00.000Z"
+  },
+  {
+    "title": "Nodejsで使用するredis clientは何がベターなのかを調査する",
+    "link": "https://zenn.dev/kikikaikaikai/articles/bc474f431e65aa",
+    "date": "2021-12-30T00:37:43.000Z"
+  },
+  {
+    "title": "GitHub - redis/ioredis: 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+    "link": "https://github.com/redis/ioredis",
+    "date": "2021-12-30T00:37:40.000Z"
+  },
+  {
+    "title": "手取り14万円　「うちって貧困なんだ」　母と子の家庭を支えるのは：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASPDS77M6PDSUTFL012.html",
+    "date": "2021-12-30T00:37:20.000Z"
+  },
+  {
+    "title": "TechCrunch",
+    "link": "https://jp.techcrunch.com/2021/12/25/2021-12-14-in-the-age-of-remote-work-opal-offers-a-glimpse-at-the-future-of-webcams/",
+    "date": "2021-12-30T00:36:14.000Z"
+  },
+  {
+    "title": "Googleの画像検索APIを使って画像を大量に収集する - Qiita",
+    "link": "https://qiita.com/ysdyt/items/02a9e6b4e70f26385abc",
+    "date": "2021-12-30T00:36:00.000Z"
+  },
+  {
+    "title": "TikTok書評騒ぎから「いつも大人が喧嘩ばかりしている謎のSNS」について検証する（にゃるら）",
+    "link": "https://gendai.media/articles/-/90821",
+    "date": "2021-12-30T00:35:55.000Z"
+  },
+  {
+    "title": "English Community-Lenovo Community",
+    "link": "https://forums.lenovo.com/t5/ThinkStation-Workstations/P330-tiny-thunderbolt3-card/m-p/5006056",
+    "date": "2021-12-30T00:07:59.000Z"
+  },
+  {
+    "title": "住宅購入のお金のこと。賃貸とどっちが得？｜ヒロニカ",
+    "link": "https://note.com/hironica/n/n1cf92fec5123",
+    "date": "2021-12-30T00:07:35.000Z"
+  },
+  {
+    "title": "賃貸と持ち家 - 半空洞男女関係",
+    "link": "https://mactkg.hateblo.jp/entry/2021/12/26/191136",
+    "date": "2021-12-30T00:06:51.000Z"
+  },
+  {
+    "title": "ThinkStation P330 tinyをヤフオクで買ったメモ m720q tinyとの違い",
+    "link": "http://banzuiin.sblo.jp/article/189025528.html",
+    "date": "2021-12-30T00:06:19.000Z"
+  },
+  {
+    "title": "ThinkStation P330 tinyはどうか? ディスクリートGPU搭載の小型PC",
+    "link": "http://banzuiin.sblo.jp/article/187953932.html",
+    "date": "2021-12-30T00:04:45.000Z"
+  },
+  {
+    "title": "GitHub - kasattejaswi/nodejs-proxy-server: A simple proxy server using net and stream modules",
+    "link": "https://github.com/kasattejaswi/nodejs-proxy-server",
+    "date": "2021-12-30T00:04:24.000Z"
+  },
+  {
+    "title": "GitHub - AudiusProject/web3-provider-proxy: 🌍 Proxying and caching web3 requests with Cloudflare workers",
+    "link": "https://github.com/AudiusProject/web3-provider-proxy",
+    "date": "2021-12-30T00:04:23.000Z"
+  },
+  {
+    "title": "オレ的EXPLAIN技を語っちゃうゾ - Qiita",
+    "link": "https://qiita.com/Kosuke_Kida/items/70e69764774b9730d088",
+    "date": "2021-12-30T00:03:43.000Z"
+  },
+  {
+    "title": "ブロックチェーンの本質を簡単に | のぶめい 🇹🇴PlayAsset",
+    "link": "https://hide.ac/articles/nHlFhFijv",
+    "date": "2021-12-30T00:03:36.000Z"
+  },
+  {
+    "title": "「トイレに行きたくなるので講義中の途中退室を許可してください」と頼まれたので許可を公言したところパニック障害や感覚過敏の配慮にもなった",
+    "link": "https://togetter.com/li/1821653",
+    "date": "2021-12-30T00:03:24.000Z"
+  },
+  {
+    "title": "VRで性転換すると「同性NCPからの愛撫」も好意的に感じると判明！ - ナゾロジー",
+    "link": "https://nazology.net/archives/102305",
+    "date": "2021-12-30T00:03:22.000Z"
+  },
+  {
+    "title": "IKEAの商品CMにフェミニストが激怒し炎上「女性が跪いて給仕している」「妻が召使いや奴隷のよう」",
+    "link": "https://togetter.com/li/1821518",
+    "date": "2021-12-30T00:02:59.000Z"
+  },
+  {
+    "title": "Terraformのレビューを自動化するために、Conftestを導入してGithub ActionsでCIまで設定してみる - nariのエンジニアリング備忘録",
+    "link": "https://fukubaka0825.hatenablog.com/entry/2021/12/25/175431",
+    "date": "2021-12-30T00:02:27.000Z"
+  },
+  {
+    "title": "女性の運転技術が低いのではない、自動車の規格が男性向きなのだ - さよならワンオペ育児？",
+    "link": "https://one-mam.hatenablog.com/entry/2021/12/26/170000",
+    "date": "2021-12-30T00:02:24.000Z"
+  },
+  {
+    "title": "面白かった本2021 - phaの日記",
+    "link": "https://pha.hateblo.jp/entry/2021/12/26/080000",
+    "date": "2021-12-30T00:02:02.000Z"
+  },
+  {
+    "title": "大事ではないことを大事だと錯覚した結果、オーバーエンジニアリングになる - @i2key のBlog",
+    "link": "https://i2key.hateblo.jp/entry/2021/12/25/101957",
+    "date": "2021-12-30T00:01:55.000Z"
+  },
+  {
+    "title": "映画『マトリックス』（1999年）はこうして作られた（撮影の裏側を解説） - ひたすら映画を観まくるブログ",
+    "link": "https://type-r.hatenablog.com/entry/20211226/matrix",
+    "date": "2021-12-30T00:01:45.000Z"
+  },
+  {
+    "title": "2021年に読んで良かった本16冊｜海猫沢めろん",
+    "link": "https://note.com/uminekozawa/n/n94b01ab739b4",
+    "date": "2021-12-30T00:01:34.000Z"
+  },
+  {
+    "title": "警視庁、フロッピーディスク2枚紛失　38人の個人情報入り | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20211227/k00/00m/040/078000c",
+    "date": "2021-12-30T00:01:31.000Z"
+  },
+  {
+    "title": "《女子高生誘拐死亡事件の真相》「薬でラリってて…」被害者と加害者が出会った“病んだ若者”が集まる「オーバードーズの会」の実態とは | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/50765",
+    "date": "2021-12-30T00:01:26.000Z"
+  },
+  {
+    "title": "司書体験アドベンチャー『市立カクレザ図書館』Steamにて配信予定。淡々と進む貸出業務と、積み重なる謎 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20211227-187196/",
+    "date": "2021-12-30T00:01:13.000Z"
+  },
+  {
+    "title": "IKKOさんが｢人間関係を楽にする｣ためにやめた事",
+    "link": "https://toyokeizai.net/articles/-/478057",
+    "date": "2021-12-30T00:01:10.000Z"
+  },
+  {
+    "title": "Node.js コアモジュールの import/require には `node` schemeがつけられる - from scratch",
+    "link": "https://yosuke-furukawa.hatenablog.com/entry/2021/12/27/003424",
+    "date": "2021-12-30T00:00:39.000Z"
+  },
+  {
+    "title": "for文のforはなぜforなのか? - yapattaのブログ",
+    "link": "https://yapatta.hatenablog.com/entry/2021/12/25/143104",
+    "date": "2021-12-30T00:00:35.000Z"
+  },
+  {
+    "title": "『二酸化炭素を減らすと部屋が寒い (冬なので) - 本しゃぶり』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/s/honeshabri.hatenablog.com/entry/CO2-mini",
+    "date": "2021-12-30T00:00:23.000Z"
+  },
+  {
+    "title": "Nota流！新しい働き方 | 株式会社Helpfeel",
+    "link": "https://corp.helpfeel.com/post/advent-calendar-2021-nota-new-workstyle",
+    "date": "2021-12-30T00:00:13.000Z"
+  },
+  {
+    "title": "『rss to json』 というサービスを使って RSS フィードを JSON として取得して表示してみよう",
+    "link": "https://zenn.dev/rabee/articles/js-fetch-rss-feed-as-json",
+    "date": "2021-12-30T00:00:10.000Z"
+  },
+  {
+    "title": "97％の精度で成功！「頭の中で考えていること」をAIが読み取る最新技術とそのリスク（紺野 大地,池谷 裕二）",
+    "link": "https://gendai.media/articles/-/90771",
+    "date": "2021-12-30T00:00:07.000Z"
+  },
+  {
+    "title": "GitHub - bcomnes/jsonfeed-to-rss: 📡Convert a jsonfeed to an RSS 2.0 feed with iTunes extensions",
+    "link": "https://github.com/bcomnes/jsonfeed-to-rss",
+    "date": "2021-12-30T00:00:01.000Z"
+  },
+  {
+    "title": "「ウォッチドッグス2」内の全裸画像をPSNでシェアしたユーザーがアカウント停止に…UbisoftはIGNに謝罪の意を表明",
+    "link": "https://jp.ign.com/watchdogs-2/9072/news/2psnubisoftign",
+    "date": "2021-12-29T23:59:46.000Z"
+  },
+  {
+    "title": "Ankerの合計120W出る4ポートUSB-C充電器。これってデスク用充電器の最適解では？",
+    "link": "https://www.gizmodo.jp/2021/12/anker-powerport-iii-120w-usb-c-charging-station.html",
+    "date": "2021-12-29T23:59:40.000Z"
+  },
+  {
+    "title": "GitHub - opensource-socialnetwork/opensource-socialnetwork: Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people",
+    "link": "https://github.com/opensource-socialnetwork/opensource-socialnetwork",
+    "date": "2021-12-29T23:59:34.000Z"
+  },
+  {
+    "title": "AppSheet Automation で自動化する方法 | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/products/no-code-development/automation-bots-with-appsheet-and-no-code",
+    "date": "2021-12-29T23:59:29.000Z"
+  },
+  {
+    "title": "BERTでの語彙追加~add_tokenに気をつけろ!~ - Retrieva TECH BLOG",
+    "link": "https://tech.retrieva.jp/entry/2021/12/27/110000",
+    "date": "2021-12-29T23:59:16.000Z"
+  },
+  {
+    "title": "R/rvestを使って、Google画像検索で画像サムネイルを取得して、機械学習・ディープラーニング用の4次元アレイデータに変換するTips - 京橋のバイオインフォマティシャンの日常",
+    "link": "https://skume.net/entry/2021/09/21/003238",
+    "date": "2021-12-29T23:59:09.000Z"
+  },
+  {
+    "title": "Ogp-parser NPM | npm.io",
+    "link": "https://npm.io/package/ogp-parser",
+    "date": "2021-12-29T23:59:02.000Z"
+  },
+  {
+    "title": "外部サイトのOGPを取得する",
+    "link": "https://zenn.dev/littleforest/articles/scrape-og-tags",
+    "date": "2021-12-29T23:59:00.000Z"
+  },
+  {
+    "title": "URLからOGPを抽出するサンプル (cheerio + Node.js) - syonx",
+    "link": "https://syonx.hatenablog.com/entry/2017/05/01/125145",
+    "date": "2021-12-29T23:58:56.000Z"
+  },
+  {
+    "title": "opencv4nodejsで画像ファイルから顔検出するメモ",
+    "link": "https://zenn.dev/tmitsuoka0423/articles/opencv4nodejs-face-detection",
+    "date": "2021-12-29T23:58:40.000Z"
+  },
+  {
+    "title": "【Python】OpenCVを超えたInsightFaceによる顔認識",
+    "link": "https://self-development.info/%E3%80%90python%E3%80%91opencv%E3%82%92%E8%B6%85%E3%81%88%E3%81%9Finsightface%E3%81%AB%E3%82%88%E3%82%8B%E9%A1%94%E8%AA%8D%E8%AD%98/",
+    "date": "2021-12-29T23:58:36.000Z"
+  },
+  {
+    "title": "理想の3人家族を「崩壊」させた、「3LDK」タワマンのヤバすぎる住環境（小島 拓） @moneygendai",
+    "link": "https://gendai.ismedia.jp/articles/-/90745",
+    "date": "2021-12-29T23:58:29.000Z"
+  },
+  {
+    "title": "顔を中心にしたサムネイルの自動生成 - Qiita",
+    "link": "https://qiita.com/higehiki/items/4a5478567da5e5680feb",
+    "date": "2021-12-29T23:58:21.000Z"
+  },
+  {
+    "title": "FaceAPIであっさり顔認識",
+    "link": "https://zenn.dev/sdkfz181tiger/articles/3b03385165d4f2",
+    "date": "2021-12-29T23:58:20.000Z"
+  },
+  {
+    "title": "画像認識プラットフォームAIZE API",
+    "link": "https://developer.aize.jp/",
+    "date": "2021-12-29T23:58:15.000Z"
+  },
+  {
+    "title": "face-api.jsによるJavaScript顔検出",
+    "link": "https://www.infoq.com/jp/news/2020/04/face-api-js/",
+    "date": "2021-12-29T23:58:09.000Z"
+  },
+  {
+    "title": "「バッテリー交換に260万円かかる」と言われたテスラ・モデルSのオーナーが30kgのダイナマイトで愛車を爆破",
+    "link": "https://gigazine.net/news/20211227-tesla-owner-explodes-model-s/",
+    "date": "2021-12-29T23:58:06.000Z"
+  },
+  {
+    "title": "JavaScriptでリアルタイムに顔認識して顔にモザイク風マスクをかぶせる／pico.js（３） - SE_BOKUのまとめノート的ブログ",
+    "link": "https://arakan-pgm-ai.hatenablog.com/entry/2021/03/15/000000",
+    "date": "2021-12-29T23:58:01.000Z"
+  },
+  {
+    "title": "自分だけのオリジナル地図画像作成ツール｜「Pixel Map Generator」 – STRAIGHT PERSON",
+    "link": "https://straight-person.com/web/pixel-map-generator",
+    "date": "2021-12-29T23:57:33.000Z"
+  },
+  {
+    "title": "ケンタッキーフライドチキン🍗 on Twitter: \"乗xxxっ取xxxりxxxテ....xxxxス...ト....中📱🟩\"",
+    "link": "https://twitter.com/KFC_jp/status/1475481611894665222",
+    "date": "2021-12-29T23:56:48.000Z"
+  },
+  {
+    "title": "Typescript製のオープンソースなヘッドレスCMS・「Burdy」",
+    "link": "http://kachibito.net/useful-resource/burdy",
+    "date": "2021-12-29T23:54:29.000Z"
+  },
+  {
+    "title": "パフォーマンスを重視した高速表示の静的サイトジェネレーター・「PRPL」",
+    "link": "http://kachibito.net/useful-resource/prpl",
+    "date": "2021-12-29T23:54:27.000Z"
+  },
+  {
+    "title": "各OS、Web、モバイルなど様々な環境に対応したセキュリティ重視のオープンソースのノートアプリ・「Standard Notes」",
+    "link": "http://kachibito.net/useful-resource/standard-notes",
+    "date": "2021-12-29T23:54:18.000Z"
+  },
+  {
+    "title": "GitHub - segfall/static-wiki: Wikipedia using only static assets & no backend",
+    "link": "https://github.com/segfall/static-wiki",
+    "date": "2021-12-29T23:54:12.000Z"
+  },
+  {
+    "title": "個人向けに開発されたオープンソースのプロジェクト管理ツール・「Condution」",
+    "link": "http://kachibito.net/useful-resource/condution",
+    "date": "2021-12-29T23:54:03.000Z"
+  },
+  {
+    "title": "設定が一切不要でページロード中にプログレスバーを自動で実装してくれるスクリプト・「pace.js」",
+    "link": "http://kachibito.net/useful-resource/pace-js",
+    "date": "2021-12-29T23:53:59.000Z"
+  },
+  {
+    "title": "ADATA、最大1TB SSD内蔵のゲーミングマウス",
+    "link": "https://pc.watch.impress.co.jp/docs/news/1377367.html",
+    "date": "2021-12-29T23:53:03.000Z"
+  },
+  {
+    "title": "「治療する必要のないがんもある」 NATROM先生に聞く、がん検診の副作用と過剰診断の不利益 - CancerWith Blog",
+    "link": "https://cancerwith.com/blog/entry/interview-natrom-overdiagnosis",
+    "date": "2021-12-29T23:52:55.000Z"
+  },
+  {
+    "title": "ヒット作が出ないまま10年間個人アプリ開発を続けたエンジニアの末路｜dancingpandor",
+    "link": "https://note.com/dancingpandor/n/n28fbc6ffc4a5",
+    "date": "2021-12-29T23:52:46.000Z"
+  },
+  {
+    "title": "Engadget | Technology News & Reviews",
+    "link": "https://japanese.engadget.com/twitter-freeze-problem-074559959.html?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAF2huiwObVg-XVhyoRWstJ0pUHDNgOVjo8RNuGQoKMlzuzzVZoeghfalbUoSl0Ikq0W2vovOv8a8urSLlTjfdXdl09F1logWLaXWtXHDoAx5ZSYmFUOomsVIrn1-jQGWz5pq8zw7uh3r7pkhCBBMTFpEuqxyZWLvIkzXfXDMx_1E",
+    "date": "2021-12-29T23:52:43.000Z"
+  },
+  {
+    "title": "【特集】 注目の「小型PC」5機種を一斉比較！サイズ感・性能・消費電力など知りたい特長が丸分かり",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1377378.html",
+    "date": "2021-12-29T23:52:23.000Z"
+  },
+  {
+    "title": "mRNAワクチンを接種した人全員に読んでもらいたい、ワクチン開発の奮闘を描き出す一気読み必至のノンフィクション──『mRNAワクチンの衝撃　コロナ制圧と医療の未来』 - 基本読書",
+    "link": "https://huyukiitoichi.hatenadiary.jp/entry/2021/12/27/080000",
+    "date": "2021-12-29T23:52:04.000Z"
+  },
+  {
+    "title": "「テレビゲーム総選挙」第1位の座に『ゼルダの伝説 ブレス オブ ザ ワイルド』が輝く。国民5万人以上がガチ投票で決定したもっとも好きなゲームに",
+    "link": "https://news.denfaminicogamer.jp/news/211227z",
+    "date": "2021-12-29T23:51:59.000Z"
+  },
+  {
+    "title": "あなたは「SOGs（持続可能なオタク目標）」を守れてる？　SDGsのオタク版がTwitterで盛り上がる　「社会生活と両立させよう」「推しは推せるうちに推そう」（ねとらぼ） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/643c29c89159ece810251f3a7ee92d9b66b9b976",
+    "date": "2021-12-29T23:51:43.000Z"
+  },
+  {
+    "title": "「ファイザーワクチン」誕生秘録は、疾走感あふれる奇跡のサクセスストーリーだ！『mRNAワクチンの衝撃: コロナ制圧と医療の未来』 - HONZ",
+    "link": "https://honz.jp/articles/-/50553",
+    "date": "2021-12-29T23:51:38.000Z"
+  },
+  {
+    "title": "React で展開された HTML 要素から vscode の生成元コードに飛ぶ 方法",
+    "link": "https://zenn.dev/mizchi/articles/introduce-tsx-source-jump",
+    "date": "2021-12-29T23:51:26.000Z"
+  },
+  {
+    "title": "Hello, StarkNet — Cairo documentation",
+    "link": "https://www.cairo-lang.org/docs/hello_starknet/index.html",
+    "date": "2021-12-29T23:51:05.000Z"
+  },
+  {
+    "title": "StarkNet and Cairo Documentation — Cairo documentation",
+    "link": "https://www.cairo-lang.org/docs/",
+    "date": "2021-12-29T23:50:54.000Z"
+  },
+  {
+    "title": "Cairo Language",
+    "link": "https://www.cairo-lang.org/",
+    "date": "2021-12-29T23:50:16.000Z"
+  },
+  {
+    "title": "精子取引トラブルで訴訟「京大卒独身日本人と信じたのに…経歴全部ウソ」精子提供者を女性が提訴　全国初か：東京新聞 TOKYO Web",
+    "link": "https://www.tokyo-np.co.jp/article/151342",
+    "date": "2021-12-29T23:49:57.000Z"
+  },
+  {
+    "title": "オープンデータ | 政府CIOポータル",
+    "link": "https://cio.go.jp/policy-opendata",
+    "date": "2021-12-29T23:48:35.000Z"
+  },
+  {
+    "title": "Functions FrameworkでTypeScriptを使いつつCloud Functionsにデプロイする - Qiita",
+    "link": "https://qiita.com/mokichi/items/c2dd9db3d093dbbdc1be",
+    "date": "2021-12-29T23:47:53.000Z"
+  },
+  {
+    "title": "Functions Framework +α でサーバーレス開発環境を整える",
+    "link": "https://zenn.dev/taxin/articles/function-framework-ts-101",
+    "date": "2021-12-29T23:47:49.000Z"
+  },
+  {
+    "title": "express.jsアプリをFirebase Functionsにデプロイする",
+    "link": "https://laptrinhx.com/express-jsapuriwofirebase-functionsnidepuroisuru-2222474394/",
+    "date": "2021-12-29T23:47:44.000Z"
+  },
+  {
+    "title": "elasticdump",
+    "link": "https://www.npmjs.com/package/elasticdump",
+    "date": "2021-12-29T23:47:34.000Z"
+  },
+  {
+    "title": "wikibase-dump-filter",
+    "link": "https://www.npmjs.com/package/wikibase-dump-filter",
+    "date": "2021-12-29T23:47:28.000Z"
+  },
+  {
+    "title": "Wikidataで遊んでみた その1 – C#でWikidataからのデータ取得 | 株式会社クローバーフィールド",
+    "link": "https://www.cloverfield.co.jp/2020/07/18/wikidata%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F-%E3%81%9D%E3%81%AE1/",
+    "date": "2021-12-29T23:47:03.000Z"
+  },
+  {
+    "title": "GitHub - zthxxx/react-dev-inspector: jump to local IDE code directly from browser React component by just a simple click",
+    "link": "https://github.com/zthxxx/react-dev-inspector",
+    "date": "2021-12-29T23:46:58.000Z"
+  },
+  {
+    "title": "ゲーム作りをパターン化して1年で139個のミニゲームを作る - ABAの日誌",
+    "link": "https://aba.hatenablog.com/entry/2021/12/28/192244",
+    "date": "2021-12-29T23:46:47.000Z"
+  },
+  {
+    "title": "GitHub - fuzzuf/fuzzuf: Fuzzing Unification Framework",
+    "link": "https://github.com/fuzzuf/fuzzuf",
+    "date": "2021-12-29T23:46:41.000Z"
+  },
+  {
+    "title": "Ryzen ProのAMD Pro機能を一部試す | てくてくテック",
+    "link": "https://tek2tech.com/amc-for-ryzen-pro/",
+    "date": "2021-12-29T23:46:31.000Z"
+  },
+  {
+    "title": "irucabot",
+    "link": "https://irucabot.com/",
+    "date": "2021-12-29T23:42:10.000Z"
+  },
+  {
+    "title": "GitHub - kawamataryo/github-trending-bot: A Twitter bot to tweet trending repositories from GitHub.",
+    "link": "https://github.com/kawamataryo/github-trending-bot",
+    "date": "2021-12-29T23:41:19.000Z"
+  },
+  {
+    "title": "GitHub Trendingを定期的につぶやくTwitter BotをFirebaseで作ってみた",
+    "link": "https://zenn.dev/ryo_kawamata/articles/github-trending-bot",
+    "date": "2021-12-29T23:40:50.000Z"
+  },
+  {
+    "title": "「これは広告です」老舗町工場が正直すぎるSNS広告で売り上げ3倍",
+    "link": "https://xtrend.nikkei.com/atcl/contents/18/00562/00004/",
+    "date": "2021-12-29T23:40:08.000Z"
+  },
+  {
+    "title": "ファストコンテンツって、悪いのか？ ～「良い要約」と「悪い要約」を考えてみる～　福井健策｜コラム | 骨董通り法律事務所 For the Arts",
+    "link": "https://www.kottolaw.com/column/211227.html",
+    "date": "2021-12-29T23:39:43.000Z"
+  },
+  {
+    "title": "NFTっぽくメッセージをお届けできるウェブサイト「nftgift.info」",
+    "link": "https://gigazine.net/news/20211229-nftgift-info/",
+    "date": "2021-12-29T23:39:04.000Z"
+  },
+  {
+    "title": "GitHub - xdevplatform/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints",
+    "link": "https://github.com/xdevplatform/Twitter-API-v2-sample-code",
+    "date": "2021-12-29T23:38:56.000Z"
+  },
+  {
+    "title": "来年の予想と炎上忌避の空気 - 水城正太郎の道楽生活",
+    "link": "https://s-mizuki.hatenablog.com/entry/2021/12/28/112306",
+    "date": "2021-12-29T23:31:11.000Z"
+  },
+  {
+    "title": "半角スペースの有無だけでサーバーをぶっ壊しそうになった話 - Qiita",
+    "link": "https://qiita.com/coatly/items/e49c0c3cf63da306404b",
+    "date": "2021-12-29T23:30:48.000Z"
+  },
+  {
+    "title": "Cloud Spanner での Active Record のサポートによる Ruby アプリケーションのスケーリング | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/scale-your-ruby-applications-active-record-support-cloud-spanner",
+    "date": "2021-12-29T23:30:21.000Z"
+  },
+  {
+    "title": "SQLAlchemy 向け Google Cloud Spanner 言語 | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-spanner-dialect-sqlalchemy",
+    "date": "2021-12-29T23:30:09.000Z"
+  },
+  {
+    "title": "arm Mac と向き合う Web アプリケーション開発環境 - Diary",
+    "link": "https://diary.ssig33.com/posts/531/",
+    "date": "2021-12-29T23:29:43.000Z"
+  },
+  {
+    "title": "最新版Log4j 2.17.1ではCVE-2021-44832のリモートコード実行が修正されています - Qiita",
+    "link": "https://qiita.com/SnykSec/items/96cf51a9f5dd52d429eb",
+    "date": "2021-12-29T23:29:22.000Z"
+  },
+  {
+    "title": "猫は塩素に「マタタビのような反応」「絶対に近づけないで」　カビ取りなど洗浄剤使う際は「換気と隔離を」、獣医師が注意喚起（2021年7月9日）｜BIGLOBEニュース",
+    "link": "https://news.biglobe.ne.jp/animal/0709/blnews_210709_8391753886.html",
+    "date": "2021-12-29T23:29:00.000Z"
+  },
+  {
+    "title": "どうしても読みたい本を読むために10万円ほど使った - 山下泰平の趣味の方法",
+    "link": "https://cocolog-nifty.hatenablog.com/entry/2021/12/29/122400",
+    "date": "2021-12-29T23:28:50.000Z"
+  },
+  {
+    "title": "Tumblrが一見無害な「提出」「悲しい」といったタグをブラックリストに入れた理由とは？",
+    "link": "https://gigazine.net/news/20211229-app-store-review-process/",
+    "date": "2021-12-29T23:27:22.000Z"
+  },
+  {
+    "title": "GitHub - Aslemammad/vite-plugin-cloudflare: 🔥 Easier and better experience writing Cloudflare workers in Vite",
+    "link": "https://github.com/Aslemammad/vite-plugin-cloudflare",
+    "date": "2021-12-29T23:26:43.000Z"
+  },
+  {
+    "title": "Rust + wasmでJS向けの形態素解析ライブラリを作ってnpmで公開する",
+    "link": "https://zenn.dev/higumachan/articles/a42f1ee50bbb8d",
+    "date": "2021-12-29T23:20:31.000Z"
+  },
+  {
+    "title": "何故トランスフォーブとの対話は不可能なのか？ - 鴉の爪",
+    "link": "https://crowclaw-2.hatenadiary.org/entry/2021/10/18/183055",
+    "date": "2021-12-29T23:20:26.000Z"
+  },
+  {
+    "title": "twitterアカウント@yanmaが乗っ取られた(解決編) - yanma",
+    "link": "https://scrapbox.io/yanma/twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88@yanma%E3%81%8C%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%89%E3%82%8C%E3%81%9F(%E8%A7%A3%E6%B1%BA%E7%B7%A8)",
+    "date": "2021-12-29T23:20:16.000Z"
+  },
+  {
+    "title": "フランス、２４時間で２０万８０００人感染…オミクロン株が急速拡大",
+    "link": "https://www.yomiuri.co.jp/world/20211229-OYT1T50098/",
+    "date": "2021-12-29T23:18:06.000Z"
+  },
+  {
+    "title": "あなたの「コロナ予算」かかった費用77兆円の使い道をデータで検証 - NHK",
+    "link": "https://www3.nhk.or.jp/news/special/covid19-money/",
+    "date": "2021-12-29T23:17:28.000Z"
+  },
+  {
+    "title": "｢自分がなんで…｣　白金高輪“硫酸”事件 顔に残る傷跡 被害者が語る“恐怖”と“謎”",
+    "link": "https://www.fnn.jp/articles/-/291352",
+    "date": "2021-12-29T23:17:03.000Z"
+  },
+  {
+    "title": "マイナンバーカードがないと使えない…｢ワクチン接種証明書アプリ｣が不便すぎる根本原因 デジタル庁の\"初仕事\"のはずが…",
+    "link": "https://president.jp/articles/-/53320",
+    "date": "2021-12-29T23:16:44.000Z"
+  },
+  {
+    "title": "スクリーンショットによるツイート引用は著作権侵害との判決（追記：知財高裁で覆りました）（栗原潔） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/32e87895ec012acf65912067314f445c1a32829d",
+    "date": "2021-12-29T23:13:08.000Z"
+  },
+  {
+    "title": "｢成果主義ではみんなやる気を失ってしまう｣稲盛和夫がそう考えるようになった納得の理由 頑張りの評価は数字だけではない",
+    "link": "https://president.jp/articles/-/53143",
+    "date": "2021-12-29T23:13:01.000Z"
+  },
+  {
+    "title": "学校でのいじめ厳罰化へ　自殺なら禁錮１０年―仏：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2021122900170&g=int",
+    "date": "2021-12-29T23:12:53.000Z"
+  },
+  {
+    "title": "技術者としての強みを探すヒント - Qiita",
+    "link": "https://qiita.com/hnw/items/2c833734f26b5d377543",
+    "date": "2021-12-29T23:12:51.000Z"
+  },
+  {
+    "title": "児童ポルノの被害者だけど萌えキャラのポスターが児童ポルノだとはどうしても思えない",
+    "link": "https://anond.hatelabo.jp/20211229152345",
+    "date": "2021-12-29T23:11:52.000Z"
+  },
+  {
+    "title": "日本円の力、半世紀前の水準まで弱体化　急激な円安で暮らしに影響も：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASPDW632JPDQULFA034.html",
+    "date": "2021-12-29T23:11:11.000Z"
+  },
+  {
+    "title": "グロースの逆説 : メルカリで分析とサービスグロースをやる前に知りたかったこと｜樫田光 | Hikaru Kashida",
+    "link": "https://note.com/hik0107/n/n91e296a409a9",
+    "date": "2021-12-29T23:10:52.000Z"
+  },
+  {
+    "title": "【速報】日本人、月面へ　2020年代後半に　岸田首相が表明（TBS系（JNN）） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/ee25d60aa3c409c9e10d314ca239518f792e4893",
+    "date": "2021-12-29T23:10:42.000Z"
+  },
+  {
+    "title": "コンサル出身の市長が自治体運営にマーケティング視点を取り入れた結果、人口増加率日本一になった流山市が話題に",
+    "link": "https://togetter.com/li/1822227",
+    "date": "2021-12-29T23:10:37.000Z"
+  },
+  {
+    "title": "楽天銀行と楽天証券のマネーブリッジ、優遇金利を0.04%に縮小",
+    "link": "https://www.itmedia.co.jp/business/articles/2112/29/news036.html",
+    "date": "2021-12-29T23:09:54.000Z"
+  },
+  {
+    "title": "投資信託の解約を申し出たら…「口座がない」　銀行支店長2億円流用　複数店で被害 | 沖縄タイムス＋プラス",
+    "link": "https://www.okinawatimes.co.jp/articles/-/886475",
+    "date": "2021-12-29T23:09:46.000Z"
+  },
+  {
+    "title": "ここ3年分くらいのニトリのおバズり商品振り返り",
+    "link": "https://togetter.com/li/1822780",
+    "date": "2021-12-29T23:09:37.000Z"
+  },
+  {
+    "title": "「Web3.0はVCの所有物」元Twitter CEOジャック・ドーシー氏が現状のWeb3.0を痛烈に批判【5分でわかるブロックチェーン講座】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/blockchaincourse/1377489.html",
+    "date": "2021-12-29T23:09:30.000Z"
+  },
+  {
+    "title": "Quest 2売れすぎ！ 専用アプリが海外のApp Storeで堂々たるNo.1になる",
+    "link": "https://www.gizmodo.jp/2021/12/quest-2.html",
+    "date": "2021-12-29T23:09:11.000Z"
+  },
+  {
+    "title": "シャオミ、フラッグシップスマホ「Xiaomi 12/12 Pro」発表",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/1377971.html",
+    "date": "2021-12-29T23:09:09.000Z"
+  },
+  {
+    "title": "Staff EngineerとSenior Engineerの違いを知る「Staff Engineer」 - stanaka's blog",
+    "link": "https://blog.stanaka.org/entry/2021/12/28/164804",
+    "date": "2021-12-29T23:08:20.000Z"
+  },
+  {
+    "title": "「Apache Log4j」にまたRCE脆弱性 ～修正版のv2.17.1などが公開／深刻度は「Moderate」",
+    "link": "https://forest.watch.impress.co.jp/docs/news/1377994.html",
+    "date": "2021-12-29T23:08:12.000Z"
+  },
+  {
+    "title": "「Log4j」2.17.0にもリモートコード実行の脆弱性　修正バージョン公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2112/29/news060.html",
+    "date": "2021-12-29T23:08:10.000Z"
+  },
+  {
+    "title": "京大スパコンのデータ77TBが消失　バックアップ処理中に不具合　日本ヒューレット・パッカード「100％弊社の責任」",
+    "link": "https://www.itmedia.co.jp/news/articles/2112/29/news040.html",
+    "date": "2021-12-29T23:08:06.000Z"
+  },
+  {
+    "title": "Docker のキャッシュを全力で使いこなそう",
+    "link": "https://zenn.dev/kou64yama/articles/powerful-docker-build-cache",
+    "date": "2021-12-29T23:07:46.000Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "QA Generation — 🦜🔗 LangChain 0.0.157",
+    "link": "https://python.langchain.com/en/latest/use_cases/evaluation/qa_generation.html",
+    "date": "2023-04-17T11:04:29.000Z"
+  },
+  {
+    "title": "LangChain の QAGenerationChain によるドキュメントからのQA生成を試す｜npaka",
+    "link": "https://note.com/npaka/n/ncf1dbb190caf",
+    "date": "2023-04-17T11:04:19.000Z"
+  },
+  {
+    "title": "医療保険情報取得API｜マイナポータル",
+    "link": "https://myna.go.jp/html/api/medicalexaminfo/index.html",
+    "date": "2023-04-17T08:53:07.000Z"
+  },
+  {
+    "title": "自己情報取得API｜マイナポータル",
+    "link": "https://myna.go.jp/html/api/selfinfo/index.html",
+    "date": "2023-04-17T08:52:23.000Z"
+  },
+  {
+    "title": "23/4/16 『ぼっち・ざ・ろっく』感想　何故ぼっちちゃんの髪はピンク色なのか？ - LWのサイゼリヤ",
+    "link": "https://saize-lw.hatenablog.com/entry/2023/04/16/190000",
+    "date": "2023-04-16T23:50:16.000Z"
+  },
+  {
+    "title": "容疑者が自作した手製の爆弾使ったか 首相演説先で爆発物 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20230417/k10014040581000.html",
+    "date": "2023-04-16T23:42:33.000Z"
+  },
+  {
+    "title": "【西川和久の不定期コラム】 MWCで発表された話題作が上陸間近！「Unihertz Luna」",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/1493600.html",
+    "date": "2023-04-16T23:39:55.000Z"
+  },
+  {
+    "title": "OpenAIのEvalsを利用してLLMの性能をテストする方法｜mah_lab / 西見 公宏",
+    "link": "https://note.com/mahlab/n/nc77cc910c1b6",
+    "date": "2023-04-16T23:38:19.000Z"
+  },
+  {
+    "title": "LlamaIndexとChatGPT APIを活用して書籍の全文要約を行う｜mah_lab / 西見 公宏",
+    "link": "https://note.com/mahlab/n/na949c267951e",
+    "date": "2023-04-16T23:36:46.000Z"
+  },
+  {
+    "title": "ChatGPT APIを利用してPDFからマークダウンテキストを生成する｜mah_lab / 西見 公宏",
+    "link": "https://note.com/mahlab/n/n9e371279e679",
+    "date": "2023-04-16T23:36:43.000Z"
+  },
+  {
+    "title": "𝕄𝕒𝕜𝕠 ℕ𝕒𝕜𝕒𝕞𝕦𝕣𝕒さんはTwitterを使っています: 「どうもー。その表記が貼られてる日本から輸入した食品が売られているカリフォルニア州民です。えっ？これアメリカの話でしょ？って？いえいえ、カリフォルニアの話なんですよ。画像拡大してよく見てください。California って見えますよね。リプ欄続きますから最後まで読みましょうね」 / Twitter",
+    "link": "https://twitter.com/Mak0Nakamura/status/1647418227985911809",
+    "date": "2023-04-16T23:29:16.000Z"
+  },
+  {
+    "title": "Windows 11 KB5025239でファイルエクスプローラーのクラッシュやSSDの速度低下、BSODなどさまざまな問題が発生 | ソフトアンテナ",
+    "link": "https://softantenna.com/blog/windows-11-kb5025239-major-issues/",
+    "date": "2023-04-16T23:22:05.000Z"
+  },
+  {
+    "title": "読み手を理解してより良いドキュメントを書こう / Write better documents by understanding your audience",
+    "link": "https://speakerdeck.com/line_developers/write-better-documents-by-understanding-your-audience",
+    "date": "2023-04-16T23:21:15.000Z"
+  },
+  {
+    "title": "「Auto-GPTとAgentGPTは別物です」という話",
+    "link": "https://zenn.dev/kecy/articles/7349a3969e2de6",
+    "date": "2023-04-16T23:05:03.000Z"
+  },
+  {
+    "title": "「Pulumi AI」発表。自然言語でAWS、Azure、Cloudflare、Kubernetes、Datadogなど130以上のインフラやサービスのInfra-as-Codeを自動生成",
+    "link": "https://www.publickey1.jp/blog/23/pulumipulumi_aiawsazurecloudflarekubernetesdatadog130infra-as-code.html",
+    "date": "2023-04-16T23:03:22.000Z"
+  },
+  {
+    "title": "OpenAI APIのファインチューニングの学習データのガイドライン｜npaka",
+    "link": "https://note.com/npaka/n/n021a59452dc8",
+    "date": "2023-04-16T23:03:12.000Z"
+  }
+]

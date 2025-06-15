@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Tesseract.js | Pure Javascript OCR for 100 Languages!",
+    "link": "https://tesseract.projectnaptha.com/",
+    "date": "2024-04-10T07:55:54.000Z"
+  },
+  {
+    "title": "大規模言語モデル（LLM）の評価指標まとめ",
+    "link": "https://zenn.dev/pakas/articles/80f797b0c3ae1e",
+    "date": "2024-04-10T04:24:29.000Z"
+  },
+  {
+    "title": "国内最高水準の日本語LLMモデル「ao-Karasu」を公開 | Lightblue",
+    "link": "https://www.lightblue-tech.com/2024/03/22/20240322_news/",
+    "date": "2024-04-10T04:24:23.000Z"
+  },
+  {
+    "title": "Japanese_MT-Bench_を使った_LLM_モデルの評価.pdf",
+    "link": "https://speakerdeck.com/olachinkei/japanese-mt-bench-woshi-tuta-llm-moterunoping-jia",
+    "date": "2024-04-10T04:24:11.000Z"
+  },
+  {
+    "title": "MT-Bench による日本語LLMの評価｜npaka",
+    "link": "https://note.com/npaka/n/n0530f6f9123f",
+    "date": "2024-04-10T04:23:58.000Z"
+  },
+  {
+    "title": "Yi Series Models License Agreement - work4ai",
+    "link": "https://scrapbox.io/work4ai/Yi_Series_Models_License_Agreement",
+    "date": "2024-04-10T03:16:43.000Z"
+  },
+  {
+    "title": "Tongyi Qianwen LICENSE - work4ai",
+    "link": "https://scrapbox.io/work4ai/Tongyi_Qianwen_LICENSE",
+    "date": "2024-04-10T03:12:54.000Z"
+  },
+  {
+    "title": "大規模言語モデルにおける混合エキスパートモデルの一種 Branch-Train-Merge (BTM)の勉強｜Kan Hatakeyama",
+    "link": "https://note.com/kan_hatakeyama/n/nc17c36183915",
+    "date": "2024-04-10T02:29:26.000Z"
+  },
+  {
+    "title": "Google Colab で trlX による大規模言語モデルのファインチューニングを試す｜npaka",
+    "link": "https://note.com/npaka/n/n138952d15312",
+    "date": "2024-04-10T02:13:20.000Z"
+  },
+  {
+    "title": "Google Colab + trlx で OpenCALM のRLHFファインチューニングを練習する｜npaka",
+    "link": "https://note.com/npaka/n/nb8034942b642",
+    "date": "2024-04-10T02:12:43.000Z"
+  },
+  {
+    "title": "Raspberry Pi Desktop for PC and Mac – Raspberry Pi",
+    "link": "https://www.raspberrypi.com/software/raspberry-pi-desktop/",
+    "date": "2024-04-10T00:58:01.000Z"
+  },
+  {
+    "title": "Ruby Parser開発日誌 (1) - かねこにっき",
+    "link": "https://yui-knk.hatenablog.com/entry/2022/12/11/154502",
+    "date": "2024-04-09T23:17:02.000Z"
+  },
+  {
+    "title": "AIの登場で人間の囲碁のレベルが劇的に向上していることが明らかに、囲碁以外の分野でもAIが頭打ちになった分野に成長をもたらす可能性",
+    "link": "https://gigazine.net/news/20240409-ai-go-human-level/",
+    "date": "2024-04-09T23:16:27.000Z"
+  },
+  {
+    "title": "OpenAIのライバル:Cohereが最高にイケている件 - Qiita",
+    "link": "https://qiita.com/sergicalsix/items/d5c7a0a420a213309bfc",
+    "date": "2024-04-09T23:15:38.000Z"
+  },
+  {
+    "title": "「日本人」は定義できない　多数派が抱く「純ジャパ幻想」の抑圧性：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASS483JM7S48UPQJ00TM.html",
+    "date": "2024-04-09T23:15:32.000Z"
+  },
+  {
+    "title": "GitHub - Filimoa/open-parse: Improved file parsing for LLM’s",
+    "link": "https://github.com/Filimoa/open-parse",
+    "date": "2024-04-09T23:12:06.000Z"
+  },
+  {
+    "title": "「松本人志」が紳助から教わらなかった「引き際」 「芸人の所作」を習わなかった「一期生」の末路 | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/80361",
+    "date": "2024-04-09T15:26:39.000Z"
+  },
+  {
+    "title": "高評価インディーゲーム開発者いわく、「Xbox Game Passなどのサブスクサービスは“命綱”」。マイナーでも遊んでもらえるし、契約金ももらえる - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20240409-289130/",
+    "date": "2024-04-09T15:23:14.000Z"
+  },
+  {
+    "title": "東芝の株主代表訴訟、相次ぎ「打ち切り」　弁護士が嘆く法律の「穴」：朝日新聞デジタル",
+    "link": "https://www.asahi.com/articles/ASS451D79S45UTIL02FM.html",
+    "date": "2024-04-09T15:23:00.000Z"
+  },
+  {
+    "title": "［速報］Google、同社初の独自Armプロセッサ「Google Axion」発表。x86ベースの仮想マシンより50％高速と。Google Cloud Next '24",
+    "link": "https://www.publickey1.jp/blog/24/googlearmgoogle_axionx8650google_cloud_next_24.html",
+    "date": "2024-04-09T15:22:27.000Z"
+  },
+  {
+    "title": "それでもサプリメントを飲みたい - 闇医者Blog",
+    "link": "https://yamiishasan.hatenablog.com/entry/2024/04/09/204529",
+    "date": "2024-04-09T15:22:16.000Z"
+  },
+  {
+    "title": "紅麹問題 “摂取やめると症状改善の傾向” 日本腎臓学会の分析 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20240409/k10014417181000.html",
+    "date": "2024-04-09T15:22:09.000Z"
+  },
+  {
+    "title": "「紅麹コレステヘルプに関連した腎障害に関する調査研究」アンケート調査（中間報告）-医療従事者のみなさまへ-一般社団法人 日本腎臓学会｜Japanese Society of Nephrology",
+    "link": "https://jsn.or.jp/medic/newstopics/formember/post-557.php",
+    "date": "2024-04-09T15:22:05.000Z"
+  },
+  {
+    "title": "「露骨な組合員切り」長崎・アマゾン配達員、契約解除　真面目に働いてきたのに…（長崎新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/68b1f17c2ce3986a7cb60c8e44d9fa8e400ab3ec",
+    "date": "2024-04-09T15:21:56.000Z"
+  },
+  {
+    "title": "【速報】ストのアマゾン下請け配達員ら契約打ち切り",
+    "link": "https://www.47news.jp/10766255.html",
+    "date": "2024-04-09T15:21:20.000Z"
+  },
+  {
+    "title": "性能には文句なし、雑に使える小さいノートPC「CHUWI MiniBook X N100」を購入",
+    "link": "https://kuropon.mobi/2024/04/09/18748/",
+    "date": "2024-04-09T15:21:14.000Z"
+  },
+  {
+    "title": "コードやコマンド出力を画像化するコマンドラインツール「Freeze」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/freeze-introduction",
+    "date": "2024-04-09T15:20:59.000Z"
+  },
+  {
+    "title": "熱狂的ファンを虜にするファミレス「シズラー」を“200％堪能する”完全マニュアル",
+    "link": "https://biz-journal.jp/health/post_152440.html",
+    "date": "2024-04-09T15:20:46.000Z"
+  },
+  {
+    "title": "音楽は速すぎも遅すぎもダメ、チェチェン共和国が禁止発表",
+    "link": "https://www.cnn.co.jp/showbiz/35217510.html",
+    "date": "2024-04-09T15:05:18.000Z"
+  }
+]
