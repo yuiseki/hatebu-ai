@@ -24,7 +24,6 @@ const processAllFiles = async () => {
     );
 
   for (const yearStr of years) {
-    const year = parseInt(yearStr);
     const yearPath = path.join(dataDir, yearStr);
 
     // 年ごとのヒストグラムを初期化
