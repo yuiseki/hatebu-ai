@@ -1,0 +1,99 @@
+[
+  {
+    "keyword": "GitHub MCP Server",
+    "products": [
+      {
+        "asin": "B0F6D9DKSF",
+        "title": "Mastering MCP Server Development: The Definitive Guide to Tool-Enabled AI Integration (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/31JU6vvqg+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F6D9DKSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "McCleary, Adam",
+        "price": "￥1,071",
+        "priceValue": 1071
+      },
+      {
+        "asin": "B0F5VTBWY4",
+        "title": "MCP Server Development with Python: A Developer's Guide to Building Intelligent Tool-Integrated Agents with Model Context Protocol",
+        "imageUrl": "https://m.media-amazon.com/images/I/410EuM7WBSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F5VTBWY4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Robinson, Ivan",
+        "brand": "Independently published",
+        "price": "￥2,930",
+        "priceValue": 2930
+      },
+      {
+        "asin": "B0F9LKNZHZ",
+        "title": "Building Model Context Protocol (MCP) Servers with Python: A Developer’s Guide to Modular, Scalable, and Context-Aware Systems",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VQPqGBLSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F9LKNZHZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Robinson, Ivan",
+        "brand": "Independently published",
+        "price": "￥3,016",
+        "priceValue": 3016
+      }
+    ],
+    "searchedAt": "2025-06-15T09:22:19.706Z"
+  },
+  {
+    "keyword": "tmux with Claude Code",
+    "products": [],
+    "searchedAt": "2025-06-15T09:22:23.179Z"
+  },
+  {
+    "keyword": "AventuEngine",
+    "products": [],
+    "searchedAt": "2025-06-15T09:22:24.835Z"
+  },
+  {
+    "keyword": "CiNii Research",
+    "products": [
+      {
+        "asin": "4818029106",
+        "title": "看護研究における文献の調べ方・活かし方",
+        "imageUrl": "https://m.media-amazon.com/images/I/41o96248BRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4818029106?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "貝谷敏子",
+        "brand": "日本看護協会出版会",
+        "price": "￥2,970",
+        "priceValue": 2970
+      }
+    ],
+    "searchedAt": "2025-06-15T09:22:26.672Z"
+  },
+  {
+    "keyword": "Visual Studio Code",
+    "products": [
+      {
+        "asin": "B09TDNXKL4",
+        "title": "Visual Studio Code完全入門　Webクリエイター&エンジニアの作業がはかどる新世代エディターの操り方",
+        "imageUrl": "https://m.media-amazon.com/images/I/512efZlVCaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09TDNXKL4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "リブロワークス",
+        "brand": "インプレス",
+        "price": "￥2,376",
+        "priceValue": 2376
+      },
+      {
+        "asin": "B0CRV56KVH",
+        "title": "改訂新版 Visual Studio Code実践ガイド —— 定番コードエディタを使い倒すテクニック",
+        "imageUrl": "https://m.media-amazon.com/images/I/41-9rw+zpHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CRV56KVH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森下 篤",
+        "brand": "技術評論社",
+        "price": "￥3,450",
+        "priceValue": 3450
+      },
+      {
+        "asin": "4800713145",
+        "title": "これ1冊でできる! Visual Studio Code 超入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WoV7j1-vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4800713145?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三沢友治",
+        "brand": "ソーテック社",
+        "price": "￥2,618",
+        "priceValue": 2618
+      }
+    ],
+    "searchedAt": "2025-06-15T09:22:28.566Z"
+  }
+]

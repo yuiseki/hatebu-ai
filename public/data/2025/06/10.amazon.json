@@ -1,0 +1,96 @@
+[
+  {
+    "keyword": "vcpkg",
+    "products": [],
+    "searchedAt": "2025-06-15T09:21:43.885Z"
+  },
+  {
+    "keyword": "Tasmap",
+    "products": [
+      {
+        "asin": "B0CRTWR1XX",
+        "title": "ナテック(Natec) ラジアルリング・アドオンラジアルセット HS-ALL SMAP-SMAJ 80MHz~1300MHz カスタム用 運用する周波数の1/4λにカット",
+        "imageUrl": "https://m.media-amazon.com/images/I/311vncxbFCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CRTWR1XX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Natec",
+        "price": "￥2,649",
+        "priceValue": 2649
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:45.591Z"
+  },
+  {
+    "keyword": "Convex",
+    "products": [
+      {
+        "asin": "B003NUH94O",
+        "title": "Komelon コメロン コンベックス マグジャケット 19 テープ幅19mm 5.5M KMC-31RM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51IGSYRQ2OL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003NUH94O?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Komelon",
+        "price": "￥764",
+        "priceValue": 764
+      },
+      {
+        "asin": "B007UMSVK2",
+        "title": "コメロン コンベックス マグジャケット クローム25 テープ幅25mm 7.5m KMC-31CM",
+        "imageUrl": "https://m.media-amazon.com/images/I/5135HLNERUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B007UMSVK2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Komelon",
+        "price": "￥1,308",
+        "priceValue": 1308
+      },
+      {
+        "asin": "B08LFYBRDQ",
+        "title": "高儀(Takagi) トリプルストップコンベックス 25mm×5.5m",
+        "imageUrl": "https://m.media-amazon.com/images/I/31kc-zttSlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08LFYBRDQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "髙儀(Takagi)",
+        "price": "￥455",
+        "priceValue": 455
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:47.483Z"
+  },
+  {
+    "keyword": "EDINET-Bench",
+    "products": [],
+    "searchedAt": "2025-06-15T09:21:49.146Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:50.778Z"
+  }
+]

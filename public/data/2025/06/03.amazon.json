@@ -1,0 +1,176 @@
+[
+  {
+    "keyword": "vector tiles",
+    "products": [
+      {
+        "asin": "B0C87F9G4Q",
+        "title": "Composition Notebook Wide Ruled: Random Cute Kawaii Vector Tile Illustration, Size 8.5x11 Inch, 120 Pages",
+        "imageUrl": "https://m.media-amazon.com/images/I/41fF0Q-7TBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C87F9G4Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Cobb, Bobby",
+        "brand": "Independently published",
+        "price": "￥1,077",
+        "priceValue": 1077
+      },
+      {
+        "asin": "B08JQM49KK",
+        "title": "A La Maison Ceilings R187 ベクターフォーム 接着剤付き シーリングタイル (128平方フィート/ケース) プレーンホワイト",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XgKLSwFeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08JQM49KK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "A La Maison Ceilings",
+        "price": "￥41,021",
+        "priceValue": 41021
+      },
+      {
+        "asin": "B08HX86K3G",
+        "title": "La Maison Ceilings R187 ベクターフォーム 接着剤付き シーリングタイル (1ケースあたり256平方フィート) 96枚入 無地ホワイト",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XgKLSwFeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08HX86K3G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "A La Maison Ceilings",
+        "price": "￥113,222",
+        "priceValue": 113222
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:43.553Z"
+  },
+  {
+    "keyword": "PostGIS",
+    "products": [
+      {
+        "asin": "4772253246",
+        "title": "地域研究のための空間データ分析入門: QGISとPostGISを用いて",
+        "imageUrl": "https://m.media-amazon.com/images/I/513Agn2LuJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4772253246?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "愛知大学三遠南信地域連携研究センター",
+        "brand": "古今書院",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "477225353X",
+        "title": "地域政策研究のための地理空間情報統合管理システム: Python,Django,PostGIS,QGIS,VSCodeを用いて",
+        "imageUrl": "https://m.media-amazon.com/images/I/51s1dB+SOYL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/477225353X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "蒋 湧",
+        "brand": "古今書院",
+        "price": "￥4,400",
+        "priceValue": 4400
+      },
+      {
+        "asin": "4772253440",
+        "title": "地域研究のための空間データ分析 応用編: QGISとPostGISを用いて",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HAlEzMEXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4772253440?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "愛知大学三遠南信地域連携研究センター",
+        "brand": "古今書院",
+        "price": "￥3,080",
+        "priceValue": 3080
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:45.416Z"
+  },
+  {
+    "keyword": "large language models",
+    "products": [
+      {
+        "asin": "B0DGZ46G88",
+        "title": "Hands-On Large Language Models: Language Understanding and Generation (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/412gJohouRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DGZ46G88?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alammar, Jay",
+        "brand": "O'Reilly Media",
+        "price": "￥6,920",
+        "priceValue": 6920
+      },
+      {
+        "asin": "B0DGQXVK62",
+        "title": "Build a Large Language Model (From Scratch) (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41yqngwddyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DGQXVK62?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Raschka, Sebastian",
+        "brand": "Manning",
+        "price": "￥6,923",
+        "priceValue": 6923
+      },
+      {
+        "asin": "3031656466",
+        "title": "Large Language Models: A Deep Dive: Bridging Theory and Practice",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+g21jKmYL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3031656466?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kamath, Uday",
+        "brand": "Springer",
+        "price": "￥12,768",
+        "priceValue": 12768
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:47.319Z"
+  },
+  {
+    "keyword": "CLI scripts",
+    "products": [
+      {
+        "asin": "B00GHTVHV4",
+        "title": "Signaling PHP: Catching Signals in PHP CLI Scripts (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41fp7+cky4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00GHTVHV4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Evans, Cal",
+        "price": "￥986",
+        "priceValue": 986
+      },
+      {
+        "asin": "1484222377",
+        "title": "PHP CLI: Create Command Line Interface Scripts with PHP",
+        "imageUrl": "https://m.media-amazon.com/images/I/41z7EkijX4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1484222377?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Aley, Rob",
+        "brand": "Apress",
+        "price": "￥3,601",
+        "priceValue": 3601
+      },
+      {
+        "asin": "1492094757",
+        "title": "Bash Idioms: Write Powerful, Flexible, Readable Shell Scripts",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uMEB4r1pL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1492094757?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Albing, Carl",
+        "brand": "Oreilly & Associates Inc",
+        "price": "￥6,456",
+        "priceValue": 6456
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:49.210Z"
+  },
+  {
+    "keyword": "iOS debugging",
+    "products": [
+      {
+        "asin": "B0D8W5KL2L",
+        "title": "Donner マルチエフェクター PocketX 20種類アンプモデル コンパクト ギター/ベース用 Win/Mac/iOS/Android対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/31fTwgMLKzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8W5KL2L?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Donner",
+        "price": "￥10,980",
+        "priceValue": 10980
+      },
+      {
+        "asin": "B0936CXYGT",
+        "title": "Debugging and Exceptions Course for IOS App Dev",
+        "imageUrl": "https://m.media-amazon.com/images/I/817wzNP4+tS._SL160_.png",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0936CXYGT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "macProVideo.com",
+        "price": "￥857",
+        "priceValue": 857
+      },
+      {
+        "asin": "B0F31783L3",
+        "title": "iOS App Development for Beginners: Learn Swift, SwiftUI, and Debugging Techniques to Build and Launch Your First App (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41d+cDn4f-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F31783L3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Swiftman, Dexter ",
+        "price": "￥1,250",
+        "priceValue": 1250
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:51.001Z"
+  }
+]

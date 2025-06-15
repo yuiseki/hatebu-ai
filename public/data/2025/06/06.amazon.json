@@ -1,0 +1,73 @@
+[
+  {
+    "keyword": "セキュリティ",
+    "products": [
+      {
+        "asin": "4815629374",
+        "title": "イラスト図解式 この一冊で全部わかるセキュリティの基本 第２版 (イラスト図解式シリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ds0H4KiZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815629374?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやもと くにお",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0DTXRMQW7",
+        "title": "セキュリティエンジニアの知識地図",
+        "imageUrl": "https://m.media-amazon.com/images/I/510gHkdo1BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DTXRMQW7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "井上 圭",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "B074KS77VH",
+        "title": "セキュリティ（字幕版）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TY4YMhhDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B074KS77VH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アラン・デロシェール",
+        "price": "￥330",
+        "priceValue": 330
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:12.129Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "4478119481",
+        "title": "AIを使って考えるための全技術 「最高の発想」を一瞬で生み出す56の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/4199BUz7-3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4478119481?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,970",
+        "priceValue": 2970
+      },
+      {
+        "asin": "4046067594",
+        "title": "AIのド素人ですが、10年後も仕事とお金に困らない方法を教えて下さい! 最悪の未来でも自分だけが助かる本",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Q4ZXhohqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4046067594?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木内 翔大",
+        "brand": "KADOKAWA",
+        "price": "￥1,760",
+        "priceValue": 1760
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:14.121Z"
+  }
+]
