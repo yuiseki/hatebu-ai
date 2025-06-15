@@ -171,3 +171,24 @@ h2 {
 .bookmark-favicon {
   margin-right: 8px;
 }
+
+.amazon-associate {
+  margin-top: 1em;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  text-align: left;
+}
+
+.amazon-associate img {
+  width: 100px;
+  height: auto;
+}
+
+.amazon-associate-price {
+  color: #d66;
+  margin-top: 4px;
+}
