@@ -62,25 +62,43 @@ const AmazonAssociate = ({ date }: AmazonAssociateProps) => {
   if (!product) return null;
 
   return (
-    <div className="amazon-associate">
-      {product.imageUrl && (
-        <a href={product.detailPageUrl} target="_blank" rel="noopener noreferrer">
-          <img src={product.imageUrl} alt={product.title ?? "Amazon product"} />
-        </a>
-      )}
-      <div className="amazon-associate-details">
-        <a href={product.detailPageUrl} target="_blank" rel="noopener noreferrer">
-          {product.title}
-        </a>
-        {product.author && <div className="amazon-associate-author">{product.author}</div>}
-        {!product.author && product.brand && (
-          <div className="amazon-associate-author">{product.brand}</div>
+    <>
+      <div className="amazon-associate">
+        {product.imageUrl && (
+          <a
+            href={product.detailPageUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={product.imageUrl}
+              alt={product.title ?? "Amazon product"}
+            />
+          </a>
         )}
-        {product.price && (
-          <div className="amazon-associate-price">{product.price}</div>
-        )}
+        <div className="amazon-associate-details">
+          <a
+            href={product.detailPageUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {product.title}
+          </a>
+          {product.author && (
+            <div className="amazon-associate-author">{product.author}</div>
+          )}
+          {!product.author && product.brand && (
+            <div className="amazon-associate-author">{product.brand}</div>
+          )}
+          {product.price && (
+            <div className="amazon-associate-price">{product.price}</div>
+          )}
+        </div>
       </div>
-    </div>
+      <p>
+        Amazonのアソシエイトとして、ゆいせきは適格販売により収入を得ています。
+      </p>
+    </>
   );
 };
 

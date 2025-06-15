@@ -73,7 +73,7 @@ function BookmarksView({ initialDate }: BookmarksProps) {
       {loading && <p className="bookmarks-loading">データを読み込み中...</p>}
       {error && <p className="bookmarks-error">エラー: {error}</p>}
       {!loading && !error && (
-        <div>
+        <div className="bookmarks-content">
           <div style={{ marginBottom: "10px" }}>
             <button onClick={() => moveDate(-1)}>前日</button>
             <span style={{ margin: "0 1em" }}>{dateStr}</span>

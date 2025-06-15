@@ -156,15 +156,7 @@ h2 {
   color: #333;
 }
 
-.bookmarks-loading {
-  min-height: 90vh;
-}
-
-.bookmarks-error {
-  min-height: 90vh;
-}
-
-.bookmark-list {
+.bookmark-content {
   min-height: 90vh;
 }
 
