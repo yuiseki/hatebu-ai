@@ -1,0 +1,88 @@
+[
+  {
+    "keyword": "DuckDB",
+    "products": [
+      {
+        "asin": "4295021989",
+        "title": "DuckDB実践入門　手軽に使えるデータ分析用DB―基本からエコシステム活用まで (impress top gear)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51whsHbRDvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295021989?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mark Needham",
+        "brand": "インプレス",
+        "price": "￥3,850",
+        "priceValue": 3850
+      },
+      {
+        "asin": "B0DPNMF2ZX",
+        "title": "DuckDB: Up and Running: Fast Data Analytics and Reporting (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41k2+Xdca+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPNMF2ZX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lee, Wei-Meng",
+        "brand": "O'Reilly Media",
+        "price": "￥9,852",
+        "priceValue": 9852
+      },
+      {
+        "asin": "B0DB2T4XS2",
+        "title": "DuckDB in Action (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xblSNfeyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DB2T4XS2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Needham, Mark",
+        "brand": "Manning",
+        "price": "￥6,977",
+        "priceValue": 6977
+      }
+    ],
+    "searchedAt": "2025-06-15T23:24:28.522Z"
+  },
+  {
+    "keyword": "Neo4j",
+    "products": [
+      {
+        "asin": "B01EUK5RRQ",
+        "title": "グラフ型データベース入門 - Neo4jを使う",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Q+572D1CL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01EUK5RRQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "長瀬嘉秀",
+        "brand": "リックテレコム",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "B0171LWZ9O",
+        "title": "Cypherクエリー言語の事例で学ぶグラフデータベースNeo4j (NextPublishing)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ANp2fgqBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0171LWZ9O?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "李 昌桓",
+        "brand": "インプレスR&D",
+        "price": "￥1,188",
+        "priceValue": 1188
+      },
+      {
+        "asin": "B0B7GN9KD6",
+        "title": "Neo4j Graph Database: 2nd Edition (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/410fiTRYjoL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B7GN9KD6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Singh, Ajit",
+        "price": "￥555",
+        "priceValue": 555
+      }
+    ],
+    "searchedAt": "2025-06-15T23:24:30.447Z"
+  },
+  {
+    "keyword": "Qwen3",
+    "products": [],
+    "searchedAt": "2025-06-15T23:24:32.111Z"
+  },
+  {
+    "keyword": "TypeGO",
+    "products": [],
+    "searchedAt": "2025-06-15T23:24:33.756Z"
+  },
+  {
+    "keyword": "PGVector",
+    "products": [],
+    "searchedAt": "2025-06-15T23:24:35.400Z"
+  }
+]
