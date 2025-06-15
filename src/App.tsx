@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
+import YearCard from "./components/YearCard";
 
 // ヒストグラムの型を定義
 type HistogramData = {
@@ -49,31 +50,6 @@ function App() {
     return total;
   };
 
-  // 年ごとの日数の集計
-  const getYearDays = (year: string) => {
-    if (!histogramData || !histogramData[year]) return 0;
-
-    let total = 0;
-    for (const days of Object.values(histogramData[year])) {
-      total += days;
-    }
-    return total;
-  };
-
-  // 年ごとの最頻値（最も頻度が高い日数）を取得
-  const getYearMaxFrequency = (year: string) => {
-    if (!histogramData || !histogramData[year]) return 1;
-
-    let maxFreq = 0;
-    Object.values(histogramData[year]).forEach((days) => {
-      if (days > maxFreq) {
-        maxFreq = days;
-      }
-    });
-
-    return maxFreq || 1; // 0除算を防ぐため
-  };
-
   // 総投稿数が0より大きい年のみをフィルタリングして年代順に降順ソート（新しい順）
   const sortedValidYears = histogramData
     ? Object.keys(histogramData)
@@ -92,42 +68,9 @@ function App() {
         <div className="histogram-container">
           <h2>年ごとのブックマーク数分布</h2>
           <div className="year-details">
-            {sortedValidYears.map((year) => {
-              const maxFreq = getYearMaxFrequency(year);
-              const maxHeight = 200; // 最大の高さ (px)
-
-              return (
-                <div key={year} className="year-card">
-                  <h3>{year}年</h3>
-                  <div className="histogram-bars">
-                    {histogramData[year] &&
-                      Object.entries(histogramData[year])
-                        .sort((a, b) => parseInt(a[0]) - parseInt(b[0]))
-                        .filter(([uploads, _]) => parseInt(uploads) > 0) // 投稿数が0のものは除外
-                        .map(([uploads, days]) => {
-                          // 最頻値に対する相対的な高さを計算
-                          const relativeHeight = (days / maxFreq) * maxHeight;
-                          const height = Math.max(1, relativeHeight); // 最小の高さは1px
-
-                          return (
-                            <div
-                              key={uploads}
-                              className="histogram-bar-container"
-                            >
-                              <div
-                                className="histogram-bar"
-                                style={{
-                                  height: `${height}px`,
-                                }}
-                                title={`${uploads}件の投稿: ${days}日`}
-                              ></div>
-                            </div>
-                          );
-                        })}
-                  </div>
-                </div>
-              );
-            })}
+            {sortedValidYears.map((year) => (
+              <YearCard key={year} year={year} data={histogramData[year]} />
+            ))}
           </div>
         </div>
       )}
