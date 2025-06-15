@@ -23,7 +23,7 @@ hatebu-ai is a React-based web application that visualizes historical Hatena Boo
 
 ### Data Flow
 1. **RSS Fetching** (`scripts/fetch.ts`) - Downloads bookmark data from Hatena RSS feed with rate limiting
-2. **Data Storage** - Raw data stored in hierarchical structure: `data/YYYY/MM/DD.json`
+2. **Data Storage** - Raw data stored in hierarchical structure: `public/data/YYYY/MM/DD.json`
 3. **Histogram Processing** (`scripts/histogram.ts`) - Aggregates raw data into frequency distributions
 4. **Visualization** (`src/App.tsx`) - React component renders interactive bar charts
 
@@ -45,8 +45,8 @@ hatebu-ai is a React-based web application that visualizes historical Hatena Boo
 - Automatically skips existing files to avoid re-downloading
 
 ### Testing Data Processing
-- Use `npm run histogram` to regenerate visualizations after data changes
-- Check `data/histogram.json` and `data/histogram_array.json` for processed output
+ - Use `npm run histogram` to regenerate visualizations after data changes
+ - Check `public/data/histogram.json` and `public/data/histogram_array.json` for processed output
 - Verify date range coverage from 1997 to 2025
 
 ### Frontend Development
