@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "../App.css";
+import AmazonAssociate from "../components/AmazonAssociate";
 
 interface BookmarkInfo {
   title: string;
@@ -81,13 +82,20 @@ function BookmarksView({ initialDate }: BookmarksProps) {
           <ul className="bookmark-list">
             {bookmarks.map((b) => (
               <li key={b.link} style={{ textAlign: "left" }}>
-                <img className="bookmark-favicon" width={15} height={15} src={`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=${b.link.match(/^(https?:\/\/[^\/]+\/)/)?.[1]}`} alt="favicon" />
+                <img
+                  className="bookmark-favicon"
+                  width={15}
+                  height={15}
+                  src={`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=${(() => { try { return new URL(b.link).origin + '/'; } catch { return ''; } })()}`}
+                  alt="favicon"
+                />
                 <a href={b.link} target="_blank" rel="noopener noreferrer">
                   {b.title}
                 </a>
               </li>
             ))}
           </ul>
+          <AmazonAssociate date={dateStr} />
         </div>
       )}
     </div>
