@@ -1,0 +1,118 @@
+[
+  {
+    "keyword": "ccusage",
+    "products": [],
+    "searchedAt": "2025-06-15T09:20:24.561Z"
+  },
+  {
+    "keyword": "DuckLake",
+    "products": [],
+    "searchedAt": "2025-06-15T09:20:26.207Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:28.024Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0F18K2WR5",
+        "title": "AWSクラウド設計完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Srp9ckILL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F18K2WR5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アクセンチュア 戸賀 慶/福垣内 孝造/竹内 誠一/浪谷 浩一/澤田 拓也/ 崎原 晴香/浅輪 和哉/村田 亜弥",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B09MQ14XR1",
+        "title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
+        "imageUrl": "https://m.media-amazon.com/images/I/516cZ4DqEnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09MQ14XR1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NRIネットコム株式会社",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,980",
+        "priceValue": 1980
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:29.851Z"
+  },
+  {
+    "keyword": "MCP",
+    "products": [
+      {
+        "asin": "4798075736",
+        "title": "やさしいMCP入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41uNvurDbtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798075736?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "御田稔",
+        "brand": "秀和システム",
+        "price": "￥1,760",
+        "priceValue": 1760
+      },
+      {
+        "asin": "B0F99W236S",
+        "title": "MCP AIエージェント開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QPsMiNRUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F99W236S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "B0F78BPDQY",
+        "title": "MCP（Model Context Protocol）超入門: MCPの基本から実装方法まで: Python",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XiAcwws-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F78BPDQY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Joe",
+        "price": "￥980",
+        "priceValue": 980
+      }
+    ],
+    "searchedAt": "2025-06-15T09:20:31.657Z"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "keyword": "textlint",
+    "products": [],
+    "searchedAt": "2025-06-15T09:21:52.451Z"
+  },
+  {
+    "keyword": "MCP",
+    "products": [
+      {
+        "asin": "4798075736",
+        "title": "やさしいMCP入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41uNvurDbtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798075736?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "御田稔",
+        "brand": "秀和システム",
+        "price": "￥1,760",
+        "priceValue": 1760
+      },
+      {
+        "asin": "B0F99W236S",
+        "title": "MCP AIエージェント開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QPsMiNRUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F99W236S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "B0F78BPDQY",
+        "title": "MCP（Model Context Protocol）超入門: MCPの基本から実装方法まで: Python",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XiAcwws-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F78BPDQY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Joe",
+        "price": "￥980",
+        "priceValue": 980
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:54.088Z"
+  },
+  {
+    "keyword": "iOS 26",
+    "products": [
+      {
+        "asin": "B0FCMJ29PX",
+        "title": "はじめてのiOS 26: 新機能とデザインの徹底解説",
+        "imageUrl": "https://m.media-amazon.com/images/I/41dSOFMTNsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FCMJ29PX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サイバネティカ",
+        "price": "￥99",
+        "priceValue": 99
+      },
+      {
+        "asin": "B0FD3DH5VZ",
+        "title": "iOS 26 Unleashed: Master Apple’s Next-Generation Operating System with Expert Tips on AI, Augmented Reality, Privacy, and Seamless Productivity",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Avbh-IYEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD3DH5VZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Blum, Lon B",
+        "brand": "Independently published",
+        "price": "￥2,695",
+        "priceValue": 2695
+      },
+      {
+        "asin": "3988100870",
+        "title": "Dein neues iPhone - iPhone Plus, Pro & Pro Max - Einfach alles koennen: - Die Anleitung zu allen neuen iPhones. Aktuell zu iOS 26 - Fuer Einsteiger und Fortgeschrittene",
+        "imageUrl": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL160_.gif",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3988100870?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kiefer, Philip",
+        "brand": "Markt+Technik Verlag",
+        "price": "￥3,413",
+        "priceValue": 3413
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:55.859Z"
+  },
+  {
+    "keyword": "iPhone XS",
+    "products": [
+      {
+        "asin": "B089YW1DGJ",
+        "title": "【整備済み品】 Apple iPhone XS 64GB シルバー SIMフリー (整備済み品)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41nJGXmcjrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B089YW1DGJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Apple(アップル)",
+        "price": "￥27,272",
+        "priceValue": 27272
+      },
+      {
+        "asin": "B089YWTSJK",
+        "title": "【整備済み品】 Apple iPhone XS Max 256GB ゴールド SIMフリー (整備済み品)",
+        "imageUrl": "https://m.media-amazon.com/images/I/417NKHwj73L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B089YWTSJK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Apple(アップル)",
+        "price": "￥40,850",
+        "priceValue": 40850
+      },
+      {
+        "asin": "B089YX58B2",
+        "title": "【整備済み品】 Apple iPhone XR 64GB (PRODUCT)RED SIMフリー (整備済み品)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LNiLT7vIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B089YX58B2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Apple(アップル)",
+        "price": "￥24,269",
+        "priceValue": 24269
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:57.728Z"
+  },
+  {
+    "keyword": "AI Mode",
+    "products": [
+      {
+        "asin": "486046088X",
+        "title": "伊藤あい写真集「ai-mode」",
+        "imageUrl": "https://m.media-amazon.com/images/I/51zPmVq9gjL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/486046088X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山岸 伸",
+        "brand": "アクアハウス",
+        "price": "￥600",
+        "priceValue": 600
+      },
+      {
+        "asin": "B0F99LF9SV",
+        "title": "サーキュレーター 扇風機 リビング 【2025夏節電対策&AIモード&イオン空気清浄】 上下左右自動首振り 18段階風量 4つモード 暴風モード パワフル送風 静音 せんぷうき DCモーター 省エネ 12時間入/切タイマー アロマ対応 タッチパネル&リモコン付き 高さ調整可能 換気/空気循環/部屋干し 梅雨除湿 衣類乾燥 冷房/暖房 組み立て簡単 30畳対応 PSE認証済",
+        "imageUrl": "https://m.media-amazon.com/images/I/41cLH+z+V-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F99LF9SV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Ylili",
+        "price": "￥7,700",
+        "priceValue": 7700
+      },
+      {
+        "asin": "B0FBWQ4PL1",
+        "title": "サーキュレーター 扇風機 リビング 【2025夏節電対策&AIモード&イオン空気清浄】 上下左右自動首振り 18段階風量 4つモード 暴風モード パワフル送風 静音 せんぷうき DCモーター 省エネ 12時間入/切タイマー アロマ対応 タッチパネル&リモコン付き 高さ調整可能 換気/空気循環/部屋干し 梅雨除湿 衣類乾燥 冷房/暖房 組み立て簡単 30畳対応 PSE認証済",
+        "imageUrl": "https://m.media-amazon.com/images/I/415u3oYcAUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FBWQ4PL1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Ylili",
+        "price": "￥7,700",
+        "priceValue": 7700
+      }
+    ],
+    "searchedAt": "2025-06-15T09:21:59.541Z"
+  }
+]
