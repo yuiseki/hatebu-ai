@@ -1,0 +1,168 @@
+[
+  {
+    "keyword": "Automagi",
+    "products": [
+      {
+        "asin": "B09KZC6WZN",
+        "title": "Automagi",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DZbaMmkjL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09KZC6WZN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Obijan",
+        "brand": "Apollon Records",
+        "price": "￥200",
+        "priceValue": 200
+      },
+      {
+        "asin": "B0D2LXF9MH",
+        "title": "Automagi",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oR-0GD6-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D2LXF9MH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Græns",
+        "brand": "The Psychedelic Experience of Gothenburg",
+        "price": "￥200",
+        "priceValue": 200
+      },
+      {
+        "asin": "B0D2LWZXLM",
+        "title": "Automagi",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oR-0GD6-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D2LWZXLM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Græns",
+        "brand": "The Psychedelic Experience of Gothenburg",
+        "price": "￥200",
+        "priceValue": 200
+      }
+    ],
+    "searchedAt": "2025-06-16T23:13:44.450Z"
+  },
+  {
+    "keyword": "Simplenote",
+    "products": [
+      {
+        "asin": "4751104284",
+        "title": "毎日がおいしいサラダ料理SimpleNote: とびっきりの料理に変わるサラダ&ドレッシング (旭屋出版MOOK)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51kOOwGiZpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4751104284?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中野 佐和子",
+        "brand": "旭屋出版",
+        "price": "￥1",
+        "priceValue": 1
+      },
+      {
+        "asin": "B0BS8T6DXK",
+        "title": "Cuaderno Simple",
+        "imageUrl": "https://m.media-amazon.com/images/I/21ktjEsS0rL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BS8T6DXK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "SimpleNote",
+        "brand": "Independently published",
+        "price": "￥781",
+        "priceValue": 781
+      },
+      {
+        "asin": "B08G4TF7VC",
+        "title": "Simple Note",
+        "imageUrl": "https://m.media-amazon.com/images/I/318SQK8gCKL._SL160_.png",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08G4TF7VC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Harshdeep Singh (Bunny)",
+        "price": "￥0",
+        "priceValue": 0
+      }
+    ],
+    "searchedAt": "2025-06-16T23:13:46.390Z"
+  },
+  {
+    "keyword": "Windows.AI.Actions",
+    "products": [
+      {
+        "asin": "B0CBFGMDGJ",
+        "title": "アイリック(Eilik) 感情的知性を備えたデスクトップコンパニオンロボット(日本語説明書/メーカー3ヶ月保証付) デスクトップロボットのパートナー（ブルー）",
+        "imageUrl": "https://m.media-amazon.com/images/I/41vA3uOk-eL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CBFGMDGJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Action First",
+        "price": "￥25,690",
+        "priceValue": 25690
+      },
+      {
+        "asin": "B0BYMR9GZW",
+        "title": "シャッター　アイランド (字幕版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41r2JM-RcpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BYMR9GZW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "マーティン・スコセッシ",
+        "price": "￥400",
+        "priceValue": 400
+      },
+      {
+        "asin": "B0CHQGQZY3",
+        "title": "The Silence of the Lambs (Dubbed)",
+        "imageUrl": "https://m.media-amazon.com/images/I/415a0IvkwZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CHQGQZY3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jonathan Demme"
+      }
+    ],
+    "searchedAt": "2025-06-16T23:13:48.158Z"
+  },
+  {
+    "keyword": "Model Context Protocol",
+    "products": [
+      {
+        "asin": "B0F78BPDQY",
+        "title": "MCP（Model Context Protocol）超入門: MCPの基本から実装方法まで: Python",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XiAcwws-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F78BPDQY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Joe",
+        "price": "￥980",
+        "priceValue": 980
+      },
+      {
+        "asin": "B0F3WR7MM6",
+        "title": "The MCP Handbook: A Developer's Guide to the Model Context Protocol",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HfifCZDvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F3WR7MM6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Nayak, Akash Kumar",
+        "brand": "Independently published",
+        "price": "￥3,451",
+        "priceValue": 3451
+      },
+      {
+        "asin": "B0F894D6Q8",
+        "title": "Mastering Model Context Protocol (MCP): Build Smarter AI Agents with Shared Memory and Multi-Agent Coordination",
+        "imageUrl": "https://m.media-amazon.com/images/I/41IDTUCJ4mL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F894D6Q8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Nexon, Hawke",
+        "brand": "Independently published",
+        "price": "￥3,181",
+        "priceValue": 3181
+      }
+    ],
+    "searchedAt": "2025-06-16T23:13:49.933Z"
+  },
+  {
+    "keyword": "App Actions",
+    "products": [
+      {
+        "asin": "B0CHQ2NYS8",
+        "title": "カミエラビ GOD.app",
+        "imageUrl": "https://m.media-amazon.com/images/I/41BRcfIAk0L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CHQ2NYS8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "瀬下 寛之"
+      },
+      {
+        "asin": "B0DVH2MG77",
+        "title": "Auto Clicker App, Game Clicker Tool, Tap Automation App, Automatic Screen Click, Phone Tapper App, Clicker for Phones, Mobile Auto Clicker, Auto Tapper App, Screen Clicker Tool [video game]",
+        "imageUrl": "https://m.media-amazon.com/images/I/31I1pMsRt4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DVH2MG77?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥499",
+        "priceValue": 499
+      },
+      {
+        "asin": "B0DC3ZVRSZ",
+        "title": "ビーストゲーム",
+        "imageUrl": "https://m.media-amazon.com/images/I/515IbSkvFbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DC3ZVRSZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jimmy Donaldson"
+      }
+    ],
+    "searchedAt": "2025-06-16T23:13:51.754Z"
+  }
+]
