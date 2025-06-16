@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Automagi株式会社",
+    "link": "https://www.automagi.jp/",
+    "date": "2025-06-16T12:31:45.000Z"
+  },
+  {
+    "title": "Simplenote - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/Simplenote",
+    "date": "2025-06-16T10:35:44.000Z"
+  },
+  {
+    "title": "Windows.AI.Actions Namespace - Windows apps",
+    "link": "https://learn.microsoft.com/en-us/uwp/api/windows.ai.actions?view=winrt-26100",
+    "date": "2025-06-16T06:43:26.000Z"
+  },
+  {
+    "title": "Securing the Model Context Protocol: Building a safer agentic future on Windows",
+    "link": "https://blogs.windows.com/windowsexperience/2025/05/19/securing-the-model-context-protocol-building-a-safer-agentic-future-on-windows/",
+    "date": "2025-06-16T06:33:45.000Z"
+  },
+  {
+    "title": "Windows でのアプリ アクションの概要",
+    "link": "https://learn.microsoft.com/ja-jp/windows/ai/app-actions/",
+    "date": "2025-06-16T06:33:43.000Z"
+  },
+  {
+    "title": "Agentic Windows",
+    "link": "https://developer.microsoft.com/en-us/windows/agentic/",
+    "date": "2025-06-16T06:33:35.000Z"
+  },
+  {
+    "title": "デスクトップ アプリでサポートされていない Windows ランタイム API - Windows apps",
+    "link": "https://learn.microsoft.com/ja-jp/windows/apps/desktop/modernize/desktop-to-uwp-supported-api",
+    "date": "2025-06-16T06:20:36.000Z"
+  },
+  {
+    "title": "Power BI サービスのセマンティック モデル - Power BI",
+    "link": "https://learn.microsoft.com/ja-jp/power-bi/connect-data/service-datasets-understand",
+    "date": "2025-06-16T06:14:55.000Z"
+  },
+  {
+    "title": "セマンティック リンクとは - Microsoft Fabric",
+    "link": "https://learn.microsoft.com/ja-jp/fabric/data-science/semantic-link-overview",
+    "date": "2025-06-16T06:14:51.000Z"
+  },
+  {
+    "title": "Notebookの使用方法 - Microsoft Fabric",
+    "link": "https://learn.microsoft.com/ja-jp/fabric/data-engineering/how-to-use-notebook",
+    "date": "2025-06-16T06:14:37.000Z"
+  },
+  {
+    "title": "WPF vs WinUI 3 機能対比表",
+    "link": "https://zenn.dev/shinta0806/articles/wpf-vs-winui3",
+    "date": "2025-06-16T06:02:43.000Z"
+  },
+  {
+    "title": "WinUI 3 - Windows apps",
+    "link": "https://learn.microsoft.com/ja-jp/windows/apps/winui/winui3/",
+    "date": "2025-06-16T06:02:21.000Z"
+  },
+  {
+    "title": "Windows App SDK を使ってデスクトップ Windows アプリを作成する - Windows apps",
+    "link": "https://learn.microsoft.com/ja-jp/windows/apps/windows-app-sdk/",
+    "date": "2025-06-16T06:01:29.000Z"
+  },
+  {
+    "title": "Copilot+ PC 開発者ガイド",
+    "link": "https://learn.microsoft.com/ja-jp/windows/ai/npu-devices/",
+    "date": "2025-06-16T05:54:16.000Z"
+  },
+  {
+    "title": "WindowsのAIによるPC履歴検索機能「リコール」がようやく一般公開へ、画面に表示されている情報に基づいた操作をAIで自動実行する「Click to Do」も",
+    "link": "https://gigazine.net/news/20250428-windows-recall-will-be-released/",
+    "date": "2025-06-16T05:51:25.000Z"
+  },
+  {
+    "title": "リコールであなたの作業を遡って調べる - Microsoft サポート",
+    "link": "https://support.microsoft.com/ja-jp/windows/%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%82%92%E9%81%A1%E3%81%A3%E3%81%A6%E8%AA%BF%E3%81%B9%E3%82%8B-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c",
+    "date": "2025-06-16T05:43:51.000Z"
+  },
+  {
+    "title": "使ってわかったCopilot+ PCの目玉機能「リコール」の本当の魅力はこれだ",
+    "link": "https://ascii.jp/elem/000/004/278/4278919/",
+    "date": "2025-06-16T05:40:20.000Z"
+  },
+  {
+    "title": "Windows Copilot Runtime 概要",
+    "link": "https://learn.microsoft.com/ja-jp/windows/ai/apis/",
+    "date": "2025-06-16T05:32:20.000Z"
+  },
+  {
+    "title": "Windows Copilot Runtime の概要",
+    "link": "https://learn.microsoft.com/ja-jp/windows/ai/overview",
+    "date": "2025-06-16T05:32:14.000Z"
+  },
+  {
+    "title": "Phi Silica を使って Windows App SDK を始めましょう",
+    "link": "https://learn.microsoft.com/ja-jp/windows/ai/apis/phi-silica",
+    "date": "2025-06-16T05:31:41.000Z"
+  },
+  {
+    "title": "Stable Baselines と Raspberry Pi によるホッケーロボットの強化学習｜npaka",
+    "link": "https://note.com/npaka/n/n8b924ac560f0",
+    "date": "2025-06-16T01:00:07.000Z"
+  },
+  {
+    "title": "GitHub Cliにpecoを組み合わせる - notebook",
+    "link": "https://swfz.hatenablog.com/entry/2020/10/28/195252",
+    "date": "2025-06-16T00:50:35.000Z"
+  },
+  {
+    "title": "pecoを使って端末操作を爆速にする - Qiita",
+    "link": "https://qiita.com/reireias/items/fd96d67ccf1fdffb24ed",
+    "date": "2025-06-16T00:50:20.000Z"
+  },
+  {
+    "title": "Reactの内部の仕組み読み解きガイド (執筆中)",
+    "link": "https://zenn.dev/calloc134/articles/how-react-works-guide",
+    "date": "2025-06-15T23:02:02.000Z"
+  },
+  {
+    "title": "多くの騎空士に衝撃を与えた『グラブル』エイプリルフールイベント“リュックサック・バトル！”の裏側を仕掛け人に直撃。『バックパック・バトル』公認コンテンツはどのようにして誕生したのか？ | ゲーム・エンタメ最新情報のファミ通.com",
+    "link": "https://www.famitsu.com/article/202506/44573",
+    "date": "2025-06-15T23:02:02.000Z"
+  },
+  {
+    "title": "成人向け漫画に厳しい対応　クレカ大手相次ぎ撤退、決済できず　なぜかオタク婚活サイトも",
+    "link": "https://www.sankei.com/article/20250615-NKGNOUCW35OCPBZQW7ATRVAWQU/",
+    "date": "2025-06-15T23:01:41.000Z"
+  },
+  {
+    "title": "Xの代替SNS「Bluesky」で特定意見が増幅するエコーチェンバー深刻…利用者半減",
+    "link": "https://www.sankei.com/article/20250615-VOPIKBQLJ5CWJKA7ONW3G6GD4Q/",
+    "date": "2025-06-15T23:01:38.000Z"
+  }
+]
