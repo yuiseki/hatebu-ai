@@ -1,0 +1,151 @@
+[
+  {
+    "keyword": "AIエージェント",
+    "products": [
+      {
+        "asin": "4065401402",
+        "title": "現場で活用するためのAIエージェント実践入門 (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51kltPm7-KL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065401402?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "太田 真人",
+        "brand": "講談社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "B0FCGQVV6V",
+        "title": "AIエージェント革命 「知能」を雇う時代へ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+CV5yztOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FCGQVV6V?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シグマクシス",
+        "brand": "日経BP",
+        "price": "￥2,310",
+        "priceValue": 2310
+      },
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      }
+    ],
+    "searchedAt": "2025-06-17T23:35:07.109Z"
+  },
+  {
+    "keyword": "QGIS",
+    "products": [],
+    "searchedAt": "2025-06-17T23:35:08.669Z"
+  },
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "B0F8G7KMYS",
+        "title": "Pythonブートキャンプ［データ分析コース］ ～コードを書くチカラを鍛える3週間集中プログラム",
+        "imageUrl": "https://m.media-amazon.com/images/I/41FyAoFJxsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8G7KMYS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "はやたす",
+        "brand": "技術評論社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥2,134",
+        "priceValue": 2134
+      }
+    ],
+    "searchedAt": "2025-06-17T23:35:10.488Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥1,210",
+        "priceValue": 1210
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-06-17T23:35:12.255Z"
+  },
+  {
+    "keyword": "Azure",
+    "products": [
+      {
+        "asin": "B0F51FB7BB",
+        "title": "Azureの知識地図 〜クラウドの基礎から実装・運用管理まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HVC7jezzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F51FB7BB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "土田 純平",
+        "brand": "技術評論社",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B09NXMWR2C",
+        "title": "Azure定番システム設計・実装・運用ガイド　改訂新版",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LfrTQhicL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09NXMWR2C?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "日本マイクロソフト株式会社",
+        "brand": "日経BP",
+        "price": "￥3,762",
+        "priceValue": 3762
+      },
+      {
+        "asin": "B0DFB21TJ3",
+        "title": "Azureネットワーク設計・構築入門　基礎知識から利用シナリオ、設計・運用ベストプラクティスまで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lIOVhZdbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DFB21TJ3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山本 学",
+        "brand": "インプレス",
+        "price": "￥1,760",
+        "priceValue": 1760
+      }
+    ],
+    "searchedAt": "2025-06-17T23:35:14.072Z"
+  }
+]
