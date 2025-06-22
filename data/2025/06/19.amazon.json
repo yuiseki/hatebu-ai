@@ -1,0 +1,151 @@
+[
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "4046067594",
+        "title": "AIのド素人ですが、10年後も仕事とお金に困らない方法を教えて下さい! 最悪の未来でも自分だけが助かる本",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Q4ZXhohqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4046067594?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木内 翔大",
+        "brand": "KADOKAWA",
+        "price": "￥1,760",
+        "priceValue": 1760
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-06-22T08:46:46.727Z"
+  },
+  {
+    "keyword": "プログラミング",
+    "products": [
+      {
+        "asin": "4478112193",
+        "title": "アメリカの中学生が学んでいる 14歳からのプログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vZbvTFeOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4478112193?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ワークマンパブリッシング",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "4815615756",
+        "title": "【Amazon.co.jp 限定】1冊ですべて身につくJavaScript入門講座(DL特典:JavaScriptチートシート) (１冊ですべて身につく)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LiLLZvYnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815615756?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mana",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,794",
+        "priceValue": 2794
+      },
+      {
+        "asin": "4296207407",
+        "title": "13歳からのPython超入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PmtjfxoTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296207407?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大森 敏行",
+        "brand": "日経BP",
+        "price": "￥2,090",
+        "priceValue": 2090
+      }
+    ],
+    "searchedAt": "2025-06-22T08:46:48.731Z"
+  },
+  {
+    "keyword": "SQL",
+    "products": [
+      {
+        "asin": "4798144452",
+        "title": "SQL 第2版: ゼロからはじめるデータベース操作",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sf73NhVTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798144452?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,068",
+        "priceValue": 2068
+      },
+      {
+        "asin": "B0CTPTMBRC",
+        "title": "スッキリわかるSQL入門 第4版 ドリル256問付き！ スッキリわかるシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41J05Ct4UEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CTPTMBRC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山清喬",
+        "brand": "インプレス",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "B07GB4CNKP",
+        "title": "達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51va-3sED3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07GB4CNKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥1,375",
+        "priceValue": 1375
+      }
+    ],
+    "searchedAt": "2025-06-22T08:46:50.538Z"
+  },
+  {
+    "keyword": "Elasticsearch",
+    "products": [
+      {
+        "asin": "4295009776",
+        "title": "Elastic Stack実践ガイド[Elasticsearch/Kibana編] (Impress Top Gear)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51oCFy2NMJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295009776?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "惣道 哲也",
+        "brand": "インプレス",
+        "price": "￥3,300",
+        "priceValue": 3300
+      },
+      {
+        "asin": "B09X4YHNJX",
+        "title": "Pythonで作るはじめてのElasticsearchアプリケーション: Pythonで作る検索アプリケーション入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/4119USTgXHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09X4YHNJX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "本田崇智",
+        "brand": "Independently published",
+        "price": "￥1,650",
+        "priceValue": 1650
+      },
+      {
+        "asin": "B075RTZ141",
+        "title": "データ分析基盤構築入門［Fluentd，Elasticsearch，Kibanaによるログ収集と可視化］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51QntFRqNQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B075RTZ141?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 健太",
+        "brand": "技術評論社",
+        "price": "￥3,278",
+        "priceValue": 3278
+      }
+    ],
+    "searchedAt": "2025-06-22T08:46:52.430Z"
+  },
+  {
+    "keyword": "Bdash Server",
+    "products": [],
+    "searchedAt": "2025-06-22T08:46:54.107Z"
+  }
+]
