@@ -1,0 +1,181 @@
+[
+  {
+    "keyword": "バッチ設計",
+    "products": [
+      {
+        "asin": "4797358181",
+        "title": "システム設計の謎を解く 強いSEになるための機能設計と入出力設計の極意",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Rqlgmmk3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4797358181?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "高安 厚思",
+        "brand": "SBクリエイティブ",
+        "price": "￥53",
+        "priceValue": 53
+      },
+      {
+        "asin": "B076BY4VJH",
+        "title": "アプリケーションアーキテクチャ設計パターン",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HBD-DWOeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B076BY4VJH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三菱UFJインフォメーションテクノロジー株式会社　斉藤賢哉",
+        "brand": "技術評論社",
+        "price": "￥3,850",
+        "priceValue": 3850
+      },
+      {
+        "asin": "B0DT3YZJ35",
+        "title": "SASATO 新型金属 缶バッチマシーン 回転 缶バッジメーカー 缶バッチメーカー 58MM 缶バッチ キット【100個材料付き】 DIY缶バッジ 缶バッジマシーン 子供向け 大人向け 初心者 手作り 缶バッジ バッジ製造機 缶バッジ メーカー 缶バッチマシン オリジナルバッチ 日本語説明書付き 金型交換可能",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Zf55EVGpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DT3YZJ35?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "SASATO",
+        "price": "￥11,731",
+        "priceValue": 11731
+      }
+    ],
+    "searchedAt": "2025-06-23T10:21:18.839Z"
+  },
+  {
+    "keyword": "GitHub Actions",
+    "products": [
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B08B1873L5",
+        "title": "GitHub Actions 実践入門 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+RwQG08XL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08B1873L5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "宮田 淳平",
+        "brand": "インプレス NextPublishing",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "B0CG2QBN3Q",
+        "title": "Learning GitHub Actions: Automation and Integration of CI/CD with GitHub (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S4jyq-mrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CG2QBN3Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Laster, Brent",
+        "brand": "O'Reilly Media",
+        "price": "￥8,966",
+        "priceValue": 8966
+      }
+    ],
+    "searchedAt": "2025-06-23T10:21:20.620Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0CD7JKS9K",
+        "title": "これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GwdokL7NL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CD7JKS9K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      },
+      {
+        "asin": "4873119383",
+        "title": "Reactハンズオンラーニング 第2版 ―Webアプリケーション開発のベストプラクティス",
+        "imageUrl": "https://m.media-amazon.com/images/I/512GaA55o9S._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119383?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alex Banks",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-06-23T10:21:22.450Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "4046067594",
+        "title": "AIのド素人ですが、10年後も仕事とお金に困らない方法を教えて下さい! 最悪の未来でも自分だけが助かる本",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Q4ZXhohqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4046067594?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木内 翔大",
+        "brand": "KADOKAWA",
+        "price": "￥1,760",
+        "priceValue": 1760
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-06-23T10:21:24.375Z"
+  },
+  {
+    "keyword": "Elasticsearch",
+    "products": [
+      {
+        "asin": "B08FBVG11T",
+        "title": "Elastic Stack実践ガイド[Elasticsearch/Kibana編] impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ieij7UhAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08FBVG11T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "惣道 哲也",
+        "brand": "インプレス",
+        "price": "￥2,970",
+        "priceValue": 2970
+      },
+      {
+        "asin": "B09X4YHNJX",
+        "title": "Pythonで作るはじめてのElasticsearchアプリケーション: Pythonで作る検索アプリケーション入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/4119USTgXHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09X4YHNJX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "本田崇智",
+        "brand": "Independently published",
+        "price": "￥1,650",
+        "priceValue": 1650
+      },
+      {
+        "asin": "B075RTZ141",
+        "title": "データ分析基盤構築入門［Fluentd，Elasticsearch，Kibanaによるログ収集と可視化］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51QntFRqNQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B075RTZ141?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 健太",
+        "brand": "技術評論社",
+        "price": "￥3,278",
+        "priceValue": 3278
+      }
+    ],
+    "searchedAt": "2025-06-23T10:21:26.325Z"
+  }
+]
