@@ -1,0 +1,292 @@
+[
+  {
+    "title": "【速報】イラン、国連安保理緊急会合を要請",
+    "link": "https://www.47news.jp/12755962.html",
+    "date": "2025-06-22T10:34:09.000Z"
+  },
+  {
+    "title": "イラン外相「爆撃を受けるなか米との交渉行うことはできない」 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250622/k10014841011000.html",
+    "date": "2025-06-22T10:34:02.000Z"
+  },
+  {
+    "title": "バッチ設計ガイドライン | フューチャー株式会社",
+    "link": "https://future-architect.github.io/arch-guidelines/documents/forBatch/batch_guidelines.html",
+    "date": "2025-06-22T09:23:44.000Z"
+  },
+  {
+    "title": "自作結婚式受付アプリが当日バグり散らかして現場運用の大切さを噛み締めた話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/wedding-reception-app-disaster",
+    "date": "2025-06-22T09:23:38.000Z"
+  },
+  {
+    "title": "自分の結婚式をLINE BotとAIでエンジニアリングしてみた話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/wedding-line-bot",
+    "date": "2025-06-22T09:22:40.000Z"
+  },
+  {
+    "title": "AI研究から生まれた「データマイニング手法」の超本質的な解説",
+    "link": "https://diamond.jp/articles/-/366812",
+    "date": "2025-06-22T09:21:23.000Z"
+  },
+  {
+    "title": "マイクロソフト離れが進む欧州--独シュレースヴィヒ＝ホルシュタイン州が「Linux」に移行",
+    "link": "https://japan.zdnet.com/article/35234488/",
+    "date": "2025-06-22T09:21:19.000Z"
+  },
+  {
+    "title": "「Pocket」代替ツール5選--サービス終了に備える「後で読む」サービスの移行先",
+    "link": "https://japan.zdnet.com/article/35234404/",
+    "date": "2025-06-22T09:20:37.000Z"
+  },
+  {
+    "title": "[入門] C/C++の未定義動作を10倍安全に回避するテクニック集 - Qiita",
+    "link": "https://qiita.com/ShigemoriMasato/items/c3fb14fa995799595795",
+    "date": "2025-06-22T09:20:33.000Z"
+  },
+  {
+    "title": "知らない間に、電子ペーパーがものすごく進化していた。屋外OK、しかもフルカラー。 (1/2)",
+    "link": "https://ascii.jp/elem/000/004/293/4293594/",
+    "date": "2025-06-22T09:20:31.000Z"
+  },
+  {
+    "title": "GitHub - actions/ai-inference: An action for calling AI models with GitHub Models",
+    "link": "https://github.com/actions/ai-inference",
+    "date": "2025-06-22T09:19:00.000Z"
+  },
+  {
+    "title": "無能な社長でごめん。会社を作ってごめん。夢を見てごめん。蓋を開けてみたらハードコア経営シミュレーションだった『シャインポスト Be Your アイドル！』で、私が破産に至るまで",
+    "link": "https://news.denfaminicogamer.jp/kikakuthetower/250620s",
+    "date": "2025-06-22T09:12:12.000Z"
+  },
+  {
+    "title": "Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)",
+    "link": "https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134",
+    "date": "2025-06-22T09:11:55.000Z"
+  },
+  {
+    "title": "LLMの性能における重要補題【Johnson–Lindenstrauss lemma】のお気持ち〜Attentionの数式理解を添えて〜",
+    "link": "https://zenn.dev/asap/articles/6bdf89d8e964ec",
+    "date": "2025-06-22T09:11:44.000Z"
+  },
+  {
+    "title": "バージョンが多すぎるYOLOについて語りたい - Sansan Tech Blog",
+    "link": "https://buildersbox.corp-sansan.com/entry/2024/12/18/000000",
+    "date": "2025-06-22T09:11:39.000Z"
+  },
+  {
+    "title": "LLMとVectorDBで幸せになれるこの時代に、私は、ElasticsearchでSPLADEをしたいのです。",
+    "link": "https://zenn.dev/k5h/articles/edc0592588065c",
+    "date": "2025-06-22T09:11:33.000Z"
+  },
+  {
+    "title": "LiteLLMを使ったLLMの集約 & 簡易的なKey管理 + langfuse添え",
+    "link": "https://zenn.dev/vlntr_telco_rd/articles/litellm-key-and-ops",
+    "date": "2025-06-22T09:11:31.000Z"
+  },
+  {
+    "title": "ソースコードgrep地獄を助けるSourceGraph - Qiita",
+    "link": "https://qiita.com/YusukeIzawa/items/b50f19fdc59b9ef50884",
+    "date": "2025-06-22T09:11:19.000Z"
+  },
+  {
+    "title": "GPUで高速なモデル推論を実現するために考えること -FlashAttentionはなぜ高速か- - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/20241217_flash_attention",
+    "date": "2025-06-22T09:11:17.000Z"
+  },
+  {
+    "title": "ブラウザ側でvector化してサーバレスっぽくQdrantで類似画像検索する",
+    "link": "https://zenn.dev/terrierscript/articles/2025-06-04-qdrant-browser-vector-search",
+    "date": "2025-06-22T09:11:12.000Z"
+  },
+  {
+    "title": "技術書典に向けてGISに特化した同人誌を作った話｜northprint",
+    "link": "https://note.com/northprint/n/n74fc20661901",
+    "date": "2025-06-22T09:10:58.000Z"
+  },
+  {
+    "title": "gemma-3n-E4BをPCで動かしてみる",
+    "link": "https://zenn.dev/algoartis/articles/gemma-3n-e4b-pc-infer",
+    "date": "2025-06-22T09:10:41.000Z"
+  },
+  {
+    "title": "Devin x GitHub ActionsでRenovateのPR対応を自動化する実践ノウハウ - コネヒト開発者ブログ",
+    "link": "https://tech.connehito.com/entry/2025/06/16/200450",
+    "date": "2025-06-22T09:10:29.000Z"
+  },
+  {
+    "title": "はじめてのIssueOps - GitHub Actionsで実現するコメント駆動オペレーション",
+    "link": "https://speakerdeck.com/tmknom/introducing-issue-ops",
+    "date": "2025-06-22T09:10:26.000Z"
+  },
+  {
+    "title": "「いじめではなく、おしおき」上級生が法廷で主張　粘着テープで畳に貼り付けわいせつ行為　動画を送信された高2生徒が自殺（FBS福岡放送） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/3b09306efe27f777cb3d3988c8623d33b28f6785",
+    "date": "2025-06-22T09:08:57.000Z"
+  },
+  {
+    "title": "なぜ私たちは住所正規化エンジンをRustで\"再発明\"したのか？ - FFIによる多言語高速化と開発者体験の裏側 - Sansan Tech Blog",
+    "link": "https://buildersbox.corp-sansan.com/entry/2025/06/20/120000",
+    "date": "2025-06-22T09:06:36.000Z"
+  },
+  {
+    "title": "sense-dependence アーカイブ - 哲学の森｜入江幸男のブログ",
+    "link": "https://irieyukio.net/blog/tag/sense-dependence/",
+    "date": "2025-06-22T09:06:30.000Z"
+  },
+  {
+    "title": "CongressMCP - MCP Server for Legislative Research",
+    "link": "https://congressmcp.lawgiver.ai/",
+    "date": "2025-06-22T09:06:13.000Z"
+  },
+  {
+    "title": "アベノマスク、国の敗訴確定　契約過程記す文書開示へ ｜ 共同通信",
+    "link": "https://nordot.app/1308634204749234865",
+    "date": "2025-06-22T09:06:04.000Z"
+  },
+  {
+    "title": "WEBブラウザ版でのPayPay一時利用制限のお知らせ",
+    "link": "https://www.winticket.jp/keirin/topics/swf7CvP9jMsLoPmXWv4JDm",
+    "date": "2025-06-22T09:05:59.000Z"
+  },
+  {
+    "title": "LINEヤフーはなぜ“Switch 2転売禁止”を決めたのか？　担当者に聞いた　メルカリ・ラクマと対応が分かれたワケ",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/20/news048.html",
+    "date": "2025-06-22T09:05:56.000Z"
+  },
+  {
+    "title": "“知らない人からジュース渡され飲む”中学生3人 病院で手当て | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250621/k10014840601000.html",
+    "date": "2025-06-22T09:05:40.000Z"
+  },
+  {
+    "title": "GitHub - zyedidia/Literate: A literate programming tool for any language",
+    "link": "https://github.com/zyedidia/Literate",
+    "date": "2025-06-22T09:05:30.000Z"
+  },
+  {
+    "title": "米国の主要食用作物、温暖化で今世紀中に生産量半減か　新研究",
+    "link": "https://www.cnn.co.jp/fringe/35234499.html",
+    "date": "2025-06-22T09:04:57.000Z"
+  },
+  {
+    "title": "Visual Studio Code、厳選したMCPサーバーの一覧ページを公開 ——一覧ページ上からのワンクリックインストールにも対応 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/mcp-server-lists-for-vscode",
+    "date": "2025-06-22T09:04:39.000Z"
+  },
+  {
+    "title": "IDE統合 - Anthropic",
+    "link": "https://docs.anthropic.com/ja/docs/claude-code/ide-integrations",
+    "date": "2025-06-22T09:03:09.000Z"
+  },
+  {
+    "title": "ネットで購入の「高揚する成分」入りクッキー、食べた男子大学生が建物から飛び降り救急搬送",
+    "link": "https://www.yomiuri.co.jp/national/20250618-OYT1T50201/",
+    "date": "2025-06-22T09:02:40.000Z"
+  },
+  {
+    "title": "【Claude Code】カスタムSlash Commandの作り方とコマンド例を紹介する",
+    "link": "https://zenn.dev/oikon/articles/cb11b84f891228",
+    "date": "2025-06-22T09:01:24.000Z"
+  },
+  {
+    "title": "Claude CodeがGitHubのIssue内の画像を読めるようにするgh-assetというOSSを公開しました",
+    "link": "https://zenn.dev/loglass/articles/c244b433b4d03c",
+    "date": "2025-06-22T09:01:13.000Z"
+  },
+  {
+    "title": "アプリ「テレグラム」CEO、100人超す自分の子供に財産分け与えると - BBCニュース",
+    "link": "https://www.bbc.com/japanese/articles/c74w8730pm1o",
+    "date": "2025-06-22T09:00:13.000Z"
+  },
+  {
+    "title": "コモンウェルス - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9",
+    "date": "2025-06-22T09:00:09.000Z"
+  },
+  {
+    "title": ".mdc駆動ナレッジマネジメント/.mdc-driven knowledge management",
+    "link": "https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management",
+    "date": "2025-06-22T09:00:00.000Z"
+  },
+  {
+    "title": "イーロン・マスクの考えに従わないGrok。執拗に思想矯正される",
+    "link": "https://www.gizmodo.jp/2025/06/groks-ideological-correction.html",
+    "date": "2025-06-22T08:59:51.000Z"
+  },
+  {
+    "title": "Reverse engineering Claude Code • Kir Shatrov",
+    "link": "https://kirshatrov.com/posts/claude-code-internals",
+    "date": "2025-06-22T08:59:50.000Z"
+  },
+  {
+    "title": "「性的ディープフェイク」相談や通報相次ぐ 警察庁 対策検討へ | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250622/k10014840991000.html",
+    "date": "2025-06-22T08:59:34.000Z"
+  },
+  {
+    "title": "米がイラン核施設攻撃、和平迫るトランプ氏　イスラエル上空では爆発音",
+    "link": "https://jp.reuters.com/world/us/KQDOEYAJSVL2JJIGY4UVJJBVKM-2025-06-22/",
+    "date": "2025-06-22T08:58:56.000Z"
+  },
+  {
+    "title": "【MCP Inspector】ローカルコンテナ環境のMCPサーバーをデバックする方法 - Qiita",
+    "link": "https://qiita.com/eiji-noguchi/items/468bc09fcc2eca8f1d8a",
+    "date": "2025-06-22T08:57:15.000Z"
+  },
+  {
+    "title": "5 tips for using GitHub Copilot with issues to boost your productivity",
+    "link": "https://github.blog/ai-and-ml/github-copilot/5-tips-for-using-github-copilot-with-issues-to-boost-your-productivity/",
+    "date": "2025-06-22T08:56:53.000Z"
+  },
+  {
+    "title": "Claude Code どこまでも/ Claude Code Everywhere",
+    "link": "https://speakerdeck.com/nwiizo/claude-everywhere",
+    "date": "2025-06-22T08:56:27.000Z"
+  },
+  {
+    "title": "NFC、通信距離が4倍に拡大 素早く便利に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2023969.html",
+    "date": "2025-06-22T08:56:18.000Z"
+  },
+  {
+    "title": "「中野サンプラザ」跡地再開発 事業者との協定解除議案が可決 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250619/k10014839111000.html",
+    "date": "2025-06-22T08:55:59.000Z"
+  },
+  {
+    "title": "「キリストは銃を持って再臨する」～放送された「ハルマゲドンを待ち望んで～ 米国政治を動かす“福音派”」から資料映像 - INVISIBLE Dojo.　ーQUIET & COLORFUL PLACE-",
+    "link": "https://m-dojo.hatenadiary.com/entry/2025/06/20/114345",
+    "date": "2025-06-22T08:54:40.000Z"
+  },
+  {
+    "title": "机の引き出しに“放置書類” 後任が見つけて発覚 20代女性主事が約1000件以上の公文書を放置や紛失 停職2か月 岐阜・美濃市（CBCテレビ） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/7093e968b26e700a11c87316eb54ea69f5d11a5b",
+    "date": "2025-06-22T08:54:29.000Z"
+  },
+  {
+    "title": "youtubeに偽情報も含んだ高齢者向けの健康動画が生成AIを駆使して大量に作られているっぽい - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2025/06/21/200000",
+    "date": "2025-06-22T08:53:49.000Z"
+  },
+  {
+    "title": "【書評】『とりあえず謝罪入門―何が悪いかわからなくても頭を下げる技術』　［著］中村低姿勢",
+    "link": "https://kyoko-np.net/book25062201.html",
+    "date": "2025-06-22T08:53:39.000Z"
+  },
+  {
+    "title": "芥川賞作家 九段理江さんのAIを利用した小説執筆手法について｜IT navi",
+    "link": "https://note.com/it_navi/n/n4fba840e67c7",
+    "date": "2025-06-22T08:53:18.000Z"
+  },
+  {
+    "title": "アメリカ イランの3つの核施設攻撃 本土攻撃は初めて | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250622/k10014841181000.html",
+    "date": "2025-06-22T08:53:11.000Z"
+  },
+  {
+    "title": "助けがないと何もできない〈弱いロボット〉が教えてくれた、いま私たちに足りないこと | 株式会社リクルート",
+    "link": "https://www.recruit.co.jp/blog/guesttalk/20200325_429.html",
+    "date": "2025-06-21T23:51:45.000Z"
+  }
+]
