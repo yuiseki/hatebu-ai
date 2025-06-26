@@ -1,0 +1,156 @@
+[
+  {
+    "keyword": "PG-Strom",
+    "products": [
+      {
+        "asin": "B003MMJ662",
+        "title": "Rubato For Pg",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Fe8DxOV0L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003MMJ662?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Strøm",
+        "brand": "Calibrated",
+        "price": "￥200",
+        "priceValue": 200
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:17.144Z"
+  },
+  {
+    "keyword": "GPU PostGIS",
+    "products": [
+      {
+        "asin": "B09FPJL1KY",
+        "title": "GPUサポート、グラフィックカードサポート、ビデオカードたるみ防止ブラケット、GPUスタンド (L、74-120mm)",
+        "imageUrl": "https://m.media-amazon.com/images/I/21QfSEUWo5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09FPJL1KY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "nkomax",
+        "price": "￥999",
+        "priceValue": 999
+      },
+      {
+        "asin": "B08C2CTPV6",
+        "title": "GPUサポート、グラフィックカードサポート、ビデオカードたるみ防止ブラケット、GPUスタンド (黒)",
+        "imageUrl": "https://m.media-amazon.com/images/I/31JuZUzJLOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08C2CTPV6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "nkomax",
+        "price": "￥999",
+        "priceValue": 999
+      },
+      {
+        "asin": "B0BPHKCTGJ",
+        "title": "EZDIY-FAB 汎用ビデオカードホルダー GPUブレースサポート グラボ 支え gpu サポート 伸縮構造ブラケット ARGB 5V 3PINマザーボードの同期 グラフィックカードを固定する GPUを支える GPUブラケット GPUスタンド - 黒",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Kz1xRt39L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BPHKCTGJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "EZDIY-FAB",
+        "price": "￥4,299",
+        "priceValue": 4299
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:18.830Z"
+  },
+  {
+    "keyword": "Cloudflare",
+    "products": [
+      {
+        "asin": "B0CB9VR8V7",
+        "title": "Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！ 技術の泉シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/519VM7ktV6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CB9VR8V7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木村 俊彦",
+        "brand": "インプレス NextPublishing",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "B0F7FH7BB6",
+        "title": "Astro × GitHub × Cloudflareで学ぶモダンWeb開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41oa4pnyLkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F7FH7BB6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "菅野亜実、小山田晃浩",
+        "brand": "Independently published",
+        "price": "￥5,500",
+        "priceValue": 5500
+      },
+      {
+        "asin": "B0CQ8DMBJL",
+        "title": "Cloudflare Simplified: A comprehensive guide for beginners (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/31ZVIuhRoDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CQ8DMBJL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Reid, Dave",
+        "price": "￥563",
+        "priceValue": 563
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:20.584Z"
+  },
+  {
+    "keyword": "Stripe",
+    "products": [
+      {
+        "asin": "B0F4BF2KHN",
+        "title": "【実践編】Next.js / microCMS & Stripeで本格的ECサイト制作 Webhookを利用した商品管理と決済の自動連携｜最新AppRouter｜ローカルでサーバー公開｜本格的なUI構築｜プロ級ポートフォリオで転職・副業に有利◯｜Vercelで公開も可 Vercel & Next.js完全版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51AexPbpx-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BF2KHN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "TorasTech合同会社",
+        "price": "￥4,800",
+        "priceValue": 4800
+      },
+      {
+        "asin": "B0BMQ13888",
+        "title": "Firestore×Stripeで始めるサブスクリプション開発　Firebase最新情報 (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cOwQD80ML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BMQ13888?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 大樹",
+        "brand": "インプレスR&D",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "B005PHTSTC",
+        "title": "Stripes [Blu-ray]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51l5Fw3+RxL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B005PHTSTC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Sony Pictures Home Entertainment",
+        "price": "￥4,441",
+        "priceValue": 4441
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:22.474Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥2,495",
+        "priceValue": 2495
+      },
+      {
+        "asin": "B0F8GJB2VN",
+        "title": "Docker & Kubernetesネットワークのしくみ　クラウドネイティブに求められる情報通信の知識 Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51X90f6j4jL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8GJB2VN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大隈 峻太郎",
+        "brand": "技術評論社",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:24.448Z"
+  }
+]

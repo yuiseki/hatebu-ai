@@ -1,0 +1,179 @@
+[
+  {
+    "keyword": "プログラミング",
+    "products": [
+      {
+        "asin": "4478112193",
+        "title": "アメリカの中学生が学んでいる 14歳からのプログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vZbvTFeOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4478112193?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ワークマンパブリッシング",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "4815615756",
+        "title": "【Amazon.co.jp 限定】1冊ですべて身につくJavaScript入門講座(DL特典:JavaScriptチートシート) (１冊ですべて身につく)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LiLLZvYnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815615756?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mana",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,794",
+        "priceValue": 2794
+      },
+      {
+        "asin": "4297101181",
+        "title": "改訂3版 これからはじめるプログラミング 基礎の基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/518ONmgsnPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4297101181?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "谷尻 かおり",
+        "brand": "技術評論社",
+        "price": "￥2,618",
+        "priceValue": 2618
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:26.509Z"
+  },
+  {
+    "keyword": "テクノロジー",
+    "products": [
+      {
+        "asin": "B0DG1M58LS",
+        "title": "日経テクノロジー展望2025 世界を変える100の技術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Pb1kYZmaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DG1M58LS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "日経BP",
+        "brand": "日経BP",
+        "price": "￥2,475",
+        "priceValue": 2475
+      },
+      {
+        "asin": "B08HH26JXC",
+        "title": "ひと目でわかる　テクノロジーのしくみとはたらき図鑑 イラスト授業シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RB5C9zprL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08HH26JXC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "東辻 賢治郎",
+        "brand": "創元社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "B08JCGNK7J",
+        "title": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス",
+        "imageUrl": "https://m.media-amazon.com/images/I/41T4WtV5icL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08JCGNK7J?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "カール・B・フレイ",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:28.357Z"
+  },
+  {
+    "keyword": "開発ツール",
+    "products": [
+      {
+        "asin": "B07JJJBFC3",
+        "title": "開発ツール徹底攻略 WEB+DB PRESS plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RbbCMo6+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07JJJBFC3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "WEB+DB PRESS編集部",
+        "brand": "技術評論社",
+        "price": "￥2,068",
+        "priceValue": 2068
+      },
+      {
+        "asin": "4798061778",
+        "title": "フロントエンド開発入門 プロフェッショナルな開発ツールと設計・実装",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WuogurA3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798061778?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "安達 稜",
+        "brand": "秀和システム",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "B00MTCU962",
+        "title": "開発ツールを使って学ぶ！C言語プログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SqQQ-rUmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00MTCU962?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "坂井 弘亮",
+        "brand": "マイナビ出版",
+        "price": "￥1,529",
+        "priceValue": 1529
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:30.409Z"
+  },
+  {
+    "keyword": "書籍",
+    "products": [
+      {
+        "asin": "4065405203",
+        "title": "命の燃やし方",
+        "imageUrl": "https://m.media-amazon.com/images/I/316HkUp4BaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065405203?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 大飛",
+        "brand": "講談社",
+        "price": "￥1,650",
+        "priceValue": 1650
+      },
+      {
+        "asin": "4198660387",
+        "title": "四毒抜きのすすめ 小麦・植物油・乳製品・甘いものが体を壊す",
+        "imageUrl": "https://m.media-amazon.com/images/I/41CzJKcnIBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4198660387?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "吉野敏明",
+        "brand": "徳間書店",
+        "price": "￥1,870",
+        "priceValue": 1870
+      },
+      {
+        "asin": "4295408107",
+        "title": "世界の一流は「雑談」で何を話しているのか 年収が上がる会話の中身",
+        "imageUrl": "https://m.media-amazon.com/images/I/51U81eZgX4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295408107?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ピョートル・フェリクス・グジバチ",
+        "brand": "クロスメディア・パブリッシング(インプレス)",
+        "price": "￥1,738",
+        "priceValue": 1738
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:32.307Z"
+  },
+  {
+    "keyword": "学習リソース",
+    "products": [
+      {
+        "asin": "B0CNWD13JQ",
+        "title": "録音可能なサウンドボタン、LED 機能付き録音可能な通話ボタン 学習リソース ブザー 緑 緑",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ub8ZPyEJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CNWD13JQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "YUNFANG",
+        "price": "￥1,359",
+        "priceValue": 1359
+      },
+      {
+        "asin": "B07XNDMYMN",
+        "title": "Attention Resource（アテンション・リソース）",
+        "imageUrl": "https://m.media-amazon.com/images/I/31ooM7YOHwL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07XNDMYMN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "宗澤 岳史",
+        "price": "￥99",
+        "priceValue": 99
+      },
+      {
+        "asin": "B09K3ZJ7J1",
+        "title": "Irishom 録音機能付きブザークイックボタンに応答 学習リソース付きの録音可能なトーキングボタンブザーオレンジ+ブルー+グリーン+ピンク（子供6+に適しています）",
+        "imageUrl": "https://m.media-amazon.com/images/I/414BZvs2tOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09K3ZJ7J1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Irishom",
+        "price": "￥2,589",
+        "priceValue": 2589
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:34.147Z"
+  }
+]
