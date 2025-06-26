@@ -1,0 +1,147 @@
+[
+  {
+    "keyword": "lawsy",
+    "products": [
+      {
+        "asin": "B0BRWD3TSY",
+        "title": "You're Suffering From a Lack of Imagination",
+        "imageUrl": "https://m.media-amazon.com/images/I/41dkXQyULQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BRWD3TSY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "with Lawsy",
+        "brand": "with Lawsy",
+        "price": "￥0",
+        "priceValue": 0
+      },
+      {
+        "asin": "B0CCC8Z7GQ",
+        "title": "Lawsy Pick Up",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Dl62bywTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CCC8Z7GQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lawsy",
+        "brand": "LISTEN TO THE KIDS / Geffen Records",
+        "price": "￥1,600",
+        "priceValue": 1600
+      },
+      {
+        "asin": "B0C49JL89V",
+        "title": "Lawsy",
+        "imageUrl": "https://m.media-amazon.com/images/I/31NCV-F9PTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C49JL89V?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Yoshi Yin",
+        "brand": "LSD Incorperated",
+        "price": "￥200",
+        "priceValue": 200
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:35.900Z"
+  },
+  {
+    "keyword": "CapCut",
+    "products": [
+      {
+        "asin": "429501866X",
+        "title": "(練習用サンプル動画付)人気インフルエンサーのテクニック満載！ スマホでバズるショート動画のつくり方",
+        "imageUrl": "https://m.media-amazon.com/images/I/51iUaxjKfbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/429501866X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "リンクアップ",
+        "brand": "インプレス",
+        "price": "￥2,090",
+        "priceValue": 2090
+      },
+      {
+        "asin": "B0CLHLQDB2",
+        "title": "【スマホで始める動画編集】CapCutマスターブック　初心者からプロフェッショナルまで",
+        "imageUrl": "https://m.media-amazon.com/images/I/31L6x+vYSDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CLHLQDB2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ヤマリョ",
+        "brand": "レシオラボ出版",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "B0F84VV9L3",
+        "title": "はじめてのCapCut: スマホ1つで動画編集ができる 初心者でもプロっぽく仕上がる超入門 (ＹＫブックス)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XF2Nxk0WL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F84VV9L3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "如月大和",
+        "price": "￥250",
+        "priceValue": 250
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:37.674Z"
+  },
+  {
+    "keyword": "Gemini CLI",
+    "products": [],
+    "searchedAt": "2025-06-26T22:14:39.320Z"
+  },
+  {
+    "keyword": "MCP",
+    "products": [
+      {
+        "asin": "B0F99W236S",
+        "title": "MCP AIエージェント開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QPsMiNRUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F99W236S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "B0F78BPDQY",
+        "title": "MCP（Model Context Protocol）超入門: MCPの基本から実装方法まで: Python",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XiAcwws-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F78BPDQY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Joe",
+        "price": "￥980",
+        "priceValue": 980
+      },
+      {
+        "asin": "B09V2BXJPM",
+        "title": "石原産業 株式会社 石原産業 MCPソーダ塩 1.5L",
+        "imageUrl": "https://m.media-amazon.com/images/I/417ZLNPxkuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09V2BXJPM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "石原産業　株式会社",
+        "price": "￥2,571",
+        "priceValue": 2571
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:41.128Z"
+  },
+  {
+    "keyword": "BigQuery",
+    "products": [
+      {
+        "asin": "B0D3B861K6",
+        "title": "BigQueryではじめるSQLデータ分析 GA4 & Search Console & Googleフォーム対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EaHh06MOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D3B861K6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木田和廣",
+        "brand": "インプレス",
+        "price": "￥1,540",
+        "priceValue": 1540
+      },
+      {
+        "asin": "429711948X",
+        "title": "Google Cloudではじめる実践データエンジニアリング入門[業務で使えるデータ基盤構築]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51w8dXNHXbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/429711948X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "下田 倫大",
+        "brand": "技術評論社",
+        "price": "￥4,220",
+        "priceValue": 4220
+      },
+      {
+        "asin": "4295021644",
+        "title": "CDPのつくり方 GA4×BigQueryによる顧客データ基盤 構築・活用実践ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51UlYoZwmKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295021644?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小川 卓",
+        "brand": "インプレス",
+        "price": "￥3,905",
+        "priceValue": 3905
+      }
+    ],
+    "searchedAt": "2025-06-26T22:14:43.027Z"
+  }
+]
