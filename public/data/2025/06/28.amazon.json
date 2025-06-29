@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0F8G7KMYS",
+        "title": "Pythonブートキャンプ［データ分析コース］ ～コードを書くチカラを鍛える3週間集中プログラム",
+        "imageUrl": "https://m.media-amazon.com/images/I/41FyAoFJxsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8G7KMYS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "はやたす",
+        "brand": "技術評論社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "B0F28BLHNT",
+        "title": "独習Python 第2版【リフロー型】",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TgZWa3zlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F28BLHNT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "翔泳社",
+        "price": "￥3,536",
+        "priceValue": 3536
+      }
+    ],
+    "searchedAt": "2025-06-29T02:30:03.330Z"
+  },
+  {
+    "keyword": "機械学習",
+    "products": [
+      {
+        "asin": "4873117984",
+        "title": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GQH7tZNlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873117984?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Andreas C. Muller",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4798185655",
+        "title": "AI開発力を鍛える！機械学習と最適化による問題解決講座 (AI & TECHNOLOGY)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41J0YAiqNkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798185655?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "沓掛 健太朗",
+        "brand": "翔泳社",
+        "price": "￥3,300",
+        "priceValue": 3300
+      },
+      {
+        "asin": "B0B2K4KJ76",
+        "title": "Pythonで動かして学ぶ！あたらしい機械学習の教科書 第3版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51dXqHEbqLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B2K4KJ76?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 真",
+        "brand": "翔泳社",
+        "price": "￥1,485",
+        "priceValue": 1485
+      }
+    ],
+    "searchedAt": "2025-06-29T02:30:05.272Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥2,495",
+        "priceValue": 2495
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      },
+      {
+        "asin": "B0F8GJB2VN",
+        "title": "Docker & Kubernetesネットワークのしくみ　クラウドネイティブに求められる情報通信の知識 Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51X90f6j4jL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8GJB2VN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大隈 峻太郎",
+        "brand": "技術評論社",
+        "price": "￥3,234",
+        "priceValue": 3234
+      }
+    ],
+    "searchedAt": "2025-06-29T02:30:07.096Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0F18K2WR5",
+        "title": "AWSクラウド設計完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Srp9ckILL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F18K2WR5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アクセンチュア 戸賀 慶/福垣内 孝造/竹内 誠一/浪谷 浩一/澤田 拓也/ 崎原 晴香/浅輪 和哉/村田 亜弥",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      },
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,673",
+        "priceValue": 2673
+      }
+    ],
+    "searchedAt": "2025-06-29T02:30:08.911Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0CD7JKS9K",
+        "title": "これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GwdokL7NL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CD7JKS9K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      },
+      {
+        "asin": "4873119383",
+        "title": "Reactハンズオンラーニング 第2版 ―Webアプリケーション開発のベストプラクティス",
+        "imageUrl": "https://m.media-amazon.com/images/I/512GaA55o9S._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119383?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alex Banks",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-06-29T02:30:10.993Z"
+  }
+]
