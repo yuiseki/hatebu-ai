@@ -1,0 +1,74 @@
+[
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "4296208160",
+        "title": "AIエージェント革命 「知能」を雇う時代へ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41GZxhNRNEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296208160?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シグマクシス",
+        "brand": "日経BP",
+        "price": "￥2,310",
+        "priceValue": 2310
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-07-02T00:15:20.517Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥1,210",
+        "priceValue": 1210
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "4863543433",
+        "title": "改訂2版 わかばちゃんと学ぶ Git使い方入門〈GitHub、SourceTree、コマンド操作対応〉",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ITQMzMG2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4863543433?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "湊川 あい",
+        "brand": "シーアンドアール研究所",
+        "price": "￥2,453",
+        "priceValue": 2453
+      }
+    ],
+    "searchedAt": "2025-07-02T00:15:22.340Z"
+  }
+]
