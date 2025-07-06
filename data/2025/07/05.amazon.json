@@ -1,0 +1,149 @@
+[
+  {
+    "keyword": "SharePoint",
+    "products": [
+      {
+        "asin": "B09MRKJ7KS",
+        "title": "ひと目でわかるMicrosoft 365 SharePoint運用管理編",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LppN8MakL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09MRKJ7KS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "オフィスアイ株式会社 平野 愛",
+        "brand": "日経BP",
+        "price": "￥4,455",
+        "priceValue": 4455
+      },
+      {
+        "asin": "B0BQ6D65WS",
+        "title": "よくわかる Microsoft 365使いこなし術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51mdAksVwyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BQ6D65WS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "株式会社富士通ラーニングメディア",
+        "brand": "FOM出版",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "4295017795",
+        "title": "Power Automateではじめる業務の完全自動化（できるエキスパート）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ddwO8kGVL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295017795?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "太田 浩史",
+        "brand": "インプレス",
+        "price": "￥2,860",
+        "priceValue": 2860
+      }
+    ],
+    "searchedAt": "2025-07-06T06:16:42.770Z"
+  },
+  {
+    "keyword": "API",
+    "products": [
+      {
+        "asin": "4873116864",
+        "title": "Web API: The Good Parts",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GHwTNJgSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873116864?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "水野 貴明",
+        "brand": "オライリージャパン",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B01BLCJ97K",
+        "title": "絵で見てわかるクラウドインフラとAPIの仕組み",
+        "imageUrl": "https://m.media-amazon.com/images/I/516Eu57iteL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01BLCJ97K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "平山毅",
+        "brand": "翔泳社",
+        "price": "￥1,419",
+        "priceValue": 1419
+      },
+      {
+        "asin": "B08CK2H12H",
+        "title": "Web APIの設計",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GK-dw0hDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08CK2H12H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Arnaud Lauret",
+        "brand": "翔泳社",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-07-06T06:16:45.251Z"
+  },
+  {
+    "keyword": "Chrome for Developers",
+    "products": [
+      {
+        "asin": "B07N3PNKHB",
+        "title": "Chrome Developer Tools 入門 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/410HlLtAC1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07N3PNKHB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "渋田 美里",
+        "brand": "インプレス NextPublishing",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "B00J4J8XG6",
+        "title": "Google Chrome Developer Tools: Beginners Guide + Video Course (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DQ+pQSZxL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00J4J8XG6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Moxon, Peter",
+        "brand": "SAPPROUK Limited",
+        "price": "￥1,013",
+        "priceValue": 1013
+      },
+      {
+        "asin": "B0F3NQ1D8Z",
+        "title": "SILVERCHROME PAPER DEVELOPER 10L用 シルバークローム ペーパーデベロッパー SILVERCHROME PAPER DEVELOPER 169001",
+        "imageUrl": "https://m.media-amazon.com/images/I/315kR-ezdJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F3NQ1D8Z?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥1,746",
+        "priceValue": 1746
+      }
+    ],
+    "searchedAt": "2025-07-06T06:16:47.204Z"
+  },
+  {
+    "keyword": "Summarization API",
+    "products": [],
+    "searchedAt": "2025-07-06T06:16:48.902Z"
+  },
+  {
+    "keyword": "Prompt API",
+    "products": [
+      {
+        "asin": "1098156153",
+        "title": "Prompt Engineering for Llms: The Art and Science of Building Large Language Model-Based Applications",
+        "imageUrl": "https://m.media-amazon.com/images/I/41dMu5fHiTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1098156153?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Berryman, John",
+        "brand": "O'Reilly Media",
+        "price": "￥8,704",
+        "priceValue": 8704
+      },
+      {
+        "asin": "B0F665GVRY",
+        "title": "Open AI API Bible Volume 1: Foundations of GPT and the OpenAI Ecosystem: From First API Call to Prompt Engineering and Multi-Turn Conversations. ChatGPT ... (OpenAI API Book Trilogy) (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51CX6NQpvCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F665GVRY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Technologies, Cuantum",
+        "brand": "Cuantum Technologies",
+        "price": "￥6,529",
+        "priceValue": 6529
+      },
+      {
+        "asin": "B0FF4RVNFL",
+        "title": "Mastering Claude 4: The Ultimate Guide to AI Productivity, Prompt Engineering & API Integration: Includes 50+ Ready-to-Use Prompt Templates, Python API ... & Real-World Case Studies (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ZKfGZzroL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FF4RVNFL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Daly, Riadh",
+        "price": "￥1,250",
+        "priceValue": 1250
+      }
+    ],
+    "searchedAt": "2025-07-06T06:16:50.824Z"
+  }
+]
