@@ -1,0 +1,174 @@
+[
+  {
+    "keyword": "Makefile",
+    "products": [
+      {
+        "asin": "B09BYPMLR7",
+        "title": "makeショート入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Gk64fusOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BYPMLR7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "TENKAIKEN",
+        "price": "￥100",
+        "priceValue": 100
+      },
+      {
+        "asin": "B0FDQZ4VSK",
+        "title": "Makefile: Step-by-Step Instructional Manual on Unix Makefile Syntax and Structure (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41PmxaAQSaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDQZ4VSK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "PANCHTILAK, NARENDRA",
+        "price": "￥868",
+        "priceValue": 868
+      },
+      {
+        "asin": "B0D4K77J7X",
+        "title": "MS-DOSのmakeの個人史1986: 僕を作ったmakefile物語!",
+        "imageUrl": "https://m.media-amazon.com/images/I/41SNbCQnIvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4K77J7X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川俣 晶",
+        "brand": "株式会社ピーデー",
+        "price": "￥698",
+        "priceValue": 698
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:04.983Z"
+  },
+  {
+    "keyword": "OBS",
+    "products": [
+      {
+        "asin": "4297135558",
+        "title": "YouTubeライブ配信大全 ［OBS Studio対応版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/41x9OBMBn7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4297135558?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "リンクアップ",
+        "brand": "技術評論社",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B0CDWSWLWV",
+        "title": "【Amazon.co.jp限定】Elgato Stream Deck MK.2 エルガトストリームデック MK.2【15キー配列】ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/31lGLJWplBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CDWSWLWV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Elgato",
+        "price": "￥22,980",
+        "priceValue": 22980
+      },
+      {
+        "asin": "B0CZ6XY78Y",
+        "title": "OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ AI搭載 自動追跡 4800万画素 HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows",
+        "imageUrl": "https://m.media-amazon.com/images/I/31VP0ctn9GL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CZ6XY78Y?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "OBSBOT",
+        "price": "￥29,800",
+        "priceValue": 29800
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:06.751Z"
+  },
+  {
+    "keyword": "Supabase",
+    "products": [
+      {
+        "asin": "B0DTFMZRKZ",
+        "title": "Next.jsでつくるフルスタックアプリ　前編（バックエンド開発）Supabase版 Next.jsフルスタック + Supabase",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VP-e1-YQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DTFMZRKZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三好アキ",
+        "price": "￥380",
+        "priceValue": 380
+      },
+      {
+        "asin": "B0D95XLLGW",
+        "title": "Building Production-Grade Web Applications with Supabase: A comprehensive guide to database design, security, real-time data, storage, multi-tenancy, and more (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41r1mfEdGAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D95XLLGW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lorenz, David",
+        "brand": "Packt Publishing",
+        "price": "￥4,051",
+        "priceValue": 4051
+      },
+      {
+        "asin": "B09LM3DCY3",
+        "title": "Next.jsではじめるSupabase 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/512rpWZAnOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09LM3DCY3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NiXieePlus",
+        "brand": "インプレス NextPublishing",
+        "price": "￥990",
+        "priceValue": 990
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:08.516Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4814401132",
+        "title": "LLMのプロンプトエンジニアリング ―GitHub Copilotを生んだ開発者が教える生成AIアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41bbBaojhML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401132?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "John Berryman",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "4814401159",
+        "title": "直感 LLM ―ハンズオンで動かして学ぶ大規模言語モデル入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YJOP71jdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401159?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jay Alammar",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:10.399Z"
+  },
+  {
+    "keyword": "Android",
+    "products": [
+      {
+        "asin": "B0DYJHD1DM",
+        "title": "moto g05 フレッシュラベンダー",
+        "imageUrl": "https://m.media-amazon.com/images/I/31XTl3cZGAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DYJHD1DM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Motorola(モトローラ)",
+        "price": "￥17,091",
+        "priceValue": 17091
+      },
+      {
+        "asin": "B0DHDCVF1L",
+        "title": "シャオミ(Xiaomi) SIMフリー スマートフォン Redmi 14C 8GB+256GB 6.88インチディスプレイ 5160 mAh 大容量バッテリー 18W急速充電 docomo/au/SoftBank/Rakuten Mobile 回線対応 スターリーブルー",
+        "imageUrl": "https://m.media-amazon.com/images/I/31VjAJPaSRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DHDCVF1L?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "シャオミ(Xiaomi)",
+        "price": "￥19,980",
+        "priceValue": 19980
+      },
+      {
+        "asin": "B0CX13FSVQ",
+        "title": "SIMフリー au Xiaomi Redmi 12 ポーラシルバー XIG03 [クロームシルバー] スマートフォン本体",
+        "imageUrl": "https://m.media-amazon.com/images/I/41tE+mLq9wL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CX13FSVQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "au(エーユー)",
+        "price": "￥13,790",
+        "priceValue": 13790
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:12.173Z"
+  }
+]
