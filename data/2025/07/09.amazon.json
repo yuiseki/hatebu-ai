@@ -1,0 +1,177 @@
+[
+  {
+    "keyword": "GitHub Copilot",
+    "products": [
+      {
+        "asin": "B0DFW57CGY",
+        "title": "コード×AIーソフトウェア開発者のための生成AI実践入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41WkhXQZRJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DFW57CGY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "服部 佑樹",
+        "brand": "技術評論社",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B0DQZRWZW8",
+        "title": "GitHub Copilot×Python入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HbKDKmPuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DQZRWZW8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "増田 智明",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      },
+      {
+        "asin": "4814401132",
+        "title": "LLMのプロンプトエンジニアリング ―GitHub Copilotを生んだ開発者が教える生成AIアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41bbBaojhML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401132?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "John Berryman",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-07-11T00:11:54.988Z"
+  },
+  {
+    "keyword": "VS Code",
+    "products": [
+      {
+        "asin": "429713909X",
+        "title": "改訂新版 Visual Studio Code実践ガイド —— 定番コードエディタを使い倒すテクニック",
+        "imageUrl": "https://m.media-amazon.com/images/I/411NiL3UAQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/429713909X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森下 篤",
+        "brand": "技術評論社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      },
+      {
+        "asin": "B09TDNXKL4",
+        "title": "Visual Studio Code完全入門　Webクリエイター&エンジニアの作業がはかどる新世代エディターの操り方",
+        "imageUrl": "https://m.media-amazon.com/images/I/512efZlVCaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09TDNXKL4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "リブロワークス",
+        "brand": "インプレス",
+        "price": "￥1,320",
+        "priceValue": 1320
+      },
+      {
+        "asin": "4800713145",
+        "title": "これ1冊でできる! Visual Studio Code 超入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WoV7j1-vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4800713145?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三沢友治",
+        "brand": "ソーテック社",
+        "price": "￥2,618",
+        "priceValue": 2618
+      }
+    ],
+    "searchedAt": "2025-07-11T00:11:57.596Z"
+  },
+  {
+    "keyword": "code review",
+    "products": [
+      {
+        "asin": "B0DCNT4WMQ",
+        "title": "Code Review Mastery: Top Techniques and Resources for Excellent Code (Books on Tech)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41JTyez616L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DCNT4WMQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Royce, Taylor",
+        "brand": "Independently published",
+        "price": "￥1,769",
+        "priceValue": 1769
+      },
+      {
+        "asin": "B0CGYYBHPQ",
+        "title": "Code Reviews as a Mentoring Opportunity: Creating Growth Through Collaboration",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VmrINsz5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CGYYBHPQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Foster, James",
+        "brand": "Independently published",
+        "price": "￥1,287",
+        "priceValue": 1287
+      },
+      {
+        "asin": "1633438120",
+        "title": "\"Looks Good To Me\": Constructive code reviews",
+        "imageUrl": "https://m.media-amazon.com/images/I/41GJYy3aYgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1633438120?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Braganza, Adrienne",
+        "brand": "Manning",
+        "price": "￥8,551",
+        "priceValue": 8551
+      }
+    ],
+    "searchedAt": "2025-07-11T00:11:59.476Z"
+  },
+  {
+    "keyword": "customization",
+    "products": [
+      {
+        "asin": "B076XPZ41T",
+        "title": "Microsoft Dynamics 365 (CRM) Customization and Configuration (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51E8T1z2V6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B076XPZ41T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kumar, Neeraj",
+        "price": "￥749",
+        "priceValue": 749
+      },
+      {
+        "asin": "B00MNC533W",
+        "title": "AutoCAD Platform Customization: AutoLISP (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51oCK4zsiOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00MNC533W?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ambrosius, Lee",
+        "brand": "Sybex",
+        "price": "￥2,168",
+        "priceValue": 2168
+      },
+      {
+        "asin": "B002BA5KYS",
+        "title": "Mass Customization: How Build to Order, Assemble to Order, Configure to Order, Make to Order, and Engineer to Order Manufacturers Increase Profits and Better Satisfy Customers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41O9+kEg7wL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B002BA5KYS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "David J. Gardner",
+        "brand": "Happy About",
+        "price": "￥792",
+        "priceValue": 792
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:01.248Z"
+  },
+  {
+    "keyword": "release",
+    "products": [
+      {
+        "asin": "B07J24QBL5",
+        "title": "RELEASE THE SPYCE",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Oon03bSrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07J24QBL5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "さとう陽"
+      },
+      {
+        "asin": "B01FJJU9XE",
+        "title": "Release (ディアプラス文庫)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51LdZuwe9PL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01FJJU9XE?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "月村奎",
+        "brand": "新書館",
+        "price": "￥614",
+        "priceValue": 614
+      },
+      {
+        "asin": "B08FTDZJ38",
+        "title": "Share the Light Release Tour 2019 Live at Ebisu LIQUIDROOM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51pM2VGQbHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08FTDZJ38?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "佐藤大",
+        "price": "￥1,500",
+        "priceValue": 1500
+      }
+    ],
+    "searchedAt": "2025-07-11T00:12:03.208Z"
+  }
+]
