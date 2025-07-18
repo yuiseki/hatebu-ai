@@ -1,0 +1,179 @@
+[
+  {
+    "keyword": "Kiro",
+    "products": [
+      {
+        "asin": "B08ZDSXVQM",
+        "title": "AXE(アックス) フレグランス ボディスプレー キロ 60g×3個 リーフレット付き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41R6+XpPSPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08ZDSXVQM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "AXE(アックス)",
+        "price": "￥1,749",
+        "priceValue": 1749
+      },
+      {
+        "asin": "B0DY5CGVNS",
+        "title": "キロ24 / Kiro 24 153036 4222 Lava Red 24L",
+        "imageUrl": "https://m.media-amazon.com/images/I/31gfsJPF-BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DY5CGVNS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Gregory",
+        "price": "￥19,394",
+        "priceValue": 19394
+      },
+      {
+        "asin": "B0CQC2W3KB",
+        "title": "オサジ ニュアンス レゾナンス アイライナー [繊細な線が自在に引けるペンシルタイプのアイライナー] 0.07g 04 Kiro [帰路]",
+        "imageUrl": "https://m.media-amazon.com/images/I/21Xqkd7RvvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CQC2W3KB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "OSAJI",
+        "price": "￥3,190",
+        "priceValue": 3190
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:58.823Z"
+  },
+  {
+    "keyword": "VS Code",
+    "products": [
+      {
+        "asin": "B09TDNXKL4",
+        "title": "Visual Studio Code完全入門　Webクリエイター&エンジニアの作業がはかどる新世代エディターの操り方",
+        "imageUrl": "https://m.media-amazon.com/images/I/512efZlVCaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09TDNXKL4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "リブロワークス",
+        "brand": "インプレス",
+        "price": "￥2,587",
+        "priceValue": 2587
+      },
+      {
+        "asin": "429713909X",
+        "title": "改訂新版 Visual Studio Code実践ガイド —— 定番コードエディタを使い倒すテクニック",
+        "imageUrl": "https://m.media-amazon.com/images/I/411NiL3UAQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/429713909X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森下 篤",
+        "brand": "技術評論社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      },
+      {
+        "asin": "4800713145",
+        "title": "これ1冊でできる! Visual Studio Code 超入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WoV7j1-vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4800713145?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三沢友治",
+        "brand": "ソーテック社",
+        "price": "￥2,618",
+        "priceValue": 2618
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:00.781Z"
+  },
+  {
+    "keyword": "AI agent",
+    "products": [
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "B0DWNH8BJ4",
+        "title": "AI Agents in Action (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419W7MaaHBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWNH8BJ4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lanham, Micheal",
+        "brand": "Manning",
+        "price": "￥7,134",
+        "priceValue": 7134
+      },
+      {
+        "asin": "B0FCGQVV6V",
+        "title": "AIエージェント革命 「知能」を雇う時代へ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+CV5yztOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FCGQVV6V?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シグマクシス",
+        "brand": "日経BP",
+        "price": "￥2,264",
+        "priceValue": 2264
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:02.616Z"
+  },
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,960",
+        "priceValue": 1960
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "4065402093",
+        "title": "Pythonで動かしながら学ぶ コンピュータネットワーク (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DX6qNjAlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065402093?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山 悠",
+        "brand": "講談社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:05.330Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥2,495",
+        "priceValue": 2495
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      },
+      {
+        "asin": "B0BV8VCCYX",
+        "title": "Docker実践ガイド 第3版 impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/518YvXHcICL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BV8VCCYX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "古賀政純",
+        "brand": "インプレス",
+        "price": "￥4,096",
+        "priceValue": 4096
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:07.131Z"
+  }
+]
