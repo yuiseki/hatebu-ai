@@ -1,0 +1,181 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,960",
+        "priceValue": 1960
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "4065402093",
+        "title": "Pythonで動かしながら学ぶ コンピュータネットワーク (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DX6qNjAlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065402093?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山 悠",
+        "brand": "講談社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:27.384Z"
+  },
+  {
+    "keyword": "機械学習",
+    "products": [
+      {
+        "asin": "4873117984",
+        "title": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GQH7tZNlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873117984?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Andreas C. Muller",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4798185655",
+        "title": "AI開発力を鍛える！機械学習と最適化による問題解決講座 (AI & TECHNOLOGY)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41J0YAiqNkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798185655?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "沓掛 健太朗",
+        "brand": "翔泳社",
+        "price": "￥3,300",
+        "priceValue": 3300
+      },
+      {
+        "asin": "B0B2K4KJ76",
+        "title": "Pythonで動かして学ぶ！あたらしい機械学習の教科書 第3版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51dXqHEbqLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B2K4KJ76?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 真",
+        "brand": "翔泳社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:29.338Z"
+  },
+  {
+    "keyword": "PyTorch",
+    "products": [
+      {
+        "asin": "B09G622WB6",
+        "title": "最短コースでわかる PyTorch ＆深層学習プログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/519TMBQS5vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09G622WB6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "赤石 雅典",
+        "brand": "日経BP",
+        "price": "￥3,663",
+        "priceValue": 3663
+      },
+      {
+        "asin": "B08V8HFCPZ",
+        "title": "PyTorch実践入門: ディープラーニングの基礎から実装へ Compass Booksシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51E2sYet0gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08V8HFCPZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Eli Stevens",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "B07VPDVNKW",
+        "title": "つくりながら学ぶ！PyTorchによる発展ディープラーニング",
+        "imageUrl": "https://m.media-amazon.com/images/I/41eMi0Q6DOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07VPDVNKW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小川 雄太郎",
+        "brand": "マイナビ出版",
+        "price": "￥3,445",
+        "priceValue": 3445
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:31.124Z"
+  },
+  {
+    "keyword": "DQN",
+    "products": [
+      {
+        "asin": "B0CPHVMRDX",
+        "title": "NTRレ×プ 修学旅行で彼女といい雰囲気だったのに、鬼●DQN集団にボコられて「彼女を好きにして下さい」と言わされて目の前で犯され中出しされた 天海一華 かぐや姫Pt/妄想族 [DVD]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GX5vpK-RL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CPHVMRDX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "天海一華",
+        "brand": "モウソウゾク",
+        "price": "￥414",
+        "priceValue": 414
+      },
+      {
+        "asin": "B0DQJY2XJ5",
+        "title": "DQNの星に嫁ぎました　分冊版　1話 (漫画のシュララ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/512ulAbuiCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DQJY2XJ5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "荻安理紗",
+        "brand": "ytvメディアデザイン",
+        "price": "￥0",
+        "priceValue": 0
+      },
+      {
+        "asin": "B0B95WQMMF",
+        "title": "DQN校は俺の巨◯に夢中～発情ギャル軍団とまさかの青春セックス三昧!?～　1巻 (アララブMAX)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51edarfvG6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B95WQMMF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "フリーダムプロフェット",
+        "brand": "FILL-IN",
+        "price": "￥275",
+        "priceValue": 275
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:32.988Z"
+  },
+  {
+    "keyword": "Image Classification",
+    "products": [
+      {
+        "asin": "B07NKT94GV",
+        "title": "Image Classification: Step-by-step Classifying Images with Python and Techniques of Computer Vision and Machine Learning (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ylXW4Pb7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07NKT94GV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Magic, Mark",
+        "brand": "M.J. Magic Publishing",
+        "price": "￥1,249",
+        "priceValue": 1249
+      },
+      {
+        "asin": "B0BDGF3FV1",
+        "title": "Transfer Learning for Image Classification: With Python Examples (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51H+w6I1uRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BDGF3FV1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kuo, Chris",
+        "price": "￥3,321",
+        "priceValue": 3321
+      },
+      {
+        "asin": "B0DKFCFVDZ",
+        "title": "IMAGE CLASSIFICATION FOR AUTONOMOUS VEHICLES",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HMyRqICZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DKFCFVDZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sharma, Nikita",
+        "brand": "Independently published",
+        "price": "￥2,467",
+        "priceValue": 2467
+      }
+    ],
+    "searchedAt": "2025-07-18T05:16:34.818Z"
+  }
+]

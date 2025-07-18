@@ -1,0 +1,146 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,960",
+        "priceValue": 1960
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "4065402093",
+        "title": "Pythonで動かしながら学ぶ コンピュータネットワーク (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DX6qNjAlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065402093?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山 悠",
+        "brand": "講談社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:08.789Z"
+  },
+  {
+    "keyword": "Azure",
+    "products": [
+      {
+        "asin": "B0F51FB7BB",
+        "title": "Azureの知識地図 〜クラウドの基礎から実装・運用管理まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HVC7jezzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F51FB7BB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "土田 純平",
+        "brand": "技術評論社",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B0DFB21TJ3",
+        "title": "Azureネットワーク設計・構築入門　基礎知識から利用シナリオ、設計・運用ベストプラクティスまで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lIOVhZdbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DFB21TJ3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山本 学",
+        "brand": "インプレス",
+        "price": "￥3,450",
+        "priceValue": 3450
+      },
+      {
+        "asin": "B0CK8DS31Y",
+        "title": "1週間でMicrosoft Azure資格の基礎が学べる本 かんたん合格シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wZPDRiX+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CK8DS31Y?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "株式会社ソフィアネットワーク 新井 慎太朗",
+        "brand": "インプレス",
+        "price": "￥2,695",
+        "priceValue": 2695
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:11.634Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "4296208160",
+        "title": "AIエージェント革命 「知能」を雇う時代へ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41GZxhNRNEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296208160?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シグマクシス",
+        "brand": "日経BP",
+        "price": "￥2,310",
+        "priceValue": 2310
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:13.635Z"
+  },
+  {
+    "keyword": "API",
+    "products": [
+      {
+        "asin": "4873116864",
+        "title": "Web API: The Good Parts",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GHwTNJgSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873116864?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "水野 貴明",
+        "brand": "オライリージャパン",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B01BLCJ97K",
+        "title": "絵で見てわかるクラウドインフラとAPIの仕組み",
+        "imageUrl": "https://m.media-amazon.com/images/I/516Eu57iteL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01BLCJ97K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "平山毅",
+        "brand": "翔泳社",
+        "price": "￥2,554",
+        "priceValue": 2554
+      },
+      {
+        "asin": "B08CK2H12H",
+        "title": "Web APIの設計",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GK-dw0hDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08CK2H12H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Arnaud Lauret",
+        "brand": "翔泳社",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-07-18T05:17:15.701Z"
+  }
+]
