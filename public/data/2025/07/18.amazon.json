@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,902",
+        "priceValue": 3902
+      },
+      {
+        "asin": "4814401132",
+        "title": "LLMのプロンプトエンジニアリング ―GitHub Copilotを生んだ開発者が教える生成AIアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41bbBaojhML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401132?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "John Berryman",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "4814401159",
+        "title": "直感 LLM ―ハンズオンで動かして学ぶ大規模言語モデル入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YJOP71jdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401159?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jay Alammar",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      }
+    ],
+    "searchedAt": "2025-07-21T11:05:22.072Z"
+  },
+  {
+    "keyword": "SQL",
+    "products": [
+      {
+        "asin": "4814400748",
+        "title": "SQLアンチパターン 第2版 ―データベースプログラミングで陥りがちな失敗とその対策",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DyQOCNuCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400748?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bill Karwin",
+        "brand": "オーム社",
+        "price": "￥4,290",
+        "priceValue": 4290
+      },
+      {
+        "asin": "B07GB4CNKP",
+        "title": "達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51va-3sED3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07GB4CNKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,475",
+        "priceValue": 2475
+      },
+      {
+        "asin": "B01HD5VWWO",
+        "title": "SQL 第2版 ゼロからはじめるデータベース操作",
+        "imageUrl": "https://m.media-amazon.com/images/I/51N++ifzamL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01HD5VWWO?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,027",
+        "priceValue": 2027
+      }
+    ],
+    "searchedAt": "2025-07-21T11:05:24.914Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,940",
+        "priceValue": 1940
+      },
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-07-21T11:05:27.397Z"
+  },
+  {
+    "keyword": "TypeScript",
+    "products": [
+      {
+        "asin": "B09Y527YPV",
+        "title": "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BhhfT6IyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09Y527YPV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 僚太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4814400365",
+        "title": "初めてのTypeScript ―型安全なJavaScriptでWeb開発を加速する",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VRvb0cdmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400365?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Josh Goldberg",
+        "brand": "オーム社",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4814401094",
+        "title": "Effective TypeScript 第2版 ―型システムの力を最大限に引き出す83項目",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wCuCl0r-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401094?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Dan Vanderkam",
+        "brand": "オーム社",
+        "price": "￥4,620",
+        "priceValue": 4620
+      }
+    ],
+    "searchedAt": "2025-07-21T11:05:29.455Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0F2DXKCPB",
+        "title": "開発系エンジニアのためのGit/GitHub絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ql-DQTiHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2DXKCPB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山岡滉治",
+        "brand": "秀和システム",
+        "price": "￥1,871",
+        "priceValue": 1871
+      }
+    ],
+    "searchedAt": "2025-07-21T11:05:31.267Z"
+  }
+]
