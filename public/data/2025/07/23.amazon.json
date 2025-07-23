@@ -1,0 +1,144 @@
+[
+  {
+    "keyword": "npm",
+    "products": [
+      {
+        "asin": "4771037256",
+        "title": "NPMの導入と変容―地方自治体の20年―",
+        "imageUrl": "https://m.media-amazon.com/images/I/31DzB20TucL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4771037256?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山中 雄次",
+        "brand": "晃洋書房",
+        "price": "￥3,850",
+        "priceValue": 3850
+      },
+      {
+        "asin": "4623093719",
+        "title": "行政改革の国際比較：ＮＰＭを超えて",
+        "imageUrl": "https://m.media-amazon.com/images/I/417SOcomZRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4623093719?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ｃ・ポリット",
+        "brand": "ミネルヴァ書房",
+        "price": "￥5,500",
+        "priceValue": 5500
+      },
+      {
+        "asin": "B0F8PVXKP1",
+        "title": "自治体職員とＮＰＭ、協働 「地方分権と政策法務」の時代",
+        "imageUrl": "https://m.media-amazon.com/images/I/31WyICyr5WL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8PVXKP1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山口　道昭",
+        "price": "￥250",
+        "priceValue": 250
+      }
+    ],
+    "searchedAt": "2025-07-23T23:48:23.594Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,320",
+        "priceValue": 1320
+      }
+    ],
+    "searchedAt": "2025-07-23T23:48:25.403Z"
+  },
+  {
+    "keyword": "vector tiles",
+    "products": [
+      {
+        "asin": "B08JQM49KK",
+        "title": "A La Maison Ceilings R187 ベクターフォーム 接着剤付き シーリングタイル (128平方フィート/ケース) プレーンホワイト",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XgKLSwFeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08JQM49KK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "A La Maison Ceilings",
+        "price": "￥43,225",
+        "priceValue": 43225
+      },
+      {
+        "asin": "B0C87F9G4Q",
+        "title": "Composition Notebook Wide Ruled: Random Cute Kawaii Vector Tile Illustration, Size 8.5x11 Inch, 120 Pages",
+        "imageUrl": "https://m.media-amazon.com/images/I/41fF0Q-7TBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C87F9G4Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Cobb, Bobby",
+        "brand": "Independently published",
+        "price": "￥1,077",
+        "priceValue": 1077
+      },
+      {
+        "asin": "B08HX86K3G",
+        "title": "La Maison Ceilings R187 ベクターフォーム 接着剤付き シーリングタイル (1ケースあたり256平方フィート) 96枚入 無地ホワイト",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XgKLSwFeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08HX86K3G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "A La Maison Ceilings",
+        "price": "￥112,604",
+        "priceValue": 112604
+      }
+    ],
+    "searchedAt": "2025-07-23T23:48:27.497Z"
+  },
+  {
+    "keyword": "OpenStreetMap",
+    "products": [
+      {
+        "asin": "3865413757",
+        "title": "OpenStreetMap: Die freie Weltkarte nutzen und mitgestalten",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RmXvBFftL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3865413757?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥6,617",
+        "priceValue": 6617
+      },
+      {
+        "asin": "B0FH6VMHDJ",
+        "title": "【2025年最新地图】9インチ ポータブル カーナビ, 1Seg DTV ワンセグテレビ,準天頂衛星QZSS+GPS高精度測位SBAS/WAAS星基强化，OpenStreetMap製地図, 2D/3Dビューモード，昼夜画面切替・文字サイズの変更, オービス警告,8Gメモリー キャパシタタッチパネル, MP3/WMA再生, microSD対応，12V/24V車対応，ゲル吸盤式車載用スタンド",
+        "imageUrl": "https://m.media-amazon.com/images/I/41nVsNOI6RL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FH6VMHDJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Supeimco",
+        "price": "￥16,580",
+        "priceValue": 16580
+      },
+      {
+        "asin": "B0DPPWTFFK",
+        "title": "[東京Deco] 2025最新地図 7インチ ドラレコ付きカーナビ 前後ドラレコ搭載(200万画素+100万画素) 最新地図 ワンセグ 3年無料更新付き [最新2025 ドライブレコーダー搭載ナビゲーション] OpenStreetMap製地図/オービス警告/GPS高精度測位/SBAS/WAAS星基强化/安全運転アシスト/車用ナビ 車載GPS 12V/24V車対応 タッチパネル o000",
+        "imageUrl": "https://m.media-amazon.com/images/I/51gdZPYk25L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPPWTFFK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ROOMMATE",
+        "price": "￥13,800",
+        "priceValue": 13800
+      }
+    ],
+    "searchedAt": "2025-07-23T23:48:29.319Z"
+  },
+  {
+    "keyword": "Schemathesis",
+    "products": [],
+    "searchedAt": "2025-07-23T23:48:31.002Z"
+  }
+]
