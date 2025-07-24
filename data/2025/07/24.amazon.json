@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "Dream-Coder 7B",
+    "products": [],
+    "searchedAt": "2025-07-24T21:24:54.738Z"
+  },
+  {
+    "keyword": "povo AI",
+    "products": [
+      {
+        "asin": "B0CJN3Q2GY",
+        "title": "プラトーン (吹替版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DnNjMQoKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CJN3Q2GY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Oliver Stone"
+      },
+      {
+        "asin": "B0963JCKDQ",
+        "title": "フリーダ",
+        "imageUrl": "https://m.media-amazon.com/images/I/518WmAPAweL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0963JCKDQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Julie Taymor",
+        "price": "￥100",
+        "priceValue": 100
+      },
+      {
+        "asin": "B0B5Y2D2ZR",
+        "title": "不都合な真実",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gWSAJAwcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B5Y2D2ZR?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Davis Guggenheim",
+        "price": "￥500",
+        "priceValue": 500
+      }
+    ],
+    "searchedAt": "2025-07-24T21:24:56.711Z"
+  },
+  {
+    "keyword": "GPT-4o",
+    "products": [
+      {
+        "asin": "B0CTMDZCX6",
+        "title": "【OpenAI\"GPT-4o\"搭載】Amazfit Active 42mm AIによる音声操作と睡眠/運動管理 スマートウォッチ 14日間持続ロングバッテリー iPhone Android対応 音楽保存 通話機能 24時間健康管理 心拍数 睡眠 ストレス GPS内蔵 ナビゲーション 120+スポーツモード Line アプリ通知 5atm防水 ミニアプリ レディース 腕時計 （ミッドナイトブラック）",
+        "imageUrl": "https://m.media-amazon.com/images/I/4185NN4H74L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CTMDZCX6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Amazfit",
+        "price": "￥17,910",
+        "priceValue": 17910
+      },
+      {
+        "asin": "B0BZN234H6",
+        "title": "【GPT-4対応】【入門書】小学生でもわかるようにChatGPTを教えて: 「万能プロンプト」「登録方法〜使い方」「仕事にすぐ使える活用例」「便利な拡張機能」まで、この一冊だけで使いこなせる！【入門書＆実践書】【GPT-4oも対応】 AIスキルアップ",
+        "imageUrl": "https://m.media-amazon.com/images/I/511ynifXJYL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BZN234H6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "清原将吾",
+        "brand": "ALLVD",
+        "price": "￥498",
+        "priceValue": 498
+      },
+      {
+        "asin": "B0DX1WSD3X",
+        "title": "FoCase Rec AI音声テキスト変換用アプリ付きボイスレコーダー GPT-4oサマリー、マインドマッピング、64GBストレージ、磁気デザイン、通話、講義、会議用のディクタフォン (ホワイト)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ttL5A43-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DX1WSD3X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "FOCASE REC",
+        "price": "￥5,499",
+        "priceValue": 5499
+      }
+    ],
+    "searchedAt": "2025-07-24T21:24:58.509Z"
+  },
+  {
+    "keyword": "Perplexity Sonar Pro",
+    "products": [],
+    "searchedAt": "2025-07-24T21:25:00.224Z"
+  },
+  {
+    "keyword": "opendia",
+    "products": [],
+    "searchedAt": "2025-07-24T21:25:01.890Z"
+  }
+]
