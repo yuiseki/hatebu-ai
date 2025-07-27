@@ -1,0 +1,149 @@
+[
+  {
+    "keyword": "SwiftUI",
+    "products": [
+      {
+        "asin": "B0DK92BHZF",
+        "title": "SwiftUI対応 たった2日でマスターできる iPhoneアプリ開発集中講座 Xcode16/iOS18/Swift6.0対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/416Wmk7AfzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK92BHZF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "藤治仁",
+        "brand": "ソシム",
+        "price": "￥2,800",
+        "priceValue": 2800
+      },
+      {
+        "asin": "B0BLHC8JFT",
+        "title": "詳細！SwiftUI iPhoneアプリ開発 入門ノート[2022]　iOS 16+Xcode 14対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/51G4O49GX3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BLHC8JFT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大重 美幸",
+        "brand": "ソーテック社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "4297141906",
+        "title": "［改訂第3版］Swiftポケットリファレンス (Pocket reference)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VwaVJ+XkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4297141906?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "WINGSプロジェクト 片渕 彼富",
+        "brand": "技術評論社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:09.684Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,320",
+        "priceValue": 1320
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:11.327Z"
+  },
+  {
+    "keyword": "HuggingFace",
+    "products": [
+      {
+        "asin": "B09BKKZT56",
+        "title": "Python Transformers 実装ハンズオン１０１本ノック: huggingface transformersでALBERT/ViT/BigBird他最新モデルを高速実装 (神草出版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TVpaJOwRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BKKZT56?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "神草　経知",
+        "price": "￥780",
+        "priceValue": 780
+      },
+      {
+        "asin": "B0F2T9DXR3",
+        "title": "Building Multi-Agent Systems using HuggingFace Models (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41X3GyI+SXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2T9DXR3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Nandipati, Sai Karun",
+        "brand": "N.S.Sai Karun",
+        "price": "￥2,263",
+        "priceValue": 2263
+      },
+      {
+        "asin": "B09CNRDX6P",
+        "title": "Python Transformers By Huggingface Hands On: 101 practical implementation hands-on of ALBERT/ViT/BigBird and other latest models with huggingface transformers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jFCFLY9lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09CNRDX6P?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Cage, Joshua K.",
+        "price": "￥974",
+        "priceValue": 974
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:13.109Z"
+  },
+  {
+    "keyword": "Notion",
+    "products": [
+      {
+        "asin": "B0DRM6BBFN",
+        "title": "Notion なんでも事典",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pE4CJiWaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DRM6BBFN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "溝口 雅子",
+        "brand": "技術評論社",
+        "price": "￥2,587",
+        "priceValue": 2587
+      },
+      {
+        "asin": "B0CHHFZL1Q",
+        "title": "Notionライフハック 暮らしに役立つ36のアイデアとテンプレート",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OHawHJCnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CHHFZL1Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Rei",
+        "brand": "翔泳社",
+        "price": "￥1,663",
+        "priceValue": 1663
+      },
+      {
+        "asin": "B0B6NMR6H7",
+        "title": "はじめるNotion　使いかたを自由にデザインするための、基本、コツ、アイデア",
+        "imageUrl": "https://m.media-amazon.com/images/I/41nSomTp0LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B6NMR6H7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "溝口 雅子",
+        "brand": "技術評論社",
+        "price": "￥1,811",
+        "priceValue": 1811
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:14.928Z"
+  },
+  {
+    "keyword": "SmolLM3-3B",
+    "products": [],
+    "searchedAt": "2025-07-27T00:13:16.605Z"
+  }
+]
