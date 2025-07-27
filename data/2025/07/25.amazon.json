@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,320",
+        "priceValue": 1320
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:00.030Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,940",
+        "priceValue": 1940
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:02.060Z"
+  },
+  {
+    "keyword": "データベース",
+    "products": [
+      {
+        "asin": "B0D8N5G9GT",
+        "title": "達人に学ぶDB設計徹底指南書 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XBCer8UfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8N5G9GT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "B0F83SSPP8",
+        "title": "データベースをなぜつくるのか　知っておきたいE-R図とSQLの基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JnepWN0tL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F83SSPP8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "矢沢久雄",
+        "brand": "日経BP",
+        "price": "￥2,475",
+        "priceValue": 2475
+      },
+      {
+        "asin": "B0D7NZHDH5",
+        "title": "おうちで学べるデータベースのきほん 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51B0jl-G6VL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D7NZHDH5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:03.898Z"
+  },
+  {
+    "keyword": "SQL",
+    "products": [
+      {
+        "asin": "4814400748",
+        "title": "SQLアンチパターン 第2版 ―データベースプログラミングで陥りがちな失敗とその対策",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DyQOCNuCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400748?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bill Karwin",
+        "brand": "オーム社",
+        "price": "￥4,290",
+        "priceValue": 4290
+      },
+      {
+        "asin": "B07GB4CNKP",
+        "title": "達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51va-3sED3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07GB4CNKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,695",
+        "priceValue": 2695
+      },
+      {
+        "asin": "B01HD5VWWO",
+        "title": "SQL 第2版 ゼロからはじめるデータベース操作",
+        "imageUrl": "https://m.media-amazon.com/images/I/51N++ifzamL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01HD5VWWO?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,027",
+        "priceValue": 2027
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:05.742Z"
+  },
+  {
+    "keyword": "プログラミング",
+    "products": [
+      {
+        "asin": "4478112193",
+        "title": "アメリカの中学生が学んでいる 14歳からのプログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vZbvTFeOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4478112193?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ワークマンパブリッシング",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "4797383100",
+        "title": "プログラミング入門講座――基本と思考法と重要事項がきちんと学べる授業",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XO9DhfTtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4797383100?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "米田 昌悟",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "4815615756",
+        "title": "【Amazon.co.jp 限定】1冊ですべて身につくJavaScript入門講座(DL特典:JavaScriptチートシート) (１冊ですべて身につく)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LiLLZvYnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815615756?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mana",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,794",
+        "priceValue": 2794
+      }
+    ],
+    "searchedAt": "2025-07-27T00:13:07.901Z"
+  }
+]
