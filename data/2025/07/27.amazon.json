@@ -1,0 +1,155 @@
+[
+  {
+    "keyword": "Gemini CLI",
+    "products": [
+      {
+        "asin": "B0FGF9Z1QZ",
+        "title": "Gemini CLI完全攻略マニュアル: セットアップから活用事例まで、最速で使いこなすための完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/41JNfpbYSrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGF9Z1QZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AIマスター",
+        "price": "￥500",
+        "priceValue": 500
+      },
+      {
+        "asin": "B0FH2RT2GM",
+        "title": "最強AIで資料作成革命！Gemini CLI×Marp×Canva完全ガイド: 無料AIツールで驚異のスピードとクオリティを実現する資料作成メソッド",
+        "imageUrl": "https://m.media-amazon.com/images/I/41mYu-cI4DL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FH2RT2GM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AIラボ",
+        "price": "￥500",
+        "priceValue": 500
+      },
+      {
+        "asin": "B0FGWYLKKC",
+        "title": "美少女と学ぶGemini CLI活用術: AIとコマンドラインで開発がもっと楽しくなる！",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DhZ6B7htL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGWYLKKC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "MirAI",
+        "price": "￥250",
+        "priceValue": 250
+      }
+    ],
+    "searchedAt": "2025-07-28T07:25:14.944Z"
+  },
+  {
+    "keyword": "Opal",
+    "products": [
+      {
+        "asin": "B006ZOO8I0",
+        "title": "Opal オパール ソックヤーン 毛糸 『Van Gogh (ヴァン・ゴッホ) 4ply 5437番色』",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z1O2jabgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B006ZOO8I0?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "OPAL",
+        "price": "￥2,090",
+        "priceValue": 2090
+      },
+      {
+        "asin": "B0DG8DTB1K",
+        "title": "毛糸 ソックヤーン Opal オパール KFS気仙沼動物園 4ply（4本撚り） ウール混 KFS231.オウム",
+        "imageUrl": "https://m.media-amazon.com/images/I/413XKIQJMIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DG8DTB1K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "OPAL",
+        "price": "￥2,090",
+        "priceValue": 2090
+      },
+      {
+        "asin": "B0FC21RHGF",
+        "title": "Opal 毛糸 Aquarell(アクアレルー）全8玉セット福袋",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Qk6kH5NKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FC21RHGF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥13,200",
+        "priceValue": 13200
+      }
+    ],
+    "searchedAt": "2025-07-28T07:25:16.867Z"
+  },
+  {
+    "keyword": "GitHub Spark",
+    "products": [
+      {
+        "asin": "B0CS6GZ85Y",
+        "title": "GOOZEEZOO ラジオベリージュースUSBボード Radioberry USB-PC対応 SDR (v3) / Thetis SDR/Spark SDR/Pihpsdr WindowsまたはLinux対応 ソフトウェア定義ラジオ (SDR)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51A9KJz0ngL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CS6GZ85Y?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "GOOZEEZOO",
+        "price": "￥13,436",
+        "priceValue": 13436
+      }
+    ],
+    "searchedAt": "2025-07-28T07:25:18.679Z"
+  },
+  {
+    "keyword": "Cloudflare",
+    "products": [
+      {
+        "asin": "B0CB9VR8V7",
+        "title": "Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！ 技術の泉シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/519VM7ktV6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CB9VR8V7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "木村 俊彦",
+        "brand": "インプレス NextPublishing",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0DP3M3BHG",
+        "title": "Serverless Apps on Cloudflare: Build Solutions, Not Infrastructure (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OagQ7qmRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DP3M3BHG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Peacock, Ashley",
+        "brand": "Pragmatic Bookshelf",
+        "price": "￥7,470",
+        "priceValue": 7470
+      },
+      {
+        "asin": "B0F7FH7BB6",
+        "title": "Astro × GitHub × Cloudflareで学ぶモダンWeb開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41F237O1rpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F7FH7BB6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "菅野亜実、小山田晃浩",
+        "brand": "Independently published",
+        "price": "￥5,500",
+        "priceValue": 5500
+      }
+    ],
+    "searchedAt": "2025-07-28T07:25:20.440Z"
+  },
+  {
+    "keyword": "AI agents",
+    "products": [
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "B0DWNH8BJ4",
+        "title": "AI Agents in Action (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419W7MaaHBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWNH8BJ4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lanham, Micheal",
+        "brand": "Manning",
+        "price": "￥7,134",
+        "priceValue": 7134
+      },
+      {
+        "asin": "B0F1DS36YC",
+        "title": "Agentic Artificial Intelligence: Harnessing AI Agents to Reinvent Business, Work and Life (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zfBKNYfAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F1DS36YC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bornet, Pascal",
+        "brand": "Irreplaceable Publishing",
+        "price": "￥1,250",
+        "priceValue": 1250
+      }
+    ],
+    "searchedAt": "2025-07-28T07:25:22.255Z"
+  }
+]
