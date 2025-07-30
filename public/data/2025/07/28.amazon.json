@@ -1,0 +1,130 @@
+[
+  {
+    "keyword": "Linuxカーネルプログラミング",
+    "products": [
+      {
+        "asin": "4814401108",
+        "title": "Linuxカーネルプログラミング 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QRpcPrhtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401108?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kaiwan N. Billimoria",
+        "brand": "O'Reilly Media",
+        "price": "￥5,720",
+        "priceValue": 5720
+      },
+      {
+        "asin": "B07TVR4WZZ",
+        "title": "超例解Linuxカーネルプログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qTXGqeWIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07TVR4WZZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "平田豊",
+        "brand": "シーアンドアール研究所",
+        "price": "￥2,802",
+        "priceValue": 2802
+      },
+      {
+        "asin": "481440056X",
+        "title": "入門 eBPF ―Linuxカーネルの可視化と機能拡張",
+        "imageUrl": "https://m.media-amazon.com/images/I/415AzL4tjzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/481440056X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Liz Rice",
+        "brand": "オーム社",
+        "price": "￥3,300",
+        "priceValue": 3300
+      }
+    ],
+    "searchedAt": "2025-07-30T22:37:32.109Z"
+  },
+  {
+    "keyword": "DuckDB",
+    "products": [
+      {
+        "asin": "4295021989",
+        "title": "DuckDB実践入門　PCで使える高速で快適なデータ分析用DB―基本からエコシステム活用まで (impress top gear)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51whsHbRDvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295021989?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mark Needham",
+        "brand": "インプレス",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "B0DPNMF2ZX",
+        "title": "DuckDB: Up and Running: Fast Data Analytics and Reporting (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41k2+Xdca+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPNMF2ZX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lee, Wei-Meng",
+        "brand": "O'Reilly Media",
+        "price": "￥9,548",
+        "priceValue": 9548
+      },
+      {
+        "asin": "1633437256",
+        "title": "DuckDB in Action",
+        "imageUrl": "https://m.media-amazon.com/images/I/41refCJMQPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1633437256?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Needham, Mark",
+        "brand": "Manning",
+        "price": "￥8,605",
+        "priceValue": 8605
+      }
+    ],
+    "searchedAt": "2025-07-30T22:37:35.353Z"
+  },
+  {
+    "keyword": "HTTPリバプロ",
+    "products": [],
+    "searchedAt": "2025-07-30T22:37:39.264Z"
+  },
+  {
+    "keyword": "Claude Code",
+    "products": [
+      {
+        "asin": "B0FDBDTZL5",
+        "title": "Claude Code: The Unofficial Guide (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/418LbLZPlGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDBDTZL5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Harmon, James",
+        "brand": "XoSelf Publishing",
+        "price": "￥722",
+        "priceValue": 722
+      },
+      {
+        "asin": "B0FD6XL3N3",
+        "title": "Claude Codeのすべて：仕組み・可能性・実装事例",
+        "imageUrl": "https://m.media-amazon.com/images/I/419XIK1HjQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD6XL3N3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "高嶋克之",
+        "brand": "技術知新社",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0FFGMH7V4",
+        "title": "やさしいMCP入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/410hKsNgZzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGMH7V4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "御田稔",
+        "brand": "秀和システム",
+        "price": "￥1,584",
+        "priceValue": 1584
+      }
+    ],
+    "searchedAt": "2025-07-30T22:37:46.697Z"
+  },
+  {
+    "keyword": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+    "products": [
+      {
+        "asin": "B09BDH8VZV",
+        "title": "NVIDIA (エヌビディア) RTX A6000 グラフィックスボード",
+        "imageUrl": "https://m.media-amazon.com/images/I/31LFct7UKaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BDH8VZV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "PNY",
+        "price": "￥890,957",
+        "priceValue": 890957
+      }
+    ],
+    "searchedAt": "2025-07-30T22:37:51.164Z"
+  }
+]
