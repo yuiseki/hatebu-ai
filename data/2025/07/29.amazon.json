@@ -1,0 +1,149 @@
+[
+  {
+    "keyword": "Geopandas",
+    "products": [
+      {
+        "asin": "B0CK26YQ1G",
+        "title": "Pythonデータ分析 実践ハンドブック　実務で使えるデータ加工のテクニック",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+K+dYInxL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CK26YQ1G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "寺田 学",
+        "brand": "インプレス",
+        "price": "￥2,970",
+        "priceValue": 2970
+      },
+      {
+        "asin": "479806890X",
+        "title": "pandas&Plotly 2D/3Dデータビジュアライゼーション実装ハンドブック",
+        "imageUrl": "https://m.media-amazon.com/images/I/51buhQYpkrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/479806890X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大川洋平",
+        "brand": "秀和システム",
+        "price": "￥3,630",
+        "priceValue": 3630
+      },
+      {
+        "asin": "B0CZNQ6THW",
+        "title": "Pythonの地理空間データ分析の裏技～GeoPandasとFoliumを使った地図ベースのデータ可視化と解析法～",
+        "imageUrl": "https://m.media-amazon.com/images/I/410vMzDq6AL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CZNQ6THW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "尺一麟",
+        "brand": "シンザンパレット",
+        "price": "￥470",
+        "priceValue": 470
+      }
+    ],
+    "searchedAt": "2025-07-30T22:37:54.042Z"
+  },
+  {
+    "keyword": "SwiftUI",
+    "products": [
+      {
+        "asin": "B0DK92BHZF",
+        "title": "SwiftUI対応 たった2日でマスターできる iPhoneアプリ開発集中講座 Xcode16/iOS18/Swift6.0対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/416Wmk7AfzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK92BHZF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "藤治仁",
+        "brand": "ソシム",
+        "price": "￥2,800",
+        "priceValue": 2800
+      },
+      {
+        "asin": "B0BLHC8JFT",
+        "title": "詳細！SwiftUI iPhoneアプリ開発 入門ノート[2022]　iOS 16+Xcode 14対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/51G4O49GX3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BLHC8JFT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大重 美幸",
+        "brand": "ソーテック社",
+        "price": "￥3,018",
+        "priceValue": 3018
+      },
+      {
+        "asin": "4297141906",
+        "title": "［改訂第3版］Swiftポケットリファレンス (Pocket reference)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VwaVJ+XkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4297141906?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "WINGSプロジェクト 片渕 彼富",
+        "brand": "技術評論社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-07-30T22:38:02.659Z"
+  },
+  {
+    "keyword": "FOSS4G",
+    "products": [
+      {
+        "asin": "4759101314",
+        "title": "FOSS4G HANDBOOK（フォスフォージーハンドブック）",
+        "imageUrl": "https://m.media-amazon.com/images/I/41rQhQpPW5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4759101314?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "OSGeo財団",
+        "brand": "開発社",
+        "price": "￥139",
+        "priceValue": 139
+      }
+    ],
+    "searchedAt": "2025-07-30T22:38:06.192Z"
+  },
+  {
+    "keyword": "Ryzen Threadripper 9000",
+    "products": [
+      {
+        "asin": "B0CK2ZQJZ6",
+        "title": "AMD Ryzen Threadripper PRO 7995WX 2.5GHz 96コア / 192スレッド 482MB 350W 3年保証 100-100000884WOF",
+        "imageUrl": "https://m.media-amazon.com/images/I/41v6HK6X-hL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CK2ZQJZ6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "AMD",
+        "price": "￥1,765,982",
+        "priceValue": 1765982
+      },
+      {
+        "asin": "B0CK2TZWZX",
+        "title": "AMD Ryzen Threadripper PRO 7975WX 4.0GHz 32コア / 64スレッド 160MB 350W 3年保証 100-100000453WOF",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Biki76brL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CK2TZWZX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "AMD",
+        "price": "￥688,672",
+        "priceValue": 688672
+      },
+      {
+        "asin": "B0CP1823DT",
+        "title": "GIGABYTE TRX50 Aero Dマザーボード - AMD Ryzen Threadripper 9000シリーズCPU、16+8+4フェーズデジタルVRM、最大7800MHz DDR5 (OC)、3xPCIe 5.0 + PCIe 4.0 M.2、Wi-Fi 7、10GbE LAN、USB4に対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/41AmODOveEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CP1823DT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "GIGABYTE",
+        "price": "￥165,192",
+        "priceValue": 165192
+      }
+    ],
+    "searchedAt": "2025-07-30T22:38:19.615Z"
+  },
+  {
+    "keyword": "Operese",
+    "products": [
+      {
+        "asin": "B003G7G63O",
+        "title": "Operese La Nariz [Explicit]",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LhjDFbdZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003G7G63O?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alvarez Guedes",
+        "brand": "AG Records",
+        "price": "￥200",
+        "priceValue": 200
+      },
+      {
+        "asin": "B0CV4LCKNY",
+        "title": "Operese la Nariz",
+        "imageUrl": "https://m.media-amazon.com/images/I/41B2fj-nRSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CV4LCKNY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alvarez Guedes",
+        "brand": "G.A.G. Enterprises",
+        "price": "￥100",
+        "priceValue": 100
+      }
+    ],
+    "searchedAt": "2025-07-30T22:38:21.730Z"
+  }
+]
