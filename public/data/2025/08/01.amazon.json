@@ -1,0 +1,149 @@
+[
+  {
+    "keyword": "Ollama-code",
+    "products": [],
+    "searchedAt": "2025-08-01T23:50:55.558Z"
+  },
+  {
+    "keyword": "Qwen",
+    "products": [
+      {
+        "asin": "B0DMW7M3GT",
+        "title": "Qwen 2.5 Coder: Code Like A Pro (Unlocking the Power of Qwen: A Deep Dive into Alibaba's Cutting-Edge AI)",
+        "imageUrl": "https://m.media-amazon.com/images/I/410LVljpr9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DMW7M3GT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lucas Jr, Oliver",
+        "brand": "Independently published",
+        "price": "￥2,626",
+        "priceValue": 2626
+      },
+      {
+        "asin": "B0BKQ5RS19",
+        "title": "QWEN トルマリン 万華鏡ブレスレット 万華鏡ブレスレット レディース カラフル ジルコン ブレスレット 調節可能なクリスタル フルダイヤモンド セット, One Size, クリスタル クリスタル。 ジルコン。",
+        "imageUrl": "https://m.media-amazon.com/images/I/51p-+JUzPdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BKQ5RS19?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "QWEN",
+        "price": "￥3,400",
+        "priceValue": 3400
+      },
+      {
+        "asin": "B0BW5L4TFK",
+        "title": "2023新デザインカップ式プロセッサー、小型 ミキサー、携帯式ジューサー 350mlミニ電動ポータブルブレンダージューサーカップUSB充電式 ジューサー多機能ミニミキサー フルーツジュースメー コードレス、大容量、コンパクト、洗いやすい、酸化防止 (ピンク)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nMXhHnGeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BW5L4TFK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "QWEN",
+        "price": "￥1,588",
+        "priceValue": 1588
+      }
+    ],
+    "searchedAt": "2025-08-01T23:50:57.377Z"
+  },
+  {
+    "keyword": "Gemini",
+    "products": [
+      {
+        "asin": "B0F5VBNKB4",
+        "title": "超入門 Geminiビジネス活用術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51d7vFUU-VL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F5VBNKB4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Gemini研究会",
+        "brand": "シーアンドアール研究所",
+        "price": "￥2,386",
+        "priceValue": 2386
+      },
+      {
+        "asin": "B0FDRCLFJ8",
+        "title": "Google仕事術×Gemini大全: ―ひとり社長と２５名以下規模の法人のための【ＡＩ仕事術ガイド】―",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OzRTlsamL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDRCLFJ8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "将軍",
+        "brand": "リベライBooks",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0D78DB382",
+        "title": "Gemini完全マニュアル",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FiOMrS3TL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D78DB382?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "酒井麻里子",
+        "brand": "秀和システム",
+        "price": "￥1,158",
+        "priceValue": 1158
+      }
+    ],
+    "searchedAt": "2025-08-01T23:50:59.427Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0F18K2WR5",
+        "title": "AWSクラウド設計完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Srp9ckILL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F18K2WR5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アクセンチュア 戸賀 慶/福垣内 孝造/竹内 誠一/浪谷 浩一/澤田 拓也/ 崎原 晴香/浅輪 和哉/村田 亜弥",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      }
+    ],
+    "searchedAt": "2025-08-01T23:51:01.215Z"
+  },
+  {
+    "keyword": "Flutter",
+    "products": [
+      {
+        "asin": "B0CVLF45NS",
+        "title": "Flutter実践開発 ── iPhone／Android両対応アプリ開発のテクニック WEB+DB PRESS plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/41BQdpBJ7mL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CVLF45NS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "渡部 陽太",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0BYS182MV",
+        "title": "動かして学ぶ！Flutter開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51X-HkKhmuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BYS182MV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "掛内 一章",
+        "brand": "翔泳社",
+        "price": "￥4,096",
+        "priceValue": 4096
+      },
+      {
+        "asin": "4798068527",
+        "title": "マルチプラットフォーム対応 最新フレームワーク Flutter 3入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/419ovAXrSZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798068527?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "掌田津耶乃",
+        "brand": "秀和システム",
+        "price": "￥3,300",
+        "priceValue": 3300
+      }
+    ],
+    "searchedAt": "2025-08-01T23:51:03.133Z"
+  }
+]
