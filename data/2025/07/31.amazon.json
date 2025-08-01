@@ -1,0 +1,171 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,089",
+        "priceValue": 1089
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "B08KT6XZMQ",
+        "title": "Python［完全］入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41BQqLuD-iL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08KT6XZMQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "松浦 健一郎",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,871",
+        "priceValue": 2871
+      }
+    ],
+    "searchedAt": "2025-08-01T00:12:00.434Z"
+  },
+  {
+    "keyword": "Serena",
+    "products": [
+      {
+        "asin": "B0D41DWB67",
+        "title": "【メーカー直営】【2025改良型】Mozan ニッサン 新型 セレナ C28 C27専用 傘型サンシェード フロントガラス シェード serenaに適合 C28/27 2022年12月-現行 10本骨 ガラス繊維 360°回転可能 傘柄が曲がる パラソル 傘式 UVカット 日よけ 日差しカット 遮光 断熱 仮眠 収納袋付き 車中泊 プライバシー保護 内装パーツ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41j5CGCev1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D41DWB67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Mozan",
+        "price": "￥3,690",
+        "priceValue": 3690
+      },
+      {
+        "asin": "B0F4873G13",
+        "title": "【メーカー直営専用設計】 BLUESEATEC 日産 セレナ C28 フロントガラスサンシェード SERENA 6代目 2022年~現行 車用サンシェード 日よけ UVカット 6層構造 遮光 断熱 夏 紫外線 隙なし 光漏れない 置くだけ 収納袋付きメーカー直営",
+        "imageUrl": "https://m.media-amazon.com/images/I/419H-R4EaoL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4873G13?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "BLUESEATEC",
+        "price": "￥3,380",
+        "priceValue": 3380
+      },
+      {
+        "asin": "B0DNK437VM",
+        "title": "BATIZI 新型セレナ用 SERENA カーシートギャップフィラー 2個入り 隙間クッション セレナ SERENA用 車 隙間埋め サイド ギャップフィラー 隙間ストッパー 隙間収納 車 SUV カーシートアクセサリー 運転席 収納スロット 隙間ギャップフィラー（黒）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FAwsK0UFL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DNK437VM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "BATIZI",
+        "price": "￥2,240",
+        "priceValue": 2240
+      }
+    ],
+    "searchedAt": "2025-08-01T00:12:03.832Z"
+  },
+  {
+    "keyword": "OCR",
+    "products": [
+      {
+        "asin": "B0DCND63DD",
+        "title": "ソースネクスト |読取革命Ver.17(パッケージ版)(最新版) | OCRソフト | Windows対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/51N4IBqRfsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DCND63DD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "SOURCENEXT",
+        "price": "￥9,700",
+        "priceValue": 9700
+      },
+      {
+        "asin": "B0CYSSF9XY",
+        "title": "ソースネクスト |瞬間テキスト 3(最新版) |OCR(文字認識)ソフト | Windows対応|ダウンロード版",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XIPUOj-4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CYSSF9XY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "SOURCENEXT",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0DKP41M52",
+        "title": "【永続ライセンス】Wondershare PDFelement 11 Pro版｜PDF編集 OCR対応 PDF変換 PDF作成 圧縮｜ISO 27001取得｜Windows・Mac対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zXRORd-oL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DKP41M52?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Wondershare",
+        "price": "￥10,980",
+        "priceValue": 10980
+      }
+    ],
+    "searchedAt": "2025-08-01T00:12:06.380Z"
+  },
+  {
+    "keyword": "Panorama",
+    "products": [
+      {
+        "asin": "4789018644",
+        "title": "Elementary Japanese: PANORAMA Fast-Track to Mastery in Just 12 Grammar Points: 初級日本語パノラマ 12の文法ポイントで学ぶ 速修日本語初級",
+        "imageUrl": "https://m.media-amazon.com/images/I/51T0eyhc+0L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4789018644?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "花井善朗",
+        "brand": "ジャパンタイムズ出版",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4469641723",
+        "title": "PANORAMA ENGLISH COMMUNICATION 1 CⅠ 711 大修館書店　高校教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/41yHMG8qw2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4469641723?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "江原美明",
+        "brand": "大修館書店",
+        "price": "￥1,763",
+        "priceValue": 1763
+      },
+      {
+        "asin": "B0D2VB13VN",
+        "title": "Panorama",
+        "imageUrl": "https://m.media-amazon.com/images/I/41AiPNHrSzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D2VB13VN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "BLU-SWING",
+        "brand": "（有）アーク",
+        "price": "￥2,532",
+        "priceValue": 2532
+      }
+    ],
+    "searchedAt": "2025-08-01T00:12:08.292Z"
+  },
+  {
+    "keyword": "Claude Code Action",
+    "products": [
+      {
+        "asin": "B0FFJD5111",
+        "title": "Claude Code in Action: Mastering Git Workflows, Multi-File Edits, CI/CD, and Agentic Reasoning with Claude Sonnet & Opus (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/413uqhVgSAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFJD5111?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "McCleary, Adam",
+        "price": "￥1,084",
+        "priceValue": 1084
+      },
+      {
+        "asin": "B0CJN3Q2GY",
+        "title": "プラトーン (吹替版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DnNjMQoKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CJN3Q2GY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Oliver Stone"
+      },
+      {
+        "asin": "B0BX3Q1XJR",
+        "title": "トゥルーライズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41yYQGjl4UL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BX3Q1XJR?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ジェームズ・キャメロン",
+        "price": "￥900",
+        "priceValue": 900
+      }
+    ],
+    "searchedAt": "2025-08-01T00:12:10.850Z"
+  }
+]
