@@ -1,0 +1,175 @@
+[
+  {
+    "keyword": "DuckDB",
+    "products": [
+      {
+        "asin": "4295021989",
+        "title": "DuckDB実践入門　PCで使える高速で快適なデータ分析用DB―基本からエコシステム活用まで (impress top gear)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51whsHbRDvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4295021989?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mark Needham",
+        "brand": "インプレス",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "B0DPNMF2ZX",
+        "title": "DuckDB: Up and Running: Fast Data Analytics and Reporting (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41k2+Xdca+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPNMF2ZX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lee, Wei-Meng",
+        "brand": "O'Reilly Media",
+        "price": "￥9,548",
+        "priceValue": 9548
+      },
+      {
+        "asin": "B0DB2T4XS2",
+        "title": "DuckDB in Action (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xblSNfeyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DB2T4XS2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Needham, Mark",
+        "brand": "Manning",
+        "price": "￥7,015",
+        "priceValue": 7015
+      }
+    ],
+    "searchedAt": "2025-08-03T23:26:21.562Z"
+  },
+  {
+    "keyword": "FAISS",
+    "products": [
+      {
+        "asin": "B0FGXZVTCC",
+        "title": "Vector Database Engineering: Building Scalable AI Search & Retrieval Systems with FAISS, Milvus, Pinecone, Weaviate, RAG Pipelines, Embeddings, High Dimension Indexing (with Mathematical Equations)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41z34+P7fLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGXZVTCC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Larson, Tony",
+        "brand": "Independently published",
+        "price": "￥3,497",
+        "priceValue": 3497
+      },
+      {
+        "asin": "B0F4PBZ8R4",
+        "title": "Retrieval Augmented Generation in Python: Build Advanced LLM Applications with Langchain and FAISS (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VYYf628OL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4PBZ8R4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Pierce, Alvin",
+        "price": "￥1,011",
+        "priceValue": 1011
+      },
+      {
+        "asin": "B0F8VYY795",
+        "title": "Building Intelligent Systems with RAG 2.0: Develop Next-Gen LLM Applications with LangChain, OpenAI, Pinecone, FAISS, Vector Databases, and LLMOps Tools (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41lkwjkLI6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8VYY795?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Crossfield, Nathaniel ",
+        "price": "￥1,077",
+        "priceValue": 1077
+      }
+    ],
+    "searchedAt": "2025-08-03T23:26:23.376Z"
+  },
+  {
+    "keyword": "OpenStreetMap",
+    "products": [
+      {
+        "asin": "B0DPPWTFFK",
+        "title": "[東京Deco] 2025最新地図 7インチ ドラレコ付きカーナビ 前後ドラレコ搭載(200万画素+100万画素) 最新地図 ワンセグ 3年無料更新付き [最新2025 ドライブレコーダー搭載ナビゲーション] OpenStreetMap製地図/オービス警告/GPS高精度測位/SBAS/WAAS星基强化/安全運転アシスト/車用ナビ 車載GPS 12V/24V車対応 タッチパネル o000",
+        "imageUrl": "https://m.media-amazon.com/images/I/51gdZPYk25L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPPWTFFK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ROOMMATE",
+        "price": "￥11,999",
+        "priceValue": 11999
+      },
+      {
+        "asin": "3865413757",
+        "title": "OpenStreetMap: Die freie Weltkarte nutzen und mitgestalten",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RmXvBFftL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3865413757?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥6,617",
+        "priceValue": 6617
+      },
+      {
+        "asin": "B0DPPW6SVL",
+        "title": "[ODP] 2025最新地図 7インチ 前後ドラレコ搭載(200万画素+100万画素) カーナビ ワンセグ 3年無料更新付き [最新2025 ドライブレコーダー搭載ナビゲーション] OpenStreetMap製地図/オービス警告/GPS高精度測位/SBAS/WAAS星基强化/安全運転アシスト/タッチパネル/車用ナビ 車載GPS 12V/24V車対応 カーナビゲーションポータブルナビ o000",
+        "imageUrl": "https://m.media-amazon.com/images/I/51iHhVjXGUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPPW6SVL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ROOMMATE",
+        "price": "￥13,800",
+        "priceValue": 13800
+      }
+    ],
+    "searchedAt": "2025-08-03T23:26:25.164Z"
+  },
+  {
+    "keyword": "Vector Search",
+    "products": [
+      {
+        "asin": "1805121022",
+        "title": "Vector Search for Practitioners with Elastic: A toolkit for building NLP solutions for search, observability, and security using vector search",
+        "imageUrl": "https://m.media-amazon.com/images/I/41F63z7eZOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1805121022?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Azarmi, Bahaaldine",
+        "brand": "Packt Publishing",
+        "price": "￥5,674",
+        "priceValue": 5674
+      },
+      {
+        "asin": "161729697X",
+        "title": "AI-Powered Search",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wUoWOHgPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/161729697X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Grainger, Trey",
+        "brand": "Manning",
+        "price": "￥13,117",
+        "priceValue": 13117
+      },
+      {
+        "asin": "B0D5WP1B2H",
+        "title": "Vector Database for Developers: A Practical Guide to Mastering Vector Search for Next-Gen Applications and Optimizing AI and Machine Learning Workflows (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41y13EuabGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D5WP1B2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Allen, Corby",
+        "price": "￥1,101",
+        "priceValue": 1101
+      }
+    ],
+    "searchedAt": "2025-08-03T23:26:27.043Z"
+  },
+  {
+    "keyword": "PyTorch",
+    "products": [
+      {
+        "asin": "B09G622WB6",
+        "title": "最短コースでわかる PyTorch ＆深層学習プログラミング",
+        "imageUrl": "https://m.media-amazon.com/images/I/519TMBQS5vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09G622WB6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "赤石 雅典",
+        "brand": "日経BP",
+        "price": "￥3,663",
+        "priceValue": 3663
+      },
+      {
+        "asin": "B08V8HFCPZ",
+        "title": "PyTorch実践入門: ディープラーニングの基礎から実装へ Compass Booksシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51E2sYet0gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08V8HFCPZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Eli Stevens",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "B07VPDVNKW",
+        "title": "つくりながら学ぶ！PyTorchによる発展ディープラーニング",
+        "imageUrl": "https://m.media-amazon.com/images/I/41eMi0Q6DOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07VPDVNKW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小川 雄太郎",
+        "brand": "マイナビ出版",
+        "price": "￥3,445",
+        "priceValue": 3445
+      }
+    ],
+    "searchedAt": "2025-08-03T23:26:28.805Z"
+  }
+]
