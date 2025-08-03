@@ -1,0 +1,262 @@
+[
+  {
+    "title": "マーケティング部門を立ち上げるために最初の6カ月でやるべきことを1.4万字でまとめる｜松本健太郎",
+    "link": "https://comemo.nikkei.com/n/na16c82ed283d",
+    "date": "2025-08-03T07:19:05.000Z"
+  },
+  {
+    "title": "Persona Vectors: Monitoring and Controlling Character Traits in Language Models",
+    "link": "https://arxiv.org/abs/2507.21509",
+    "date": "2025-08-03T06:42:05.000Z"
+  },
+  {
+    "title": "Defeating Prompt Injections by Design",
+    "link": "https://arxiv.org/abs/2503.18813",
+    "date": "2025-08-03T06:41:59.000Z"
+  },
+  {
+    "title": "GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale",
+    "link": "https://arxiv.org/abs/2108.13092",
+    "date": "2025-08-03T06:34:22.000Z"
+  },
+  {
+    "title": "GitHub - NicolasTe/GeoVectors",
+    "link": "https://github.com/NicolasTe/GeoVectors",
+    "date": "2025-08-03T06:34:20.000Z"
+  },
+  {
+    "title": "GeoVectors",
+    "link": "https://geovectors.l3s.uni-hannover.de/",
+    "date": "2025-08-03T06:34:18.000Z"
+  },
+  {
+    "title": "LAMP: A Language Model on the Map",
+    "link": "https://arxiv.org/abs/2403.09059",
+    "date": "2025-08-03T06:32:31.000Z"
+  },
+  {
+    "title": "DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph",
+    "link": "https://arxiv.org/abs/2502.07343",
+    "date": "2025-08-03T06:32:28.000Z"
+  },
+  {
+    "title": "City Foundation Models for Learning General Purpose Representations from OpenStreetMap",
+    "link": "https://arxiv.org/abs/2310.00583",
+    "date": "2025-08-03T06:31:30.000Z"
+  },
+  {
+    "title": "Hex2vec -- Context-Aware Embedding H3 Hexagons with OpenStreetMap Tags",
+    "link": "https://arxiv.org/abs/2111.00970",
+    "date": "2025-08-03T06:30:23.000Z"
+  },
+  {
+    "title": "GISベクターデータのファイルフォーマットの最前線 - Qiita",
+    "link": "https://qiita.com/Kanahiro/items/1cc64aecf5cf9d5dd2a0",
+    "date": "2025-08-03T06:19:30.000Z"
+  },
+  {
+    "title": "Using DuckDB for Embeddings and Vector Search",
+    "link": "https://blog.brunk.io/posts/similarity-search-with-duckdb/",
+    "date": "2025-08-03T04:53:43.000Z"
+  },
+  {
+    "title": "Jina CLIP v2とDuckDBを使って類似画像検索してみた",
+    "link": "https://zenn.dev/yuyakato/articles/1e585cbc9d97f8",
+    "date": "2025-08-03T04:52:45.000Z"
+  },
+  {
+    "title": "A Comprehensive Overview of GPU Accelerated Databases",
+    "link": "https://arxiv.org/abs/2406.13831",
+    "date": "2025-08-03T04:52:11.000Z"
+  },
+  {
+    "title": "“Exploring DUCKDB: The Fast, Embeddable Analytical Database for Modern Data Challenges”",
+    "link": "https://medium.com/@martin.jurado.p/exploring-duckdb-the-fast-embeddable-analytical-database-for-modern-data-challenges-12703b817683",
+    "date": "2025-08-03T04:51:29.000Z"
+  },
+  {
+    "title": "faiss",
+    "link": "https://duckdb.org/community_extensions/extensions/faiss.html",
+    "date": "2025-08-03T04:47:58.000Z"
+  },
+  {
+    "title": "QuackOSM",
+    "link": "https://kraina-ai.github.io/quackosm/latest/",
+    "date": "2025-08-03T04:42:26.000Z"
+  },
+  {
+    "title": "GitHub - kraina-ai/quackosm: QuackOSM: an open-source Python and CLI tool for reading OpenStreetMap PBF files using DuckDB",
+    "link": "https://github.com/kraina-ai/quackosm",
+    "date": "2025-08-03T04:41:20.000Z"
+  },
+  {
+    "title": "uMap - Online map creator",
+    "link": "https://umap.openstreetmap.fr/ja/",
+    "date": "2025-08-03T04:15:09.000Z"
+  },
+  {
+    "title": "GitHub - GAIR-NLP/MegaScience: MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning",
+    "link": "https://github.com/GAIR-NLP/MegaScience",
+    "date": "2025-08-03T04:11:54.000Z"
+  },
+  {
+    "title": "【LucasKanade法とは】最小二乗法とガウシアンピラミッドによる推定の原理・計算式",
+    "link": "https://algorithm.joho.info/image-processing/optical-flow-lucas-kanade/",
+    "date": "2025-08-03T03:44:10.000Z"
+  },
+  {
+    "title": "PyTorchでガウシアンピラミッド＋ラプラシアンピラミッド（Gaussian/Laplacian Pyramid）",
+    "link": "https://blog.shikoan.com/pytorch-laplacian-pyramid/",
+    "date": "2025-08-03T03:43:58.000Z"
+  },
+  {
+    "title": "Image Pyramid(画像ピラミッド)と深層学習中の応用 - Qiita",
+    "link": "https://qiita.com/chiba1sonny/items/be5a6e1d1d539bf21a11",
+    "date": "2025-08-03T03:43:51.000Z"
+  },
+  {
+    "title": "画像ピラミッド — OpenCV-Python Tutorials 1 documentation",
+    "link": "https://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html",
+    "date": "2025-08-03T03:43:47.000Z"
+  },
+  {
+    "title": "【論文紹介】Pyramid Texture Filteringとは【画像処理】 - Qiita",
+    "link": "https://qiita.com/reityerukohaku/items/ad4fa42b5b0640886b97",
+    "date": "2025-08-03T03:43:42.000Z"
+  },
+  {
+    "title": "【512pxで110FPS】ラプラシアンピラミッドを使った高速なスタイル変換LapStyleの紹介 - Qiita",
+    "link": "https://qiita.com/koshian2/items/18b2201c15c603e02a01",
+    "date": "2025-08-03T03:43:27.000Z"
+  },
+  {
+    "title": "AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data",
+    "link": "https://arxiv.org/abs/2507.22291",
+    "date": "2025-08-03T03:41:00.000Z"
+  },
+  {
+    "title": "Geo Voyage overview",
+    "link": "https://developers.meta.com/horizon/documentation/spatial-sdk/geo-voyage-overview",
+    "date": "2025-08-03T03:39:59.000Z"
+  },
+  {
+    "title": "Database | Sources | OpenStreetMap Taginfo",
+    "link": "https://taginfo.openstreetmap.org/sources/db",
+    "date": "2025-08-03T03:38:31.000Z"
+  },
+  {
+    "title": "OpenStreetMap Taginfo",
+    "link": "https://taginfo.openstreetmap.org/",
+    "date": "2025-08-03T03:11:46.000Z"
+  },
+  {
+    "title": "Data items - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/Data_items?utm_source=chatgpt.com",
+    "date": "2025-08-03T03:09:49.000Z"
+  },
+  {
+    "title": "sapientinc (Sapient AI)",
+    "link": "https://huggingface.co/sapientinc",
+    "date": "2025-08-03T02:24:04.000Z"
+  },
+  {
+    "title": "Sapient - We are Building Self-Evolving Machine Intelligence to Solve the World's Most Challenging Problems",
+    "link": "https://www.sapient.inc/",
+    "date": "2025-08-03T02:13:37.000Z"
+  },
+  {
+    "title": "Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling",
+    "link": "https://arxiv.org/abs/2502.06703",
+    "date": "2025-08-03T02:10:07.000Z"
+  },
+  {
+    "title": "Humanity's Last Exam",
+    "link": "https://arxiv.org/abs/2501.14249",
+    "date": "2025-08-03T01:56:19.000Z"
+  },
+  {
+    "title": "Deep Agents",
+    "link": "https://blog.langchain.com/deep-agents/",
+    "date": "2025-08-02T22:38:30.000Z"
+  },
+  {
+    "title": "GitHub - microsoft/microsoft-ui-xaml: Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications",
+    "link": "https://github.com/microsoft/microsoft-ui-xaml",
+    "date": "2025-08-02T22:37:24.000Z"
+  },
+  {
+    "title": "Anthropic Revokes OpenAI's Access to Claude",
+    "link": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
+    "date": "2025-08-02T22:36:27.000Z"
+  },
+  {
+    "title": "Introducing LangExtract: A Gemini powered information extraction library- Google Developers Blog",
+    "link": "https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/",
+    "date": "2025-08-02T22:32:21.000Z"
+  },
+  {
+    "title": "Browser LLM",
+    "link": "https://andreinwald.github.io/browser-llm/",
+    "date": "2025-08-02T22:29:09.000Z"
+  },
+  {
+    "title": "クラウドローン - お金を借りたい個人と低金利の銀行ローンを最適マッチング",
+    "link": "https://crowdloan.jp/",
+    "date": "2025-08-02T22:28:38.000Z"
+  },
+  {
+    "title": "Claude Codeでn8nワークフロー作るのが楽すぎて、もう手動で作る気が起きない件",
+    "link": "https://zenn.dev/ryorn/articles/a6dc96dc425669",
+    "date": "2025-08-02T21:57:58.000Z"
+  },
+  {
+    "title": "エコシステム全体でのソースコード漏洩への対処の振り返り",
+    "link": "https://zenn.dev/sapphi_red/articles/49d6493e593200",
+    "date": "2025-08-02T21:53:03.000Z"
+  },
+  {
+    "title": "純正HDDしかサポートしない？SynologyのNAS「DS225+」を買って大失敗したの巻",
+    "link": "https://oshanavi.com/synology-ds225/28888/",
+    "date": "2025-08-02T21:50:47.000Z"
+  },
+  {
+    "title": "Prover Agent: An Agent-based Framework for Formal Mathematical Proofs",
+    "link": "https://arxiv.org/abs/2506.19923",
+    "date": "2025-08-02T21:19:49.000Z"
+  },
+  {
+    "title": "CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks",
+    "link": "https://arxiv.org/abs/2507.23751",
+    "date": "2025-08-02T21:19:44.000Z"
+  },
+  {
+    "title": "To Code or not to Code? Adaptive Tool Integration for Math Language Models via Expectation-Maximization",
+    "link": "https://arxiv.org/abs/2502.00691",
+    "date": "2025-08-02T21:19:37.000Z"
+  },
+  {
+    "title": "Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty",
+    "link": "https://arxiv.org/abs/2507.16806",
+    "date": "2025-08-02T21:19:05.000Z"
+  },
+  {
+    "title": "A Survey of Direct Preference Optimization",
+    "link": "https://arxiv.org/abs/2503.11701",
+    "date": "2025-08-02T21:18:44.000Z"
+  },
+  {
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "link": "https://arxiv.org/abs/2305.18290",
+    "date": "2025-08-02T21:18:39.000Z"
+  },
+  {
+    "title": "Hierarchical Reasoning Model",
+    "link": "https://arxiv.org/abs/2506.21734",
+    "date": "2025-08-02T21:17:47.000Z"
+  },
+  {
+    "title": "GitHub - sapientinc/HRM: Hierarchical Reasoning Model Official Release",
+    "link": "https://github.com/sapientinc/HRM",
+    "date": "2025-08-02T21:17:37.000Z"
+  }
+]
