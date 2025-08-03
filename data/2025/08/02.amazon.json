@@ -1,0 +1,93 @@
+[
+  {
+    "keyword": "Geospatial AI",
+    "products": [
+      {
+        "asin": "B0FJMDFRJ9",
+        "title": "Geospatial AI (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51f3o32aAKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJMDFRJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "KUMAR GADDAM, DR. VINAY ",
+        "price": "￥734",
+        "priceValue": 734
+      },
+      {
+        "asin": "1032311665",
+        "title": "Handbook of Geospatial Artificial Intelligence",
+        "imageUrl": "https://m.media-amazon.com/images/I/517Rbya0lIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1032311665?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Gao, Song",
+        "brand": "CRC Press",
+        "price": "￥18,932",
+        "priceValue": 18932
+      },
+      {
+        "asin": "B0DPLNKJWY",
+        "title": "Recent Trends in Geospatial AI",
+        "imageUrl": "https://m.media-amazon.com/images/I/51UJxY5SHRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPLNKJWY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Darwish, Dina",
+        "brand": "IGI Global",
+        "price": "￥31,402",
+        "priceValue": 31402
+      }
+    ],
+    "searchedAt": "2025-08-03T00:06:07.564Z"
+  },
+  {
+    "keyword": "MapBiomas",
+    "products": [],
+    "searchedAt": "2025-08-03T00:06:09.217Z"
+  },
+  {
+    "keyword": "GitHub CLI",
+    "products": [
+      {
+        "asin": "1836200331",
+        "title": "Hands-On MLOps on Azure: Automate, secure, and scale ML workflows with the Azure ML CLI, GitHub, and LLMOps",
+        "imageUrl": "https://m.media-amazon.com/images/I/41t2RZSW5gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1836200331?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "De, Banibrata",
+        "brand": "Packt Publishing",
+        "price": "￥5,697",
+        "priceValue": 5697
+      }
+    ],
+    "searchedAt": "2025-08-03T00:06:11.153Z"
+  },
+  {
+    "keyword": "LangExtract",
+    "products": [],
+    "searchedAt": "2025-08-03T00:06:12.802Z"
+  },
+  {
+    "keyword": "Visivo",
+    "products": [
+      {
+        "asin": "8857572374",
+        "title": "RUMORE VISIVO",
+        "imageUrl": "https://m.media-amazon.com/images/I/515XVnFSE5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/8857572374?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥4,512",
+        "priceValue": 4512
+      },
+      {
+        "asin": "8843073575",
+        "title": "Fotografia e arti visive",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vNve42dqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/8843073575?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥4,648",
+        "priceValue": 4648
+      },
+      {
+        "asin": "8860363349",
+        "title": "America. Un diario visivo",
+        "imageUrl": "https://m.media-amazon.com/images/I/21WphPhIXLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/8860363349?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥4,996",
+        "priceValue": 4996
+      }
+    ],
+    "searchedAt": "2025-08-03T00:06:14.646Z"
+  }
+]
