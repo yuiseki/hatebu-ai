@@ -1,0 +1,87 @@
+[
+  {
+    "keyword": "HRM",
+    "products": [
+      {
+        "asin": "B0F9L93MSW",
+        "title": "GARMIN(ガーミン) HRM 600 (M-XL) 【日本正規品】",
+        "imageUrl": "https://m.media-amazon.com/images/I/419y7pQB7tL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F9L93MSW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Garmin",
+        "price": "￥23,455",
+        "priceValue": 23455
+      },
+      {
+        "asin": "B07N3C5WRG",
+        "title": "GARMIN(ガーミン) ハートレートセンサー HRM-Dual 並行輸入品",
+        "imageUrl": "https://m.media-amazon.com/images/I/21jxzSU3pOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07N3C5WRG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Garmin",
+        "price": "￥12,351",
+        "priceValue": 12351
+      },
+      {
+        "asin": "450231871X",
+        "title": "ケーススタディ グローバルHRM(人的資源管理)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FbsgYIaXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/450231871X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "桑名 義晴",
+        "brand": "中央経済社",
+        "price": "￥2,970",
+        "priceValue": 2970
+      }
+    ],
+    "searchedAt": "2025-08-05T23:16:58.150Z"
+  },
+  {
+    "keyword": "S2 Geometry",
+    "products": [],
+    "searchedAt": "2025-08-05T23:17:00.270Z"
+  },
+  {
+    "keyword": "S2Cells",
+    "products": [],
+    "searchedAt": "2025-08-05T23:17:02.483Z"
+  },
+  {
+    "keyword": "Geohash",
+    "products": [],
+    "searchedAt": "2025-08-05T23:17:09.606Z"
+  },
+  {
+    "keyword": "Quadtree",
+    "products": [
+      {
+        "asin": "3659266892",
+        "title": "A Combined Quadtree / Delaunay Method: For 2D Mesh Generation",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YipNRTJFS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3659266892?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Tang, Simon",
+        "brand": "LAP Lambert Academic Publishing",
+        "price": "￥8,715",
+        "priceValue": 8715
+      },
+      {
+        "asin": "3659376906",
+        "title": "Improvement of MX-CIF Quadtree: With Downloadable Source Code and Benchmark Datasets",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LlPz4W4WS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3659376906?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Wei, Yusi",
+        "brand": "LAP Lambert Academic Publishing",
+        "price": "￥6,147",
+        "priceValue": 6147
+      },
+      {
+        "asin": "3838329201",
+        "title": "Image and Video Data Compression using Spline and Quadtree: Applications of Spline and Quadtree in Data Compression",
+        "imageUrl": "https://m.media-amazon.com/images/I/41HGyFlMvUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/3838329201?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Khan, Murtaza",
+        "brand": "LAP Lambert Academic Publishing",
+        "price": "￥11,888",
+        "priceValue": 11888
+      }
+    ],
+    "searchedAt": "2025-08-05T23:17:14.158Z"
+  }
+]
