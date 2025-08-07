@@ -1,0 +1,88 @@
+[
+  {
+    "keyword": "GeoMiner",
+    "products": [],
+    "searchedAt": "2025-08-07T00:17:56.848Z"
+  },
+  {
+    "keyword": "GeoCLIP",
+    "products": [],
+    "searchedAt": "2025-08-07T00:17:58.515Z"
+  },
+  {
+    "keyword": "NAVIG",
+    "products": [
+      {
+        "asin": "B001HNM9WG",
+        "title": "PRO-WRESTLING NOAH Autumn Navig.’08 10.25 日本武道館大会 [DVD]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z6qXOU+eL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B001HNM9WG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "プロレス",
+        "brand": "バップ",
+        "price": "￥4,564",
+        "priceValue": 4564
+      },
+      {
+        "asin": "B001LOKI8I",
+        "title": "PRO-WRESTLING NOAH Winter Navig.’08 12.7 日本武道館大会 [DVD]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OP1SyfYrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B001LOKI8I?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "プロレス",
+        "brand": "バップ",
+        "price": "￥3,833",
+        "priceValue": 3833
+      },
+      {
+        "asin": "0671443909",
+        "title": "HUMAN NAVIG 6 SENS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Rwwn4K8UL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0671443909?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Robin baker",
+        "brand": "Simon & Schuster",
+        "price": "￥17,248",
+        "priceValue": 17248
+      }
+    ],
+    "searchedAt": "2025-08-07T00:18:00.424Z"
+  },
+  {
+    "keyword": "Multimodal Models",
+    "products": [
+      {
+        "asin": "1801074305",
+        "title": "Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond",
+        "imageUrl": "https://m.media-amazon.com/images/I/41dsjXtZRNL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1801074305?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jha, Ashish Ranjan",
+        "brand": "Packt Publishing",
+        "price": "￥8,491",
+        "priceValue": 8491
+      },
+      {
+        "asin": "B0DPLNK9GN",
+        "title": "AI Engineering: Building Applications with Foundation Models (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41HikWvU0nL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPLNK9GN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Huyen, Chip",
+        "brand": "O'Reilly Media",
+        "price": "￥6,920",
+        "priceValue": 6920
+      },
+      {
+        "asin": "B0F88H8YBZ",
+        "title": "LLM, Domain-specific LLMs & Multimodals: A Comprehensive Guide to Language Model Development, Domain-specific Language Models, and Multimodal Language Models (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LU8N2p+lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F88H8YBZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "D, Aki",
+        "price": "￥435",
+        "priceValue": 435
+      }
+    ],
+    "searchedAt": "2025-08-07T00:18:02.317Z"
+  },
+  {
+    "keyword": "Supervised Fine-Tuning",
+    "products": [],
+    "searchedAt": "2025-08-07T00:18:04.011Z"
+  }
+]
