@@ -1,0 +1,182 @@
+[
+  {
+    "title": "GBNF 文法から探る Ollama の構造化出力の仕組み｜Hemimoon",
+    "link": "https://note.com/hemi_moon/n/n4e1f580c537a",
+    "date": "2025-08-08T14:00:15.000Z"
+  },
+  {
+    "title": "Lark - Parsing Library & Toolkit",
+    "link": "https://github.com/lark-parser",
+    "date": "2025-08-08T11:16:01.000Z"
+  },
+  {
+    "title": "Welcome to Lark’s documentation! — Lark documentation",
+    "link": "https://lark-parser.readthedocs.io/en/latest/index.html",
+    "date": "2025-08-08T11:15:33.000Z"
+  },
+  {
+    "title": "個人的に最強のパーサジェネレータLarkについて",
+    "link": "https://zenn.dev/tbsten/articles/d922514e548518",
+    "date": "2025-08-08T11:15:28.000Z"
+  },
+  {
+    "title": "GitHub - guidance-ai/llguidance: Super-fast Structured Outputs",
+    "link": "https://github.com/guidance-ai/llguidance",
+    "date": "2025-08-08T11:01:48.000Z"
+  },
+  {
+    "title": "OpenAI Platform",
+    "link": "https://platform.openai.com/docs/guides/function-calling",
+    "date": "2025-08-08T10:31:38.000Z"
+  },
+  {
+    "title": "脱獄王Pliny、またもや勝利─gpt-oss-20b、早くも“自由”に｜Zun-Beho",
+    "link": "https://note.com/akikito/n/ncfc1e0d30b59",
+    "date": "2025-08-08T08:21:59.000Z"
+  },
+  {
+    "title": "A StrongREJECT for Empty Jailbreaks",
+    "link": "https://arxiv.org/abs/2402.10260",
+    "date": "2025-08-08T08:21:17.000Z"
+  },
+  {
+    "title": "GitHub - dsbowen/strong_reject",
+    "link": "https://github.com/dsbowen/strong_reject",
+    "date": "2025-08-08T08:21:11.000Z"
+  },
+  {
+    "title": "OpenAI、「GPT-5」の安全対策「Safe-Completions」で悪用リスクに対応",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2508/08/news058.html",
+    "date": "2025-08-08T08:20:00.000Z"
+  },
+  {
+    "title": "Status quo bias - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Status_quo_bias",
+    "date": "2025-08-08T07:32:16.000Z"
+  },
+  {
+    "title": "Cognitive bias - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Cognitive_bias",
+    "date": "2025-08-08T07:32:14.000Z"
+  },
+  {
+    "title": "MCP-UI",
+    "link": "https://mcpui.dev/",
+    "date": "2025-08-08T01:45:47.000Z"
+  },
+  {
+    "title": "Elasticsearchのベクトル検索におけるフィルター使用時のパフォーマンス改善 | メルカリエンジニアリング",
+    "link": "https://engineering.mercari.com/blog/entry/20250718-03e1dbe909/",
+    "date": "2025-08-08T00:08:03.000Z"
+  },
+  {
+    "title": "相互関税が発動　日米の認識食い違ったまま　米「15％上乗せ」：朝日新聞",
+    "link": "https://www.asahi.com/articles/AST867TKFT86UHBI00NM.html",
+    "date": "2025-08-07T23:18:34.000Z"
+  },
+  {
+    "title": "読売新聞、米AI新興Perplexityを提訴　検索サービスで著作権侵害 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUE10AM60Q4A211C2000000/",
+    "date": "2025-08-07T22:46:55.000Z"
+  },
+  {
+    "title": "グーグル、Gmail経由のハッキング被害増加を警告──自分のアカウントを回復する方法 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/81132",
+    "date": "2025-08-07T22:46:39.000Z"
+  },
+  {
+    "title": "MCPサーバーとMCPクライアントを作る | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/08/start-java-ai-programming-04",
+    "date": "2025-08-07T22:46:23.000Z"
+  },
+  {
+    "title": "Claude Opus 4.1",
+    "link": "https://www.anthropic.com/news/claude-opus-4-1",
+    "date": "2025-08-07T22:43:52.000Z"
+  },
+  {
+    "title": "How we run GPT OSS 120B at 500+ tokens per second on NVIDIA GPUs",
+    "link": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+    "date": "2025-08-07T22:42:16.000Z"
+  },
+  {
+    "title": "米関税巡る官報記載に赤沢氏「説明と違う」…「口約束」のツケ表面化、時間切れ「一律上乗せ」懸念",
+    "link": "https://www.yomiuri.co.jp/economy/20250807-OYT1T50016/",
+    "date": "2025-08-07T22:30:59.000Z"
+  },
+  {
+    "title": "日本の総人口約1億2433万人 55万人減少【都道府県別データも】 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250806/k10014886001000.html",
+    "date": "2025-08-07T22:30:41.000Z"
+  },
+  {
+    "title": "GitHub - inmve/free-ai-coding: AI coding tools with free access to pro-graded LLMs — ranked by free-tier limits",
+    "link": "https://github.com/inmve/free-ai-coding",
+    "date": "2025-08-07T22:30:32.000Z"
+  },
+  {
+    "title": "Agentic Coding - レビューというボトルネック",
+    "link": "https://www.mechanica-inc.com/slides/20250806-code-review-for-agentic-coding/",
+    "date": "2025-08-07T22:28:30.000Z"
+  },
+  {
+    "title": "Google Cloud、自然言語からデータ分析用のPythonコードを生成し実行する「Code Interpreter」をプレビュー公開",
+    "link": "https://www.publickey1.jp/blog/25/google_cloudpythoncode_interpreter.html",
+    "date": "2025-08-07T22:27:52.000Z"
+  },
+  {
+    "title": "MCPにおけるエンタープライズ向け認可に関する議論の今",
+    "link": "https://zenn.dev/layerx/articles/7e69eccac4ae51",
+    "date": "2025-08-07T22:27:41.000Z"
+  },
+  {
+    "title": "GoogleがコーディングアシスタントAIの「Jules」を正式リリース、無料プランは1日あたり15タスク",
+    "link": "https://gigazine.net/news/20250807-ai-coding-agent-jules-public/",
+    "date": "2025-08-07T22:27:34.000Z"
+  },
+  {
+    "title": "Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce",
+    "link": "https://arxiv.org/abs/2506.06576",
+    "date": "2025-08-07T22:24:52.000Z"
+  },
+  {
+    "title": "「半導体に100％の関税」、トランプ氏表明　国内生産なら優遇",
+    "link": "https://jp.reuters.com/markets/japan/funds/IAU5TT5BC5PAXLWS4ITOPUPMUE-2025-08-06/",
+    "date": "2025-08-07T22:22:18.000Z"
+  },
+  {
+    "title": "花王の顔｜毛穴詰まりに王手を！難敵「角栓」を崩す華麗なる洗浄剤",
+    "link": "https://www.kao.com/jp/kaonokao/dna/8_4/",
+    "date": "2025-08-07T22:20:00.000Z"
+  },
+  {
+    "title": "「仕事の助け合い」が上手なチームになろう────プロダクトマネジメントコーチ森雄哉さんに聞く。",
+    "link": "https://agend.jp/media/consultation-help/",
+    "date": "2025-08-07T22:19:51.000Z"
+  },
+  {
+    "title": "大川原化工機えん罪 警視庁公安歴代幹部ら19人処分・処分相当 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250807/k10014887141000.html",
+    "date": "2025-08-07T22:17:23.000Z"
+  },
+  {
+    "title": "Google、非同期コーディングエージェント「Jules」を一般公開 ～無償でも利用可能／「GitHub」と統合、「Gemini 2.5 Pro」で計画・解決",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2037539.html",
+    "date": "2025-08-07T22:17:22.000Z"
+  },
+  {
+    "title": "「タレントサブスク」 トラブル受け提供会社が審査体制厳格化 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250807/k10014887271000.html",
+    "date": "2025-08-07T22:17:14.000Z"
+  },
+  {
+    "title": "テキスト通話SNSアプリ「Jiffcy」が口コミで急成長。Z世代の配慮文化に応える新SNSの魅力",
+    "link": "https://toyokeizai.net/articles/-/895089?display=b",
+    "date": "2025-08-07T22:17:08.000Z"
+  },
+  {
+    "title": "変形性膝関節症、mRNA注射で治療へ　国内スタートアップが9月治験 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOSG2530L0V20C25A6000000/",
+    "date": "2025-08-07T22:16:54.000Z"
+  }
+]
