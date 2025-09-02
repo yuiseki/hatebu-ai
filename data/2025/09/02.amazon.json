@@ -1,0 +1,74 @@
+[
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41iBWSYri4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "4814401159",
+        "title": "直感 LLM ―ハンズオンで動かして学ぶ大規模言語モデル入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YJOP71jdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401159?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jay Alammar",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      }
+    ],
+    "searchedAt": "2025-09-02T23:18:08.965Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0FKM9CNY8",
+        "title": "アフターAI　世界の一流には見えている生成AIの未来地図",
+        "imageUrl": "https://m.media-amazon.com/images/I/414l17+NX2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FKM9CNY8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シバタ ナオキ",
+        "brand": "日経BP",
+        "price": "￥2,178",
+        "priceValue": 2178
+      }
+    ],
+    "searchedAt": "2025-09-02T23:18:10.776Z"
+  }
+]
