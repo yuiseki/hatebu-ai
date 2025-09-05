@@ -1,0 +1,181 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,960",
+        "priceValue": 1960
+      },
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "B0D8KNXRK9",
+        "title": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z0NykiT6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8KNXRK9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "サプー",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      }
+    ],
+    "searchedAt": "2025-09-05T05:43:58.582Z"
+  },
+  {
+    "keyword": "Rust",
+    "products": [
+      {
+        "asin": "4873119782",
+        "title": "プログラミングRust 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51M44jPsASL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119782?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jim Blandy",
+        "brand": "オライリージャパン",
+        "price": "￥5,280",
+        "priceValue": 5280
+      },
+      {
+        "asin": "B09WQT2DQD",
+        "title": "手を動かして考えればよくわかる 高効率言語 Rust 書きかた・作りかた",
+        "imageUrl": "https://m.media-amazon.com/images/I/414df+FWBLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09WQT2DQD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,799",
+        "priceValue": 3799
+      },
+      {
+        "asin": "4814401183",
+        "title": "Async Rust ―高いパフォーマンスと安全性を両立するRustによる非同期処理",
+        "imageUrl": "https://m.media-amazon.com/images/I/412wTiTGqWL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Maxwell Flitton",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-09-05T05:44:00.652Z"
+  },
+  {
+    "keyword": "JavaScript",
+    "products": [
+      {
+        "asin": "B0BRR4N7SM",
+        "title": "1冊ですべて身につくJavaScript入門講座",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LiLLZvYnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BRR4N7SM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mana",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,515",
+        "priceValue": 2515
+      },
+      {
+        "asin": "B09HC854HS",
+        "title": "独習JavaScript 新版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eBTVzldFL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09HC854HS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "CodeMafia 外村将大",
+        "brand": "翔泳社",
+        "price": "￥2,950",
+        "priceValue": 2950
+      },
+      {
+        "asin": "B0CTHSK3F3",
+        "title": "これからのJavaScriptの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WyovDO+vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CTHSK3F3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "狩野 祐東",
+        "brand": "SBクリエイティブ",
+        "price": "￥3,168",
+        "priceValue": 3168
+      }
+    ],
+    "searchedAt": "2025-09-05T05:44:02.468Z"
+  },
+  {
+    "keyword": "Tailwind",
+    "products": [
+      {
+        "asin": "B0CQWSQZHG",
+        "title": "Tailwind CSS実践入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ju8yVLRHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CQWSQZHG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "工藤 智祥",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0CTHR8C1Y",
+        "title": "基礎から学ぶ Tailwind CSS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xjqYfBDTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CTHR8C1Y?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "株式会社クロノス",
+        "brand": "シーアンドアール研究所",
+        "price": "￥3,386",
+        "priceValue": 3386
+      },
+      {
+        "asin": "B0F4KM5Y74",
+        "title": "【TailwindCSS v4】Cursor × Tailwind CSS v4でさらに爆速AIコーディング: AIコーディングでTailwindCSS v4を使い、スタイリングをさらに爆速に！",
+        "imageUrl": "https://m.media-amazon.com/images/I/41v5GtO2iCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4KM5Y74?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ナナイロ",
+        "price": "￥1,800",
+        "priceValue": 1800
+      }
+    ],
+    "searchedAt": "2025-09-05T05:44:04.285Z"
+  },
+  {
+    "keyword": "Bootstrap",
+    "products": [
+      {
+        "asin": "B09P9G7TGF",
+        "title": "Bootstrap 5　フロントエンド開発の教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Xn0EGu+mL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09P9G7TGF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "WINGSプロジェクト 山内直",
+        "brand": "技術評論社",
+        "price": "￥3,751",
+        "priceValue": 3751
+      },
+      {
+        "asin": "B07YYMMB7P",
+        "title": "An Introduction to the Bootstrap (Chapman & Hall/CRC Monographs on Statistics and Applied Probability Book 57) (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41qGFJa9hSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07YYMMB7P?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Efron, Bradley",
+        "brand": "Chapman and Hall/CRC",
+        "price": "￥32,175",
+        "priceValue": 32175
+      },
+      {
+        "asin": "4877835229",
+        "title": "Bootstrap5ファーストガイド: Web制作の手間を大幅に削減!",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XLWO5KFGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4877835229?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "相澤裕介",
+        "brand": "カットシステム",
+        "price": "￥3,630",
+        "priceValue": 3630
+      }
+    ],
+    "searchedAt": "2025-09-05T05:44:06.153Z"
+  }
+]
