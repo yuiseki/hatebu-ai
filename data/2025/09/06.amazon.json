@@ -1,0 +1,149 @@
+[
+  {
+    "keyword": "ブロックチェーン",
+    "products": [
+      {
+        "asin": "4297106361",
+        "title": "図解即戦力 ブロックチェーンのしくみと開発がこれ1冊でしっかりわかる教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sDeE8kSTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4297106361?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "コンセンサス・ベイス株式会社",
+        "brand": "技術評論社",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "4022520744",
+        "title": "Web3・暗号資産　13人の未来予測　ブロックチェーン・ビットコイン・投資動向まで、時代を乗り切る価値革命の地図とコンパス",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ITRMd0+oL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4022520744?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "神本 侑季",
+        "brand": "朝日新聞出版",
+        "price": "￥2,090",
+        "priceValue": 2090
+      },
+      {
+        "asin": "4322145566",
+        "title": "実務論点 ブロックチェーンの法務: 暗号資産と電子決済手段",
+        "imageUrl": "https://m.media-amazon.com/images/I/41lp8LS2j5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4322145566?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "林 敬祐",
+        "brand": "金融財政事情研究会",
+        "price": "￥4,400",
+        "priceValue": 4400
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:20.563Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0FKM9CNY8",
+        "title": "アフターAI　世界の一流には見えている生成AIの未来地図",
+        "imageUrl": "https://m.media-amazon.com/images/I/41W6lASqPtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FKM9CNY8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シバタ ナオキ",
+        "brand": "日経BP",
+        "price": "￥2,178",
+        "priceValue": 2178
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:22.235Z"
+  },
+  {
+    "keyword": "TypeScript",
+    "products": [
+      {
+        "asin": "B09Y527YPV",
+        "title": "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BhhfT6IyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09Y527YPV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 僚太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4814400365",
+        "title": "初めてのTypeScript ―型安全なJavaScriptでWeb開発を加速する",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VRvb0cdmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400365?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Josh Goldberg",
+        "brand": "オーム社",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4873119049",
+        "title": "プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vjj+osAgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119049?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Boris Cherny",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:24.179Z"
+  },
+  {
+    "keyword": "COA-GPT",
+    "products": [],
+    "searchedAt": "2025-09-06T23:47:25.872Z"
+  },
+  {
+    "keyword": "Slint",
+    "products": [
+      {
+        "asin": "B08LMYWKZD",
+        "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBBU/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ネイビーブルー",
+        "imageUrl": "https://m.media-amazon.com/images/I/317ZXhs7GQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08LMYWKZD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "エレコム(ELECOM)",
+        "price": "￥1,440",
+        "priceValue": 1440
+      },
+      {
+        "asin": "B0CTBKHJST",
+        "title": "エレコム ワイヤレス キーボード Bluetooth Slint 超薄型 充電式 日本語配列 3台マルチペアリング OS自動識別 Windows/macOS/ChromeOS/iOS/iPadOS/Android 対応 ガンメタリック TK-TM15BPGM/EC",
+        "imageUrl": "https://m.media-amazon.com/images/I/41u4DEev3IL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CTBKHJST?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "エレコム(ELECOM)",
+        "price": "￥4,760",
+        "priceValue": 4760
+      },
+      {
+        "asin": "B0000019HU",
+        "title": "Spiderland",
+        "imageUrl": "https://m.media-amazon.com/images/I/41sfrh7QzxL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0000019HU?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Slint",
+        "brand": "wea corp",
+        "price": "￥2,793",
+        "priceValue": 2793
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:27.663Z"
+  }
+]
