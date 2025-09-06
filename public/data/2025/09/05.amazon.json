@@ -1,0 +1,120 @@
+[
+  {
+    "keyword": "MapLibre",
+    "products": [],
+    "searchedAt": "2025-09-06T23:47:11.150Z"
+  },
+  {
+    "keyword": "Automate Mapping",
+    "products": [],
+    "searchedAt": "2025-09-06T23:47:13.025Z"
+  },
+  {
+    "keyword": "GIS",
+    "products": [
+      {
+        "asin": "B0F8HJ1X4B",
+        "title": "GIS入門 この一冊で「統計マップ」が自在に作れる",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ighN5pYsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8HJ1X4B?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中島円",
+        "brand": "ベレ出版",
+        "price": "￥2,277",
+        "priceValue": 2277
+      },
+      {
+        "asin": "4881384384",
+        "title": "改訂版（Ver.3.22対応）業務で使うＱＧＩＳVer.3　完全使いこなしガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51m+F2lobeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4881384384?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "喜多 耕一",
+        "brand": "全国林業改良普及協会",
+        "price": "￥7,480",
+        "priceValue": 7480
+      },
+      {
+        "asin": "4772232087",
+        "title": "経済・政策分析のためのGIS入門 2 二訂版: 空間統計ツールと高精度地理空間情報 ArcGIS Pro,QGIS対応",
+        "imageUrl": "https://m.media-amazon.com/images/I/41P7vi0jsmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4772232087?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "河端 瑞貴",
+        "brand": "古今書院",
+        "price": "￥3,300",
+        "priceValue": 3300
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:15.039Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0FKM9CNY8",
+        "title": "アフターAI　世界の一流には見えている生成AIの未来地図",
+        "imageUrl": "https://m.media-amazon.com/images/I/41W6lASqPtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FKM9CNY8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "シバタ ナオキ",
+        "brand": "日経BP",
+        "price": "￥2,178",
+        "priceValue": 2178
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:16.703Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41iBWSYri4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "4814401159",
+        "title": "直感 LLM ―ハンズオンで動かして学ぶ大規模言語モデル入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YJOP71jdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401159?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jay Alammar",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      }
+    ],
+    "searchedAt": "2025-09-06T23:47:18.620Z"
+  }
+]
