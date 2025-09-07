@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "Rust",
+    "products": [
+      {
+        "asin": "4873119782",
+        "title": "プログラミングRust 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51M44jPsASL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119782?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jim Blandy",
+        "brand": "オライリージャパン",
+        "price": "￥5,280",
+        "priceValue": 5280
+      },
+      {
+        "asin": "4814401183",
+        "title": "Async Rust ―高いパフォーマンスと安全性を両立するRustによる非同期処理",
+        "imageUrl": "https://m.media-amazon.com/images/I/412wTiTGqWL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Maxwell Flitton",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "B09WQT2DQD",
+        "title": "手を動かして考えればよくわかる 高効率言語 Rust 書きかた・作りかた",
+        "imageUrl": "https://m.media-amazon.com/images/I/414df+FWBLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09WQT2DQD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,799",
+        "priceValue": 3799
+      }
+    ],
+    "searchedAt": "2025-09-07T22:54:08.921Z"
+  },
+  {
+    "keyword": "Terraform",
+    "products": [
+      {
+        "asin": "4814400136",
+        "title": "Terraformではじめる実践IaC ―AWSでのインフラストラクチャ構築の基本から継続的デプロイまで",
+        "imageUrl": "https://m.media-amazon.com/images/I/41n8H67dZbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400136?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 太斉",
+        "brand": "オライリージャパン",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "4814400527",
+        "title": "詳解 Terraform 第3版 ―Infrastructure as Codeを実現する",
+        "imageUrl": "https://m.media-amazon.com/images/I/51X+EauUEqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400527?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Yevgeniy Brikman",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "B0DR9ZP5LW",
+        "title": "入門Terraform　クラウド時代のインフラ統合管理 impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Ds1e551hL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DR9ZP5LW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "草間一人",
+        "brand": "インプレス",
+        "price": "￥3,168",
+        "priceValue": 3168
+      }
+    ],
+    "searchedAt": "2025-09-07T22:54:10.886Z"
+  },
+  {
+    "keyword": "Machine Learning",
+    "products": [
+      {
+        "asin": "1835085628",
+        "title": "Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RupXwwDLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1835085628?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Liu, Yuxi (Hayden)",
+        "brand": "Packt Publishing",
+        "price": "￥7,458",
+        "priceValue": 7458
+      },
+      {
+        "asin": "0262048434",
+        "title": "Probabilistic Machine Learning: Advanced Topics (Adaptive Computation and Machine Learning series)",
+        "imageUrl": "https://m.media-amazon.com/images/I/414W+ZbaY5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0262048434?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Murphy, Kevin P.",
+        "brand": "The MIT Press",
+        "price": "￥21,045",
+        "priceValue": 21045
+      },
+      {
+        "asin": "1449369413",
+        "title": "Introduction to Machine Learning with Python: A Guide for Data Scientists",
+        "imageUrl": "https://m.media-amazon.com/images/I/51oMzOuSxML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1449369413?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mueller, Andreas C.",
+        "brand": "O'Reilly Media",
+        "price": "￥3,354",
+        "priceValue": 3354
+      }
+    ],
+    "searchedAt": "2025-09-07T22:54:13.158Z"
+  },
+  {
+    "keyword": "OpenAI",
+    "products": [
+      {
+        "asin": "4862466532",
+        "title": "OpenAI GPT-5／ChatGPT 人工知能プログラミング実践入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/510VAAokwRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4862466532?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "布留川 英一",
+        "brand": "ボーンデジタル",
+        "price": "￥4,950",
+        "priceValue": 4950
+      },
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "B0FD5DT17Q",
+        "title": "OpenAI Agents SDK MCP AIエージェント開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41i6+yY4pBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD5DT17Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "brand": "Independently published",
+        "price": "￥3,960",
+        "priceValue": 3960
+      }
+    ],
+    "searchedAt": "2025-09-07T22:54:14.970Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41iBWSYri4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      },
+      {
+        "asin": "4814401159",
+        "title": "直感 LLM ―ハンズオンで動かして学ぶ大規模言語モデル入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YJOP71jdL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401159?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jay Alammar",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      }
+    ],
+    "searchedAt": "2025-09-07T22:54:16.853Z"
+  }
+]
