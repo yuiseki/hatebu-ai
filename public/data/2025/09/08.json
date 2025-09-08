@@ -1,0 +1,247 @@
+[
+  {
+    "title": "事業計画のハナシ 前提知識｜柳川慶太",
+    "link": "https://note.com/gimupop/n/n2ed5aaf767f4",
+    "date": "2025-09-08T11:59:43.000Z"
+  },
+  {
+    "title": "GitHub - github/ai-moderator: An AI-powered GitHub Action that detects and tags spam in your repository",
+    "link": "https://github.com/github/ai-moderator",
+    "date": "2025-09-08T11:02:07.000Z"
+  },
+  {
+    "title": "GitHub - github/ai-assessment-comment-labeler: AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body",
+    "link": "https://github.com/github/ai-assessment-comment-labeler",
+    "date": "2025-09-08T11:02:00.000Z"
+  },
+  {
+    "title": "GitHub Actions: AI labeler and moderator with the GitHub Models inference API - GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-09-05-github-actions-ai-labeler-and-moderator-with-the-github-models-inference-api/",
+    "date": "2025-09-08T11:01:53.000Z"
+  },
+  {
+    "title": "Knowledge Sanitization of Large Language Models",
+    "link": "https://arxiv.org/abs/2309.11852",
+    "date": "2025-09-08T10:48:36.000Z"
+  },
+  {
+    "title": "Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series",
+    "link": "https://arxiv.org/abs/2509.04921",
+    "date": "2025-09-08T10:48:21.000Z"
+  },
+  {
+    "title": "【和訳】カオス時系列を用いた大規模事前学習のスケーリング則および金融時系列の予測可能性｜UKI",
+    "link": "https://note.com/uki_profit/n/n825b3c040347",
+    "date": "2025-09-08T10:48:17.000Z"
+  },
+  {
+    "title": "AIの軽量化・省電力を実現する生成AI再構成技術を開発し、富士通の大規模言語モデル「Takane」を強化",
+    "link": "https://prtimes.jp/main/html/rd/p/000000457.000093942.html",
+    "date": "2025-09-08T10:38:58.000Z"
+  },
+  {
+    "title": "AIの軽量化・省電力を実現する生成AI再構成技術を開発し、富士通の大規模言語モデル「Takane」を強化",
+    "link": "https://global.fujitsu/ja-jp/pr/news/2025/09/08-01",
+    "date": "2025-09-08T10:38:53.000Z"
+  },
+  {
+    "title": "富士通、LLMの軽量化技術を発表　1ビット量子化でも約9割の精度を維持　3倍に高速化も",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/08/news113.html",
+    "date": "2025-09-08T10:38:41.000Z"
+  },
+  {
+    "title": "声優・山村響さんの声、無許可でAIモデル化　AivisSpeech「Anneli」問題が波紋",
+    "link": "https://ascii.jp/elem/000/004/318/4318182/",
+    "date": "2025-09-08T10:35:36.000Z"
+  },
+  {
+    "title": "AivisHub - AivisSpeechで使えるAI音声合成モデル共有サイト",
+    "link": "https://hub.aivis-project.com/",
+    "date": "2025-09-08T10:34:50.000Z"
+  },
+  {
+    "title": "「そのぐらい書いておけよ」──“作り方はQRコードから”のインスタント焼きそばに賛否　製造元の意図は",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/08/news095.html",
+    "date": "2025-09-08T10:33:55.000Z"
+  },
+  {
+    "title": "SESで150万件のメールを送るまで",
+    "link": "https://ses150-luv1p38.gamma.site/",
+    "date": "2025-09-08T10:18:53.000Z"
+  },
+  {
+    "title": "【速報】保守中道でないと連立組めないと公明代表",
+    "link": "https://www.47news.jp/13121879.html",
+    "date": "2025-09-08T09:31:13.000Z"
+  },
+  {
+    "title": "オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 - YAMDAS現更新履歴",
+    "link": "https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation",
+    "date": "2025-09-08T09:31:12.000Z"
+  },
+  {
+    "title": "GitHub - vercel-labs/dev3000: Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.",
+    "link": "https://github.com/vercel-labs/dev3000",
+    "date": "2025-09-08T02:34:43.000Z"
+  },
+  {
+    "title": "dev3000 - AI-Powered Debugging & Development Monitoring",
+    "link": "https://d3k.vercel.sh/",
+    "date": "2025-09-08T02:13:57.000Z"
+  },
+  {
+    "title": "kaunista/style-bert-vits2-Anneli · Hugging Face",
+    "link": "https://huggingface.co/kaunista/style-bert-vits2-Anneli",
+    "date": "2025-09-08T01:36:53.000Z"
+  },
+  {
+    "title": "browserbase",
+    "link": "https://github.com/browserbase",
+    "date": "2025-09-08T01:27:10.000Z"
+  },
+  {
+    "title": "Browserbase: A web browser for AI agents & applications",
+    "link": "https://www.browserbase.com/",
+    "date": "2025-09-08T01:26:34.000Z"
+  },
+  {
+    "title": "Director.ai",
+    "link": "https://www.director.ai/",
+    "date": "2025-09-08T01:26:08.000Z"
+  },
+  {
+    "title": "無料公開の DEM 一覧",
+    "link": "https://zenn.dev/syu_tan/articles/f6f94328894c6d",
+    "date": "2025-09-08T01:23:32.000Z"
+  },
+  {
+    "title": "PMとしてLLMと上手くプロダクトを作るための抽象度レイヤーの設計",
+    "link": "https://speakerdeck.com/zerebom/pmtositellmtoshang-shou-kupurodakutowozuo-rutamenochou-xiang-du-reiyanoshe-ji",
+    "date": "2025-09-08T00:56:15.000Z"
+  },
+  {
+    "title": "GitHub - githubnext/gh-aw: Safe Natural Language Agentic Workflows",
+    "link": "https://github.com/githubnext/gh-aw",
+    "date": "2025-09-08T00:55:55.000Z"
+  },
+  {
+    "title": "GitHub、自然言語でGitHub Actionsワークフローを記述可能にする試み。生成AIで自然言語をYaml形式にコンパイル",
+    "link": "https://www.publickey1.jp/blog/25/githubgithub_actionsaiyaml.html",
+    "date": "2025-09-08T00:55:38.000Z"
+  },
+  {
+    "title": "AI mode is good, actually",
+    "link": "https://simonwillison.net/2025/Sep/7/ai-mode/",
+    "date": "2025-09-08T00:54:58.000Z"
+  },
+  {
+    "title": "スタニスワフ・レム『技術大全』訳者解説 - 山形浩生の「経済のトリセツ」",
+    "link": "https://cruel.hatenablog.com/entry/2025/09/07/201703",
+    "date": "2025-09-08T00:46:57.000Z"
+  },
+  {
+    "title": "1から理解するWeb Push",
+    "link": "https://speakerdeck.com/dora1998/1karali-jie-suruweb-push",
+    "date": "2025-09-08T00:44:17.000Z"
+  },
+  {
+    "title": "https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/",
+    "link": "https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/",
+    "date": "2025-09-07T23:36:14.000Z"
+  },
+  {
+    "title": "GitHub - Mentra-Community/MentraOS: Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.",
+    "link": "https://github.com/Mentra-Community/MentraOS",
+    "date": "2025-09-07T23:34:43.000Z"
+  },
+  {
+    "title": "[v0.16.0] Qwen3 30B A3B Q40 on 4 x Raspberry Pi 5 8GB · b4rtaz/distributed-llama · Discussion #255",
+    "link": "https://github.com/b4rtaz/distributed-llama/discussions/255",
+    "date": "2025-09-07T23:33:57.000Z"
+  },
+  {
+    "title": "GitHub - duckdb/ducklake: DuckLake is an integrated data lake and catalog format",
+    "link": "https://github.com/duckdb/ducklake",
+    "date": "2025-09-07T23:31:33.000Z"
+  },
+  {
+    "title": "[執筆中]初心者がStreamlitとDucklakeでローカルデータレイクハウスを作って学んでみた話",
+    "link": "https://zenn.dev/amana/books/2734dd0d8352ad",
+    "date": "2025-09-07T23:31:26.000Z"
+  },
+  {
+    "title": "pg_duckdb - PostgreSQL プロセス上の DuckDB で OLAP ワークロードを処理する",
+    "link": "https://zenn.dev/yohei/articles/2024-11-09-pg-duckdb",
+    "date": "2025-09-07T23:31:09.000Z"
+  },
+  {
+    "title": "Announcing Pg_duckdb Version 1.0 - MotherDuck Blog",
+    "link": "https://motherduck.com/blog/pg-duckdb-release/",
+    "date": "2025-09-07T23:30:57.000Z"
+  },
+  {
+    "title": "実践Vim 第一部: 何となくVimを使っていた自分が見落としていたVimテクニックと考え方",
+    "link": "https://zenn.dev/cozy_corner/articles/f202dedf604edb",
+    "date": "2025-09-07T23:30:44.000Z"
+  },
+  {
+    "title": "データビジュアライゼーションの基礎",
+    "link": "https://www.oreilly.co.jp//books/9784873119533/",
+    "date": "2025-09-07T23:26:21.000Z"
+  },
+  {
+    "title": "GitHub - xhiroga/pachimoji",
+    "link": "https://github.com/xhiroga/pachimoji",
+    "date": "2025-09-07T23:17:19.000Z"
+  },
+  {
+    "title": "フェイスブック、長年にわたり存在意義が不明だった「Poke」をZ世代向けに本格復活へ",
+    "link": "https://japan.cnet.com/article/35237671/",
+    "date": "2025-09-07T23:06:30.000Z"
+  },
+  {
+    "title": "GitHub - yoheikikuta/support-genAI-book: 原論文から解き明かす生成AI（技術評論社）のサポートページです",
+    "link": "https://github.com/yoheikikuta/support-genAI-book",
+    "date": "2025-09-07T23:06:17.000Z"
+  },
+  {
+    "title": "PRDは単なるドキュメントではない。思考・対話・成長を加速させるツール（1万字）🧠💬👣｜まさきごた | プロダクトマネージャー",
+    "link": "https://note.com/go_go_career/n/nb6c94401d9ac",
+    "date": "2025-09-07T23:04:43.000Z"
+  },
+  {
+    "title": "PRDのあり方の変化から考えるプロダクトマネージャーの役割シフト｜まさきごた | プロダクトマネージャー",
+    "link": "https://note.com/go_go_career/n/n67b12432532a",
+    "date": "2025-09-07T23:04:39.000Z"
+  },
+  {
+    "title": "https://ciru.dept.showa.gunma-u.ac.jp/guidance/storage-sample/pdf/2019-270.pdf",
+    "link": "https://ciru.dept.showa.gunma-u.ac.jp/guidance/storage-sample/pdf/2019-270.pdf",
+    "date": "2025-09-07T22:31:29.000Z"
+  },
+  {
+    "title": "MS13-12 モヤシ摂取によりアナフィラキシー症状をきたしたpollen-food allergy syndromeの1例(MS13 食物アレルギー3,ミニシンポジウム,第24回日本アレルギー学会春季臨床大会)",
+    "link": "https://www.jstage.jst.go.jp/article/arerugi/61/3-4/61_KJ00008131601/_article/-char/ja/",
+    "date": "2025-09-07T22:31:13.000Z"
+  },
+  {
+    "title": "緑豆もやしによるアレルギーの2例",
+    "link": "https://www.jstage.jst.go.jp/article/arerugi/72/8/72_1046/_article/-char/ja/",
+    "date": "2025-09-07T22:31:08.000Z"
+  },
+  {
+    "title": "ADHDだと診断された成人は抗うつ薬の使用量が減るという研究結果",
+    "link": "https://gigazine.net/news/20250906-adhd-diagnosis-antidepressant-use-declines/",
+    "date": "2025-09-07T22:26:00.000Z"
+  },
+  {
+    "title": "トランプ氏、シカゴへの「戦争省」投入を示唆",
+    "link": "https://www.afpbb.com/articles/-/3597021",
+    "date": "2025-09-07T22:25:49.000Z"
+  },
+  {
+    "title": "自分がずっと欲しかったバーチャル本棚アプリ作ったら大満足でした - karaage. [からあげ]",
+    "link": "https://karaage.hatenadiary.jp/entry/2025/09/07/073000",
+    "date": "2025-09-07T22:06:13.000Z"
+  }
+]
