@@ -1,0 +1,217 @@
+[
+  {
+    "title": "npmエコシステムのサプライチェーン攻撃リスクに関する調査レポート",
+    "link": "https://paste.ssig33.com/1b81665b-4d75-4751-9bc4-468a9988b99d",
+    "date": "2025-09-09T12:30:42.000Z"
+  },
+  {
+    "title": "Comparing NPM, YARN, and PNPM Package Managers: Which One is Right for Your Distributed Project to…",
+    "link": "https://romanglushach.medium.com/comparing-npm-yarn-and-pnpm-package-managers-which-one-is-right-for-your-distributed-project-to-4d7de2f0db8e",
+    "date": "2025-09-09T12:27:53.000Z"
+  },
+  {
+    "title": "Introducing Supply-Chain Firewall: Protecting Developers from Malicious Open Source Packages | Datadog Security Labs",
+    "link": "https://securitylabs.datadoghq.com/articles/introducing-supply-chain-firewall/",
+    "date": "2025-09-09T12:27:41.000Z"
+  },
+  {
+    "title": "Top 5 NPM Vulnerability Scanners - Spectral",
+    "link": "https://spectralops.io/blog/best-npm-vulnerability-scanners/",
+    "date": "2025-09-09T12:27:35.000Z"
+  },
+  {
+    "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
+    "link": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
+    "date": "2025-09-09T12:25:49.000Z"
+  },
+  {
+    "title": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies",
+    "link": "https://medium.com/@alex.birsan/dependency-confusion-how-i-hacked-into-apple-microsoft-and-dozens-of-other-companies-4a5d60fec610",
+    "date": "2025-09-09T12:25:26.000Z"
+  },
+  {
+    "title": "Secure Node.js Applications from Supply Chain Attacks",
+    "link": "https://auth0.com/blog/secure-nodejs-applications-from-supply-chain-attacks/",
+    "date": "2025-09-09T12:13:20.000Z"
+  },
+  {
+    "title": "NPM security: preventing supply chain attacks | Snyk",
+    "link": "https://snyk.io/jp/blog/npm-security-preventing-supply-chain-attacks/",
+    "date": "2025-09-09T12:13:11.000Z"
+  },
+  {
+    "title": "npm Best Practices for the Supply-Chain – Open Source Security Foundation",
+    "link": "https://openssf.org/blog/2022/09/01/npm-best-practices-for-the-supply-chain/",
+    "date": "2025-09-09T12:12:55.000Z"
+  },
+  {
+    "title": "https://cloudsmith.com/blog/multiple-malicious-packages-discovered-on-pypi-npm-and-rubygems",
+    "link": "https://cloudsmith.com/blog/multiple-malicious-packages-discovered-on-pypi-npm-and-rubygems",
+    "date": "2025-09-09T12:12:43.000Z"
+  },
+  {
+    "title": "Yes, the npm ecosystem is at fault",
+    "link": "http://xion.io/post/programming/another-npm-snafu.html",
+    "date": "2025-09-09T12:11:19.000Z"
+  },
+  {
+    "title": "https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack",
+    "link": "https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack",
+    "date": "2025-09-09T11:33:16.000Z"
+  },
+  {
+    "title": "天下一品の店舗で女性頼んだ「こってりラーメン」にゴキブリ死骸、原因解明まで営業停止に",
+    "link": "https://www.sankei.com/article/20250909-XTP3JZXDTZMJ5LJXE66Q4OTPF4/",
+    "date": "2025-09-09T11:17:29.000Z"
+  },
+  {
+    "title": "【速報】グレタさん主導のガザ支援船に無人機衝突か",
+    "link": "https://www.47news.jp/13128762.html",
+    "date": "2025-09-09T11:17:18.000Z"
+  },
+  {
+    "title": "GoogleがついにGeminiの利用制限の詳細を明らかに、無料ユーザーはどこまでGeminiを使えるのか？",
+    "link": "https://gigazine.net/news/20250908-google-gemini-usage-limits/",
+    "date": "2025-09-08T23:06:14.000Z"
+  },
+  {
+    "title": "Google 検索における「AI モード」を日本語で提供開始",
+    "link": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-mode-search/",
+    "date": "2025-09-08T23:05:47.000Z"
+  },
+  {
+    "title": "Google検索の「AIモード」、いよいよ日本でも開始",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2045505.html",
+    "date": "2025-09-08T23:05:44.000Z"
+  },
+  {
+    "title": "マイクロソフトがオープンソース化したDocumentDB、Linux Foundationに参加。NoSQLの標準化を目指す",
+    "link": "https://www.publickey1.jp/blog/25/documentdblinux_foundationnosql.html",
+    "date": "2025-09-08T23:05:36.000Z"
+  },
+  {
+    "title": "AGENTS.md の概要｜npaka",
+    "link": "https://note.com/npaka/n/nd1258df2853c",
+    "date": "2025-09-08T23:04:42.000Z"
+  },
+  {
+    "title": "asken におけるAI活用の現在地（エンジニア組織編） - asken テックブログ",
+    "link": "https://tech.asken.inc/entry/2025/09/08/170000",
+    "date": "2025-09-08T23:04:23.000Z"
+  },
+  {
+    "title": "https://dl.acm.org/doi/10.1145/3539618.3591772",
+    "link": "https://dl.acm.org/doi/10.1145/3539618.3591772",
+    "date": "2025-09-08T23:04:00.000Z"
+  },
+  {
+    "title": "GitHub - stmrdus/tkger: Some papers on Temporal Knowledge Graph Embedding and Reasoning",
+    "link": "https://github.com/stmrdus/tkger",
+    "date": "2025-09-08T23:03:51.000Z"
+  },
+  {
+    "title": "Temporal Knowledge Graphs",
+    "link": "https://medium.com/self-study-notes/temporal-knowledge-graphs-5b032671e0c7",
+    "date": "2025-09-08T23:03:41.000Z"
+  },
+  {
+    "title": "A Temporal Knowledge Graph Generation Dataset Supervised Distantly by Large Language Models - Scientific Data",
+    "link": "https://www.nature.com/articles/s41597-025-05062-0",
+    "date": "2025-09-08T23:03:30.000Z"
+  },
+  {
+    "title": "Zep: A Temporal Knowledge Graph Architecture for Agent Memory",
+    "link": "https://arxiv.org/abs/2501.13956",
+    "date": "2025-09-08T23:03:23.000Z"
+  },
+  {
+    "title": "Temporal Agents with Knowledge Graphs | OpenAI Cookbook",
+    "link": "https://cookbook.openai.com/examples/partners/temporal_agents_with_knowledge_graphs/temporal_agents_with_knowledge_graphs",
+    "date": "2025-09-08T23:03:19.000Z"
+  },
+  {
+    "title": "A Survey on Temporal Knowledge Graph: Representation Learning and Applications",
+    "link": "https://arxiv.org/abs/2403.04782",
+    "date": "2025-09-08T23:03:10.000Z"
+  },
+  {
+    "title": "Temporal Knowledge Graphで作る！時間変化するナレッジを扱うAI Agentの世界 - LayerX エンジニアブログ",
+    "link": "https://tech.layerx.co.jp/entry/tkg-agent",
+    "date": "2025-09-08T23:02:55.000Z"
+  },
+  {
+    "title": "Web AI Demos",
+    "link": "https://chrome.dev/web-ai-demos/",
+    "date": "2025-09-08T23:00:36.000Z"
+  },
+  {
+    "title": "「スモールデータ解析と機械学習」を読む　～第6章 異常検知問題 ③多変量統計的プロセス管理～ - jiku log",
+    "link": "https://stern-bow.hatenablog.com/entry/2025/09/08/120000",
+    "date": "2025-09-08T23:00:10.000Z"
+  },
+  {
+    "title": "Windows 11を\"素\"に戻す「tiny11builder」が25H2対応でさらに進化 | ソフトアンテナ",
+    "link": "https://softantenna.com/blog/tiny11builder-for-25h2/",
+    "date": "2025-09-08T22:59:39.000Z"
+  },
+  {
+    "title": "OpenAIがAI認定資格を発表、「ChatGPT」内で勉強から取得まで完結",
+    "link": "https://japan.cnet.com/article/35237683/",
+    "date": "2025-09-08T22:59:21.000Z"
+  },
+  {
+    "title": "タイミーにAnalyticsEngineeringがもたらしたインパクトと未来のロードマップ",
+    "link": "https://speakerdeck.com/okodoon/taiminianalyticsengineeringgamotarasitainpakutotowei-lai-norodomatupu",
+    "date": "2025-09-08T22:58:55.000Z"
+  },
+  {
+    "title": "Raycast × OpenAI API × Obsidian で始めるお手軽ジャーナリング",
+    "link": "https://zenn.dev/ashita_team/articles/raycast-openai-obisidian-journaling",
+    "date": "2025-09-08T22:58:22.000Z"
+  },
+  {
+    "title": "最大73倍高速化など、あらゆる形式のデータ分析に対して世界最速級の情報選択AIアルゴリズム群「高速スパースモデリング技術」を確立～製造・医療・マーケティングなど、最大1ヶ月かかる分析を1日以下に短縮し、大量の遊休データを分析可能に～ | ニュースリリース | NTT",
+    "link": "https://group.ntt/jp/newsrelease/2025/09/08/250908a.html",
+    "date": "2025-09-08T22:57:24.000Z"
+  },
+  {
+    "title": "成功に役立つ行動経済学のインサイト",
+    "link": "https://speakerdeck.com/masayamoriofficial/cheng-gong-niyi-li-tuxing-dong-jing-ji-xue-noinsaito?slide=3",
+    "date": "2025-09-08T22:57:19.000Z"
+  },
+  {
+    "title": "dev3000 - AI-Powered Debugging & Development Monitoring",
+    "link": "https://dev3000.ai/",
+    "date": "2025-09-08T22:56:54.000Z"
+  },
+  {
+    "title": "VAR(ベクトル自己回帰)モデルを用いた多変量時系列データ分析 - まさおのデータサイエンティストへの道",
+    "link": "https://masao-ds.hatenablog.com/entry/2023/10/17/000709",
+    "date": "2025-09-08T22:55:51.000Z"
+  },
+  {
+    "title": "時系列性を考慮した因果探索手法VAR-LiNGAMの紹介｜Dentsu Digital Tech Blog",
+    "link": "https://note.com/dd_techblog/n/n1432ab472408",
+    "date": "2025-09-08T22:55:51.000Z"
+  },
+  {
+    "title": "VAR（ベクトル自己回帰）モデルで描く時系列グラフィカルモデリング（Python版）",
+    "link": "https://www.salesanalytics.co.jp/datascience/datascience128/",
+    "date": "2025-09-08T22:55:44.000Z"
+  },
+  {
+    "title": "Plan-and-Execute × Elasticsearch × Ollama で“惜しい検索”を卒業する",
+    "link": "https://zenn.dev/ein14/articles/e779d7dbaf1973",
+    "date": "2025-09-08T22:48:49.000Z"
+  },
+  {
+    "title": "エルサレムのバス停で銃乱射事件　6人死亡、12人けが　容疑者はパレスチナ人か　テロ事件とみて捜査 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/2157989",
+    "date": "2025-09-08T22:41:19.000Z"
+  },
+  {
+    "title": "エルサレム北部で2人組が銃を発砲 6人死亡 テロ事件として捜査 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250908/k10014916841000.html",
+    "date": "2025-09-08T22:41:13.000Z"
+  }
+]
