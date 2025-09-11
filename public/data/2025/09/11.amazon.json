@@ -1,0 +1,130 @@
+[
+  {
+    "keyword": "npm",
+    "products": [
+      {
+        "asin": "4771037256",
+        "title": "NPMの導入と変容―地方自治体の20年―",
+        "imageUrl": "https://m.media-amazon.com/images/I/31DzB20TucL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4771037256?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山中 雄次",
+        "brand": "晃洋書房",
+        "price": "￥3,850",
+        "priceValue": 3850
+      },
+      {
+        "asin": "B0BRPT1M95",
+        "title": "実践Node.js入門―基礎・開発・運用",
+        "imageUrl": "https://m.media-amazon.com/images/I/41SKQf-NFmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BRPT1M95?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 康太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4623093719",
+        "title": "行政改革の国際比較：ＮＰＭを超えて",
+        "imageUrl": "https://m.media-amazon.com/images/I/417SOcomZRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4623093719?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ｃ・ポリット",
+        "brand": "ミネルヴァ書房",
+        "price": "￥5,500",
+        "priceValue": 5500
+      }
+    ],
+    "searchedAt": "2025-09-11T22:29:37.395Z"
+  },
+  {
+    "keyword": "GitHub Actions",
+    "products": [
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0FP4JYTH7",
+        "title": "Unity/GitHub Actionsによる自動化入門 (アスキードワンゴ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/414wns6u7eL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FP4JYTH7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "秦泉寺 章夫",
+        "brand": "ドワンゴ",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B08B1873L5",
+        "title": "GitHub Actions 実践入門 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+RwQG08XL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08B1873L5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "宮田 淳平",
+        "brand": "インプレス NextPublishing",
+        "price": "￥1,980",
+        "priceValue": 1980
+      }
+    ],
+    "searchedAt": "2025-09-11T22:29:39.203Z"
+  },
+  {
+    "keyword": "supply chain attack prevention",
+    "products": [
+      {
+        "asin": "1032955317",
+        "title": "The Effects of Cyber Supply Chain Attacks and Mitigation Strategies",
+        "imageUrl": "https://m.media-amazon.com/images/I/41WZjzanKYL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1032955317?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Das, Ravi",
+        "brand": "CRC Press",
+        "price": "￥13,168",
+        "priceValue": 13168
+      }
+    ],
+    "searchedAt": "2025-09-11T22:29:41.148Z"
+  },
+  {
+    "keyword": "Hacker",
+    "products": [
+      {
+        "asin": "B003PDMKIY",
+        "title": "Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k+BfoZSuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003PDMKIY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Levy, Steven",
+        "brand": "O'Reilly Media",
+        "price": "￥1,832",
+        "priceValue": 1832
+      },
+      {
+        "asin": "B0821WKQ5R",
+        "title": "ダークウェブ 検索できない恐怖の闇動画(字幕版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/510sRtkfbeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0821WKQ5R?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "岡林克樹",
+        "price": "￥440",
+        "priceValue": 440
+      },
+      {
+        "asin": "4794607482",
+        "title": "HACKERS SUPER VOCABULARY ハッカーズ スーパーボキャブラリー",
+        "imageUrl": "https://m.media-amazon.com/images/I/518lzUM6X1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4794607482?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ハッカーズ語学研究所",
+        "brand": "IBCパブリッシング",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-09-11T22:29:43.131Z"
+  },
+  {
+    "keyword": "HONCHANG",
+    "products": [],
+    "searchedAt": "2025-09-11T22:29:44.888Z"
+  }
+]
