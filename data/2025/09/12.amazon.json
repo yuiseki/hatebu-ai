@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-09-12T21:40:56.873Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,455",
+        "priceValue": 4455
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B0CD7JKS9K",
+        "title": "これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GwdokL7NL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CD7JKS9K?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥3,960",
+        "priceValue": 3960
+      }
+    ],
+    "searchedAt": "2025-09-12T21:40:58.636Z"
+  },
+  {
+    "keyword": "TypeScript",
+    "products": [
+      {
+        "asin": "B0FQ13X48L",
+        "title": "JavaScript/TypeScript実力強化書――関数・非同期処理・型システム完全攻略 Software Design別冊",
+        "imageUrl": "https://m.media-amazon.com/images/I/512aDm68WOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FQ13X48L?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "うひょ（鈴木 僚太）",
+        "brand": "技術評論社",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B09Y527YPV",
+        "title": "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BhhfT6IyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09Y527YPV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 僚太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4873119049",
+        "title": "プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vjj+osAgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119049?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Boris Cherny",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-09-12T21:41:00.552Z"
+  },
+  {
+    "keyword": "PostgreSQL",
+    "products": [
+      {
+        "asin": "B0BLY4SPC4",
+        "title": "［改訂3版］内部構造から学ぶPostgreSQL―設計・運用計画の鉄則 Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51viS42F0HL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BLY4SPC4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "上原 一樹",
+        "brand": "技術評論社",
+        "price": "￥3,450",
+        "priceValue": 3450
+      },
+      {
+        "asin": "B07VVQSZXD",
+        "title": "PostgreSQL徹底入門 第4版 インストールから機能・仕組み、アプリ作り、管理・運用まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O+aaOfA2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07VVQSZXD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "近藤 雄太",
+        "brand": "翔泳社",
+        "price": "￥3,247",
+        "priceValue": 3247
+      },
+      {
+        "asin": "4774153923",
+        "title": "PostgreSQL全機能バイブル",
+        "imageUrl": "https://m.media-amazon.com/images/I/51y2FK7pFaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4774153923?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 啓修",
+        "brand": "技術評論社",
+        "price": "￥3,850",
+        "priceValue": 3850
+      }
+    ],
+    "searchedAt": "2025-09-12T21:41:02.544Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0F18K2WR5",
+        "title": "AWSクラウド設計完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Srp9ckILL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F18K2WR5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アクセンチュア 戸賀 慶/福垣内 孝造/竹内 誠一/浪谷 浩一/澤田 拓也/ 崎原 晴香/浅輪 和哉/村田 亜弥",
+        "brand": "日経BP",
+        "price": "￥3,168",
+        "priceValue": 3168
+      }
+    ],
+    "searchedAt": "2025-09-12T21:41:04.348Z"
+  }
+]
