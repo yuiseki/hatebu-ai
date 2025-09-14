@@ -1,0 +1,116 @@
+[
+  {
+    "keyword": "MapLibre GL JS",
+    "products": [],
+    "searchedAt": "2025-09-14T22:58:10.230Z"
+  },
+  {
+    "keyword": "MongoDB Atlas",
+    "products": [
+      {
+        "asin": "B0F4FN8F4P",
+        "title": "MongoDB Atlas Administrator Certification (C100DBA): 350 Practice Questions & Answers: Prepare for the MongoDB Certified Atlas Administrator (C100DBA) ... 350 Realistic Questions (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419asMZydlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4FN8F4P?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Consulting Services, CloudRoar",
+        "price": "￥721",
+        "priceValue": 721
+      },
+      {
+        "asin": "B0D9KY6YWS",
+        "title": "Beginning MongoDB Atlas with .NET: Flexible and Scalable Document Data Storage for .NET Developers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xMG2s4VGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D9KY6YWS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Carter, Luce",
+        "brand": "Apress",
+        "price": "￥6,971",
+        "priceValue": 6971
+      },
+      {
+        "asin": "B084T31VDR",
+        "title": "MongoDB Fundamentals: A hands-on guide to using MongoDB and Atlas in the real world (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41u+KeUQfQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B084T31VDR?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Phaltankar, Amit",
+        "brand": "Packt Publishing",
+        "price": "￥4,456",
+        "priceValue": 4456
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:12.018Z"
+  },
+  {
+    "keyword": "Vectorsearch",
+    "products": [],
+    "searchedAt": "2025-09-14T22:58:13.717Z"
+  },
+  {
+    "keyword": "Firestore",
+    "products": [
+      {
+        "asin": "B0851BGDQG",
+        "title": "実践Firestore 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51EfFnCzkqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0851BGDQG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "福田 雄貴",
+        "brand": "インプレス NextPublishing",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0BMQ13888",
+        "title": "Firestore×Stripeで始めるサブスクリプション開発　Firebase最新情報 (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cOwQD80ML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BMQ13888?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊藤 大樹",
+        "brand": "インプレスR&D",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0FC6QCM18",
+        "title": "Comprehensive Guide to Firestore: Definitive Reference for Developers and Engineers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/414IFvszP6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FC6QCM18?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Johnson, Richard",
+        "brand": "HiTeX Press",
+        "price": "￥1,426",
+        "priceValue": 1426
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:15.517Z"
+  },
+  {
+    "keyword": "DocumentDB",
+    "products": [
+      {
+        "asin": "B0F2TT72WG",
+        "title": "DocumentDB for Beginners: A Step-by-Step Guide to NoSQL Database Management (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XSv0SQHoL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2TT72WG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "PANCHTILAK, NARENDRA",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0DJ2Q517W",
+        "title": "Tumosando ドキュメントスタンド ヨコ A4タテ 加厚発泡PP 36ポケット ジャバラファイル 持ち運び 区分けラベル付き アコーディオンファイル 大容量 書類ケース 伸縮ファイル 自立式 書類収納",
+        "imageUrl": "https://m.media-amazon.com/images/I/31l-JKM5hNL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DJ2Q517W?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Ｔｕｍｏｓａｎｄｏ",
+        "price": "￥2,099",
+        "priceValue": 2099
+      },
+      {
+        "asin": "B01B25NN64",
+        "title": "Amazonベーシック 書類ケース ファイルケース A4 書類収納 持ち運び 拡張式 区分けラベル付き, 横13cm x 縦21cm ブラック",
+        "imageUrl": "https://m.media-amazon.com/images/I/31FUJtGMhfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B01B25NN64?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Amazonベーシック(Amazon Basics)",
+        "price": "￥1,093",
+        "priceValue": 1093
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:17.320Z"
+  }
+]
