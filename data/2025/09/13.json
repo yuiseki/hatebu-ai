@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MapLibre GL JSのGlobe Projectionでコロプレス地球儀を作る - Qiita",
+    "link": "https://qiita.com/sanskruthiya/items/331cf89771b73a6c4b68",
+    "date": "2025-09-13T10:05:25.000Z"
+  },
+  {
+    "title": "Blueprint – Documentation",
+    "link": "https://blueprintjs.com/docs/?utm_source=chatgpt.com",
+    "date": "2025-09-13T08:34:43.000Z"
+  },
+  {
+    "title": "なぜユーザー体験はいつまでも改善されないのか？｜Sansan Product management & Design",
+    "link": "https://note.com/sansan_cpo/n/na4bcd3c3716e",
+    "date": "2025-09-12T22:31:26.000Z"
+  },
+  {
+    "title": "MongoDB Atlas Vectorsearchではじめる生成AIアプリ開発",
+    "link": "https://speakerdeck.com/chie8842/mongodb-atlas-vectorsearchtehasimerusheng-cheng-aiahurikai-fa",
+    "date": "2025-09-12T22:17:28.000Z"
+  },
+  {
+    "title": "MongoDB AtlasからBigQueryへのリアルタイムレプリケーション",
+    "link": "https://tech.plaid.co.jp/mongo-atlas-to-bigquery",
+    "date": "2025-09-12T22:17:18.000Z"
+  },
+  {
+    "title": "セルフホストしてるMongoDBをMongoDB Atlasに移行した話_プレイドエンジニアブログ",
+    "link": "https://tech.plaid.co.jp/migrate-self-hosted-mongo-to-atlas",
+    "date": "2025-09-12T22:17:08.000Z"
+  },
+  {
+    "title": "マイクロソフト、NoSQL標準の策定を目指し、Cosmos DBで使われている「DocumentDB」をオープンソースで公開。PostgreSQLをベースに",
+    "link": "https://www.publickey1.jp/blog/25/nosqlazure_documentdbpostgresql.html",
+    "date": "2025-09-12T22:16:57.000Z"
+  },
+  {
+    "title": "GitHub - microsoft/documentdb: DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB.",
+    "link": "https://github.com/microsoft/documentdb",
+    "date": "2025-09-12T22:16:53.000Z"
+  },
+  {
+    "title": "Announcing Firestore with MongoDB compatibility | Google Cloud Blog",
+    "link": "https://cloud.google.com/blog/products/databases/announcing-firestore-with-mongodb-compatibility",
+    "date": "2025-09-12T22:16:44.000Z"
+  },
+  {
+    "title": "Announcing Firestore with MongoDB compatibility | Google Cloud Blog",
+    "link": "https://cloud.google.com/blog/products/databases/announcing-firestore-with-mongodb-compatibility/",
+    "date": "2025-09-12T22:16:42.000Z"
+  },
+  {
+    "title": "Google Cloud、FirestoreのMongoDB互換機能を正式リリース。MongoDB関連のソフトウェアがFirestoreで利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/google_cloudfirestoremongodbmongodbfirestore.html",
+    "date": "2025-09-12T22:12:51.000Z"
+  },
+  {
+    "title": "国のデータ、これ一つで丸分かり？　政府が新ダッシュボード　経済・財政・人口など都道府県ごとに可視化",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/10/news115.html",
+    "date": "2025-09-12T22:12:27.000Z"
+  },
+  {
+    "title": "グーグル、韓国で地図サービス利用改善へ 衛星画像ぼかしに同意",
+    "link": "https://www.afpbb.com/articles/-/3597428",
+    "date": "2025-09-12T22:12:09.000Z"
+  },
+  {
+    "title": "国土地理院、旧版の紙地形図を画像データで提供開始　9月1日から",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/29/news121.html",
+    "date": "2025-09-12T22:12:04.000Z"
+  },
+  {
+    "title": "iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum",
+    "link": "https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/",
+    "date": "2025-09-12T22:04:59.000Z"
+  },
+  {
+    "title": "10代の検索は「ヤフーよりChatGPT」　サイバーエージェント調査",
+    "link": "https://www.watch.impress.co.jp/docs/news/2047042.html",
+    "date": "2025-09-12T22:04:33.000Z"
+  },
+  {
+    "title": "「Visual Studio Code」2025年8月更新 ～自動モデル選択などAI機能を引き続き強化／ウィンドウ枠の色も好みにカスタマイズできるv1.104.0が公開",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2046921.html",
+    "date": "2025-09-12T22:03:44.000Z"
+  },
+  {
+    "title": "マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社",
+    "link": "https://japan.cnet.com/article/35237947/",
+    "date": "2025-09-12T22:02:01.000Z"
+  },
+  {
+    "title": "【速報】米国が日本にパレスチナ国家承認見送り要請",
+    "link": "https://www.47news.jp/13147009.html",
+    "date": "2025-09-12T22:01:44.000Z"
+  },
+  {
+    "title": "【速報】国連総会は、イスラエルとパレスチナの２国家共存を支持する「ニューヨーク宣言」を採択した：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2025091300011&g=flash",
+    "date": "2025-09-12T22:00:58.000Z"
+  },
+  {
+    "title": "「タイミー履歴書」開始　勤務実績から自動生成して社員化支援",
+    "link": "https://www.watch.impress.co.jp/docs/news/2046746.html",
+    "date": "2025-09-12T21:30:02.000Z"
+  },
+  {
+    "title": "スクラムの真の源流を探る - 野中郁次郎先生からの伝言 - kawaguti’s diary",
+    "link": "https://kawaguti.hateblo.jp/entry/2025/09/12/075207",
+    "date": "2025-09-12T21:17:58.000Z"
+  },
+  {
+    "title": "GitHub - microsoft/WindowsAppSDK: The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
+    "link": "https://github.com/microsoft/WindowsAppSDK",
+    "date": "2025-09-12T21:12:56.000Z"
+  },
+  {
+    "title": "WindowsアプリにローカルAI機能を手軽に統合 ～Microsoftが「WinAppSDK 1.8」を公開／新しい「Decimal」型を導入、メタパッケージ化なども実施",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2046477.html",
+    "date": "2025-09-12T21:11:58.000Z"
+  },
+  {
+    "title": "コスパの高いAIモデル「Qwen3-Next」登場、従来より10倍高速で同等以上の性能を実現",
+    "link": "https://gigazine.net/news/20250912-qwen3-next/",
+    "date": "2025-09-12T21:11:03.000Z"
+  },
+  {
+    "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+    "link": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+    "date": "2025-09-12T20:57:00.000Z"
+  }
+]

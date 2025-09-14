@@ -1,0 +1,118 @@
+[
+  {
+    "keyword": "SwaggerUI",
+    "products": [],
+    "searchedAt": "2025-09-14T22:58:19.004Z"
+  },
+  {
+    "keyword": "Astrodynamics",
+    "products": [
+      {
+        "asin": "0486497046",
+        "title": "Fundamentals of Astrodynamics: Second Edition (Dover Books on Physics)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41P9K+gUGLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0486497046?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bate, Roger R.",
+        "brand": "Dover Publications",
+        "price": "￥3,964",
+        "priceValue": 3964
+      },
+      {
+        "asin": "B00005HNMY",
+        "title": "ASTRODYNAMICS - ![EXCLAMATION]",
+        "imageUrl": "https://m.media-amazon.com/images/I/41IZ8+fIbUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00005HNMY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "![EXCLAMATION]",
+        "brand": "Ariola Japan",
+        "price": "￥2,541",
+        "priceValue": 2541
+      },
+      {
+        "asin": "1453781471",
+        "title": "Modern Astrodynamics: Second Edition",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nAIZDLNfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1453781471?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Wiesel, William E.",
+        "brand": "Createspace Independent Publishing Platform",
+        "price": "￥3,123",
+        "priceValue": 3123
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:20.841Z"
+  },
+  {
+    "keyword": "Satellite Data",
+    "products": [
+      {
+        "asin": "0470214236",
+        "title": "Satellite Data: Processing, Archiving and Dissemination. Volume 2: Functions, Operational Principles and Design",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YKbEBeoHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0470214236?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "price": "￥16,351",
+        "priceValue": 16351
+      },
+      {
+        "asin": "B07DK5LVSZ",
+        "title": "Satellite data:Pacific Ocean´s temperature possibly caused droughts in Australia, California & Northern Triangle of Central America 2009-18: Economic-Humanitarian ... low production of coffee (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51KIPZDESWL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07DK5LVSZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Roque, Fernando",
+        "brand": "North Theia",
+        "price": "￥768",
+        "priceValue": 768
+      },
+      {
+        "asin": "B0C6NZHTSY",
+        "title": "Satellite Component Data Handbook: Volume-II",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ynIoMlKkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C6NZHTSY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "CHETTY, P. R. K.",
+        "brand": "Independently published",
+        "price": "￥2,691",
+        "priceValue": 2691
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:22.665Z"
+  },
+  {
+    "keyword": "3D Visualization",
+    "products": [
+      {
+        "asin": "B0BXNDNLJD",
+        "title": "BASICS OF 3D VISUALIZATION ISOMETRIC 100 DRAWING WORKBOOKS / BASIC LEVEL VOLUME 01: Basic Practice of 3D Visualization Skills for Architect and Engineer study",
+        "imageUrl": "https://m.media-amazon.com/images/I/41JeEUeghzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BXNDNLJD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Yak's Factory",
+        "brand": "Independently published",
+        "price": "￥1,924",
+        "priceValue": 1924
+      },
+      {
+        "asin": "B08QRD1Z5C",
+        "title": "Immersive 3D Design Visualization: With Autodesk Maya and Unreal Engine 4 (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41R2qBRlc7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08QRD1Z5C?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Kumar, Abhishek",
+        "brand": "Apress",
+        "price": "￥9,055",
+        "priceValue": 9055
+      },
+      {
+        "asin": "0131998374",
+        "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics",
+        "imageUrl": "https://m.media-amazon.com/images/I/416PZZ98TEL._SL160_.gif",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0131998374?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Schroeder, William",
+        "brand": "Pearson P T R",
+        "price": "￥8,235",
+        "priceValue": 8234.6
+      }
+    ],
+    "searchedAt": "2025-09-14T22:58:24.568Z"
+  },
+  {
+    "keyword": "DeckGL",
+    "products": [],
+    "searchedAt": "2025-09-14T22:58:26.269Z"
+  }
+]
