@@ -1,0 +1,118 @@
+[
+  {
+    "keyword": "OpenJS Foundation",
+    "products": [],
+    "searchedAt": "2025-09-16T22:43:34.697Z"
+  },
+  {
+    "keyword": "Linux Foundation",
+    "products": [
+      {
+        "asin": "B0FHNWQT7M",
+        "title": "LINUX FOUNDATION CERTIFIED SYSTEM ADMINISTRATOR EXAM PREP 2025: Includes 300+ LFCS Practice Questions, Detailed Answer Explanation, and Essential Prep Tips",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RXC4JZXTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FHNWQT7M?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "PUBLICATIONS, ELITECERT",
+        "brand": "Independently published",
+        "price": "￥6,095",
+        "priceValue": 6095
+      },
+      {
+        "asin": "B0FMQF5CZQ",
+        "title": "Linux Foundation CKAD Rapid Review: 500 Study Notes for Faster Learning and Exam Success (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41N7P3kxlZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMQF5CZQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ramsey, Mathew ",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0FMRTJM4B",
+        "title": "Linux Foundation CKAD Exam Prep: 500 Practice Questions with Detailed Explanations for Certified Kubernetes Application Developer (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41jUpCSGSgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMRTJM4B?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ramsey, Mathew ",
+        "price": "￥1,250",
+        "priceValue": 1250
+      }
+    ],
+    "searchedAt": "2025-09-16T22:43:36.761Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      }
+    ],
+    "searchedAt": "2025-09-16T22:43:38.583Z"
+  },
+  {
+    "keyword": "BERT",
+    "products": [
+      {
+        "asin": "B098J9M4PP",
+        "title": "BERTによる自然言語処理入門 ―Transformersを使った実践プログラミング―",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TnlGmw3BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B098J9M4PP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "近江崇宏",
+        "brand": "オーム社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "4873119952",
+        "title": "機械学習エンジニアのためのTransformers ―最先端の自然言語処理ライブラリによるモデル開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Ss+Jfj7NL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119952?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lewis Tunstall",
+        "brand": "オライリージャパン",
+        "price": "￥4,400",
+        "priceValue": 4400
+      },
+      {
+        "asin": "B0C6DJ166R",
+        "title": "BERT実践入門 PyTorch + Google Colaboratoryで学ぶあたらしい自然言語処理技術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51tX037NYJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C6DJ166R?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "我妻 幸長",
+        "brand": "翔泳社",
+        "price": "￥2,970",
+        "priceValue": 2970
+      }
+    ],
+    "searchedAt": "2025-09-16T22:43:40.555Z"
+  },
+  {
+    "keyword": "DeNA Recommendation Model",
+    "products": [],
+    "searchedAt": "2025-09-16T22:43:42.286Z"
+  }
+]
