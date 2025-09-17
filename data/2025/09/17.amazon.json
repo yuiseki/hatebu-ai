@@ -1,0 +1,139 @@
+[
+  {
+    "keyword": "tinycolor",
+    "products": [],
+    "searchedAt": "2025-09-17T22:46:09.180Z"
+  },
+  {
+    "keyword": "supply chain attack",
+    "products": [
+      {
+        "asin": "B0F9LQSG3B",
+        "title": "The Effects of Cyber Supply Chain Attacks and Mitigation Strategies (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41oJt5SPVXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F9LQSG3B?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Das, Ravi",
+        "brand": "CRC Press",
+        "price": "￥10,220",
+        "priceValue": 10220
+      },
+      {
+        "asin": "B0CHN5C9PH",
+        "title": "Supply Chain Attacks: Defensive Measures (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41n7cb0L+uL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CHN5C9PH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Diaw, Djibril Chimère",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "1288329458",
+        "title": "What Happens when the Supply Chain Breaks? Implications for the Army Supply Chain Under Attack",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ePmP12iEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1288329458?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Debusk, Steven S",
+        "brand": "Biblioscholar",
+        "price": "￥11,820",
+        "priceValue": 11820
+      }
+    ],
+    "searchedAt": "2025-09-17T22:46:11.022Z"
+  },
+  {
+    "keyword": "npm packages",
+    "products": [
+      {
+        "asin": "B0CGXW6WBY",
+        "title": "Creating NPM Package: Your React TypeScript Guide to Create, Test, and Publish NPM Libraries (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41hgsRBZ5fL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CGXW6WBY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sofela, Oluwatobi",
+        "brand": "CodeSweetly",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0CSC5ZPCN",
+        "title": "Creating NPM Package: Your React JavaScript Guide to Create, Test, and Publish NPM Libraries (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ZJO8RIJ3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSC5ZPCN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sofela, Oluwatobi",
+        "brand": "CodeSweetly",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0BSDQ4M1X",
+        "title": "Building NPM Packages with TypeScript: A concrete guide to creating reusable libraries (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pt6jZMSgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BSDQ4M1X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Fedry, Floriel",
+        "price": "￥1,250",
+        "priceValue": 1250
+      }
+    ],
+    "searchedAt": "2025-09-17T22:46:12.839Z"
+  },
+  {
+    "keyword": "AI safety evaluation",
+    "products": [
+      {
+        "asin": "1032976063",
+        "title": "AI-Enhanced Safety Evaluation for Tunnelling in Rock: Principles, Methods and Algorithms (Challenges in Geotechnical and Rock Engineering)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gBPkXB2YL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1032976063?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chen, Jiayao",
+        "brand": "CRC Press",
+        "price": "￥35,737",
+        "priceValue": 35737
+      },
+      {
+        "asin": "B0FG1TVBZK",
+        "title": "Agentic AI: Safety Evaluation & the Alignment Tax",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fG6jBR6CL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FG1TVBZK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ran Chen",
+        "brand": "8518110 Records DK",
+        "price": "￥200",
+        "priceValue": 200
+      }
+    ],
+    "searchedAt": "2025-09-17T22:46:14.647Z"
+  },
+  {
+    "keyword": "Google app",
+    "products": [
+      {
+        "asin": "4899775555",
+        "title": "Google AppSheetではじめるノーコード開発入門　新装改訂版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51pxgrYNejL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4899775555?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "掌田津耶乃",
+        "brand": "ラトルズ",
+        "price": "￥2,970",
+        "priceValue": 2970
+      },
+      {
+        "asin": "B09897BYN3",
+        "title": "詳解！ Google Apps Script完全入門 [第3版]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Ave84HXfS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09897BYN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "高橋宣成",
+        "brand": "秀和システム",
+        "price": "￥2,317",
+        "priceValue": 2317
+      },
+      {
+        "asin": "B0DYR8VRTT",
+        "title": "1週間でGoogle Apps Scriptの基礎が学べる本",
+        "imageUrl": "https://m.media-amazon.com/images/I/417u2Olpj7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DYR8VRTT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "亀田 健司",
+        "brand": "インプレス",
+        "price": "￥2,574",
+        "priceValue": 2574
+      }
+    ],
+    "searchedAt": "2025-09-17T22:46:16.520Z"
+  }
+]
