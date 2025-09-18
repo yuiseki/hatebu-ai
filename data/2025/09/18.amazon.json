@@ -1,0 +1,177 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4065412250",
+        "title": "Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/515oYUCUZYL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065412250?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "吉住 遼",
+        "brand": "講談社",
+        "price": "￥3,630",
+        "priceValue": 3630
+      }
+    ],
+    "searchedAt": "2025-09-18T20:20:22.463Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥990",
+        "priceValue": 990
+      }
+    ],
+    "searchedAt": "2025-09-18T20:20:24.503Z"
+  },
+  {
+    "keyword": "Agile",
+    "products": [
+      {
+        "asin": "1628251999",
+        "title": "Agile Practice Guide",
+        "imageUrl": "https://m.media-amazon.com/images/I/4130xlsT2zL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1628251999?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Project Management Institute",
+        "brand": "Project Management Institute",
+        "price": "￥2,900",
+        "priceValue": 2900
+      },
+      {
+        "asin": "4048930745",
+        "title": "Clean Agile 基本に立ち戻れ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gxB2cv8QL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4048930745?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Robert C.Martin",
+        "brand": "KADOKAWA",
+        "price": "￥2,640",
+        "priceValue": 2640
+      },
+      {
+        "asin": "4761231297",
+        "title": "高校英文法14日間完成　効率特化型問題集 Agile 300",
+        "imageUrl": "https://m.media-amazon.com/images/I/51oxu5DER6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4761231297?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "岡﨑修平",
+        "brand": "かんき出版",
+        "price": "￥1,540",
+        "priceValue": 1540
+      }
+    ],
+    "searchedAt": "2025-09-18T20:20:26.442Z"
+  },
+  {
+    "keyword": "Nx",
+    "products": [
+      {
+        "asin": "B0C8TVNLG2",
+        "title": "WEIPIN 新型 レクサスnx 20系 ナビ保護フィルム 14インチ lexus nx カーナビ 保護フィルム ディスプレイオーディオ 9H 傷防止 汚れ防止 低反射 HD 高感度タッチ 自己吸着 レクサスnx 20系 カーアクセサリー カスタム パーツ レクサス nx カーナビゲーション プロテクションフィルム",
+        "imageUrl": "https://m.media-amazon.com/images/I/51MEh3H3SyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C8TVNLG2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "WEIPIN",
+        "price": "￥2,143",
+        "priceValue": 2143
+      },
+      {
+        "asin": "B0FDPW5X24",
+        "title": "Lamicall レクサス NX 20系専用 ナビ保護ガラスフィルム 14インチ 1:1高精度カット 高透過率 9H強化ガラス フィルム 指紋防止 傷防止 高感度タッチ 撥水撥油 液晶保護フィルム 耐衝撃 反射防止 画面保護シート 自己吸着 貼付け簡単 スクリーン プロテクター カーナビ アクセサリー",
+        "imageUrl": "https://m.media-amazon.com/images/I/415HRdMRonL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDPW5X24?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Lamicall",
+        "price": "￥2,278",
+        "priceValue": 2278
+      },
+      {
+        "asin": "4779644771",
+        "title": "ニューモデル速報 第616弾 レクサスNX のすべて (モーターファン別冊 ニューモデル速報)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PjJXtPe+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4779644771?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "三栄書房",
+        "price": "￥800",
+        "priceValue": 800
+      }
+    ],
+    "searchedAt": "2025-09-18T20:20:28.391Z"
+  },
+  {
+    "keyword": "GitHub MCP",
+    "products": [
+      {
+        "asin": "B0FMQC7C5S",
+        "title": "Git and GitHub Mastery for Absolute Beginners: Practical Step-by-Step Guide to Version Control, Collaboration, and Project Management (Programming books)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41dHCZ6TElL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMQC7C5S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Roquemore, Joseph B.",
+        "brand": "Independently published",
+        "price": "￥4,370",
+        "priceValue": 4370
+      },
+      {
+        "asin": "B0FD38BCZ5",
+        "title": "OpenAI Agents SDK MCP AIエージェント開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41sFK9jN8rL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD38BCZ5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B0FLYBTF18",
+        "title": "Claude Code上級活用術：開発効率を3倍にする実践テクニック集: MCP・サブエージェント・カスタムコマンドで最速開発を実現",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GDVMwxyKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FLYBTF18?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AIマスター",
+        "price": "￥500",
+        "priceValue": 500
+      }
+    ],
+    "searchedAt": "2025-09-18T20:20:30.210Z"
+  }
+]
