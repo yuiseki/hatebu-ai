@@ -29,6 +29,7 @@
     "eslint": "^9.0.0",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.6",
+    "globals": "^15.0.0",
     "rss-parser": "^3.13.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
