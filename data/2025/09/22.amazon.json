@@ -1,0 +1,158 @@
+[
+  {
+    "keyword": "AIモデル",
+    "products": [
+      {
+        "asin": "B09G2K5VJ9",
+        "title": "Python 実践AIモデル構築 100本ノック",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OjrSnY3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09G2K5VJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "下山輝昌",
+        "brand": "秀和システム",
+        "price": "￥2,138",
+        "priceValue": 2138
+      },
+      {
+        "asin": "4322139981",
+        "title": "AI審査モデルの基礎知識 モデルのしくみと信用リスク管理",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nlwgOwl+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4322139981?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "尾木 研三",
+        "brand": "きんざい",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "4798185264",
+        "title": "仕組みからわかる大規模言語モデル 生成AI時代のソフトウェア開発入門 (AI & TECHNOLOGY)",
+        "imageUrl": "https://m.media-amazon.com/images/I/61smYmyOtgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798185264?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "奥田 勝己",
+        "brand": "翔泳社",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-09-22T22:03:57.442Z"
+  },
+  {
+    "keyword": "Palantir",
+    "products": [
+      {
+        "asin": "B09B31SWLW",
+        "title": "Palantir ティッカー Tシャツ",
+        "imageUrl": "https://m.media-amazon.com/images/I/31UER6sLY5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09B31SWLW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Palantir",
+        "price": "￥2,000",
+        "priceValue": 2000
+      },
+      {
+        "asin": "B0D682QYKN",
+        "title": "Palantir: The Data Empire : A Fact-Based Journey into Its Origins, Impact, and Investment Potential in the Trump Era (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+FQhoStJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D682QYKN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "van Maarseveen, Henri",
+        "price": "￥625",
+        "priceValue": 625
+      },
+      {
+        "asin": "B0DQQDBJ39",
+        "title": "Palantir Stock’s Big Data, Big Profits: Why Palantir Is the Stock of the Future (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VjhdQLooL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DQQDBJ39?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Barney, Bailey",
+        "price": "￥799",
+        "priceValue": 799
+      }
+    ],
+    "searchedAt": "2025-09-22T22:03:59.252Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      },
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥2,495",
+        "priceValue": 2495
+      },
+      {
+        "asin": "B0BV8VCCYX",
+        "title": "Docker実践ガイド 第3版 impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/518YvXHcICL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BV8VCCYX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "古賀政純",
+        "brand": "インプレス",
+        "price": "￥2,090",
+        "priceValue": 2090
+      }
+    ],
+    "searchedAt": "2025-09-22T22:04:00.972Z"
+  },
+  {
+    "keyword": "llama.cpp",
+    "products": [
+      {
+        "asin": "B0DVM15Q5C",
+        "title": "llama.cpp 実践入門 : GGUFモデル対応 高速・軽量LLMの導入と活用",
+        "imageUrl": "https://m.media-amazon.com/images/I/41r012vGG3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DVM15Q5C?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "kabuto",
+        "price": "￥780",
+        "priceValue": 780
+      }
+    ],
+    "searchedAt": "2025-09-22T22:04:02.869Z"
+  },
+  {
+    "keyword": "Data Lake",
+    "products": [
+      {
+        "asin": "1634621174",
+        "title": "Data Lake Architecture: Designing the Data Lake and Avoiding the Garbage Dump",
+        "imageUrl": "https://m.media-amazon.com/images/I/41udtCtz1TL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1634621174?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Inmon, Bill",
+        "brand": "Technics Publications",
+        "price": "￥3,350",
+        "priceValue": 3350
+      },
+      {
+        "asin": "B0FFYGL1YJ",
+        "title": "Modern Data Lake Architecture: A Practical Guide to Iceberg & Delta Lake for Scalable Analytics (Data Engineering 2025: The Future is Now)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41rfmcUtfPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFYGL1YJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chandler, Newman",
+        "brand": "Independently published",
+        "price": "￥3,501",
+        "priceValue": 3501
+      },
+      {
+        "asin": "1119786169",
+        "title": "Data Lakes For Dummies",
+        "imageUrl": "https://m.media-amazon.com/images/I/51YCCZr+9dS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1119786169?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Simon, Alan R.",
+        "brand": "For Dummies",
+        "price": "￥4,463",
+        "priceValue": 4463
+      }
+    ],
+    "searchedAt": "2025-09-22T22:04:04.672Z"
+  }
+]
