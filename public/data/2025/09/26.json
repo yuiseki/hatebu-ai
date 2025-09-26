@@ -1,0 +1,302 @@
+[
+  {
+    "title": "5年間のFintech × Rails実践に学ぶ - 基本に忠実な運用で築く高信頼性システム / 5 Years Fintech Rails Retrospective",
+    "link": "https://speakerdeck.com/ohbarye/5-years-fintech-rails-retrospective",
+    "date": "2025-09-26T08:41:31.000Z"
+  },
+  {
+    "title": "Microsoft、イスラエル国防省への一部サービスを停止　「パレスチナ人監視にAzure」が規約違反",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/26/news075.html",
+    "date": "2025-09-26T08:30:59.000Z"
+  },
+  {
+    "title": "yt-dlpでYouTube動画をダウンロードするにはDenoなどのJavaScriptランタイムのインストールが必須になる予定",
+    "link": "https://gigazine.net/news/20250925-yt-dlp-deno-javascript-runtime/",
+    "date": "2025-09-26T08:29:14.000Z"
+  },
+  {
+    "title": "マイクロソフト イスラエル国防省へのクラウドなど提供停止 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250926/k10014933101000.html",
+    "date": "2025-09-26T08:29:06.000Z"
+  },
+  {
+    "title": "中国で増殖する「ネズミ人間」 危機感を抱く中国政府が取り締まりに　昼夜逆転、スマホと出前でゴロゴロの生活を送る若者の動画がSNSに | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/2190242",
+    "date": "2025-09-26T07:35:55.000Z"
+  },
+  {
+    "title": "Microsoft、イスラエル軍向けクラウド一部停止　ガザ監視に利用 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN25D040V20C25A9000000/",
+    "date": "2025-09-26T07:34:59.000Z"
+  },
+  {
+    "title": "LLMを駆使したSlackbotによる例外アラート調査・分析の自動化 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/llm-slackbot",
+    "date": "2025-09-26T07:09:08.000Z"
+  },
+  {
+    "title": "選択：AI主権への道",
+    "link": "https://blog.cloudflare.com/ja-jp/sovereign-ai-and-choice/",
+    "date": "2025-09-26T07:06:21.000Z"
+  },
+  {
+    "title": "OSSを300以上つくってなお止まらない、ゼロイチ開発の楽しさ - Findy Media",
+    "link": "https://findy-code.io/media/articles/codesidechat-k1LoW",
+    "date": "2025-09-26T07:02:21.000Z"
+  },
+  {
+    "title": "Apache Sedona™",
+    "link": "https://sedona.apache.org/latest/",
+    "date": "2025-09-26T06:58:24.000Z"
+  },
+  {
+    "title": "GitHub - apache/sedona-db: A single-node analytical database engine with geospatial as a first-class citizen",
+    "link": "https://github.com/apache/sedona-db",
+    "date": "2025-09-26T06:58:07.000Z"
+  },
+  {
+    "title": "Introducing SedonaDB - SedonaDB",
+    "link": "https://sedona.apache.org/sedonadb/latest/",
+    "date": "2025-09-26T06:58:01.000Z"
+  },
+  {
+    "title": "Introducing SedonaDB: A single-node analytical database engine with geospatial as a first-class citizen - Apache Sedona",
+    "link": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
+    "date": "2025-09-26T06:57:57.000Z"
+  },
+  {
+    "title": "公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版） - Qiita",
+    "link": "https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b",
+    "date": "2025-09-26T04:14:31.000Z"
+  },
+  {
+    "title": "LINEヤフーのビッグデータ分析ツール - DS.INSIGHT",
+    "link": "https://ds.yahoo.co.jp/dsinsight-lp/trial-entryplan02.html?utm_source=google&utm_medium=cpc&utm_campaign=trial&gad_source=1&gad_campaignid=22793918871&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp2TskvKPDhnJtyvF7IM8oaMWsfhDNqb5G7JC_hHZ88PysGypGx0EyUaAqzWEALw_wcB",
+    "date": "2025-09-26T02:07:40.000Z"
+  },
+  {
+    "title": "駅カルテ｜Suica：JR東日本",
+    "link": "https://www.jreast.co.jp/suica/corporate/suicadata/eki-karte.html",
+    "date": "2025-09-26T02:04:21.000Z"
+  },
+  {
+    "title": "The Ruby community has a DHH problem",
+    "link": "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem",
+    "date": "2025-09-26T00:59:55.000Z"
+  },
+  {
+    "title": "｢年収5500万円から生活保護へ｣元人気ブロガーが\"どん底\"で見た景色",
+    "link": "https://toyokeizai.net/articles/-/902641?display=b",
+    "date": "2025-09-26T00:59:45.000Z"
+  },
+  {
+    "title": "さくらインターネット、生成AI向け推論API基盤「さくらのAI Engine」を一般提供開始 | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2025/09/24/1968221046/",
+    "date": "2025-09-26T00:59:37.000Z"
+  },
+  {
+    "title": "米津玄師「IRIS OUT / JANE DOE」インタビュー｜2曲に刻んだレゼの魅惑とその足跡、宇多田ヒカルとの制作秘話を語る - 音楽ナタリー 特集・インタビュー",
+    "link": "https://natalie.mu/music/pp/yonezukenshi31",
+    "date": "2025-09-26T00:59:23.000Z"
+  },
+  {
+    "title": "NY周辺に大量の通信妨害機器、米高官標的の恐れ－外国関与の疑いも",
+    "link": "https://www.bloomberg.co.jp/news/articles/2025-09-23/T31NF3GOT0JL00",
+    "date": "2025-09-26T00:59:19.000Z"
+  },
+  {
+    "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+    "link": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+    "date": "2025-09-26T00:59:16.000Z"
+  },
+  {
+    "title": "【解説】 7年前、トランプ氏の発言は国連で笑われた　今年はみんな沈黙した - BBCニュース",
+    "link": "https://www.bbc.com/japanese/articles/cd63x4x83lxo",
+    "date": "2025-09-26T00:58:57.000Z"
+  },
+  {
+    "title": "GitHub - imputnet/helium: Private, fast, and honest web browser",
+    "link": "https://github.com/imputnet/helium",
+    "date": "2025-09-26T00:57:45.000Z"
+  },
+  {
+    "title": "Helium Browser",
+    "link": "https://helium.computer/",
+    "date": "2025-09-26T00:57:39.000Z"
+  },
+  {
+    "title": "グレタさんらのガザ支援船団に無人機などが攻撃か | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250925/k10014931571000.html",
+    "date": "2025-09-26T00:57:03.000Z"
+  },
+  {
+    "title": "第80回国連総会における石破総理大臣一般討論演説",
+    "link": "https://www.mofa.go.jp/mofaj/fp/un/pageit_000001_02451.html",
+    "date": "2025-09-26T00:57:00.000Z"
+  },
+  {
+    "title": "世界初の共同開発 ― Keychron × ギズモード、新型トラックボールデバイスをTGS2025で初披露 || メディアジーン | Mediagene",
+    "link": "https://www.mediagene.co.jp/2025/09/19403.html",
+    "date": "2025-09-26T00:56:57.000Z"
+  },
+  {
+    "title": "FOSS4G Auckland 2025",
+    "link": "https://2025.foss4g.org/program/schedule",
+    "date": "2025-09-26T00:55:48.000Z"
+  },
+  {
+    "title": "ONE Summit | LF Events",
+    "link": "https://events.linuxfoundation.org/one-summit-north-america/",
+    "date": "2025-09-26T00:54:45.000Z"
+  },
+  {
+    "title": "AI_dev: Open Source GenAI & ML Summit Japan | LF Events",
+    "link": "https://events.linuxfoundation.org/ai-dev-japan/",
+    "date": "2025-09-26T00:54:21.000Z"
+  },
+  {
+    "title": "Web search - Ollama",
+    "link": "https://docs.ollama.com/web-search",
+    "date": "2025-09-26T00:39:29.000Z"
+  },
+  {
+    "title": "宇宙配備宇宙監視衛星 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E9%85%8D%E5%82%99%E5%AE%87%E5%AE%99%E7%9B%A3%E8%A6%96%E8%A1%9B%E6%98%9F",
+    "date": "2025-09-26T00:35:07.000Z"
+  },
+  {
+    "title": "宇宙状況認識 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%8A%B6%E6%B3%81%E8%AA%8D%E8%AD%98",
+    "date": "2025-09-26T00:34:56.000Z"
+  },
+  {
+    "title": "JAXA｜宇宙航空研究開発機構　追跡ネットワーク技術センター",
+    "link": "https://track.sfo.jaxa.jp/project/ssa.html",
+    "date": "2025-09-26T00:34:50.000Z"
+  },
+  {
+    "title": "JAXA | 宇宙状況把握（SSA）システム",
+    "link": "https://www.jaxa.jp/projects/ssa/",
+    "date": "2025-09-26T00:34:45.000Z"
+  },
+  {
+    "title": "アクセルスペース - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
+    "date": "2025-09-26T00:32:56.000Z"
+  },
+  {
+    "title": "アストロスケール | 宇宙の持続可能性の確保",
+    "link": "https://www.astroscale.com/ja",
+    "date": "2025-09-26T00:32:43.000Z"
+  },
+  {
+    "title": "Axelspace | Space within Your Reach",
+    "link": "https://www.axelspace.com/ja/",
+    "date": "2025-09-26T00:32:18.000Z"
+  },
+  {
+    "title": "衛星攻撃兵器 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F%E6%94%BB%E6%92%83%E5%85%B5%E5%99%A8",
+    "date": "2025-09-26T00:21:05.000Z"
+  },
+  {
+    "title": "DatabricksのH3地理空間関数 - Qiita",
+    "link": "https://qiita.com/taka_yayoi/items/0457d4a62a61edfb6a8f",
+    "date": "2025-09-25T21:47:23.000Z"
+  },
+  {
+    "title": "H3 geospatial functions - Azure Databricks - Databricks SQL",
+    "link": "https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-h3-geospatial-functions",
+    "date": "2025-09-25T21:47:17.000Z"
+  },
+  {
+    "title": "ST geospatial functions | Databricks on AWS",
+    "link": "https://docs.databricks.com/aws/en/sql/language-manual/sql-ref-st-geospatial-functions",
+    "date": "2025-09-25T21:47:03.000Z"
+  },
+  {
+    "title": "Databricks Spatial SQL Is Here — A Game Changer for Geospatial Intelligence on the Lakehouse",
+    "link": "https://medium.com/towards-data-engineering/databricks-spatial-sql-is-here-a-game-changer-for-geospatial-intelligence-on-the-lakehouse-e7b1e5eb50ba",
+    "date": "2025-09-25T21:46:57.000Z"
+  },
+  {
+    "title": "Introducing Spatial SQL in Databricks: 80+ Functions for High-Performance Geospatial Analytics",
+    "link": "https://www.databricks.com/blog/introducing-spatial-sql-databricks-80-functions-high-performance-geospatial-analytics",
+    "date": "2025-09-25T21:46:51.000Z"
+  },
+  {
+    "title": "Build Maps & Dashboards with Databricks: A Step-by-Step Guide",
+    "link": "https://felt.com/blog/map-with-databricks",
+    "date": "2025-09-25T21:46:30.000Z"
+  },
+  {
+    "title": "Databricks | Felt Help Center",
+    "link": "https://help.felt.com/upload-anything/cloud-sources/databricks",
+    "date": "2025-09-25T21:46:23.000Z"
+  },
+  {
+    "title": "Building geospatial apps with GenAI and Databricks - Felt",
+    "link": "https://felt.com/webinars/building-geospatial-apps-with-genai-and-databricks",
+    "date": "2025-09-25T21:46:09.000Z"
+  },
+  {
+    "title": "x0y0pxFreeFont",
+    "link": "https://hicchicc.github.io/00ff/",
+    "date": "2025-09-25T20:59:02.000Z"
+  },
+  {
+    "title": "マルチモーダルLLM（VLM）の MiniCPM-V 4.5 の日本語認識能力を試してみた - Qiita",
+    "link": "https://qiita.com/yuji-arakawa/items/79532bd1ebc87de3b4b9?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+    "date": "2025-09-25T20:58:40.000Z"
+  },
+  {
+    "title": "GitHub - skanehira/ghost: Simple shell command management tool.",
+    "link": "https://github.com/skanehira/ghost",
+    "date": "2025-09-25T20:58:27.000Z"
+  },
+  {
+    "title": "Home - Requestly",
+    "link": "https://requestly.com/",
+    "date": "2025-09-25T20:58:12.000Z"
+  },
+  {
+    "title": "GitHub - requestly/requestly: Free and open-source API Client & Interceptor",
+    "link": "https://github.com/requestly/requestly",
+    "date": "2025-09-25T20:58:07.000Z"
+  },
+  {
+    "title": "Same",
+    "link": "https://same.new/",
+    "date": "2025-09-25T20:57:05.000Z"
+  },
+  {
+    "title": "｢年収5500万円から生活保護へ｣元人気ブロガーが\"どん底\"で見た景色",
+    "link": "https://toyokeizai.net/articles/-/902641?display=b",
+    "date": "2025-09-25T20:51:19.000Z"
+  },
+  {
+    "title": "ニュース | 人文学オープンデータ共同利用センター",
+    "link": "https://codh.rois.ac.jp/news/",
+    "date": "2025-09-25T20:47:58.000Z"
+  },
+  {
+    "title": "人文学オープンデータ共同利用センター、江戸時代に関する空間的データセットを公開",
+    "link": "https://current.ndl.go.jp/car/258712",
+    "date": "2025-09-25T20:47:49.000Z"
+  },
+  {
+    "title": "フルリモートで相手に気持ちよく仕事をしてもらうためのコツあれこれ",
+    "link": "https://zenn.dev/praha/articles/897f354bb76b98",
+    "date": "2025-09-25T20:47:33.000Z"
+  },
+  {
+    "title": "HootVoice — リアルタイム音声入力",
+    "link": "https://hootvoice.com/index.ja.html",
+    "date": "2025-09-25T20:47:25.000Z"
+  },
+  {
+    "title": "日本の衛星は自衛隊が守る／新たな戦場「宇宙」でいま起きていること【9月24日(水) #報道1930】｜TBS NEWS DIG",
+    "link": "https://www.youtube.com/watch?v=LcDgGKlT-Bs",
+    "date": "2025-09-25T17:46:20.000Z"
+  }
+]
