@@ -1,0 +1,170 @@
+[
+  {
+    "keyword": "Apache Sedona",
+    "products": [
+      {
+        "asin": "B0DSFRFY18",
+        "title": "Apache Sedona Essentials: A Practical Guide to Spatial Data Processing (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ZBuH0HXHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSFRFY18?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Johnson, Robert",
+        "brand": "HiTeX Press",
+        "price": "￥1,576",
+        "priceValue": 1576
+      },
+      {
+        "asin": "B003X1D93S",
+        "title": "Apache Indian Drums (Sedona)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51pUyRPh8eL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003X1D93S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "American Indian Music",
+        "brand": "Time Machine Records",
+        "price": "￥150",
+        "priceValue": 150
+      }
+    ],
+    "searchedAt": "2025-09-26T19:58:22.155Z"
+  },
+  {
+    "keyword": "Databricks",
+    "products": [
+      {
+        "asin": "B09V1YXFVQ",
+        "title": "データブリックス クイックスタートガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/31MdBbiA0YL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09V1YXFVQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "データブリックス・ジャパン",
+        "price": "￥99",
+        "priceValue": 99
+      },
+      {
+        "asin": "B0D6Z7G519",
+        "title": "はじめてのデータウェアハウス ーDatabricksではじめるデータ基盤ガイドー",
+        "imageUrl": "https://m.media-amazon.com/images/I/412v94YIW5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D6Z7G519?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Saki Kitaoka",
+        "price": "￥1,200",
+        "priceValue": 1200
+      },
+      {
+        "asin": "B0DX84KYF6",
+        "title": "Databricks Certified Data Engineer Associate Study Guide (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gRFYy6orL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DX84KYF6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Alhussein, Derar",
+        "brand": "O'Reilly Media",
+        "price": "￥11,002",
+        "priceValue": 11002
+      }
+    ],
+    "searchedAt": "2025-09-26T19:58:23.938Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-09-26T19:58:25.908Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      }
+    ],
+    "searchedAt": "2025-09-26T19:58:27.727Z"
+  },
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥1,960",
+        "priceValue": 1960
+      }
+    ],
+    "searchedAt": "2025-09-26T19:58:29.531Z"
+  }
+]
