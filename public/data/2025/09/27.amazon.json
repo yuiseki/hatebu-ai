@@ -1,0 +1,88 @@
+[
+  {
+    "keyword": "Qwen3-Embedding",
+    "products": [],
+    "searchedAt": "2025-09-28T00:26:51.051Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [],
+    "searchedAt": "2025-09-28T00:26:52.577Z"
+  },
+  {
+    "keyword": "Chrome DevTools",
+    "products": [],
+    "searchedAt": "2025-09-28T00:26:54.276Z"
+  },
+  {
+    "keyword": "Copilot",
+    "products": [
+      {
+        "asin": "B0D5C16CPJ",
+        "title": "この一冊で全部わかる　ChatGPT ＆ Copilotの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51mz1f+urUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D5C16CPJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中島 大介",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0DTP35CB8",
+        "title": "今すぐ使えるかんたんbiz　Microsoft 365 Copilot 効率UPスキル大全",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xuNEL5OfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DTP35CB8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "PwCコンサルティング合同会社　田村 正一",
+        "brand": "技術評論社",
+        "price": "￥1,940",
+        "priceValue": 1940
+      },
+      {
+        "asin": "B0CZNJ17NT",
+        "title": "Microsoft Copilot for Microsoft 365活用大全",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Ct5nS5KUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CZNJ17NT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アクセンチュア データ＆AIグループ",
+        "brand": "日経BP",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-09-28T00:26:56.101Z"
+  },
+  {
+    "keyword": "MCP",
+    "products": [
+      {
+        "asin": "B0FFGMH7V4",
+        "title": "やさしいMCP入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/410hKsNgZzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGMH7V4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "御田稔",
+        "brand": "秀和システム",
+        "price": "￥1,426",
+        "priceValue": 1426
+      },
+      {
+        "asin": "4065412382",
+        "title": "PythonではじめるMCP開発入門 (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mMBBB1Q1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065412382?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "李 碩根",
+        "brand": "講談社",
+        "price": "￥2,750",
+        "priceValue": 2750
+      },
+      {
+        "asin": "B0F99W236S",
+        "title": "MCP AIエージェント開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QPsMiNRUL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F99W236S?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "中山　茂",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-09-28T00:26:57.883Z"
+  }
+]
