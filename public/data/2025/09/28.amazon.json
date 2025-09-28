@@ -1,0 +1,181 @@
+[
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B00RUV5LI8",
+        "title": "A. I. (吹替版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/31CAjcAPVuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00RUV5LI8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "スティブン・スピルバーグ",
+        "price": "￥440",
+        "priceValue": 440
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-09-28T22:47:21.810Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0B38WSB5G",
+        "title": "はじめてでもできる　GitとGitHubの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S5wVlAEyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B38WSB5G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たにぐち まこと",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-09-28T22:47:24.144Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TVCdZAG1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      }
+    ],
+    "searchedAt": "2025-09-28T22:47:26.495Z"
+  },
+  {
+    "keyword": "フロントエンド",
+    "products": [
+      {
+        "asin": "B0CMCWZRP2",
+        "title": "フロントエンドの知識地図—— 一冊でHTML/CSS/JavaScriptの開発技術が学べる本",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fIKN6ofpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CMCWZRP2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "池田 泰延",
+        "brand": "技術評論社",
+        "price": "￥2,803",
+        "priceValue": 2803
+      },
+      {
+        "asin": "B0BQM1KMBG",
+        "title": "フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RrucDBjjL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BQM1KMBG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "平野 昌士",
+        "brand": "翔泳社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0728K5JZV",
+        "title": "Webフロントエンド ハイパフォーマンス チューニング",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Xdg77GAhL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0728K5JZV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "久保田 光則",
+        "brand": "技術評論社",
+        "price": "￥2,889",
+        "priceValue": 2889
+      }
+    ],
+    "searchedAt": "2025-09-28T22:47:28.767Z"
+  },
+  {
+    "keyword": "機械学習",
+    "products": [
+      {
+        "asin": "4873117984",
+        "title": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GQH7tZNlL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873117984?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Andreas C. Muller",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4000056549",
+        "title": "対称性と機械学習",
+        "imageUrl": "https://m.media-amazon.com/images/I/31VU7vnDF2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4000056549?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "岡野原 大輔",
+        "brand": "岩波書店",
+        "price": "￥4,400",
+        "priceValue": 4400
+      },
+      {
+        "asin": "4320125819",
+        "title": "機械学習のための数学",
+        "imageUrl": "https://m.media-amazon.com/images/I/41LJo9HqomL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4320125819?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Marc Peter Deisenroth",
+        "brand": "共立出版",
+        "price": "￥6,380",
+        "priceValue": 6380
+      }
+    ],
+    "searchedAt": "2025-09-28T22:47:35.858Z"
+  }
+]
