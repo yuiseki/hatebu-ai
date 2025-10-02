@@ -1,0 +1,118 @@
+[
+  {
+    "keyword": "Remote sensing",
+    "products": [
+      {
+        "asin": "1784270229",
+        "title": "Remote Sensing and Gis for Ecologists: Using Open Source Software (Data in the Wild)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XcJd6brpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1784270229?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Wegmann, Martin",
+        "brand": "Pelagic Publishing Ltd",
+        "price": "￥8,890",
+        "priceValue": 8890
+      },
+      {
+        "asin": "0199496641",
+        "title": "Remote Sensing and GIS 3rd Edition",
+        "imageUrl": "https://m.media-amazon.com/images/I/51rPtXAEaCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0199496641?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bhatta",
+        "brand": "Oxford",
+        "price": "￥4,019",
+        "priceValue": 4019
+      },
+      {
+        "asin": "B0CFYQRNPF",
+        "title": "Remote Sensing with ArcGIS Pro: 2nd Edition (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-fXQAk-wL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CFYQRNPF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Parece, Tammy E. ",
+        "price": "￥876",
+        "priceValue": 876
+      }
+    ],
+    "searchedAt": "2025-10-02T23:16:00.235Z"
+  },
+  {
+    "keyword": "Multi-modal",
+    "products": [
+      {
+        "asin": "B003L777X2",
+        "title": "Multi-modal: Webster's Timeline History, 1968 - 2007",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gF8g9ttqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B003L777X2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "International, Icon Group",
+        "brand": "ICON Group International, Inc.",
+        "price": "￥4,710",
+        "priceValue": 4710
+      },
+      {
+        "asin": "B09238X2GX",
+        "title": "M-MAT Multi-Modal Attachment Therapy: An Integrated Whole-Brain Approach to Attachment Injuries in Children and Families (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41vBHsZ11mL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09238X2GX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Young, Catherine A",
+        "brand": "Granite Swan Press",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B0DR37PM99",
+        "title": "Multi Modal Spreads: Unconventional Options Strategies (Turtle: Option Trading Book 3) (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41KTrz4f30L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DR37PM99?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ghosh, Amit",
+        "price": "￥297",
+        "priceValue": 297
+      }
+    ],
+    "searchedAt": "2025-10-02T23:16:02.043Z"
+  },
+  {
+    "keyword": "AI agent",
+    "products": [
+      {
+        "asin": "B0FJL96W2Z",
+        "title": "AIエージェント開発／運用入門 ［生成AI深掘りガイド］",
+        "imageUrl": "https://m.media-amazon.com/images/I/516rjtDj0BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJL96W2Z?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "御田 稔",
+        "brand": "SBクリエイティブ",
+        "price": "￥3,267",
+        "priceValue": 3267
+      },
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "B0FR9PN9RX",
+        "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RVByaJZOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FR9PN9RX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Albada, Michael",
+        "brand": "O'Reilly Media",
+        "price": "￥11,077",
+        "priceValue": 11077
+      }
+    ],
+    "searchedAt": "2025-10-02T23:16:03.940Z"
+  },
+  {
+    "keyword": "Chrome DevTools",
+    "products": [],
+    "searchedAt": "2025-10-02T23:16:05.625Z"
+  },
+  {
+    "keyword": "GitHub Copilot CLI",
+    "products": [],
+    "searchedAt": "2025-10-02T23:16:07.313Z"
+  }
+]
