@@ -1,0 +1,180 @@
+[
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,940",
+        "priceValue": 1940
+      },
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-10-04T23:50:40.332Z"
+  },
+  {
+    "keyword": "データベース",
+    "products": [
+      {
+        "asin": "B0F83SSPP8",
+        "title": "データベースをなぜつくるのか　知っておきたいE-R図とSQLの基礎",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JnepWN0tL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F83SSPP8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "矢沢久雄",
+        "brand": "日経BP",
+        "price": "￥2,475",
+        "priceValue": 2475
+      },
+      {
+        "asin": "B0D8N5G9GT",
+        "title": "達人に学ぶDB設計徹底指南書 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XBCer8UfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8N5G9GT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,772",
+        "priceValue": 2772
+      },
+      {
+        "asin": "B0D7NZHDH5",
+        "title": "おうちで学べるデータベースのきほん 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51B0jl-G6VL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D7NZHDH5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ミック",
+        "brand": "翔泳社",
+        "price": "￥2,376",
+        "priceValue": 2376
+      }
+    ],
+    "searchedAt": "2025-10-04T23:50:42.139Z"
+  },
+  {
+    "keyword": "GraphQL",
+    "products": [
+      {
+        "asin": "487311893X",
+        "title": "初めてのGraphQL ―Webサービスを作って学ぶ新世代API",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z8dT721zL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/487311893X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Eve Porcello",
+        "brand": "オライリージャパン",
+        "price": "￥2,860",
+        "priceValue": 2860
+      },
+      {
+        "asin": "B0FJLKKPZG",
+        "title": "Web API開発実践ガイド――REST/gRPC/GraphQLからテスト、セキュリティまで Software Design別冊",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SnnmTwZHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJLKKPZG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "杉本 和也",
+        "brand": "技術評論社",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B08PC8H5HF",
+        "title": "基礎からはじめるGraphQL",
+        "imageUrl": "https://m.media-amazon.com/images/I/41jAY8ezOVL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08PC8H5HF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "志村翔太",
+        "price": "￥864",
+        "priceValue": 864
+      }
+    ],
+    "searchedAt": "2025-10-04T23:50:51.267Z"
+  },
+  {
+    "keyword": "セキュリティ",
+    "products": [
+      {
+        "asin": "B074KS77VH",
+        "title": "セキュリティ（字幕版）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TY4YMhhDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B074KS77VH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アラン・デロシェール",
+        "price": "￥330",
+        "priceValue": 330
+      },
+      {
+        "asin": "B0F9B39CMY",
+        "title": "実践サイバーセキュリティ入門講座　現場に残された痕跡からハッカーの攻撃を暴け",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SMlMcnupL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F9B39CMY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "林 憲明",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,772",
+        "priceValue": 2772
+      },
+      {
+        "asin": "B0CZ84DV4H",
+        "title": "マンガ＋図解で基礎がよくわかる　情報セキュリティの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FpGaH+yIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CZ84DV4H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "左門 至峰",
+        "brand": "技術評論社",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-10-04T23:50:53.176Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TVCdZAG1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      }
+    ],
+    "searchedAt": "2025-10-04T23:50:55.065Z"
+  }
+]
