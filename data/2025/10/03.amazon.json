@@ -1,0 +1,173 @@
+[
+  {
+    "keyword": "Rust",
+    "products": [
+      {
+        "asin": "B0FT254L3J",
+        "title": "実践 Rust プログラミング入門 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51B00Ssp1TL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FT254L3J?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "初田直也",
+        "brand": "秀和システム",
+        "price": "￥3,564",
+        "priceValue": 3564
+      },
+      {
+        "asin": "4873119782",
+        "title": "プログラミングRust 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51M44jPsASL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119782?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jim Blandy",
+        "brand": "オライリージャパン",
+        "price": "￥5,280",
+        "priceValue": 5280
+      },
+      {
+        "asin": "B09WQT2DQD",
+        "title": "手を動かして考えればよくわかる 高効率言語 Rust 書きかた・作りかた",
+        "imageUrl": "https://m.media-amazon.com/images/I/414df+FWBLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09WQT2DQD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,799",
+        "priceValue": 3799
+      }
+    ],
+    "searchedAt": "2025-10-04T02:31:41.895Z"
+  },
+  {
+    "keyword": "Tauri",
+    "products": [
+      {
+        "asin": "B0D875HR24",
+        "title": "TAURI 3 in 1 iPhone 16 Pro Max 6.9インチ用 保護ケース 2枚強化ガラスフィルムセット MagSafeに対応 軍用グレードの保護 黄ばみなし 耐衝撃カスマホバー - デザートチタニウム",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Xoj45IVgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D875HR24?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "TAURI",
+        "price": "￥999",
+        "priceValue": 999
+      },
+      {
+        "asin": "B0DHG1NTR6",
+        "title": "日経ソフトウエア 2024年11月号 [雑誌]",
+        "imageUrl": "https://m.media-amazon.com/images/I/612NhpWZXhL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DHG1NTR6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "日経ソフトウエア",
+        "brand": "日経BP",
+        "price": "￥1,925",
+        "priceValue": 1925
+      },
+      {
+        "asin": "B0FJML9DQS",
+        "title": "Tauri for Developers: Build Cross-Platform Desktop Apps with Rust, TypeScript, and Lightning-Fast Performance (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ZIOCb93fL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJML9DQS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": " PIASON, JECK",
+        "price": "￥1,173",
+        "priceValue": 1173
+      }
+    ],
+    "searchedAt": "2025-10-04T02:31:43.709Z"
+  },
+  {
+    "keyword": "Cloud Run",
+    "products": [
+      {
+        "asin": "4865942416",
+        "title": "GCPの教科書II 【コンテナ開発編】 KubernetesとGKE、Cloud Run、サービスメッシュを詳解",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uZk3rHFbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4865942416?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クラウドエース株式会社",
+        "brand": "リックテレコム",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "B0DVY7JLGK",
+        "title": "Google Cloud Run for DevOps: Automating Deployments and Scaling",
+        "imageUrl": "https://m.media-amazon.com/images/I/31vXUJB6E9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DVY7JLGK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Johnson, Robert",
+        "brand": "HiTeX Press",
+        "price": "￥6,188",
+        "priceValue": 6188
+      },
+      {
+        "asin": "B08PHT7W5T",
+        "title": "Building Serverless Applications with Google Cloud Run: A Real-World Guide to Building Production-Ready Services (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xWd8AccaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08PHT7W5T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Venema, Wietse",
+        "brand": "O'Reilly Media",
+        "price": "￥5,188",
+        "priceValue": 5188
+      }
+    ],
+    "searchedAt": "2025-10-04T02:31:45.718Z"
+  },
+  {
+    "keyword": "Datadog",
+    "products": [
+      {
+        "asin": "B0D8BS3D63",
+        "title": "Datadogマスターへの道: ITシステムの完璧な監視と分析をDatadogで実現しよう！",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wpK+A7gIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D8BS3D63?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "doitsu",
+        "price": "￥500",
+        "priceValue": 500
+      },
+      {
+        "asin": "B0DSKH488F",
+        "title": "Understanding Datadog: A Gentle Introduction (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/519CCQAYnqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKH488F?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Miller, Jonas",
+        "price": "￥1,250",
+        "priceValue": 1250
+      },
+      {
+        "asin": "B08PKVCLF3",
+        "title": "Datadog Cloud Monitoring Quick Start Guide: Proactively create dashboards, write scripts, manage alerts, and monitor containers using Datadog (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51H9VDAr8zS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08PKVCLF3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Theakanath, Thomas Kurian",
+        "brand": "Packt Publishing",
+        "price": "￥4,456",
+        "priceValue": 4456
+      }
+    ],
+    "searchedAt": "2025-10-04T02:31:47.527Z"
+  },
+  {
+    "keyword": "Flywheel",
+    "products": [
+      {
+        "asin": "B0FMSF8ZKM",
+        "title": "Fly Wheels(フライウィール) 2025年 10 月号 [雑誌]",
+        "imageUrl": "https://m.media-amazon.com/images/I/516h5AbmD4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMSF8ZKM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "VALLEY",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0DBRFDFH5",
+        "title": "Fly Wheels(フライウィール) 2024年 10 月号 [雑誌]",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x1o-ewXcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DBRFDFH5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "VALLEY"
+      },
+      {
+        "asin": "B0C3ZLZLVZ",
+        "title": "オートバイ フライホイール プラー 110cc ATV フライホイール イグニッション コイル オートバイ マグネト フライホイール 交換用 90cc 110cc 125cc ピット プロ クワッド ダート バイク ATV",
+        "imageUrl": "https://m.media-amazon.com/images/I/41FxO4C9sIS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C3ZLZLVZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Tbest",
+        "price": "￥2,783",
+        "priceValue": 2783
+      }
+    ],
+    "searchedAt": "2025-10-04T02:31:49.394Z"
+  }
+]
