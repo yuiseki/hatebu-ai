@@ -1,0 +1,159 @@
+[
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,860",
+        "priceValue": 2860
+      }
+    ],
+    "searchedAt": "2025-10-06T22:34:09.633Z"
+  },
+  {
+    "keyword": "Web APIs",
+    "products": [
+      {
+        "asin": "4873116864",
+        "title": "Web API: The Good Parts",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GHwTNJgSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873116864?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "水野 貴明",
+        "brand": "オライリージャパン",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B0FJLKKPZG",
+        "title": "Web API開発実践ガイド――REST/gRPC/GraphQLからテスト、セキュリティまで Software Design別冊",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SnnmTwZHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJLKKPZG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "杉本 和也",
+        "brand": "技術評論社",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B08CK2H12H",
+        "title": "Web APIの設計",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GK-dw0hDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08CK2H12H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Arnaud Lauret",
+        "brand": "翔泳社",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-10-06T22:34:11.453Z"
+  },
+  {
+    "keyword": "TypeScript",
+    "products": [
+      {
+        "asin": "B0FQ13X48L",
+        "title": "JavaScript/TypeScript実力強化書――関数・非同期処理・型システム完全攻略 Software Design別冊",
+        "imageUrl": "https://m.media-amazon.com/images/I/512aDm68WOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FQ13X48L?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "うひょ（鈴木 僚太）",
+        "brand": "技術評論社",
+        "price": "￥2,372",
+        "priceValue": 2372
+      },
+      {
+        "asin": "B09Y527YPV",
+        "title": "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BhhfT6IyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09Y527YPV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 僚太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4814400365",
+        "title": "初めてのTypeScript ―型安全なJavaScriptでWeb開発を加速する",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VRvb0cdmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400365?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Josh Goldberg",
+        "brand": "オーム社",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-10-06T22:34:13.469Z"
+  },
+  {
+    "keyword": "pnpm",
+    "products": [
+      {
+        "asin": "B0FQCTQTG4",
+        "title": "PNPM [Explicit]",
+        "imageUrl": "https://m.media-amazon.com/images/I/41fHPZVAu6L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FQCTQTG4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Achina Gattah Ase",
+        "brand": "Sonomo",
+        "price": "￥200",
+        "priceValue": 200
+      }
+    ],
+    "searchedAt": "2025-10-06T22:34:15.290Z"
+  },
+  {
+    "keyword": "DSPy",
+    "products": [
+      {
+        "asin": "B0FMTFZW52",
+        "title": "Hands-On Context Engineering with DSPy: Build Self-Improving AI Pipelines, RAG and Agentic Workflows for Developers and Data Practitioners (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QXTDacv8L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMTFZW52?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Pizzlo , Roberto",
+        "price": "￥1,176",
+        "priceValue": 1176
+      },
+      {
+        "asin": "B0FD7FW683",
+        "title": "Agentic AI Mastery with DSPy: Build Modular, Self-Improving AI Agents Using Declarative Python Programming (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41tGx2jLqgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD7FW683?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Randall, Luca",
+        "price": "￥1,110",
+        "priceValue": 1110
+      },
+      {
+        "asin": "B0FC6X5WR1",
+        "title": "Building Agentic AI Systems with DSPy: From Reasoning Modules to Tool-Using LLMs (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Mho23MsFL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FC6X5WR1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chandler, Todd",
+        "price": "￥1,147",
+        "priceValue": 1147
+      }
+    ],
+    "searchedAt": "2025-10-06T22:34:17.305Z"
+  }
+]
