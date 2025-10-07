@@ -1,0 +1,89 @@
+[
+  {
+    "keyword": "ChatKit Studio",
+    "products": [],
+    "searchedAt": "2025-10-07T22:47:21.036Z"
+  },
+  {
+    "keyword": "MapLibre",
+    "products": [],
+    "searchedAt": "2025-10-07T22:47:22.693Z"
+  },
+  {
+    "keyword": "ArcGIS for Power BI",
+    "products": [],
+    "searchedAt": "2025-10-07T22:47:24.438Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "4863543433",
+        "title": "改訂2版 わかばちゃんと学ぶ Git使い方入門〈GitHub、SourceTree、コマンド操作対応〉",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ITQMzMG2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4863543433?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "湊川 あい",
+        "brand": "シーアンドアール研究所",
+        "price": "￥2,453",
+        "priceValue": 2453
+      }
+    ],
+    "searchedAt": "2025-10-07T22:47:26.296Z"
+  },
+  {
+    "keyword": "OpenSearch",
+    "products": [
+      {
+        "asin": "B0DSHXB8BZ",
+        "title": "The Definitive Guide to OpenSearch: Discover advanced techniques and best practices for efficient search and analytics with OpenSearch (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pRloaA-YL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSHXB8BZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Handler, Jon",
+        "brand": "Packt Publishing",
+        "price": "￥4,558",
+        "priceValue": 4558
+      },
+      {
+        "asin": "B0FN67DS78",
+        "title": "OpenSearch Administration and Development Guide: The Complete Guide for Developers and Engineers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41KeBJvFjuL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FN67DS78?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Smith, William",
+        "brand": "HiTeX Press",
+        "price": "￥1,469",
+        "priceValue": 1469
+      },
+      {
+        "asin": "1737419092",
+        "title": "A Gentle Introduction to OpenSearch",
+        "imageUrl": "https://m.media-amazon.com/images/I/41X3xv3F8TL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1737419092?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Seymour, Mitch",
+        "brand": "Round Robin Publishing, LLC",
+        "price": "￥3,209",
+        "priceValue": 3209
+      }
+    ],
+    "searchedAt": "2025-10-07T22:47:28.173Z"
+  }
+]
