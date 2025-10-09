@@ -1,0 +1,106 @@
+[
+  {
+    "keyword": "Gemini CLI Extensions",
+    "products": [
+      {
+        "asin": "B0FFY8H63T",
+        "title": "Gemini CLI for Developers: Build Custom AI Extensions, Automate Your Terminal, and Transform Your Productivity with Google’s Gemini AI (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/410FHOoYheL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFY8H63T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Randall, Luca",
+        "price": "￥1,156",
+        "priceValue": 1156
+      },
+      {
+        "asin": "B0FGHDDTRC",
+        "title": "Gemini CLI Agent Essentials: Next-Gen Developer Productivity with Open-Source AI (Intelligent Agent Systems: A Developer's Guide)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41yVdOXuTKL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGHDDTRC?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Younker, William L.",
+        "brand": "Independently published",
+        "price": "￥2,917",
+        "priceValue": 2917
+      }
+    ],
+    "searchedAt": "2025-10-09T23:07:46.967Z"
+  },
+  {
+    "keyword": "Timelinize",
+    "products": [],
+    "searchedAt": "2025-10-09T23:07:48.648Z"
+  },
+  {
+    "keyword": "Gemini 2.5",
+    "products": [
+      {
+        "asin": "B0FGTMCY95",
+        "title": "Gemini 2.5 Proであなたの知識を資産に変える！-週末Kindle出版完全ロードマップ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ArE9awmIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGTMCY95?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "三宅孝",
+        "price": "￥99",
+        "priceValue": 99
+      },
+      {
+        "asin": "B0FSW6RLM6",
+        "title": "Gemini 2.5　最新AIを極める活用大全",
+        "imageUrl": "https://m.media-amazon.com/images/I/51I1ZOvmHyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FSW6RLM6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "W.B",
+        "price": "￥980",
+        "priceValue": 980
+      },
+      {
+        "asin": "B0FP5KT93L",
+        "title": "Gemini 2.5 Flash Imageで超簡単！AI写真集制作入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TqEitm0+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FP5KT93L?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "神草 経知",
+        "price": "￥980",
+        "priceValue": 980
+      }
+    ],
+    "searchedAt": "2025-10-09T23:07:50.451Z"
+  },
+  {
+    "keyword": "GitHub Actions",
+    "products": [
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0FP4JYTH7",
+        "title": "Unity/GitHub Actionsによる自動化入門 (アスキードワンゴ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/414wns6u7eL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FP4JYTH7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "秦泉寺 章夫",
+        "brand": "ドワンゴ",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "B08B1873L5",
+        "title": "GitHub Actions 実践入門 技術の泉シリーズ (技術の泉シリーズ（NextPublishing）)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+RwQG08XL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08B1873L5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "宮田 淳平",
+        "brand": "インプレス NextPublishing",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-10-09T23:07:52.253Z"
+  },
+  {
+    "keyword": "Sakura Cloud Container Registry",
+    "products": [],
+    "searchedAt": "2025-10-09T23:07:53.939Z"
+  }
+]
