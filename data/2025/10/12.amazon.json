@@ -1,0 +1,139 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "B0B49MYZ67",
+        "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qp0fUX3lL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B49MYZ67?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "森 巧尚",
+        "brand": "翔泳社",
+        "price": "￥2,134",
+        "priceValue": 2134
+      },
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      }
+    ],
+    "searchedAt": "2025-10-12T23:42:08.146Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,911",
+        "priceValue": 2911
+      },
+      {
+        "asin": "B09MQ14XR1",
+        "title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
+        "imageUrl": "https://m.media-amazon.com/images/I/516cZ4DqEnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09MQ14XR1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NRIネットコム株式会社",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,100",
+        "priceValue": 1100
+      }
+    ],
+    "searchedAt": "2025-10-12T23:42:09.897Z"
+  },
+  {
+    "keyword": "QuickSight",
+    "products": [
+      {
+        "asin": "B0C1MB516D",
+        "title": "AWSではじめるデータレイク　クラウドによる統合型データリポジトリ構築入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/516TFdkuKQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0C1MB516D?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "上原 誠",
+        "brand": "テッキーメディア",
+        "price": "￥2,772",
+        "priceValue": 2772
+      },
+      {
+        "asin": "4839978174",
+        "title": "要点整理から攻略する『AWS認定 データ分析-専門知識』 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PKBFWQNHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4839978174?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NRIネットコム株式会社",
+        "brand": "マイナビ出版",
+        "price": "￥1,716",
+        "priceValue": 1716
+      },
+      {
+        "asin": "B09DDJJ4XR",
+        "title": "Actionable Insights with Amazon QuickSight: Develop stunning data visualizations and machine learning-driven insights with Amazon QuickSight (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DUOVk1nPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09DDJJ4XR?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Samatas, Manos",
+        "brand": "Packt Publishing",
+        "price": "￥4,963",
+        "priceValue": 4963
+      }
+    ],
+    "searchedAt": "2025-10-12T23:42:11.771Z"
+  },
+  {
+    "keyword": "QuickSuite",
+    "products": [],
+    "searchedAt": "2025-10-12T23:42:13.463Z"
+  },
+  {
+    "keyword": "libexpat",
+    "products": [
+      {
+        "asin": "B07NDN6XLY",
+        "title": "Libec リーベック TH-X 三脚 ビデオカメラ 用 ヘッド&三脚システム 【 動画撮影 エントリーモデル 】 THX",
+        "imageUrl": "https://m.media-amazon.com/images/I/31KYr5O4RaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07NDN6XLY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Libec(リーベック)",
+        "price": "￥29,149",
+        "priceValue": 29149
+      },
+      {
+        "asin": "B0923HPQK6",
+        "title": "Libec LANC*小型カメラ用ズーム&フォーカスリモートコントロール ZFC-L, ブラック",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zZTrMTRmS._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0923HPQK6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Libec(リーベック)",
+        "price": "￥14,000",
+        "priceValue": 14000
+      }
+    ],
+    "searchedAt": "2025-10-12T23:42:15.226Z"
+  }
+]
