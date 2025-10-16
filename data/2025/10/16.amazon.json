@@ -1,0 +1,112 @@
+[
+  {
+    "keyword": "LLM Agent",
+    "products": [
+      {
+        "asin": "4839987807",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/514JQQmkGQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4839987807?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,982",
+        "priceValue": 3982
+      },
+      {
+        "asin": "B0F26PB4G9",
+        "title": "Multi-LLM Agent Collaborative Intelligence: The Path to Artificial General Intelligence",
+        "imageUrl": "https://m.media-amazon.com/images/I/41o0HSnJE+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F26PB4G9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chang, Edward Y",
+        "brand": "Independently published",
+        "price": "￥6,579",
+        "priceValue": 6579
+      },
+      {
+        "asin": "183508706X",
+        "title": "Building AI Agents with LLMs, RAG, and Knowledge Graphs: A practical guide to autonomous and modern AI agents",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TAlqOAJRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/183508706X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Raieli, Salvatore",
+        "brand": "Packt Publishing",
+        "price": "￥10,332",
+        "priceValue": 10332
+      }
+    ],
+    "searchedAt": "2025-10-16T22:33:19.541Z"
+  },
+  {
+    "keyword": "Meta Agent",
+    "products": [
+      {
+        "asin": "B0B8HQ72H1",
+        "title": "パトリオット・ゲーム",
+        "imageUrl": "https://m.media-amazon.com/images/I/517djzqAZkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B8HQ72H1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "フィリップ・ノイス",
+        "price": "￥440",
+        "priceValue": 440
+      },
+      {
+        "asin": "B0CK4GZFX8",
+        "title": "イコライザー",
+        "imageUrl": "https://m.media-amazon.com/images/I/41-L6OmlWsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CK4GZFX8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Antoine Fuqua"
+      },
+      {
+        "asin": "B0B6QLQF7Z",
+        "title": "パルプ・フィクション",
+        "imageUrl": "https://m.media-amazon.com/images/I/51J79QKS5dL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B6QLQF7Z?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Quentin Tarantino",
+        "price": "￥1,600",
+        "priceValue": 1600
+      }
+    ],
+    "searchedAt": "2025-10-16T22:33:22.932Z"
+  },
+  {
+    "keyword": "M5 Chip",
+    "products": [
+      {
+        "asin": "B0FD9R8W1G",
+        "title": "Pronese M5タップドリル 3機能複合タップ HSS-Co M35ハイス鋼 6.35mm六角軸 全研ぎ刃先 高効率加工 開孔・タップ・面取り 一体化 ステンレス用 鉄工用",
+        "imageUrl": "https://m.media-amazon.com/images/I/31KtY94264L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD9R8W1G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Pronese",
+        "price": "￥1,199",
+        "priceValue": 1199
+      },
+      {
+        "asin": "B0CQMKJX49",
+        "title": "uxcell メトリックハンドタップセット M5 x 0.5 テーパー/ボトムスレッドタップ 合金工具鋼製スクリュータップキット 修理用ハンドスレッディングタッピングツール",
+        "imageUrl": "https://m.media-amazon.com/images/I/31al3i7AiyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CQMKJX49?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "uxcell",
+        "price": "￥809",
+        "priceValue": 809
+      },
+      {
+        "asin": "B0CT822MBK",
+        "title": "uxcell メートルタップとドリルビットセット M5 x 1スレッドタップ＆4mm黒オキサイドツイス トドリルビット ストレートフルートタップタッピング修理ツールキット",
+        "imageUrl": "https://m.media-amazon.com/images/I/21+tZrwMdfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CT822MBK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "uxcell",
+        "price": "￥834",
+        "priceValue": 834
+      }
+    ],
+    "searchedAt": "2025-10-16T22:33:24.887Z"
+  },
+  {
+    "keyword": "Prisma Turso",
+    "products": [],
+    "searchedAt": "2025-10-16T22:33:26.615Z"
+  },
+  {
+    "keyword": "KubeCon",
+    "products": [],
+    "searchedAt": "2025-10-16T22:33:28.381Z"
+  }
+]
