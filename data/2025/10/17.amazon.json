@@ -1,0 +1,177 @@
+[
+  {
+    "keyword": "n8n",
+    "products": [
+      {
+        "asin": "B0FGYBFZC6",
+        "title": "n8n完全マスターガイド: セルフホストもクラウドも完全網羅！初心者から現場導入まで使える入門書",
+        "imageUrl": "https://m.media-amazon.com/images/I/41js3D+6aAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGYBFZC6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AIマスター",
+        "price": "￥500",
+        "priceValue": 500
+      },
+      {
+        "asin": "B0FPM18G9M",
+        "title": "n8n完全初心者ガイド: 仕事が楽になる30の自動化レシピ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Wvu6g3iQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FPM18G9M?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "こうま りょうへい",
+        "price": "￥880",
+        "priceValue": 880
+      },
+      {
+        "asin": "B0FSYTB26P",
+        "title": "n8n ゼロから触ってわかった！AIワークフロー自動化！非公式ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/316oRN5uwHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FSYTB26P?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mellow Launch ",
+        "price": "￥980",
+        "priceValue": 980
+      }
+    ],
+    "searchedAt": "2025-10-18T00:15:57.990Z"
+  },
+  {
+    "keyword": "Cloud Run",
+    "products": [
+      {
+        "asin": "4865942416",
+        "title": "GCPの教科書II 【コンテナ開発編】 KubernetesとGKE、Cloud Run、サービスメッシュを詳解",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uZk3rHFbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4865942416?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クラウドエース株式会社",
+        "brand": "リックテレコム",
+        "price": "￥3,080",
+        "priceValue": 3080
+      },
+      {
+        "asin": "B08PHT7W5T",
+        "title": "Building Serverless Applications with Google Cloud Run: A Real-World Guide to Building Production-Ready Services (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xWd8AccaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08PHT7W5T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Venema, Wietse",
+        "brand": "O'Reilly Media",
+        "price": "￥5,188",
+        "priceValue": 5188
+      },
+      {
+        "asin": "B0DVY7JLGK",
+        "title": "Google Cloud Run for DevOps: Automating Deployments and Scaling",
+        "imageUrl": "https://m.media-amazon.com/images/I/31vXUJB6E9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DVY7JLGK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Johnson, Robert",
+        "brand": "HiTeX Press",
+        "price": "￥6,188",
+        "priceValue": 6188
+      }
+    ],
+    "searchedAt": "2025-10-18T00:15:59.786Z"
+  },
+  {
+    "keyword": "Serverless",
+    "products": [
+      {
+        "asin": "B0DP3M3BHG",
+        "title": "Serverless Apps on Cloudflare: Build Solutions, Not Infrastructure (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OagQ7qmRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DP3M3BHG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Peacock, Ashley",
+        "brand": "Pragmatic Bookshelf",
+        "price": "￥7,475",
+        "priceValue": 7475
+      },
+      {
+        "asin": "1098141938",
+        "title": "Serverless Development on AWS: Building Enterprise-Scale Serverless Solutions",
+        "imageUrl": "https://m.media-amazon.com/images/I/41btn6NMNiL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1098141938?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Brisals, Sheen",
+        "brand": "O'Reilly Media",
+        "price": "￥7,620",
+        "priceValue": 7620
+      },
+      {
+        "asin": "1803246898",
+        "title": "Amazon DynamoDB - The Definitive Guide: Explore enterprise-ready, serverless NoSQL with predictable, scalable performance",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RWExDECRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1803246898?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Dhingra, Aman",
+        "brand": "Packt Publishing",
+        "price": "￥7,363",
+        "priceValue": 7363
+      }
+    ],
+    "searchedAt": "2025-10-18T00:16:01.752Z"
+  },
+  {
+    "keyword": "PostgreSQL",
+    "products": [
+      {
+        "asin": "B0BLY4SPC4",
+        "title": "［改訂3版］内部構造から学ぶPostgreSQL―設計・運用計画の鉄則 Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51viS42F0HL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BLY4SPC4?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "上原 一樹",
+        "brand": "技術評論社",
+        "price": "￥3,450",
+        "priceValue": 3450
+      },
+      {
+        "asin": "4774153923",
+        "title": "PostgreSQL全機能バイブル",
+        "imageUrl": "https://m.media-amazon.com/images/I/51y2FK7pFaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4774153923?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 啓修",
+        "brand": "技術評論社",
+        "price": "￥3,850",
+        "priceValue": 3850
+      },
+      {
+        "asin": "B07VVQSZXD",
+        "title": "PostgreSQL徹底入門 第4版 インストールから機能・仕組み、アプリ作り、管理・運用まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O+aaOfA2L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B07VVQSZXD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "近藤 雄太",
+        "brand": "翔泳社",
+        "price": "￥3,247",
+        "priceValue": 3247
+      }
+    ],
+    "searchedAt": "2025-10-18T00:16:03.565Z"
+  },
+  {
+    "keyword": "Jules Tools",
+    "products": [
+      {
+        "asin": "B09BBLVM3C",
+        "title": "Hasbro Fortnite Victory Royaleシリーズ Jules and Ohm デラックスパック コレクション用アクションフィギュア アクセサリー付き 対象年齢8歳以上 6インチ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OSkgdRodL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BBLVM3C?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ハズブロ(HASBRO)",
+        "price": "￥4,800",
+        "priceValue": 4800
+      },
+      {
+        "asin": "B0FK52TCH1",
+        "title": "Canva For Beginners: A Step-by-Step Guide to Master Canva’s Tools and Graphic Design With Confidence, Even If You’re Just Getting Started (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cN9jSSvBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FK52TCH1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Harper, Jules",
+        "brand": "VM StoryWorks",
+        "price": "￥741",
+        "priceValue": 741
+      },
+      {
+        "asin": "B0FMGH7WJL",
+        "title": "GOOGLE'S JULES 2.0: The AI Tool Redefining Coding Efficiency: A Developer's Guide to Transforming Workflows, Scaling Projects, and Boosting Productivity with Artificial Intelligence (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/414UXEIpfSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMGH7WJL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "B. Steve, Cook ",
+        "price": "￥1,176",
+        "priceValue": 1176
+      }
+    ],
+    "searchedAt": "2025-10-18T00:16:05.368Z"
+  }
+]
