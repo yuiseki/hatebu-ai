@@ -1,0 +1,180 @@
+[
+  {
+    "keyword": "Tesseract OCR",
+    "products": [
+      {
+        "asin": "B0FD7P8648",
+        "title": "Tesseract OCR Essentials: Definitive Reference for Developers and Engineers (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41sx6KwxPNL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FD7P8648?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Johnson, Richard",
+        "brand": "HiTeX Press",
+        "price": "￥1,431",
+        "priceValue": 1431
+      },
+      {
+        "asin": "B08ZJJGQVN",
+        "title": "Excel VBAで自動処理 作って覚えるプログラミング入門4 Tesseract使ってOCR(光学式文字認識)処理",
+        "imageUrl": "https://m.media-amazon.com/images/I/518SUnmgZLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08ZJJGQVN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "佐々木優",
+        "price": "￥980",
+        "priceValue": 980
+      },
+      {
+        "asin": "B0BYDZTCFD",
+        "title": "Tesseract",
+        "imageUrl": "https://m.media-amazon.com/images/I/51W9G6-88vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BYDZTCFD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Smirk & Dagger",
+        "price": "￥10,607",
+        "priceValue": 10607
+      }
+    ],
+    "searchedAt": "2025-10-20T23:31:18.924Z"
+  },
+  {
+    "keyword": "QGIS",
+    "products": [
+      {
+        "asin": "4881384384",
+        "title": "改訂版（Ver.3.22対応）業務で使うＱＧＩＳVer.3　完全使いこなしガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/51m+F2lobeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4881384384?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "喜多 耕一",
+        "brand": "全国林業改良普及協会",
+        "price": "￥7,480",
+        "priceValue": 7480
+      },
+      {
+        "asin": "4065318181",
+        "title": "オープンデータとQGISでゼロからはじめる地図づくり (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JVcAdH1CL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065318181?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "青木 和人",
+        "brand": "講談社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      },
+      {
+        "asin": "4761532815",
+        "title": "まちの課題・資源を可視化する QGIS活用ガイドブック: 基本操作から実践例まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/51mgiaeRpZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4761532815?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "半井 真明",
+        "brand": "学芸出版社",
+        "price": "￥3,850",
+        "priceValue": 3850
+      }
+    ],
+    "searchedAt": "2025-10-20T23:31:20.804Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,911",
+        "priceValue": 2911
+      },
+      {
+        "asin": "B09MQ14XR1",
+        "title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
+        "imageUrl": "https://m.media-amazon.com/images/I/516cZ4DqEnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09MQ14XR1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NRIネットコム株式会社",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      }
+    ],
+    "searchedAt": "2025-10-20T23:31:22.591Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥1,386",
+        "priceValue": 1386
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      },
+      {
+        "asin": "B0BV8VCCYX",
+        "title": "Docker実践ガイド 第3版 impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/518YvXHcICL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BV8VCCYX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "古賀政純",
+        "brand": "インプレス",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-10-20T23:31:24.374Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,860",
+        "priceValue": 2860
+      }
+    ],
+    "searchedAt": "2025-10-20T23:31:26.173Z"
+  }
+]
