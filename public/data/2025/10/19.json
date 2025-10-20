@@ -1,0 +1,107 @@
+[
+  {
+    "title": "国土数値情報 | 1kmメッシュ別将来推計人口データ（R6国政局推計）",
+    "link": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-mesh1000r6.html",
+    "date": "2025-10-19T04:54:57.000Z"
+  },
+  {
+    "title": "日立は「自分を語る空気圧縮機」や「現場拡張メタバース＋AI」、「指センサー付きグローブ」などを出展【CEATEC 2025】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2055543.html",
+    "date": "2025-10-19T02:27:19.000Z"
+  },
+  {
+    "title": "【記者発表】「集団の賢さ」を理論で解明――多様な知能のあり方を捉える新理論――",
+    "link": "https://www.iis.u-tokyo.ac.jp/ja/news/4889/",
+    "date": "2025-10-19T02:27:09.000Z"
+  },
+  {
+    "title": "脳に着想を得たAIモデル「BDH」がTransformerの限界を超えるかもしれない | XenoSpectrum",
+    "link": "https://xenospectrum.com/pathway-bdh-brain-inspired-ai-architecture/",
+    "date": "2025-10-19T02:26:32.000Z"
+  },
+  {
+    "title": "NeetCode",
+    "link": "https://neetcode.io/",
+    "date": "2025-10-19T02:24:54.000Z"
+  },
+  {
+    "title": "Label Studioによる固有表現抽出のデータアノテーション ～ spacy のファインチューニング",
+    "link": "https://zenn.dev/machinelearning/articles/label-studio_install",
+    "date": "2025-10-19T02:22:22.000Z"
+  },
+  {
+    "title": "物体検出モデルの推論高速化入門",
+    "link": "https://zenn.dev/eversteel_tech/articles/51f9b749b8f051",
+    "date": "2025-10-19T02:22:16.000Z"
+  },
+  {
+    "title": "ZennにCloudflare WAFを導入してDDoSを防いだ例 / zenn-cloudflare-waf-blocked-ddos",
+    "link": "https://speakerdeck.com/wadayusuke/zenn-cloudflare-waf-blocked-ddos",
+    "date": "2025-10-19T02:22:05.000Z"
+  },
+  {
+    "title": "text-embeddings-inference で日本語トークナイザーモデルの推論をする - A Day in the Life",
+    "link": "https://secon.dev/entry/2024/09/30/160000/",
+    "date": "2025-10-19T02:22:00.000Z"
+  },
+  {
+    "title": "『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました - DPA",
+    "link": "https://ksmzn.hatenablog.com/entry/Wonderful-R-03",
+    "date": "2025-10-19T02:21:59.000Z"
+  },
+  {
+    "title": "Snowflake Openflow さわってみた",
+    "link": "https://speakerdeck.com/hoto17296/snowflake-openflow-sawatutemita",
+    "date": "2025-10-19T02:21:52.000Z"
+  },
+  {
+    "title": "計算機科学の終焉｜情報処理学会・学会誌「情報処理」",
+    "link": "https://note.com/ipsj/n/n5452212e0dbf",
+    "date": "2025-10-19T02:21:37.000Z"
+  },
+  {
+    "title": "SenseCAP Watcher for XiaoZhi",
+    "link": "https://www.switch-science.com/products/10748",
+    "date": "2025-10-19T02:21:08.000Z"
+  },
+  {
+    "title": "WebMCP",
+    "link": "https://webmcp.dev/",
+    "date": "2025-10-19T02:20:57.000Z"
+  },
+  {
+    "title": "サーバー代0円！ P2Pと無料サービスだけでリアルタイム対戦オセロを作った話",
+    "link": "https://zenn.dev/kinnkinn/articles/ff844e4d9e3ce4",
+    "date": "2025-10-19T02:20:08.000Z"
+  },
+  {
+    "title": "プロダクトマネージャーとして向き合った『チームを動かす目標のつくりかた』｜よしおかし・おり🍞",
+    "link": "https://note.com/shiori440/n/nda968ce37ef1",
+    "date": "2025-10-19T02:19:11.000Z"
+  },
+  {
+    "title": "GoogleのUI生成AIツール「Stitch」を試してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/google-ui-ai-stitch/",
+    "date": "2025-10-19T02:19:07.000Z"
+  },
+  {
+    "title": "Claude Skillsとは何なのか？",
+    "link": "https://blog.lai.so/claude-skills/",
+    "date": "2025-10-19T02:18:54.000Z"
+  },
+  {
+    "title": "A classified network of SpaceX satellites is emitting a mysterious signal",
+    "link": "https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal",
+    "date": "2025-10-18T21:09:55.000Z"
+  },
+  {
+    "title": "Claude Skills: Customize AI for your workflows",
+    "link": "https://www.anthropic.com/news/skills",
+    "date": "2025-10-18T21:09:01.000Z"
+  },
+  {
+    "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+    "link": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+    "date": "2025-10-18T21:07:27.000Z"
+  }
+]
