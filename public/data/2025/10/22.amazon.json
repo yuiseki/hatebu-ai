@@ -1,0 +1,115 @@
+[
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0F8MZQGSF",
+        "title": "生成AI最速仕事術",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eTCQRlQtL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F8MZQGSF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "たてばやし淳",
+        "brand": "かんき出版",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-10-22T22:42:11.413Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [],
+    "searchedAt": "2025-10-22T22:42:12.943Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0D42436NY",
+        "title": "ゼロから学ぶＧｉｔ／ＧｉｔＨｕｂ　現代的なソフトウェア開発のために (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41c4XjYKnfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D42436NY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "渡辺宙志",
+        "brand": "講談社",
+        "price": "￥2,640",
+        "priceValue": 2640
+      }
+    ],
+    "searchedAt": "2025-10-22T22:42:14.742Z"
+  },
+  {
+    "keyword": "API",
+    "products": [
+      {
+        "asin": "4873116864",
+        "title": "Web API: The Good Parts",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GHwTNJgSL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873116864?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "水野 貴明",
+        "brand": "オライリージャパン",
+        "price": "￥2,420",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B0B67JW8Z3",
+        "title": "APIデザイン・パターン (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/5183P3BNEJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B67JW8Z3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "JJ Geewax",
+        "brand": "マイナビ出版",
+        "price": "￥4,306",
+        "priceValue": 4306
+      },
+      {
+        "asin": "B08CK2H12H",
+        "title": "Web APIの設計",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GK-dw0hDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08CK2H12H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Arnaud Lauret",
+        "brand": "翔泳社",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-10-22T22:42:16.650Z"
+  }
+]
