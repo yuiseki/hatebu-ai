@@ -14,7 +14,7 @@
     "amazon": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/amazon.ts"
   },
   "dependencies": {
-    "@langchain/ollama": "^0.2.2",
+    "@langchain/ollama": "^1.0.0",
     "amazon-pa-api5-node-ts": "^2.3.2",
     "dotenv": "^17.0.0",
     "react": "^19.0.0",
