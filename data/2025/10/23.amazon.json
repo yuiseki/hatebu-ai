@@ -1,0 +1,74 @@
+[
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き (オライリー・ジャパン)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TVCdZAG1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,584",
+        "priceValue": 3584
+      }
+    ],
+    "searchedAt": "2025-10-24T02:42:50.087Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "429607122X",
+        "title": "生成AI「戦力化」の教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/41SdMRAnflL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/429607122X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "松本　勇気",
+        "brand": "日経BP",
+        "price": "￥2,640",
+        "priceValue": 2640
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-10-24T02:42:51.758Z"
+  }
+]
