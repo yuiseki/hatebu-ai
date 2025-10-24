@@ -1,0 +1,74 @@
+[
+  {
+    "keyword": "セキュリティ",
+    "products": [
+      {
+        "asin": "4814401256",
+        "title": "実践 Webペネトレーションテスト ―攻撃者の視点で学ぶWebアプリケーションセキュリティ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DGKbmPodL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401256?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西谷 完太",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      },
+      {
+        "asin": "B0DPPNJT82",
+        "title": "イラスト図解式 この一冊で全部わかるセキュリティの基本 第２版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-I3YfwxQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPPNJT82?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやもと くにお",
+        "brand": "SBクリエイティブ",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "4798190713",
+        "title": "マルチクラウドセキュリティの教科書 クラウド横断で実現する堅牢なセキュリティ基盤",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xCrNYtVRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4798190713?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大島 悠司",
+        "brand": "翔泳社",
+        "price": "￥4,290",
+        "priceValue": 4290
+      }
+    ],
+    "searchedAt": "2025-10-24T22:05:47.343Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥1,386",
+        "priceValue": 1386
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,693",
+        "priceValue": 2693
+      },
+      {
+        "asin": "B0BV8VCCYX",
+        "title": "Docker実践ガイド 第3版 impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/518YvXHcICL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BV8VCCYX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "古賀政純",
+        "brand": "インプレス",
+        "price": "￥3,762",
+        "priceValue": 3762
+      }
+    ],
+    "searchedAt": "2025-10-24T22:05:49.290Z"
+  }
+]
