@@ -1,0 +1,347 @@
+[
+  {
+    "title": "「自動化」のその先へ。BigQueryが切り拓く「自律型データウェアハウス」の未来",
+    "link": "https://zenn.dev/google_cloud_jp/articles/3894e07b0d5198",
+    "date": "2025-10-25T12:42:00.000Z"
+  },
+  {
+    "title": "サイバー攻撃によるシステム障害について（第三報）",
+    "link": "https://www.mino-in.co.jp/archives/news/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E7%AC%AC%E4%B8%89",
+    "date": "2025-10-25T12:41:34.000Z"
+  },
+  {
+    "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+    "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+    "date": "2025-10-24T23:48:58.000Z"
+  },
+  {
+    "title": "GitHub - uscuni/urban_taxonomy: Morphometric taxonomy of Central Europe",
+    "link": "https://github.com/uscuni/urban_taxonomy",
+    "date": "2025-10-24T23:42:53.000Z"
+  },
+  {
+    "title": "The Hierarchical Morphotope Classification: A Theory-Driven Framework for Large-Scale Analysis of Built Form",
+    "link": "https://arxiv.org/abs/2509.10083",
+    "date": "2025-10-24T23:42:43.000Z"
+  },
+  {
+    "title": "Urban Taxonomy using Hierarchical Morphotope Classification",
+    "link": "https://urbantaxonomy.org/",
+    "date": "2025-10-24T23:42:31.000Z"
+  },
+  {
+    "title": "GitHub - crescendo-medix/zarque-profiling: Data profiling tools for Big Data",
+    "link": "https://github.com/crescendo-medix/zarque-profiling",
+    "date": "2025-10-24T23:42:07.000Z"
+  },
+  {
+    "title": "zarque_profiling: 日本語も扱えるPython EDAパッケージ ydata_profiling（旧pandas_profiling）のPolars版 - Qiita",
+    "link": "https://qiita.com/hinata_ds/items/fcfe85d06a770e26a68c",
+    "date": "2025-10-24T23:41:53.000Z"
+  },
+  {
+    "title": "YData profilingを使って探索的データ分析を効率化する方法",
+    "link": "https://datatechlog.com/how-to-use-pandas-profiling/",
+    "date": "2025-10-24T23:41:44.000Z"
+  },
+  {
+    "title": "ydata_profilingを使ってみた",
+    "link": "https://zenn.dev/welcomecat/articles/e740f5a1b1b73c",
+    "date": "2025-10-24T23:41:38.000Z"
+  },
+  {
+    "title": "GitHub - ydataai/ydata-profiling: 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.",
+    "link": "https://github.com/ydataai/ydata-profiling",
+    "date": "2025-10-24T23:41:27.000Z"
+  },
+  {
+    "title": "Welcome - YData Profiling",
+    "link": "https://docs.profiling.ydata.ai/latest/",
+    "date": "2025-10-24T23:41:19.000Z"
+  },
+  {
+    "title": "GitHub - catio-tech/graphqa: GraphQA: Natural Language Graph Analysis Framework - Ask questions about any graph in natural language",
+    "link": "https://github.com/catio-tech/graphqa",
+    "date": "2025-10-24T23:38:47.000Z"
+  },
+  {
+    "title": "Jinx-org/Jinx-gpt-oss-20b-GGUF · Hugging Face",
+    "link": "https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b-GGUF",
+    "date": "2025-10-24T23:30:31.000Z"
+  },
+  {
+    "title": "Swapyでdashboardを作ろう",
+    "link": "https://zenn.dev/tatausuru/articles/a1b8e016686b04",
+    "date": "2025-10-24T23:28:56.000Z"
+  },
+  {
+    "title": "GitHub - TahaSh/swapy: ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/",
+    "link": "https://github.com/TahaSh/swapy",
+    "date": "2025-10-24T23:28:48.000Z"
+  },
+  {
+    "title": "Swapy, a simple JavaScript tool for converting any layout you have to drag-to-swap layout",
+    "link": "https://swapy.tahazsh.com/",
+    "date": "2025-10-24T23:28:42.000Z"
+  },
+  {
+    "title": "Applied AI R&D Meetup【LayerX × Ubie × Algomatic】 (2025/11/11 19:00〜)",
+    "link": "https://layerx.connpass.com/event/373267/",
+    "date": "2025-10-24T23:28:26.000Z"
+  },
+  {
+    "title": "133. gpt-ossを支える技術 w/ yasukawa0713 | fukabori.fm",
+    "link": "https://fukabori.fm/episode/133",
+    "date": "2025-10-24T23:28:16.000Z"
+  },
+  {
+    "title": "Parallel Web Systems | Enterprise Deep Research API",
+    "link": "https://parallel.ai/",
+    "date": "2025-10-24T23:27:31.000Z"
+  },
+  {
+    "title": "Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model",
+    "link": "https://arxiv.org/abs/2510.18855",
+    "date": "2025-10-24T23:27:10.000Z"
+  },
+  {
+    "title": "What I self host",
+    "link": "https://fredrikmeyer.net/2025/10/18/what-i-self-host.html",
+    "date": "2025-10-24T23:15:18.000Z"
+  },
+  {
+    "title": "TernFS: an exabyte scale, multi-region distributed filesystem | XTX Tech Blog",
+    "link": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+    "date": "2025-10-24T23:15:03.000Z"
+  },
+  {
+    "title": "Just Use It",
+    "link": "https://justuse.org/",
+    "date": "2025-10-24T23:14:46.000Z"
+  },
+  {
+    "title": "Just use cURL",
+    "link": "https://justuse.org/curl/",
+    "date": "2025-10-24T23:14:39.000Z"
+  },
+  {
+    "title": "How Starcloud Is Bringing Data Centers to Outer Space",
+    "link": "https://blogs.nvidia.com/blog/starcloud/",
+    "date": "2025-10-24T23:14:08.000Z"
+  },
+  {
+    "title": "Do LLMs exhibit ideological biases? An experiment across today’s top models",
+    "link": "https://anomify.ai/resources/articles/llm-bias",
+    "date": "2025-10-24T23:13:12.000Z"
+  },
+  {
+    "title": "How to effectively conduct programming interviews",
+    "link": "https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews",
+    "date": "2025-10-24T23:12:56.000Z"
+  },
+  {
+    "title": "GitHub - deta/surf: Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+    "link": "https://github.com/deta/surf",
+    "date": "2025-10-24T23:12:46.000Z"
+  },
+  {
+    "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+    "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+    "date": "2025-10-24T23:11:47.000Z"
+  },
+  {
+    "title": "Introducing PyTorch Monarch – PyTorch",
+    "link": "https://pytorch.org/blog/introducing-pytorch-monarch/",
+    "date": "2025-10-24T23:11:36.000Z"
+  },
+  {
+    "title": "Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing",
+    "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+    "date": "2025-10-24T23:11:22.000Z"
+  },
+  {
+    "title": "TOMMY",
+    "link": "https://www.tommysense.com/",
+    "date": "2025-10-24T23:11:07.000Z"
+  },
+  {
+    "title": "Client Challenge",
+    "link": "https://pypi.org/project/jupytergis/",
+    "date": "2025-10-24T23:10:08.000Z"
+  },
+  {
+    "title": "JupyterGIS: Collaborative Geospatial Analysis in the Cloud",
+    "link": "https://galaxyproject.org/news/2025-05-20-jupytergis/",
+    "date": "2025-10-24T23:10:06.000Z"
+  },
+  {
+    "title": "Collaborative editing for GIS workflows with Jupyter and QGIS",
+    "link": "https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6?gi=8e284de6dda6",
+    "date": "2025-10-24T23:10:01.000Z"
+  },
+  {
+    "title": "GeoJupyter",
+    "link": "https://geojupyter.org/",
+    "date": "2025-10-24T23:09:46.000Z"
+  },
+  {
+    "title": "GeoJupyter",
+    "link": "https://github.com/geojupyter",
+    "date": "2025-10-24T23:09:36.000Z"
+  },
+  {
+    "title": "JupyterGIS — JupyterGIS documentation",
+    "link": "https://jupytergis.readthedocs.io/en/latest/",
+    "date": "2025-10-24T23:09:01.000Z"
+  },
+  {
+    "title": "JupyterGIS - eo science for society",
+    "link": "https://eo4society.esa.int/projects/jupytergis/",
+    "date": "2025-10-24T23:08:50.000Z"
+  },
+  {
+    "title": "JupyterGIS breaks through to the next level - eo science for society",
+    "link": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
+    "date": "2025-10-24T23:08:45.000Z"
+  },
+  {
+    "title": "Make faster, more informed planning decisions with Gemini capabilities in Google Earth",
+    "link": "https://medium.com/google-earth/make-faster-more-informed-planning-decisions-with-gemini-capabilities-in-google-earth-5b9b146fce64",
+    "date": "2025-10-24T23:08:01.000Z"
+  },
+  {
+    "title": "A whole new way to work #onEarth: Introducing Google Earth’s new professional plans",
+    "link": "https://medium.com/google-earth/a-whole-new-way-to-work-onearth-introducing-google-earths-new-professional-plans-f80c20b944c9",
+    "date": "2025-10-24T23:07:22.000Z"
+  },
+  {
+    "title": "New updates and more access to Google Earth AI",
+    "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+    "date": "2025-10-24T23:07:10.000Z"
+  },
+  {
+    "title": "DeadStack / Technology",
+    "link": "https://deadstack.net/recent",
+    "date": "2025-10-24T23:07:02.000Z"
+  },
+  {
+    "title": "GitHub - OpenMaxIO/openmaxio-object-browser: Forked UI for MinIO Object Storage",
+    "link": "https://github.com/OpenMaxIO/openmaxio-object-browser",
+    "date": "2025-10-24T23:06:47.000Z"
+  },
+  {
+    "title": "GizmoData | Enterprise Analytics Software Solutions",
+    "link": "https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge",
+    "date": "2025-10-24T23:06:39.000Z"
+  },
+  {
+    "title": "https://openai.com/index/openai-acquires-software-applications-incorporated/",
+    "link": "https://openai.com/index/openai-acquires-software-applications-incorporated/",
+    "date": "2025-10-24T23:06:10.000Z"
+  },
+  {
+    "title": "Date bug affects Ubuntu 25.10 automatic updates",
+    "link": "https://lwn.net/Articles/1043103/",
+    "date": "2025-10-24T23:05:58.000Z"
+  },
+  {
+    "title": "RAGが苦手な「ぬるっとした日本語」と戦う",
+    "link": "https://zenn.dev/knowledgesense/articles/83c89503b6531b",
+    "date": "2025-10-24T22:57:07.000Z"
+  },
+  {
+    "title": "AIで数理最適化問題を解いた時にAIがミスった具体例と教訓 - Qiita",
+    "link": "https://qiita.com/ttsuzuku/items/9632b272933f4c8c9437",
+    "date": "2025-10-24T22:52:30.000Z"
+  },
+  {
+    "title": "小池都知事、都庁は「ライフ・ワーク・バランス」　首相発言けん制 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20251024/k00/00m/040/190000c",
+    "date": "2025-10-24T22:52:18.000Z"
+  },
+  {
+    "title": "TransformerからMCPまで（現代AIを理解するための羅針盤）",
+    "link": "https://speakerdeck.com/mickey_kubo/transformerkaramcpmade-xian-dai-aiwoli-jie-surutamenoluo-zhen-pan",
+    "date": "2025-10-24T22:46:02.000Z"
+  },
+  {
+    "title": "「嫌われている人間でもあるので」小野田紀美氏　好きなアニメ答えず　同好の士に配慮",
+    "link": "https://www.sankei.com/article/20251024-VY2XVBEXRNDQBMELKP22SUPCZI/",
+    "date": "2025-10-24T22:37:17.000Z"
+  },
+  {
+    "title": "コロナワクチン、がんに効果か　米研究、生存期間長い傾向 | NEWSjp",
+    "link": "https://news.jp/i/1354251516997698539?c=39550187727945729",
+    "date": "2025-10-24T22:36:37.000Z"
+  },
+  {
+    "title": "MCP（Model Context Protocol）を活用したJグランツ補助金検索システムの実装例｜デジタル庁",
+    "link": "https://digital-gov.note.jp/n/n09dfb9fa4e8e",
+    "date": "2025-10-24T22:28:29.000Z"
+  },
+  {
+    "title": "OpenAIが「AIは日本で100兆円の経済効果をもたらしGDPを最大16％押し上げる」として政策フレームワーク「日本のAI：OpenAIの経済ブループリント」を発表",
+    "link": "https://gigazine.net/news/20251023-openai-japan-economic-blueprint/",
+    "date": "2025-10-24T22:23:53.000Z"
+  },
+  {
+    "title": "なぜ、情報を氷山に例えた際に、巨大かつ露見しない部分よりも、露見した公開部分が重要なのか？",
+    "link": "https://zenn.dev/pdfractal/articles/88f80e300c59ae",
+    "date": "2025-10-24T22:23:40.000Z"
+  },
+  {
+    "title": "増えすぎた GitHub Actions を「3 層アーキテクチャ」で整理した話",
+    "link": "https://zenn.dev/simpleform_blog/articles/99cea8c1af0657",
+    "date": "2025-10-24T22:23:30.000Z"
+  },
+  {
+    "title": "男性を生きたまま焼き殺した男の死刑執行、窒素吸入で 米アラバマ州",
+    "link": "https://www.afpbb.com/articles/-/3605062",
+    "date": "2025-10-24T22:15:08.000Z"
+  },
+  {
+    "title": "小泉進次郎防衛大臣の就任会見、靖国参拝についての際どい質問を『進次郎構文』で切り抜ける→ネタにされがちだが失言を狙うメディアに対して非常に有効な話法である",
+    "link": "https://togetter.com/li/2619761",
+    "date": "2025-10-24T22:07:36.000Z"
+  },
+  {
+    "title": "東京都遊協、AI来店の広告をNGに | P-WORLD パチンコ業界ニュース",
+    "link": "https://news.p-world.co.jp/articles/27860/greenbelt",
+    "date": "2025-10-24T22:04:53.000Z"
+  },
+  {
+    "title": "MicrosoftがAIキャラクター「Mico」を発表、Officeのイルカのような存在になれるのか",
+    "link": "https://gigazine.net/news/20251024-microsoft-copilot-mico/",
+    "date": "2025-10-24T22:04:42.000Z"
+  },
+  {
+    "title": "Microsoft、カイルくんのようなAIキャラを「Mico」と命名",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/24/news069.html",
+    "date": "2025-10-24T22:04:40.000Z"
+  },
+  {
+    "title": "「位置情報の活用は、ものすごい勢いで成長中！」AI分析で活用ハードルが大きく低下、急拡大する応用幅の現在地は？　業界団体「LBMA Japan」に聞く、CEATEC 2025出展の意図とポイント",
+    "link": "https://internet.watch.impress.co.jp/docs/interview/2048958.html",
+    "date": "2025-10-24T22:03:16.000Z"
+  },
+  {
+    "title": "【実践】PythonとOpenStreetMapで学ぶ経路システム開発入門 - uepon日々の備忘録",
+    "link": "https://uepon.hatenadiary.com/entry/2025/10/06/233956",
+    "date": "2025-10-24T22:03:07.000Z"
+  },
+  {
+    "title": "「MapFan」のジオテクノロジーズ、「道路標識分類データ」「歩道の安全性評価データ」をオープンデータとして公開　AI研究開発に",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/14/news103.html",
+    "date": "2025-10-24T22:02:02.000Z"
+  },
+  {
+    "title": "オフライン日本語全文検索 Mikan",
+    "link": "https://voluntas.ghost.io/offline-japanese-fulltext-search-mikan/",
+    "date": "2025-10-24T22:01:05.000Z"
+  },
+  {
+    "title": "Streaming Patterns with DuckDB",
+    "link": "https://duckdb.org/2025/10/13/duckdb-streaming-patterns",
+    "date": "2025-10-24T22:01:00.000Z"
+  }
+]
