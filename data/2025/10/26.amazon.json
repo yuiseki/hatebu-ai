@@ -1,0 +1,145 @@
+[
+  {
+    "keyword": "セキュリティ",
+    "products": [
+      {
+        "asin": "B0DPPNJT82",
+        "title": "イラスト図解式 この一冊で全部わかるセキュリティの基本 第２版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-I3YfwxQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPPNJT82?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやもと くにお",
+        "brand": "SBクリエイティブ",
+        "price": "￥990",
+        "priceValue": 990
+      },
+      {
+        "asin": "4814401256",
+        "title": "実践 Webペネトレーションテスト ―攻撃者の視点で学ぶWebアプリケーションセキュリティ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41DGKbmPodL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401256?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西谷 完太",
+        "brand": "オーム社",
+        "price": "￥4,840",
+        "priceValue": 4840
+      },
+      {
+        "asin": "B0CZ84DV4H",
+        "title": "マンガ＋図解で基礎がよくわかる　情報セキュリティの教科書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FpGaH+yIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CZ84DV4H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "左門 至峰",
+        "brand": "技術評論社",
+        "price": "￥1,940",
+        "priceValue": 1940
+      }
+    ],
+    "searchedAt": "2025-10-26T23:53:54.138Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,911",
+        "priceValue": 2911
+      },
+      {
+        "asin": "B0FKM1XZBT",
+        "title": "AI ボイスレコーダー [MUMEOMU M5]ワンタッチ録音 文字起こし 先端LLMによる要約 AI文字起こしサービス無料 AI要約 AI翻訳 発言者識別 音声インポート 議事録自動作成 マインドマップ 30時間連続使用 Bluetooth接続 会議/授業/インタービューなどに適用",
+        "imageUrl": "https://m.media-amazon.com/images/I/41FQBRd55QL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FKM1XZBT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Rpbznr",
+        "price": "￥28,500",
+        "priceValue": 28500
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      }
+    ],
+    "searchedAt": "2025-10-26T23:53:56.192Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き (オライリー・ジャパン)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TVCdZAG1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0FTL2CTBH",
+        "title": "Interface(インターフェース) 2025年12号",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OI+XcuZ7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FTL2CTBH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Interface編集部",
+        "brand": "CQ出版",
+        "price": "￥1,430",
+        "priceValue": 1430
+      }
+    ],
+    "searchedAt": "2025-10-26T23:53:58.231Z"
+  },
+  {
+    "keyword": "GitHub",
+    "products": [
+      {
+        "asin": "B0DSKPTJM5",
+        "title": "いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/514EynjYT3L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSKPTJM5?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "横田紋奈",
+        "brand": "インプレス",
+        "price": "￥2,178",
+        "priceValue": 2178
+      },
+      {
+        "asin": "B0D4DBYJJ9",
+        "title": "GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wth6UITcL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D4DBYJJ9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "野村 友規",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0D42436NY",
+        "title": "ゼロから学ぶＧｉｔ／ＧｉｔＨｕｂ　現代的なソフトウェア開発のために (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41c4XjYKnfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D42436NY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "渡辺宙志",
+        "brand": "講談社",
+        "price": "￥2,640",
+        "priceValue": 2640
+      }
+    ],
+    "searchedAt": "2025-10-26T23:54:00.013Z"
+  }
+]
