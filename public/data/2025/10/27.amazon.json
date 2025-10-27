@@ -1,0 +1,146 @@
+[
+  {
+    "keyword": "JSAT",
+    "products": [
+      {
+        "asin": "B09QJ6HL84",
+        "title": "Satellite Crayon Project 海のクレヨン 世界の海の衛星写真から選ばれた名前のない12色",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wd-gWseOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09QJ6HL84?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Satellite Crayon Project",
+        "price": "￥2,420 (￥2,420 / 箱)",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B0BWRYYL3Y",
+        "title": "山のクレヨン 世界の山の衛星写真から選ばれた名前のない12色",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gDH27dGOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BWRYYL3Y?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Satellite Crayon Project",
+        "price": "￥2,420 (￥2,420 / 個)",
+        "priceValue": 2420
+      },
+      {
+        "asin": "B0DZWFJ4DR",
+        "title": "湖のクレヨン 世界の湖の衛星写真から選ばれた名前のない12色",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xMzuatCNL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DZWFJ4DR?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Satellite Crayon Project",
+        "price": "￥2,420",
+        "priceValue": 2420
+      }
+    ],
+    "searchedAt": "2025-10-27T23:05:44.812Z"
+  },
+  {
+    "keyword": "ZEROSEARCH",
+    "products": [],
+    "searchedAt": "2025-10-27T23:05:46.505Z"
+  },
+  {
+    "keyword": "Red Hat Enterprise Linux",
+    "products": [
+      {
+        "asin": "B0BF4DVCN3",
+        "title": "バージョン8&9両対応! Red Hat Enterprise Linux完全ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wJ+ckNKmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BF4DVCN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小島 啓史",
+        "brand": "日経BP",
+        "price": "￥4,455",
+        "priceValue": 4455
+      },
+      {
+        "asin": "B0DCSWW2RM",
+        "title": "Red Hat Enterprise Linux 9 対応 SELinux 入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41K7p4suncL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DCSWW2RM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ライム",
+        "price": "￥980",
+        "priceValue": 980
+      },
+      {
+        "asin": "B0BY53JYCP",
+        "title": "RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparation Guide (EX200), Third Edition (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XNrg5ZzJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BY53JYCP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ghori, Asghar",
+        "brand": "Endeavor Technologies Inc.",
+        "price": "￥7,366",
+        "priceValue": 7366
+      }
+    ],
+    "searchedAt": "2025-10-27T23:05:48.310Z"
+  },
+  {
+    "keyword": "AWS",
+    "products": [
+      {
+        "asin": "B09MQ14XR1",
+        "title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
+        "imageUrl": "https://m.media-amazon.com/images/I/516cZ4DqEnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09MQ14XR1?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "NRIネットコム株式会社",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,980",
+        "priceValue": 1980
+      },
+      {
+        "asin": "B0B81PZY8H",
+        "title": "AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PtaFWLUBL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B81PZY8H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "川畑 光平",
+        "brand": "SBクリエイティブ",
+        "price": "￥1,485",
+        "priceValue": 1485
+      },
+      {
+        "asin": "B0F2H486ZT",
+        "title": "図解即戦力　Amazon Web Servicesのしくみと技術が これ1冊でしっかりわかる教科書　［改訂2版］",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uJqV5O1vL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F2H486ZT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "技術評論社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      }
+    ],
+    "searchedAt": "2025-10-27T23:05:50.283Z"
+  },
+  {
+    "keyword": "Tailwind CSS",
+    "products": [
+      {
+        "asin": "B0CQWSQZHG",
+        "title": "Tailwind CSS実践入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ju8yVLRHL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CQWSQZHG?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "工藤 智祥",
+        "brand": "技術評論社",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "4863544391",
+        "title": "基礎から学ぶ Tailwind CSS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Bh9UWKy7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4863544391?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "株式会社クロノス",
+        "brand": "シーアンドアール研究所",
+        "price": "￥3,762",
+        "priceValue": 3762
+      },
+      {
+        "asin": "B0F4KM5Y74",
+        "title": "【TailwindCSS v4】Cursor × Tailwind CSS v4でさらに爆速AIコーディング: AIコーディングでTailwindCSS v4を使い、スタイリングをさらに爆速に！",
+        "imageUrl": "https://m.media-amazon.com/images/I/41v5GtO2iCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4KM5Y74?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "ナナイロ",
+        "price": "￥1,800",
+        "priceValue": 1800
+      }
+    ],
+    "searchedAt": "2025-10-27T23:05:52.173Z"
+  }
+]
