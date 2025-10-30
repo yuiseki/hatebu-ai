@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "LangChain",
+    "products": [
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "4814401302",
+        "title": "初めてのLangChain ―LangChainとLangGraphによるAI/LLMアプリケーションの構築",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VkuosWp9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401302?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mayo Oshin",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0CL49K74N",
+        "title": "LangChain完全入門　生成AIアプリケーション開発がはかどる大規模言語モデルの操り方",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Gs2jO-HhL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CL49K74N?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "田村 悠",
+        "brand": "インプレス",
+        "price": "￥2,871",
+        "priceValue": 2871
+      }
+    ],
+    "searchedAt": "2025-10-30T21:57:26.028Z"
+  },
+  {
+    "keyword": "LangGraph",
+    "products": [
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "4814401302",
+        "title": "初めてのLangChain ―LangChainとLangGraphによるAI/LLMアプリケーションの構築",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VkuosWp9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401302?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mayo Oshin",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0FM3QJ2DP",
+        "title": "現場で活用するためのＡＩエージェント実践入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51exnlSyfsL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3QJ2DP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "太田真人",
+        "brand": "講談社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      }
+    ],
+    "searchedAt": "2025-10-30T21:57:29.199Z"
+  },
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "4065412250",
+        "title": "Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで (KS情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51APS4TCEIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4065412250?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "吉住 遼",
+        "brand": "講談社",
+        "price": "￥3,630",
+        "priceValue": 3630
+      },
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "4814401337",
+        "title": "Effective Python 第3版 ―Pythonプログラムを改良する125項目",
+        "imageUrl": "https://m.media-amazon.com/images/I/4196ymknV8L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401337?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Brett Slatkin",
+        "brand": "オライリージャパン",
+        "price": "￥5,280",
+        "priceValue": 5280
+      }
+    ],
+    "searchedAt": "2025-10-30T21:57:31.247Z"
+  },
+  {
+    "keyword": "TypeScript",
+    "products": [
+      {
+        "asin": "B09Y527YPV",
+        "title": "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BhhfT6IyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09Y527YPV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木 僚太",
+        "brand": "技術評論社",
+        "price": "￥3,212",
+        "priceValue": 3212
+      },
+      {
+        "asin": "4873119049",
+        "title": "プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vjj+osAgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119049?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Boris Cherny",
+        "brand": "オライリージャパン",
+        "price": "￥3,740",
+        "priceValue": 3740
+      },
+      {
+        "asin": "4814400365",
+        "title": "初めてのTypeScript ―型安全なJavaScriptでWeb開発を加速する",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VRvb0cdmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400365?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Josh Goldberg",
+        "brand": "オーム社",
+        "price": "￥3,740",
+        "priceValue": 3740
+      }
+    ],
+    "searchedAt": "2025-10-30T21:57:33.949Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "4815637121",
+        "title": "【Amazon.co.jp 限定】『AI独学超大全』（特典：「書籍未収録原稿」 データ配信）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SiPDjcl4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815637121?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "佐藤勝彦",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "4344695224",
+        "title": "人間とAI をめぐる「問い」 意識の謎と情報の正体を探る",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Bn7CrjQaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4344695224?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "細谷 龍平",
+        "brand": "幻冬舎",
+        "price": "￥1,760",
+        "priceValue": 1760
+      }
+    ],
+    "searchedAt": "2025-10-30T21:57:36.676Z"
+  }
+]
