@@ -1,0 +1,136 @@
+[
+  {
+    "keyword": "Zero-Trace Power Path",
+    "products": [
+      {
+        "asin": "B0BYMR9GZW",
+        "title": "シャッター　アイランド (字幕版)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41r2JM-RcpL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BYMR9GZW?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "マーティン・スコセッシ",
+        "price": "￥400",
+        "priceValue": 400
+      },
+      {
+        "asin": "B0B8HY82NY",
+        "title": "Gone Baby Gone",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Db41hUBRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B8HY82NY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ben Affleck",
+        "price": "￥399",
+        "priceValue": 399
+      }
+    ],
+    "searchedAt": "2025-11-02T00:39:34.678Z"
+  },
+  {
+    "keyword": "Kitty (terminal software)",
+    "products": [],
+    "searchedAt": "2025-11-02T00:39:36.965Z"
+  },
+  {
+    "keyword": "WebAssembly",
+    "products": [
+      {
+        "asin": "4814400101",
+        "title": "ハンズオンWebAssembly ―EmscriptenとC++を使って学ぶWebAssemblyアプリケーションの開発方法",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TVOnozlXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814400101?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Gerard Gallant",
+        "brand": "オーム社",
+        "price": "￥4,180",
+        "priceValue": 4180
+      },
+      {
+        "asin": "481440039X",
+        "title": "RustとWebAssemblyによるゲーム開発 ―安全・高速・プラットフォーム非依存のWebアプリ開発入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xr5OIL9-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/481440039X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Eric Smith",
+        "brand": "オーム社",
+        "price": "￥4,290",
+        "priceValue": 4290
+      },
+      {
+        "asin": "4296070762",
+        "title": "フロントエンド向けWebAssembly入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Tsr+XQleL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296070762?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "末次 章",
+        "brand": "日経BP",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-11-02T00:39:38.891Z"
+  },
+  {
+    "keyword": "Starlink",
+    "products": [
+      {
+        "asin": "B0D5SGXQCD",
+        "title": "Starlink Standard Kit",
+        "imageUrl": "https://m.media-amazon.com/images/I/21ckjPeLyvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D5SGXQCD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Starlink",
+        "price": "￥49,000",
+        "priceValue": 49000
+      },
+      {
+        "asin": "B0DPF6K521",
+        "title": "Essoy Starlink Gen 3マウント、StarlinkマウントキットGen 3 調整可能なインストールキット、Starlinkインターネットキット衛星用スターリンクルーフマウント、 V3 Starlink標準ディッシュに対応 V3キックスタンドディッシュ 壁/屋根用 (標準)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zYUM2pMGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPF6K521?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Essoy",
+        "price": "￥8,799",
+        "priceValue": 8799
+      },
+      {
+        "asin": "B0FN9NSRQJ",
+        "title": "Starlink Router mini Starlink Gen2/Gen 3 インターネットシステム用 コンパクトルーター ホワイト",
+        "imageUrl": "https://m.media-amazon.com/images/I/31dV06vfKfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FN9NSRQJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥19,999",
+        "priceValue": 19999
+      }
+    ],
+    "searchedAt": "2025-11-02T00:39:40.718Z"
+  },
+  {
+    "keyword": "OpenAI",
+    "products": [
+      {
+        "asin": "4862466532",
+        "title": "OpenAI GPT-5／ChatGPT 人工知能プログラミング実践入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/510VAAokwRL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4862466532?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "布留川 英一",
+        "brand": "ボーンデジタル",
+        "price": "￥4,950",
+        "priceValue": 4950
+      },
+      {
+        "asin": "B0FRZT4D2B",
+        "title": "Azure OpenAIエージェント・RAG 構築実践ガイド",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YTpw-NqWL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FRZT4D2B?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アバナード株式会社",
+        "brand": "日経BP",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "4296203797",
+        "title": "Azure OpenAI Service実践ガイド ～ LLMを組み込んだシステム構築",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jemXBtZaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296203797?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "柿崎 裕也",
+        "brand": "日経BP",
+        "price": "￥3,960",
+        "priceValue": 3960
+      }
+    ],
+    "searchedAt": "2025-11-02T00:39:42.702Z"
+  }
+]
