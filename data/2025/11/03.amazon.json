@@ -1,0 +1,141 @@
+[
+  {
+    "keyword": "Runpod",
+    "products": [
+      {
+        "asin": "B08K6WB6RX",
+        "title": "RunPod",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Em8MuIYPL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08K6WB6RX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Global",
+        "brand": "Global",
+        "price": "￥0",
+        "priceValue": 0
+      }
+    ],
+    "searchedAt": "2025-11-03T23:55:29.663Z"
+  },
+  {
+    "keyword": "GitHub Organization",
+    "products": [
+      {
+        "asin": "B0FXJNP57D",
+        "title": "GitHub Enterprise 設定・管理　大全",
+        "imageUrl": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL160_.gif",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FXJNP57D?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "池田 尚史",
+        "brand": "技術評論社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-11-03T23:55:31.391Z"
+  },
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      }
+    ],
+    "searchedAt": "2025-11-03T23:55:33.263Z"
+  },
+  {
+    "keyword": "AI",
+    "products": [
+      {
+        "asin": "B0F4BHQM2H",
+        "title": "AIを使って考えるための全技術――「最高の発想」を一瞬で生み出す５６の技法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EgR24I3LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F4BHQM2H?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "石井 力重",
+        "brand": "ダイヤモンド社",
+        "price": "￥2,673",
+        "priceValue": 2673
+      },
+      {
+        "asin": "B0DWM1N4BH",
+        "title": "2ヶ月で月30万円を実現する　超初心者でも稼げるAI活用法",
+        "imageUrl": "https://m.media-amazon.com/images/I/41q7-raWkzL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DWM1N4BH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "あべ むつき",
+        "brand": "KADOKAWA",
+        "price": "￥1,782",
+        "priceValue": 1782
+      },
+      {
+        "asin": "B0FJ2KBSSV",
+        "title": "SAMSUNG 77インチ クラス OLED S84Fシリーズ Samsung Vision AI スマートテレビ (2025年モデル 77S84F) NQ4 AI Gen2プロセッサー 4K AI アップスケーリング OLED HDR Pantone 検証済み Motion Xcelerator 120Hz",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+CiDnSlML._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJ2KBSSV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "SAMSUNG",
+        "price": "￥480,900",
+        "priceValue": 480900
+      }
+    ],
+    "searchedAt": "2025-11-03T23:55:35.049Z"
+  },
+  {
+    "keyword": "Docker",
+    "products": [
+      {
+        "asin": "B0CSFF6QYD",
+        "title": "開発系エンジニアのためのDocker絵とき入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51k6Biy5lfL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CSFF6QYD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "鈴木亮",
+        "brand": "秀和システム",
+        "price": "￥2,495",
+        "priceValue": 2495
+      },
+      {
+        "asin": "B08T961HKP",
+        "title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほん (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vhRrY-JEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08T961HKP?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "小笠原 種高",
+        "brand": "マイナビ出版",
+        "price": "￥2,932",
+        "priceValue": 2932
+      },
+      {
+        "asin": "4296106422",
+        "title": "さわって学ぶクラウドインフラ　docker基礎からのコンテナ構築",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191StSswQL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4296106422?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "大澤 文孝",
+        "brand": "日経BP",
+        "price": "￥2,970",
+        "priceValue": 2970
+      }
+    ],
+    "searchedAt": "2025-11-03T23:55:36.892Z"
+  }
+]
