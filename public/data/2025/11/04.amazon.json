@@ -1,0 +1,155 @@
+[
+  {
+    "keyword": "NVIDIA RTX PRO 6000 Blackwell",
+    "products": [
+      {
+        "asin": "B0FTDC9VGF",
+        "title": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 1個 900-5G153-2500-000",
+        "imageUrl": "https://m.media-amazon.com/images/I/313VkNUj1BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FTDC9VGF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "NVIDIA",
+        "price": "￥2,340,128",
+        "priceValue": 2340128
+      },
+      {
+        "asin": "B0F7Y644FQ",
+        "title": "NVD PNY RTX PRO 6000 Blackwell プロフェッショナルワークステーションエディション グラフィックカード AI、デザイン、シミュレーション、エンジニアリング用 - 96GB DDR7 ECCメモリ - 第4世代 RT/第5世代 Tensor Core GPU - OEMパッケージ",
+        "imageUrl": "https://m.media-amazon.com/images/I/512PK+U4N5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F7Y644FQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Empowered PC",
+        "price": "￥1,993,500",
+        "priceValue": 1993500
+      },
+      {
+        "asin": "B09BDH8VZV",
+        "title": "NVIDIA (エヌビディア) RTX A6000 グラフィックスボード",
+        "imageUrl": "https://m.media-amazon.com/images/I/31LFct7UKaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BDH8VZV?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ピーエヌワイ(PNY)",
+        "price": "￥912,282",
+        "priceValue": 912282
+      }
+    ],
+    "searchedAt": "2025-11-04T21:40:57.506Z"
+  },
+  {
+    "keyword": "NVIDIA RTX PRO 4500 Blackwell",
+    "products": [
+      {
+        "asin": "B0FTDC9VGF",
+        "title": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 1個 900-5G153-2500-000",
+        "imageUrl": "https://m.media-amazon.com/images/I/313VkNUj1BL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FTDC9VGF?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "NVIDIA",
+        "price": "￥2,340,128",
+        "priceValue": 2340128
+      }
+    ],
+    "searchedAt": "2025-11-04T21:40:59.354Z"
+  },
+  {
+    "keyword": "LLM",
+    "products": [
+      {
+        "asin": "4802615183",
+        "title": "Pythonでまなぶ ローカルLLMの訓練と使いこなし",
+        "imageUrl": "https://m.media-amazon.com/images/I/5191AFe6XLL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4802615183?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "クジラ飛行机",
+        "brand": "ソシム",
+        "price": "￥3,960",
+        "priceValue": 3960
+      },
+      {
+        "asin": "4814401310",
+        "title": "実践 LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き (オライリー・ジャパン)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TVCdZAG1L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401310?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Suhas Pai",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0DSZV6BT2",
+        "title": "つくりながら学ぶ！LLM 自作入門 (Compass Booksシリーズ)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51DbhruTsEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DSZV6BT2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sebastian Raschka",
+        "brand": "マイナビ出版",
+        "price": "￥3,902",
+        "priceValue": 3902
+      }
+    ],
+    "searchedAt": "2025-11-04T21:41:01.284Z"
+  },
+  {
+    "keyword": "Agent Data Protocol",
+    "products": [
+      {
+        "asin": "B0FCCF348X",
+        "title": "Model Context Protocol: Advanced AI Agents for Beginners (Generative AI books) (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wGF0CQlIL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FCCF348X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Gupta, Mehul",
+        "price": "￥885",
+        "priceValue": 885
+      },
+      {
+        "asin": "B0DM2K7M5T",
+        "title": "Model Context Protocol (MCP) The Practical Guide to Building AI Agents: Connect LLMs to Your Tools, Data, and APIs to Unlock Real-World Automation (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41rmuTMG42L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DM2K7M5T?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Weston, R.C.",
+        "price": "￥1,023",
+        "priceValue": 1023
+      },
+      {
+        "asin": "6207995686",
+        "title": "Mobile Agents & Ad Hoc Networks in Mobile Computing: - Data Management, Adaptive Clustering, and Routing Protocols",
+        "imageUrl": "https://m.media-amazon.com/images/I/41i7R9yhezL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/6207995686?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Dangi, Vipin Kumar",
+        "brand": "LAP LAMBERT Academic Publishing",
+        "price": "￥11,182",
+        "priceValue": 11182
+      }
+    ],
+    "searchedAt": "2025-11-04T21:41:08.219Z"
+  },
+  {
+    "keyword": "fundraising",
+    "products": [
+      {
+        "asin": "139427825X",
+        "title": "Great Fundraising Organizations: Why and How The World's Best Charities Excel at Raising Money",
+        "imageUrl": "https://m.media-amazon.com/images/I/41UhsRc38IL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/139427825X?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Clayton, Alan",
+        "brand": "Wiley",
+        "price": "￥4,405",
+        "priceValue": 4405
+      },
+      {
+        "asin": "1119763754",
+        "title": "Achieving Excellence in Fundraising",
+        "imageUrl": "https://m.media-amazon.com/images/I/41lxM3DufvL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1119763754?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Shaker, Genevieve G.",
+        "brand": "Wiley",
+        "price": "￥12,183",
+        "priceValue": 12183
+      },
+      {
+        "asin": "B09CPBPG3Q",
+        "title": "Fundraising (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/3158Zr09HbL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09CPBPG3Q?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Breslow, Ryan",
+        "price": "￥1,263",
+        "priceValue": 1263
+      }
+    ],
+    "searchedAt": "2025-11-04T21:41:10.283Z"
+  }
+]
