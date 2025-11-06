@@ -1,0 +1,177 @@
+[
+  {
+    "keyword": "React",
+    "products": [
+      {
+        "asin": "B0FFGQPMSX",
+        "title": "改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで",
+        "imageUrl": "https://m.media-amazon.com/images/I/5108XkzIQEL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FFGQPMSX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "山田 祥寛",
+        "brand": "SBクリエイティブ",
+        "price": "￥4,010",
+        "priceValue": 4010
+      },
+      {
+        "asin": "B09BV2HGN3",
+        "title": "モダンJavaScriptの基本から始める　React実践の教科書　（最新ReactHooks対応）",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y0-P+m94L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09BV2HGN3?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "じゃけぇ（岡田 拓巳）",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,574",
+        "priceValue": 2574
+      },
+      {
+        "asin": "B0FGX3BLQQ",
+        "title": "プロフェッショナルWebプログラミング　React",
+        "imageUrl": "https://m.media-amazon.com/images/I/519HyTfSh-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FGX3BLQQ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西畑一馬",
+        "brand": "エムディエヌコーポレーション（MdN）",
+        "price": "￥3,234",
+        "priceValue": 3234
+      }
+    ],
+    "searchedAt": "2025-11-06T21:59:55.324Z"
+  },
+  {
+    "keyword": "Lean言語",
+    "products": [
+      {
+        "asin": "4908686211",
+        "title": "ゼロから始めるLean言語入門 手を動かして学ぶ形式数学ライブラリ開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RGIA-xNqL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4908686211?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "井上亜星",
+        "brand": "ラムダノート",
+        "price": "￥3,520",
+        "priceValue": 3520
+      },
+      {
+        "asin": "B0FTT89THY",
+        "title": "ゼロから始めるLean言語入門 手を動かして学ぶ形式数学ライブラリ開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/51YmlxXuwTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FTT89THY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "GENERIC",
+        "price": "￥7,640",
+        "priceValue": 7640
+      },
+      {
+        "asin": "B0FXB32GQT",
+        "title": "ゼロから始めるLean言語入門 手を動かして学ぶ形式数学ライブラリ開発",
+        "imageUrl": "https://m.media-amazon.com/images/I/41uMFgA43FL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FXB32GQT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "GENERIC",
+        "price": "￥6,610",
+        "priceValue": 6610
+      }
+    ],
+    "searchedAt": "2025-11-06T21:59:57.363Z"
+  },
+  {
+    "keyword": "Cesium",
+    "products": [
+      {
+        "asin": "B0FDV89YXT",
+        "title": "カウントダウン [Blu-ray]",
+        "imageUrl": "https://m.media-amazon.com/images/I/51VOxhXvSAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDV89YXT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アンソニー・プン",
+        "brand": "アメイジングD.C.",
+        "price": "￥3,716",
+        "priceValue": 3716
+      },
+      {
+        "asin": "B0FDTG1KWD",
+        "title": "カウントダウン [DVD]",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HV61EmglL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FDTG1KWD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アンディ・ラウ",
+        "brand": "アメイジングD.C.",
+        "price": "￥3,523",
+        "priceValue": 3523
+      },
+      {
+        "asin": "B0FP2PT1MN",
+        "title": "cesium（えい） [Explicit]",
+        "imageUrl": "https://m.media-amazon.com/images/I/41oRjvWKaTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FP2PT1MN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AssToro",
+        "brand": "suisou",
+        "price": "￥150",
+        "priceValue": 150
+      }
+    ],
+    "searchedAt": "2025-11-06T21:59:59.205Z"
+  },
+  {
+    "keyword": "Deepnote",
+    "products": [
+      {
+        "asin": "B0FRTKQZN8",
+        "title": "Deepnote",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FeHHo9xOL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FRTKQZN8?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Durand van Konijnenburg",
+        "brand": "Durand van Konijnenburg",
+        "price": "￥200",
+        "priceValue": 200
+      },
+      {
+        "asin": "B0CLRTP4JH",
+        "title": "DEEPNOTE [Explicit]",
+        "imageUrl": "https://m.media-amazon.com/images/I/41jWy3IwCDL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CLRTP4JH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Veliaht",
+        "brand": "B.M.Y.",
+        "price": "￥200",
+        "priceValue": 200
+      },
+      {
+        "asin": "B00FZ3NUPO",
+        "title": "遠い面影－deepnote version－",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y1MWe-XWL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B00FZ3NUPO?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "村松　健",
+        "brand": "Sony Music Direct(Japan)Inc.",
+        "price": "￥250",
+        "priceValue": 250
+      }
+    ],
+    "searchedAt": "2025-11-06T22:00:01.051Z"
+  },
+  {
+    "keyword": "Grayskull",
+    "products": [
+      {
+        "asin": "B08J4HMBDJ",
+        "title": "Masters of The Universe Castle Grayskull Playset for Storytelling Play and Display, Gift for Adult Collectors and Motu Fans, Ages 6 Years and Older",
+        "imageUrl": "https://m.media-amazon.com/images/I/412b060IMoL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B08J4HMBDJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Masters of the Universe",
+        "price": "￥29,542",
+        "priceValue": 29542
+      },
+      {
+        "asin": "B0915L1TF2",
+        "title": "Hallmark 記念品 クリスマスオーナメント 2021 He-Man and the Masters of the Universe Castle Grayskull",
+        "imageUrl": "https://m.media-amazon.com/images/I/51P0eUjpe4L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0915L1TF2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Hallmark Keepsake",
+        "price": "￥7,415",
+        "priceValue": 7415
+      },
+      {
+        "asin": "B09ZGG43PM",
+        "title": "Factory Entertainment Masters of The Universe Revelation Castle Grayskull Crest 磁器カップ&ソーサーセット",
+        "imageUrl": "https://m.media-amazon.com/images/I/31Sn-NPbdAL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09ZGG43PM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Factory Entertainment",
+        "price": "￥7,065",
+        "priceValue": 7065
+      }
+    ],
+    "searchedAt": "2025-11-06T22:00:03.199Z"
+  }
+]
