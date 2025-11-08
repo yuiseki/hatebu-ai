@@ -14,7 +14,7 @@
     "amazon": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/amazon.ts"
   },
   "dependencies": {
-    "@langchain/ollama": "^0.2.2",
+    "@langchain/ollama": "^1.0.0",
     "amazon-pa-api5-node-ts": "^2.3.2",
     "dotenv": "^17.0.0",
     "react": "^19.0.0",
@@ -27,7 +27,7 @@
     "@typescript-eslint/parser": "^8.0.0",
     "@vitejs/plugin-react": "^5.0.0",
     "eslint": "^9.0.0",
-    "eslint-plugin-react-hooks": "^6.0.0",
+    "eslint-plugin-react-hooks": "^7.0.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "globals": "^16.0.0",
     "rss-parser": "^3.13.0",
