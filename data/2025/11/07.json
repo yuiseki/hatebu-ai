@@ -1,0 +1,157 @@
+[
+  {
+    "title": "コーディングAIエージェントよりも強いソフトウェアエンジニアになる方法｜ゆいせき",
+    "link": "https://note.com/yuiseki/n/nddb2ed720862",
+    "date": "2025-11-07T11:35:52.000Z"
+  },
+  {
+    "title": "uMap - Online map creator",
+    "link": "https://umap.hotosm.org/en/",
+    "date": "2025-11-07T08:45:25.000Z"
+  },
+  {
+    "title": "turfを使った地理分析",
+    "link": "https://zenn.dev/yuta_enginner/articles/05d9344d264281",
+    "date": "2025-11-07T08:33:09.000Z"
+  },
+  {
+    "title": "JAXAの月測位システム(LNSS)の 定常的運用サービスに向けたフィージビリティ・スタディに選定 ～月面経済活動を支える月インフラ構築に貢献～ - ArkEdge Space",
+    "link": "https://arkedgespace.com/news/2024-12-11_jaxafeasibilitystudy_lnss",
+    "date": "2025-11-07T06:46:06.000Z"
+  },
+  {
+    "title": "月測位システム技術 | JAXA宇宙戦略基金",
+    "link": "https://fund.jaxa.jp/techlist/theme15/",
+    "date": "2025-11-07T06:45:58.000Z"
+  },
+  {
+    "title": "Grounding with Google Maps  |  Gemini API  |  Google AI for Developers",
+    "link": "https://ai.google.dev/gemini-api/docs/maps-grounding",
+    "date": "2025-11-07T06:00:37.000Z"
+  },
+  {
+    "title": "Google マップによるグラウンディング  |  Gemini API  |  Google AI for Developers",
+    "link": "https://ai.google.dev/gemini-api/docs/maps-grounding?hl=ja",
+    "date": "2025-11-07T06:00:32.000Z"
+  },
+  {
+    "title": "Creating PMTiles | Protomaps Docs",
+    "link": "https://docs.protomaps.com/pmtiles/create",
+    "date": "2025-11-07T05:59:12.000Z"
+  },
+  {
+    "title": "Claude Codeを利用してライブラリアップデート対応を爆速にした話",
+    "link": "https://zenn.dev/readyfor_blog/articles/4dcb1ff5604f83",
+    "date": "2025-11-07T03:51:21.000Z"
+  },
+  {
+    "title": "読書メモ：中沢新一著『レンマ学』 -レンマ的知性について｜ShogoKudo@AIU｜note",
+    "link": "https://note.com/translocal/n/nbf14cacce3b8",
+    "date": "2025-11-07T03:42:01.000Z"
+  },
+  {
+    "title": "なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択",
+    "link": "https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects",
+    "date": "2025-11-07T02:46:17.000Z"
+  },
+  {
+    "title": "The AI workspace that works for you. | Notion",
+    "link": "https://unexpected-riddle-62e.notion.site/Product-Leaders-Training-2026-24e2ada405748098879ace08bb72290a",
+    "date": "2025-11-07T02:45:52.000Z"
+  },
+  {
+    "title": "計算考古学 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E8%80%83%E5%8F%A4%E5%AD%A6",
+    "date": "2025-11-06T22:39:19.000Z"
+  },
+  {
+    "title": "国土数値情報の Shapefile をブラウザ上で変換するツールを Rust で書くために苦労したところ",
+    "link": "https://zenn.dev/mierune/articles/adcfed5a11b70d",
+    "date": "2025-11-06T22:39:04.000Z"
+  },
+  {
+    "title": "次世代地図エンジン『Navara』で、誰もがデータを\"体感\"できる未来へ　エンジニア 佐々木慶也｜Eukarya観察日記｜Eukarya Inc.",
+    "link": "https://note.com/eukarya/n/n27427d613323",
+    "date": "2025-11-06T22:37:45.000Z"
+  },
+  {
+    "title": "国交省、道路被害把握にJAXAの衛星画像　夜や雨天でも地上を映す「だいち4号」など活用",
+    "link": "https://japan.cnet.com/article/35239745/",
+    "date": "2025-11-06T22:37:40.000Z"
+  },
+  {
+    "title": "で、SedonaDB って DuckDB と比べてどうなの？（2025年10月時点）",
+    "link": "https://zenn.dev/mierune/articles/9510e9ddd2f8a7",
+    "date": "2025-11-06T22:35:55.000Z"
+  },
+  {
+    "title": "Parquet の GEOMETRY 型と GeoParquet の違い（2025年10月時点）",
+    "link": "https://zenn.dev/mierune/articles/87f7c88d213376",
+    "date": "2025-11-06T22:35:49.000Z"
+  },
+  {
+    "title": "Groongaでのセマンティックサーチの実装 - 2025-10-27 - ククログ",
+    "link": "https://www.clear-code.com/blog/2025/10/27/groonga-semantic-search.html",
+    "date": "2025-11-06T22:35:28.000Z"
+  },
+  {
+    "title": "【PoC】Vue + DuckDB-Wasm + ECharts によるセキュリティ投資判断アプリ | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20251028b/",
+    "date": "2025-11-06T22:35:17.000Z"
+  },
+  {
+    "title": "一次情報で政治を知る：日本語RAGシステムで高市早苗新総裁の公式サイトを分析 - Qiita",
+    "link": "https://qiita.com/shinonome_taku/items/92abee445fe2804b8430",
+    "date": "2025-11-06T22:34:55.000Z"
+  },
+  {
+    "title": "[書評] 実践 Apache Iceberg - 高効率・高生産性を実現するオープンなデータ基盤の構築と運用 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/20251022-review-of-apache-ioceberg-in-practice/",
+    "date": "2025-11-06T22:34:47.000Z"
+  },
+  {
+    "title": "renovatebotとpnpm catalogで実現する依存関係の自動アップデートとハンドブックによる安全な更新 - newmo 技術ブログ",
+    "link": "https://tech.newmo.me/entry/renovate-pnpm-catalog-with-handbook",
+    "date": "2025-11-06T22:34:27.000Z"
+  },
+  {
+    "title": "ウェブ地図の「現在地機能」はどう動いているのか - Geolocation API とMapLibre GL JSの仕組み",
+    "link": "https://zenn.dev/mierune/articles/70a59fe7770d31",
+    "date": "2025-11-06T22:34:14.000Z"
+  },
+  {
+    "title": "Re:Earth Engineering",
+    "link": "https://reearth.engineering/",
+    "date": "2025-11-06T22:33:36.000Z"
+  },
+  {
+    "title": "セブン-イレブンで「Wi-Fiルーター」レンタルできると話題に　「めっちゃ便利」「知らなかった」と歓喜の声も",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2511/05/news083.html",
+    "date": "2025-11-06T22:16:41.000Z"
+  },
+  {
+    "title": "LLM APIを2年間本番運用して苦労した話",
+    "link": "https://speakerdeck.com/ivry_presentationmaterials/llm-apiwo2nian-jian-ben-fan-yun-yong-siteku-lao-sitahua",
+    "date": "2025-11-06T22:12:58.000Z"
+  },
+  {
+    "title": "「300m先で右折」に戸惑う人に朗報。Googleマップがランドマーク頼りにナビする機能実装へ - PC Watch",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2060952.html",
+    "date": "2025-11-06T22:12:19.000Z"
+  },
+  {
+    "title": "ソフトウェアエンジニアを辞めてYouTuberとして独立します｜seya",
+    "link": "https://note.com/seyanote/n/n7c02a7ed65b1",
+    "date": "2025-11-06T22:12:00.000Z"
+  },
+  {
+    "title": "‘A mass casualty event that could exceed Hiroshima’: Yale researcher on Sudan | CNN",
+    "link": "https://www.cnn.com/2025/11/03/tv/video/amanpour-sudan-nathaniel-raymond-hamid-khalafallah",
+    "date": "2025-11-06T22:01:15.000Z"
+  },
+  {
+    "title": "Apple nears $1 billion Google deal for custom Gemini model to power Siri - 9to5Mac",
+    "link": "https://9to5mac.com/2025/11/05/google-gemini-1-billion-deal-apple-siri/",
+    "date": "2025-11-06T22:01:05.000Z"
+  }
+]

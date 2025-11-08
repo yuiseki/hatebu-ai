@@ -1,0 +1,148 @@
+[
+  {
+    "keyword": "Rust",
+    "products": [
+      {
+        "asin": "B0FT254L3J",
+        "title": "実践 Rust プログラミング入門 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51B00Ssp1TL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FT254L3J?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "初田直也",
+        "brand": "秀和システム",
+        "price": "￥3,564",
+        "priceValue": 3564
+      },
+      {
+        "asin": "4873119782",
+        "title": "プログラミングRust 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51M44jPsASL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4873119782?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Jim Blandy",
+        "brand": "オライリージャパン",
+        "price": "￥5,280",
+        "priceValue": 5280
+      },
+      {
+        "asin": "B0BXL5KS57",
+        "title": "ゼロから学ぶＲｕｓｔ　システムプログラミングの基礎から線形型システムまで (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51my81quvNL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0BXL5KS57?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "高野祐輝",
+        "brand": "講談社",
+        "price": "￥3,520",
+        "priceValue": 3520
+      }
+    ],
+    "searchedAt": "2025-11-08T00:39:49.706Z"
+  },
+  {
+    "keyword": "DuckDB",
+    "products": [
+      {
+        "asin": "B0FMXLH228",
+        "title": "DuckDB実践入門　PCで使える高速で快適なデータ分析用DB―基本からエコシステム活用まで impress top gearシリーズ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+Y8gSCjjL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMXLH228?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mark Needham",
+        "brand": "インプレス",
+        "price": "￥3,665",
+        "priceValue": 3665
+      },
+      {
+        "asin": "B0DB2T4XS2",
+        "title": "DuckDB in Action (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xblSNfeyL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DB2T4XS2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Needham, Mark",
+        "brand": "Manning",
+        "price": "￥7,015",
+        "priceValue": 7015
+      },
+      {
+        "asin": "B0DPNMF2ZX",
+        "title": "DuckDB: Up and Running: Fast Data Analytics and Reporting (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41k2+Xdca+L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DPNMF2ZX?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Lee, Wei-Meng",
+        "brand": "O'Reilly Media",
+        "price": "￥9,548",
+        "priceValue": 9548
+      }
+    ],
+    "searchedAt": "2025-11-08T00:39:51.525Z"
+  },
+  {
+    "keyword": "Parquet",
+    "products": [
+      {
+        "asin": "B0F6BB5PKT",
+        "title": "アリスグリント PARQUET「城門ツバサ」 1/7スケール 約240mm PVC&ABS製 塗装済み完成品フィギュア",
+        "imageUrl": "https://m.media-amazon.com/images/I/51VPPD82CmL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F6BB5PKT?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "アリスグリント",
+        "price": "￥25,245",
+        "priceValue": 25245
+      },
+      {
+        "asin": "B0F6C6NJ5F",
+        "title": "アリスグリント PARQUET「茨木リノ」 1/7スケール 約230mm PVC&ABS製 塗装済み完成品フィギュア",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wmAWFfzGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0F6C6NJ5F?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "アリスグリント",
+        "price": "￥24,256",
+        "priceValue": 24256
+      },
+      {
+        "asin": "B09JP49TR6",
+        "title": "PARQUET オリジナルサウンドトラック",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-OCvjg3jL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B09JP49TR6?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ゆずソフトSOUR",
+        "price": "￥2,200",
+        "priceValue": 2200
+      }
+    ],
+    "searchedAt": "2025-11-08T00:39:53.513Z"
+  },
+  {
+    "keyword": "SedonaDB",
+    "products": [],
+    "searchedAt": "2025-11-08T00:39:55.176Z"
+  },
+  {
+    "keyword": "Notion",
+    "products": [
+      {
+        "asin": "B0DRM6BBFN",
+        "title": "Notion なんでも事典",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pE4CJiWaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DRM6BBFN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "溝口 雅子",
+        "brand": "技術評論社",
+        "price": "￥2,587",
+        "priceValue": 2587
+      },
+      {
+        "asin": "B0FRFPCPZZ",
+        "title": "かんたん！はかどる！Notion デザイン＆アイデアブック",
+        "imageUrl": "https://m.media-amazon.com/images/I/41xrglTYcZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FRFPCPZZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "つぶあん",
+        "brand": "ソーテック社",
+        "price": "￥2,156",
+        "priceValue": 2156
+      },
+      {
+        "asin": "B0B6NMR6H7",
+        "title": "はじめるNotion　使いかたを自由にデザインするための、基本、コツ、アイデア",
+        "imageUrl": "https://m.media-amazon.com/images/I/41nSomTp0LL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0B6NMR6H7?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "溝口 雅子",
+        "brand": "技術評論社",
+        "price": "￥1,811",
+        "priceValue": 1811
+      }
+    ],
+    "searchedAt": "2025-11-08T00:39:57.028Z"
+  }
+]
