@@ -1,0 +1,147 @@
+[
+  {
+    "keyword": "LangChain",
+    "products": [
+      {
+        "asin": "B0DK4YGYBL",
+        "title": "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書",
+        "imageUrl": "https://m.media-amazon.com/images/I/51hcvyPcUnL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DK4YGYBL?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "西見 公宏",
+        "brand": "技術評論社",
+        "price": "￥3,881",
+        "priceValue": 3881
+      },
+      {
+        "asin": "4814401302",
+        "title": "初めてのLangChain ―LangChainとLangGraphによるAI/LLMアプリケーションの構築",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VkuosWp9L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4814401302?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Mayo Oshin",
+        "brand": "オライリージャパン",
+        "price": "￥4,620",
+        "priceValue": 4620
+      },
+      {
+        "asin": "B0CL49K74N",
+        "title": "LangChain完全入門　生成AIアプリケーション開発がはかどる大規模言語モデルの操り方",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Gs2jO-HhL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CL49K74N?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "田村 悠",
+        "brand": "インプレス",
+        "price": "￥2,871",
+        "priceValue": 2871
+      }
+    ],
+    "searchedAt": "2025-11-09T01:54:01.377Z"
+  },
+  {
+    "keyword": "Git worktree",
+    "products": [],
+    "searchedAt": "2025-11-09T01:54:03.224Z"
+  },
+  {
+    "keyword": "SAR Python",
+    "products": [
+      {
+        "asin": "B0DDHYG96G",
+        "title": "A Quick Guide to Learning Python: Easy Coding, Designed for Beginners (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+2I9XGIjL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DDHYG96G?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Maroof, Sar",
+        "price": "￥143",
+        "priceValue": 143
+      },
+      {
+        "asin": "9083404927",
+        "title": "Python Coding: A Beginner's Guide to Programming",
+        "imageUrl": "https://m.media-amazon.com/images/I/41r+yilyDXL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/9083404927?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Maroof, Sar",
+        "brand": "Independent Publisher",
+        "price": "￥19,418",
+        "priceValue": 19418
+      },
+      {
+        "asin": "B0CKJRS1M2",
+        "title": "ライラの冒険 黄金の羅針盤",
+        "imageUrl": "https://m.media-amazon.com/images/I/514JTalf2wL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CKJRS1M2?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chris Weitz"
+      }
+    ],
+    "searchedAt": "2025-11-09T01:54:05.228Z"
+  },
+  {
+    "keyword": "Causal inference",
+    "products": [
+      {
+        "asin": "0262545195",
+        "title": "Causal Inference (The MIT Press Essential Knowledge series)",
+        "imageUrl": "https://m.media-amazon.com/images/I/31mQLGwxUkL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/0262545195?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Rosenbaum, Paul R.",
+        "brand": "The MIT Press",
+        "price": "￥2,860",
+        "priceValue": 2860
+      },
+      {
+        "asin": "1119186846",
+        "title": "Causal Inference in Statistics: A Primer",
+        "imageUrl": "https://m.media-amazon.com/images/I/4173U48pzCL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1119186846?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Pearl, Judea",
+        "brand": "Wiley",
+        "price": "￥7,064",
+        "priceValue": 7064
+      },
+      {
+        "asin": "1032758627",
+        "title": "A First Course in Causal Inference (Chapman & Hall/CRC Texts in Statistical Science)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41WSBcxc5GL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/1032758627?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Ding, Peng",
+        "brand": "Chapman and Hall/CRC",
+        "price": "￥12,178",
+        "priceValue": 12178
+      }
+    ],
+    "searchedAt": "2025-11-09T01:54:07.167Z"
+  },
+  {
+    "keyword": "Wikipedia",
+    "products": [
+      {
+        "asin": "4314012021",
+        "title": "ウィキペディアでまちおこし――みんなでつくろう地域の百科事典",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PxtAqkm-L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4314012021?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "伊達深雪",
+        "brand": "紀伊國屋書店",
+        "price": "￥2,120",
+        "priceValue": 2120
+      },
+      {
+        "asin": "4153200050",
+        "title": "ウィキペディア・レボリューション: 世界最大の百科事典はいかにして生まれたか (ハヤカワ新書juice 5)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EkdkWZubL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4153200050?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "アンドリュー リー",
+        "brand": "早川書房",
+        "price": "￥588",
+        "priceValue": 588
+      },
+      {
+        "asin": "4907126611",
+        "title": "70歳のウィキペディアン",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nLsn0oAgL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4907126611?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "門倉 百合子",
+        "brand": "郵研社",
+        "price": "￥1,980",
+        "priceValue": 1980
+      }
+    ],
+    "searchedAt": "2025-11-09T01:54:09.082Z"
+  }
+]
