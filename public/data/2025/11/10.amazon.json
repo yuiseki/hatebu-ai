@@ -1,0 +1,177 @@
+[
+  {
+    "keyword": "Python",
+    "products": [
+      {
+        "asin": "B0FM3TR3WD",
+        "title": "作りたいものがない人のためのＰｙｔｈｏｎ入門 (ＫＳ情報科学専門書)",
+        "imageUrl": "https://m.media-amazon.com/images/I/419U+3cZ9gL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FM3TR3WD?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "みやさかしんや",
+        "brand": "講談社",
+        "price": "￥2,200",
+        "priceValue": 2200
+      },
+      {
+        "asin": "B0FJL63DKM",
+        "title": "みんなのPython 第5版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XON5CHlxL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJL63DKM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "柴田 淳",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,970",
+        "priceValue": 2970
+      },
+      {
+        "asin": "4815637210",
+        "title": "新・明解Pythonで学ぶアルゴリズムとデータ構造 第2版",
+        "imageUrl": "https://m.media-amazon.com/images/I/51a6t0OVsrL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/4815637210?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "柴田 望洋",
+        "brand": "SBクリエイティブ",
+        "price": "￥2,970",
+        "priceValue": 2970
+      }
+    ],
+    "searchedAt": "2025-11-10T23:07:03.860Z"
+  },
+  {
+    "keyword": "GraphRAG",
+    "products": [
+      {
+        "asin": "B0FJ2LJWMJ",
+        "title": "Essential GraphRAG: Knowledge Graph-Enhanced RAG (English Edition)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41MVWYdBoJL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FJ2LJWMJ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Bratanic, Tomaž",
+        "brand": "Manning",
+        "price": "￥6,243",
+        "priceValue": 6243
+      },
+      {
+        "asin": "B0DQLH5NMB",
+        "title": "Building AI with GraphRAG: An Expert’s Guide to Knowledge-Driven Retrieval-Augmented Generation Systems",
+        "imageUrl": "https://m.media-amazon.com/images/I/41yIpUn4K7L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DQLH5NMB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Chapman, Leon",
+        "brand": "Independently published",
+        "price": "￥2,873",
+        "priceValue": 2873
+      },
+      {
+        "asin": "B0DKB9LRFK",
+        "title": "GraphRAG: A Practical Guide to Augment RAG Retrieval and Generation with Knowledge Graphs (The Frontiers of RAG Research: Exploring the Latest Developments and Techniques)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41mahtMiASL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DKB9LRFK?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Sprinter, Charles",
+        "brand": "Independently published",
+        "price": "￥2,786",
+        "priceValue": 2786
+      }
+    ],
+    "searchedAt": "2025-11-10T23:07:05.601Z"
+  },
+  {
+    "keyword": "ARIMA",
+    "products": [
+      {
+        "asin": "B0D9N8K2DY",
+        "title": "香ばし蜂蜜バターナッツ 有馬芳香堂 200g×3袋 ◇",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ChodFyueL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0D9N8K2DY?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥2,400 (￥800 / 袋)",
+        "priceValue": 2400
+      },
+      {
+        "asin": "B0DMCWDHMN",
+        "title": "青森産 【蜜女王 りんご 高徳 こうとく】 約２.８kg (14-10個) 当店化粧箱 産地からお手元へ 【鎌田青果／蜜入り保証】",
+        "imageUrl": "https://m.media-amazon.com/images/I/4181CqsDa5L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DMCWDHMN?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "Quality Leaders",
+        "price": "￥5,880 (￥420 / 個)",
+        "priceValue": 5880
+      },
+      {
+        "asin": "B0DHKS2XDB",
+        "title": "こんがりカシューナッツ 有馬芳香堂 70g×6袋 ◇",
+        "imageUrl": "https://m.media-amazon.com/images/I/515eOcJUdGL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0DHKS2XDB?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "ノーブランド品",
+        "price": "￥2,430 (￥405 / 袋)",
+        "priceValue": 2430
+      }
+    ],
+    "searchedAt": "2025-11-10T23:07:07.392Z"
+  },
+  {
+    "keyword": "GPT-5",
+    "products": [
+      {
+        "asin": "B0FSRQZ9MM",
+        "title": "OpenAI GPT-5／ChatGPT 人工知能プログラミング実践入門",
+        "imageUrl": "https://m.media-amazon.com/images/I/51NeIIXc56L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FSRQZ9MM?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "布留川英一",
+        "brand": "ボーンデジタル",
+        "price": "￥4,851",
+        "priceValue": 4851
+      },
+      {
+        "asin": "B0FHJMJ8TZ",
+        "title": "GPT-5完全活用ガイド: 2025年夏登場！次世代AIで仕事が10倍速になる実践テクニック50",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FLp0jxnZL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FHJMJ8TZ?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "布和賀什格",
+        "price": "￥1,000",
+        "priceValue": 1000
+      },
+      {
+        "asin": "B0FMYQ8G97",
+        "title": "ChatGPT5エージェント爆速リサーチ術 ～副業収益を最速で伸ばそう！: 最新AIで市場調査・競合分析・情報収集を自動化し収益化【即使えるプロンプト例付き】",
+        "imageUrl": "https://m.media-amazon.com/images/I/51CkjMMPAaL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FMYQ8G97?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "AI活用ビジネス研究家 レイジ",
+        "brand": "Independently published",
+        "price": "￥1,430",
+        "priceValue": 1430
+      }
+    ],
+    "searchedAt": "2025-11-10T23:07:09.194Z"
+  },
+  {
+    "keyword": "EdgeRunner",
+    "products": [
+      {
+        "asin": "B0CL8T3TW9",
+        "title": "Cyberpunk: Edgerunners (Original Soundtrack) [Analog]",
+        "imageUrl": "https://m.media-amazon.com/images/I/415jNNu2tTL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CL8T3TW9?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Akira Yamaoka",
+        "brand": "Milan Records",
+        "price": "￥5,213",
+        "priceValue": 5213
+      },
+      {
+        "asin": "B0FRSGMKKS",
+        "title": "グッドスマイルカンパニー[GOOD SMILE COMPANY] POP UP PARADE サイバーパンク エッジランナーズ ルーシー L size ノンスケール",
+        "imageUrl": "https://m.media-amazon.com/images/I/41f+i7jiZeL._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0FRSGMKKS?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "brand": "グッドスマイルカンパニー(GOOD SMILE COMPANY)",
+        "price": "￥8,820",
+        "priceValue": 8820
+      },
+      {
+        "asin": "B0CLV6CSFH",
+        "title": "Cyberpunk: Edgerunners (Original Series Soundtrack)",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Afk4qW64L._SL160_.jpg",
+        "detailPageUrl": "https://www.amazon.co.jp/dp/B0CLV6CSFH?tag=yuiseki--22&linkCode=osi&th=1&psc=1",
+        "author": "Akira Yamaoka, Marcin Przybylowicz & P.T. Adamczyk",
+        "brand": "Sony Music Japan International",
+        "price": "￥6,639",
+        "priceValue": 6639
+      }
+    ],
+    "searchedAt": "2025-11-10T23:07:11.012Z"
+  }
+]
