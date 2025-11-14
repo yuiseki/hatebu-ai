@@ -1,0 +1,177 @@
+[
+  {
+    "title": "コードを実行できるノートブック「Google Colab」の公式「VS Code」拡張機能が登場／セットアップ不要でGPU/TPUリソースが無料で使える「Jupyter Notebook」サービス",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2063392.html",
+    "date": "2025-11-14T11:08:05.000Z"
+  },
+  {
+    "title": "なぜThrottleではなくDebounceだったのか？ 700並列リクエストと戦うサーバーサイド実装のすべて",
+    "link": "https://speakerdeck.com/yoshiori/nazethrottledehanakudebouncedatutanoka-700bing-lie-rikuesutotozhan-usabasaidoshi-zhuang-nosubete",
+    "date": "2025-11-14T11:07:50.000Z"
+  },
+  {
+    "title": "国土交通省が「MCPサーバ」公開　APIの知識不要、対話形式でのデータ取得が可能に",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/14/news056.html",
+    "date": "2025-11-14T11:04:51.000Z"
+  },
+  {
+    "title": "一人で大規模OSSに立ち向かうには",
+    "link": "https://speakerdeck.com/sosukesuzuki/ren-deda-gui-mo-ossnili-tixiang-kauniha",
+    "date": "2025-11-14T10:27:56.000Z"
+  },
+  {
+    "title": "tokyo-digitaltwin",
+    "link": "https://github.com/tokyo-digitaltwin",
+    "date": "2025-11-14T08:52:02.000Z"
+  },
+  {
+    "title": "GitHub - TerriaJS/terriajs: A library for building rich, web-based geospatial 2D & 3D data platforms.",
+    "link": "https://github.com/TerriaJS/terriajs",
+    "date": "2025-11-14T08:51:47.000Z"
+  },
+  {
+    "title": "Plug and Play Japanのアクセラレータープログラムに採択されました | 株式会社 Geolonia - ジオロニア",
+    "link": "https://www.geolonia.com/archives/5143/?utm_source=chatgpt.com",
+    "date": "2025-11-14T08:44:58.000Z"
+  },
+  {
+    "title": "軍事向けXRデバイス「EagleEye」のハードウェア公開。開発会社創業は「あの人物」 - すまほん!!",
+    "link": "https://smhn.info/202511-xr-eagleeye",
+    "date": "2025-11-14T03:23:35.000Z"
+  },
+  {
+    "title": "Marble: A Multimodal World Model",
+    "link": "https://www.worldlabs.ai/blog/marble-world-model",
+    "date": "2025-11-13T23:34:48.000Z"
+  },
+  {
+    "title": "Removing support for `--no-quarantine` for casks · Issue #20755 · Homebrew/brew",
+    "link": "https://github.com/Homebrew/brew/issues/20755",
+    "date": "2025-11-13T23:34:42.000Z"
+  },
+  {
+    "title": "Forward Deployed Engineer (Onsite SF) at OmniAI | Y Combinator",
+    "link": "https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer-onsite-sf",
+    "date": "2025-11-13T23:16:09.000Z"
+  },
+  {
+    "title": "メモリ1TB搭載！個人でも実現できる超大容量メモリワークステーションの作り方｜AIサトシ",
+    "link": "https://note.com/aisatoshi/n/n318c4cb63479",
+    "date": "2025-11-13T23:13:39.000Z"
+  },
+  {
+    "title": "扱いにくいデータが国境を超える（CityGML）｜imgeeの技術の話",
+    "link": "https://note.com/imgee/n/n73e5ba37ddc8",
+    "date": "2025-11-13T22:59:03.000Z"
+  },
+  {
+    "title": "AI 時代のドキュメント管理術",
+    "link": "https://speakerdeck.com/onikun94/ai-shi-dai-nodokiyumentoguan-li-shu",
+    "date": "2025-11-13T21:42:10.000Z"
+  },
+  {
+    "title": "CTOがEngineering Managerに期待する7つのこと - KAKEHASHI Tech Blog",
+    "link": "https://kakehashi-dev.hatenablog.com/entry/2025/11/13/113000",
+    "date": "2025-11-13T21:42:02.000Z"
+  },
+  {
+    "title": "元社員採用する｢アルムナイ｣導入7割　「転職者は裏切り者」風潮薄まる - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC247EF0U5A021C2000000/",
+    "date": "2025-11-13T21:36:43.000Z"
+  },
+  {
+    "title": "JVC、思い出せない人の名前を教えてくれる「カメラ付きAIイヤフォン」。CEATEC 2025",
+    "link": "https://av.watch.impress.co.jp/docs/news/2054787.html",
+    "date": "2025-11-13T21:27:14.000Z"
+  },
+  {
+    "title": "レノボ、手のひらサイズで1PFLOPSのAIスパコン「ThinkStation PGX」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2055186.html",
+    "date": "2025-11-13T21:27:02.000Z"
+  },
+  {
+    "title": "「NVIDIAの世界最小スパコン」ことDGX Sparkを実際に使ってみた海外レビューまとめ",
+    "link": "https://gigazine.net/news/20251015-nvidia-dgx-spark/",
+    "date": "2025-11-13T21:26:59.000Z"
+  },
+  {
+    "title": "手のひらサイズの超小型端末「Qin K25」はキッズフォンを超えたAIスマホだ！",
+    "link": "https://ascii.jp/elem/000/004/329/4329112/",
+    "date": "2025-11-13T21:26:40.000Z"
+  },
+  {
+    "title": "「CHARGESPOT」がモバイルバッテリーを回収　正しい使い方と廃棄方法を啓発　発火事故を受けて",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2510/28/news069.html",
+    "date": "2025-11-13T21:24:46.000Z"
+  },
+  {
+    "title": "雑誌の“自炊”ヘビーユーザーから見たPFU「ScanSnap iX2500」の隠れた改良点",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/28/news071.html",
+    "date": "2025-11-13T21:24:33.000Z"
+  },
+  {
+    "title": "世界最小クラスの｢ポタ電｣が2万円以下。BLUETTIが“日常の電力”を持ち歩ける未来を開いた",
+    "link": "https://www.gizmodo.jp/2025/11/bluetti_aora10.html",
+    "date": "2025-11-13T21:19:51.000Z"
+  },
+  {
+    "title": "「Gemini in Looker」で実現するダッシュボード要約機能 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/gemini-in-looker",
+    "date": "2025-11-13T21:17:43.000Z"
+  },
+  {
+    "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
+    "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
+    "date": "2025-11-13T21:05:11.000Z"
+  },
+  {
+    "title": "Valveの新VRヘッドセット「Steam Frame」先行体験：SteamOSがVRとリビングに攻め込む",
+    "link": "https://japan.cnet.com/article/35240435/",
+    "date": "2025-11-13T21:05:03.000Z"
+  },
+  {
+    "title": "「Zoom」に複数の脆弱性 ～非認証ユーザーによる権限昇格など／最大深刻度は「High」、Windows/macOS/Linux/iOS/Android版に影響",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2062979.html",
+    "date": "2025-11-13T21:04:47.000Z"
+  },
+  {
+    "title": "ボスニアへの「民間人狙撃ツアー」に多数参加と告発　イタリア当局が捜査着手 - BBCニュース",
+    "link": "https://www.bbc.com/japanese/articles/c0l754g9k22o",
+    "date": "2025-11-13T20:41:13.000Z"
+  },
+  {
+    "title": "「Google ドライブ」から消えた「リンクを知っている全員」共有オプション、完全復旧／最近の仕様変更で発生、業務に支障も",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2062838.html",
+    "date": "2025-11-13T20:24:54.000Z"
+  },
+  {
+    "title": "https://www.kickstarter.com/projects/1002116890/omnione-pocket-power-mini-pc-with-screen-and-battery",
+    "link": "https://www.kickstarter.com/projects/1002116890/omnione-pocket-power-mini-pc-with-screen-and-battery",
+    "date": "2025-11-13T20:23:37.000Z"
+  },
+  {
+    "title": "ちょっと懐かしい。ギリおもちゃ感覚で買えそうな326gのUMPC「OmniOne 5.7」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2062913.html",
+    "date": "2025-11-13T20:22:59.000Z"
+  },
+  {
+    "title": "「空間をノイズキャンセリング」　NTTが開発　耳を塞がず静かな空間を作る",
+    "link": "https://www.watch.impress.co.jp/docs/news/2062243.html",
+    "date": "2025-11-13T20:21:56.000Z"
+  },
+  {
+    "title": "【速報】中国、台湾巡る高市首相の発言撤回を要求",
+    "link": "https://www.47news.jp/13449251.html",
+    "date": "2025-11-13T20:21:52.000Z"
+  },
+  {
+    "title": "【速報】台湾に武力介入すれば正面から攻撃と中国",
+    "link": "https://www.47news.jp/13449446.html",
+    "date": "2025-11-13T20:21:50.000Z"
+  },
+  {
+    "title": "Node.jsでネイティブにTypeScriptを実行できる「Type Stripping」機能が安定版に到達。Node.js v25.2.0",
+    "link": "https://www.publickey1.jp/blog/25/nodejstypescripttype_strippingnodejs_v2520.html",
+    "date": "2025-11-13T20:13:17.000Z"
+  }
+]
