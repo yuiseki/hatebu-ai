@@ -2,5 +2,37 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "packageRules": [
+    {
+      "groupName": "langchain",
+      "matchPackageNames": [
+        "langchain",
+        "@langchain/classic",
+        "@langchain/community",
+        "@langchain/core",
+        "@langchain/openai",
+        "@langchain/ollama",
+        "@langchain/{/,}**"
+      ]
+    },
+    {
+      "groupName": "react",
+      "matchPackageNames": [
+        "react",
+        "react-dom",
+        "@types/react",
+        "@types/react-dom"
+      ]
+    },
+    {
+      "groupName": "eslint",
+      "matchPackageNames": [
+        "@types/eslint",
+        "babel-eslint",
+        "@typescript-eslint/{/,}**",
+        "eslint{/,}**"
+      ]
+    }
   ]
 }
