@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Cloudflare Meet-up Tokyo Vol.9 (2025/12/10 19:00〜)",
+    "link": "https://cfm-cts.connpass.com/event/374413/",
+    "date": "2025-11-25T04:41:55.000Z"
+  },
+  {
+    "title": "Index of /static/",
+    "link": "https://dev.smellman.org/static/",
+    "date": "2025-11-25T03:37:30.000Z"
+  },
+  {
+    "title": "Prettierプラグインの仕組みと人気プラグインの実装 | Memory ice cubes",
+    "link": "https://leaysgur.github.io/posts/2025/11/13/170904/",
+    "date": "2025-11-24T23:57:35.000Z"
+  },
+  {
+    "title": "安易にグラフデータベースを選ばないようにするための注意点",
+    "link": "https://zenn.dev/deskrex/articles/e40cf15b5d09e4",
+    "date": "2025-11-24T23:56:21.000Z"
+  },
+  {
+    "title": "ローカルLLM基礎知識 / local LLM basics 2025",
+    "link": "https://speakerdeck.com/kishida/local-llm-basics-2025",
+    "date": "2025-11-24T23:56:14.000Z"
+  },
+  {
+    "title": "GitHub - apache/doris: Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "link": "https://github.com/apache/doris",
+    "date": "2025-11-24T23:54:57.000Z"
+  },
+  {
+    "title": "Apache Doris: Open source data warehouse for real time data analytics - Apache Doris",
+    "link": "https://doris.apache.org/",
+    "date": "2025-11-24T23:54:46.000Z"
+  },
+  {
+    "title": "「市場の独占は起きない」　さくらインターネット田中社長が語るAI業界の未来",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2510/31/news063.html",
+    "date": "2025-11-24T23:53:07.000Z"
+  },
+  {
+    "title": "進捗管理のメトリクスに関するメモ - ソフトウェアの品質を学びまくる2.0",
+    "link": "https://www.kzsuzuki.com/entry/2018/11/11/220223",
+    "date": "2025-11-24T23:52:13.000Z"
+  },
+  {
+    "title": "条件付き独立と有向分離を用いた統計モデルの妥当性チェック - StatModeling Memorandum",
+    "link": "https://statmodeling.hatenablog.com/entry/conditional-independence-and-d-separation",
+    "date": "2025-11-24T23:52:10.000Z"
+  },
+  {
+    "title": "線形混合モデルと階層ベイズモデルを使ったデータ解析の実践 - データの裏側を歩く",
+    "link": "https://www.medi-08-data-06.work/entry/stratified_model",
+    "date": "2025-11-24T23:52:09.000Z"
+  },
+  {
+    "title": "OpenSearchの検索速度を向上するConcurrent segment searchを理解する - Bering Note – formerly 流沙河鎮",
+    "link": "https://bering.hatenadiary.com/entry/2025/07/20/224048",
+    "date": "2025-11-24T23:51:57.000Z"
+  },
+  {
+    "title": "VLMを活用したゲーム自動プレイ機能の開発 - Preferred Networks Tech Blog",
+    "link": "https://tech.preferred.jp/ja/blog/automatic-game-play-using-vlm/",
+    "date": "2025-11-24T23:51:52.000Z"
+  },
+  {
+    "title": "JSynFlow： LLMを活用した日本語フローチャートVQAデータセット合成",
+    "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2Win587/_article/-char/ja/",
+    "date": "2025-11-24T23:51:08.000Z"
+  },
+  {
+    "title": "大規模プロダクトで実践するAI活用の仕組みづくり",
+    "link": "https://speakerdeck.com/k1tikurisu/implementing-ai-in-large-scale-products",
+    "date": "2025-11-24T23:50:28.000Z"
+  },
+  {
+    "title": "historyコマンドの実行日時のフォーマットについて - Qiita",
+    "link": "https://qiita.com/khotta/items/948c8fd9cae32b392424",
+    "date": "2025-11-24T23:49:48.000Z"
+  },
+  {
+    "title": "ローカルLLM",
+    "link": "https://zenn.dev/roy29fuku/scraps/3cf9796757aeda",
+    "date": "2025-11-24T23:48:56.000Z"
+  },
+  {
+    "title": "AS視点で見るサイバー攻撃における悩ましい問題 | IIJ Engineers Blog",
+    "link": "https://eng-blog.iij.ad.jp/archives/33210",
+    "date": "2025-11-24T23:48:55.000Z"
+  },
+  {
+    "title": "日本人初の受賞：Code for Japan 関治之が「Charles T. Manatt Democracy Award 2025」を受賞",
+    "link": "https://prtimes.jp/main/html/rd/p/000000075.000039198.html",
+    "date": "2025-11-24T23:45:23.000Z"
+  },
+  {
+    "title": "防衛費増額「賛成」6割、「18～29歳で8割」「70歳以上は4割」　世代差あらわ",
+    "link": "https://www.sankei.com/article/20251124-5PWEGBOB3NIL7AEUB2A55RDFCY/",
+    "date": "2025-11-24T23:45:23.000Z"
+  },
+  {
+    "title": "OCR Arena",
+    "link": "https://www.ocrarena.ai/battle",
+    "date": "2025-11-24T23:45:08.000Z"
+  },
+  {
+    "title": "TypedSql──C# の型システムをクエリエンジンとして「悪用」してみた話 - Qiita",
+    "link": "https://qiita.com/hez2010/items/2936d7441c61df5a628a",
+    "date": "2025-11-24T23:44:38.000Z"
+  },
+  {
+    "title": "スライドホスティングサイトでの文字化けの悩みをさらに調べていたら、より良さそうな対処方法を発見した - kmuto’s blog",
+    "link": "https://kmuto.hatenablog.com/entry/2025/11/23/111400",
+    "date": "2025-11-24T23:44:32.000Z"
+  },
+  {
+    "title": "Google Antigravity のスタートガイド  |  Google Codelabs",
+    "link": "https://codelabs.developers.google.com/getting-started-google-antigravity?hl=ja",
+    "date": "2025-11-24T23:44:15.000Z"
+  },
+  {
+    "title": "GitHub - ArkForgeLabs/Astra: 🔥 Blazingly Fast 🔥 web server runtime for Lua",
+    "link": "https://github.com/ArkForgeLabs/Astra",
+    "date": "2025-11-24T23:28:00.000Z"
+  },
+  {
+    "title": "Astra",
+    "link": "https://astra.arkforge.net/",
+    "date": "2025-11-24T23:27:56.000Z"
+  },
+  {
+    "title": "GitHub - wailsapp/wails: Create beautiful applications using Go",
+    "link": "https://github.com/wailsapp/wails",
+    "date": "2025-11-24T23:27:49.000Z"
+  },
+  {
+    "title": "Particle Life",
+    "link": "https://sandbox-science.com/particle-life",
+    "date": "2025-11-24T23:27:39.000Z"
+  },
+  {
+    "title": "Git 3.0 will use main as the default branch",
+    "link": "https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch",
+    "date": "2025-11-24T23:27:26.000Z"
+  },
+  {
+    "title": "GitHub - coder/mux: A desktop app for isolated, parallel agentic development",
+    "link": "https://github.com/coder/mux",
+    "date": "2025-11-24T23:26:49.000Z"
+  },
+  {
+    "title": "HelixGuard",
+    "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "date": "2025-11-24T23:25:16.000Z"
+  },
+  {
+    "title": "Fran Sans Essay — Emily Sneddon",
+    "link": "https://emilysneddon.com/fran-sans-essay",
+    "date": "2025-11-24T23:25:01.000Z"
+  },
+  {
+    "title": "【実機レビュー】Minisforum DEG1：OCuLink接続の外付けGPUは思ったほど性能は落ちなかった",
+    "link": "https://gadgetrip.jp/2025/07/review_minisforum_deg1/",
+    "date": "2025-11-24T22:19:37.000Z"
+  }
+]
