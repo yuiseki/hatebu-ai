@@ -1,0 +1,137 @@
+[
+  {
+    "title": "国連調査の「世界で最も人口の多い都市ランキング」で東京がついに首位陥落",
+    "link": "https://gigazine.net/news/20251126-un-world-largest-city-tokyo/",
+    "date": "2025-11-27T23:31:40.000Z"
+  },
+  {
+    "title": "Three.jsで衝突計算とか色々",
+    "link": "https://zenn.dev/solb/articles/a99d37bba6ed38",
+    "date": "2025-11-27T23:30:22.000Z"
+  },
+  {
+    "title": "Bounding volume collision detection with THREE.js - Game development | MDN",
+    "link": "https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection/Bounding_volume_collision_detection_with_THREE.js",
+    "date": "2025-11-27T23:30:14.000Z"
+  },
+  {
+    "title": "Three.jsでオブジェクト同士の接触を判定する 📦 - みかづきブログ・カスタム",
+    "link": "https://blog.kimizuka.org/entry/2022/01/13/000000",
+    "date": "2025-11-27T23:29:53.000Z"
+  },
+  {
+    "title": "PostgreSQL: Processing 3D Data with PostGIS and SFCGAL",
+    "link": "https://www.alibabacloud.com/blog/postgresql-processing-3d-data-with-postgis-and-sfcgal_597320",
+    "date": "2025-11-27T23:28:57.000Z"
+  },
+  {
+    "title": "ST_AsX3D",
+    "link": "https://postgis.net/docs/ST_AsX3D.html",
+    "date": "2025-11-27T23:28:14.000Z"
+  },
+  {
+    "title": "PostGIS を使って最寄りの世界遺産を探してみた。 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/searching-for-the-nearest-world-heritage-site-using-postgis/",
+    "date": "2025-11-27T23:28:08.000Z"
+  },
+  {
+    "title": "PostGIS Cheat Sheet",
+    "link": "https://postgis.net/docs/manual-3.4/postgis_cheatsheet-ja.html",
+    "date": "2025-11-27T23:27:55.000Z"
+  },
+  {
+    "title": "PostGIS+SFCGALで3次元幾何演算を行う",
+    "link": "https://zenn.dev/boiledorange73/articles/0004-pgis-sfcgal3d",
+    "date": "2025-11-27T23:27:38.000Z"
+  },
+  {
+    "title": "GitHub - Geodan/pg2b3dm: Tool for creating 3D Tiles from PostGIS geometries",
+    "link": "https://github.com/Geodan/pg2b3dm",
+    "date": "2025-11-27T23:27:26.000Z"
+  },
+  {
+    "title": "28. 3-D — Introduction to PostGIS",
+    "link": "https://postgis.net/workshops/postgis-intro/3d.html",
+    "date": "2025-11-27T23:27:12.000Z"
+  },
+  {
+    "title": "PostGISの3次元ジオメトリをブラウザで見てみよう",
+    "link": "https://zenn.dev/boiledorange73/articles/0006-pgis-x3d",
+    "date": "2025-11-27T23:27:04.000Z"
+  },
+  {
+    "title": "A Survey of Algorithms for Geodesic Paths and Distances",
+    "link": "https://arxiv.org/abs/2007.10430",
+    "date": "2025-11-27T23:25:51.000Z"
+  },
+  {
+    "title": "A Vibe Coded SaaS Killed My Team",
+    "link": "https://cendyne.dev/posts/2025-11-26-a-vibe-coded-saas-killed-my-team.html",
+    "date": "2025-11-27T23:15:21.000Z"
+  },
+  {
+    "title": "The Current State of the Theory that GPL Propagates to AI Models Trained on GPL Code",
+    "link": "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/",
+    "date": "2025-11-27T23:14:59.000Z"
+  },
+  {
+    "title": "Alan.app – tyler.io",
+    "link": "https://tyler.io/2025/11/alan/",
+    "date": "2025-11-27T23:14:43.000Z"
+  },
+  {
+    "title": "中国が約2000機のドローンを台湾上空に飛ばしてStarlinkへのアクセスを遮断する大規模電子戦をシミュレーションしている",
+    "link": "https://gigazine.net/news/20251127-china-electronic-warfare-against-taiwan-starlink/",
+    "date": "2025-11-27T22:53:35.000Z"
+  },
+  {
+    "title": "アサヒグループHD、ランサムウェア攻撃の詳細や復旧予定を説明。2月までに物流業務全体の正常化を目指す　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2066872.html",
+    "date": "2025-11-27T22:52:02.000Z"
+  },
+  {
+    "title": "Our response to a recent security incident | Signals & Stories",
+    "link": "https://mixpanel.com/blog/sms-security-incident/",
+    "date": "2025-11-27T22:50:20.000Z"
+  },
+  {
+    "title": "AIでアニメ制作のCreator's X、19億円を調達　「旧ガイナ」を買収",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news081.html",
+    "date": "2025-11-27T22:38:07.000Z"
+  },
+  {
+    "title": "コード全体を自動解析して常時更新する「Code Wiki」公開　開発者の未来はどう変わるのか",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html",
+    "date": "2025-11-27T22:36:51.000Z"
+  },
+  {
+    "title": "MAPPLEのベクトルタイル",
+    "link": "https://labs.mapple.com/mapplevt.html?_gl=1*1gjer59*_gcl_au*MTE3OTY4MDI5Ni4xNzYzODIyNzk5*_ga*MTIwNzc1Mjc4Mi4xNzYzODIyOTUy*_ga_T86PSGHHNH*czE3NjQyNDYyNjMkbzMkZzEkdDE3NjQyNDc0ODMkajE4JGwwJGgw",
+    "date": "2025-11-27T22:33:41.000Z"
+  },
+  {
+    "title": "AIで攻撃者視点を強化する：LLMによるRed Teamオペレーション高度化検討（インターン体験記） - NTT docomo Business Engineers' Blog",
+    "link": "https://engineers.ntt.com/entry/202511-offsec_intern_2/entry",
+    "date": "2025-11-27T22:32:47.000Z"
+  },
+  {
+    "title": "「枯れた価値」のLLM思考 〜toCプロダクトでどうLLMを活用したか〜 - inSmartBank",
+    "link": "https://blog.smartbank.co.jp/entry/llm_product_discovery",
+    "date": "2025-11-27T22:31:40.000Z"
+  },
+  {
+    "title": "Thunderbird Pro November 2025 Update - The Thunderbird Blog",
+    "link": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
+    "date": "2025-11-27T22:30:21.000Z"
+  },
+  {
+    "title": "reverser.dev",
+    "link": "https://reverser.dev/",
+    "date": "2025-11-27T22:20:20.000Z"
+  },
+  {
+    "title": "香港高層住宅群で大規模火災、55人死亡・279人不明　修繕会社の3人逮捕",
+    "link": "https://jp.reuters.com/world/china/H4PY4GWTQJJOXOFRZK6FSLQGPI-2025-11-26/",
+    "date": "2025-11-27T22:15:36.000Z"
+  }
+]
