@@ -50,12 +50,13 @@
 
 h1 {
   color: #333;
-  margin-bottom: 20px;
+  margin-top: 0;
+  margin-bottom: 10px;
   text-align: center;
 }
 
 h2 {
-  margin-top: 40px;
+  margin-top: 10px;
   color: #444;
 }
 

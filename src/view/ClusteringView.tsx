@@ -174,7 +174,8 @@ function ClusteringView() {
 
   return (
     <div className="app-container clustering-container">
-      <h1>ゆいせきのブックマーク 埋め込みベクトルのクラスタリング</h1>
+      <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <h2>埋め込みベクトルのクラスタリング</h2>
       {loading && <p>データを読み込み中...</p>}
       {error && <p className="error">エラー: {error}</p>}
 

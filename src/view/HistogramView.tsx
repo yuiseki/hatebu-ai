@@ -59,7 +59,8 @@ function HistogramView() {
 
   return (
     <div className="app-container">
-      <h1>ゆいせきのブックマーク ヒストグラム</h1>
+      <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <h2>年ごとのブックマーク数分布</h2>
 
       {loading && <p>データを読み込み中...</p>}
       {error && <p className="error">エラー: {error}</p>}
