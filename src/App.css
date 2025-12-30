@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -42,7 +42,7 @@
 }
 
 .app-container {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 20px;
   font-family: sans-serif;
@@ -183,4 +183,135 @@ h2 {
 .amazon-associate-price {
   color: #d66;
   margin-top: 4px;
+}
+
+.clustering-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.clustering-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.scatter-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #fff;
+  padding: 16px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.scatter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+  color: #333;
+  font-weight: 600;
+}
+
+.scatter-meta {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.scatter-canvas {
+  width: 100%;
+  height: 520px;
+  display: block;
+  background: #f9fafc;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+}
+
+.scatter-hint {
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 8px;
+}
+
+.cluster-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+
+.cluster-detail {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 12px;
+  background: #fff;
+  text-align: left;
+}
+
+.cluster-detail h2 {
+  margin-top: 0;
+}
+
+.cluster-detail-meta {
+  color: #777;
+  margin-bottom: 8px;
+}
+
+.cluster-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.keyword-chip {
+  background: #2c3e50;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+}
+
+.cluster-samples {
+  margin: 0;
+  padding-left: 16px;
+  color: #444;
+}
+
+.cluster-items-title {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.cluster-items {
+  margin: 0;
+  padding-left: 20px;
+  max-height: 490px;
+  overflow-y: auto;
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+}
+
+.cluster-items li {
+  margin-bottom: 6px;
+}
+
+.cluster-empty {
+  color: #777;
+}
+
+@media (min-width: 800px) {
+  .clustering-layout {
+    grid-template-columns: 1fr 400px;
+  }
+}
+
+@media (max-width: 900px) {
+  .scatter-canvas {
+    height: 360px;
+  }
 }

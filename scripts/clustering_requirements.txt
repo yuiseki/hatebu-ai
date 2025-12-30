@@ -1,0 +1,5 @@
+numpy
+requests
+umap-learn
+hdbscan
+scikit-learn
