@@ -70,7 +70,11 @@ function BookmarksView({ initialDate }: BookmarksProps) {
 
   return (
     <div className="app-container">
-      <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <h1>
+        <a className="bookmarks-title" href="./">
+          ゆいせきのブックマーク
+        </a>
+      </h1>
       <GlobalNav />
       {loading && <p className="bookmarks-loading">データを読み込み中...</p>}
       {error && <p className="bookmarks-error">エラー: {error}</p>}
@@ -88,11 +92,27 @@ function BookmarksView({ initialDate }: BookmarksProps) {
                   className="bookmark-favicon"
                   width={15}
                   height={15}
-                  src={`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=${(() => { try { return new URL(b.link).origin + '/'; } catch { return ''; } })()}`}
+                  src={`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=${(() => {
+                    try {
+                      return new URL(b.link).origin + "/";
+                    } catch {
+                      return "";
+                    }
+                  })()}`}
                   alt="favicon"
                 />
                 <a href={b.link} target="_blank" rel="noopener noreferrer">
                   {b.title}
+                </a>
+                <a
+                  href={`https://b.hatena.ne.jp/entry/${b.link}`}
+                  className="bookmark-number-link"
+                >
+                  <img
+                    src={`https://b.hatena.ne.jp/entry/image/${b.link}`}
+                    alt="number of bookmarks"
+                    className="bookmark-number-image"
+                  />
                 </a>
               </li>
             ))}
