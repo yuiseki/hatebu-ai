@@ -189,7 +189,6 @@ h2 {
 .clustering-container {
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 
 .clustering-layout {

@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import "../App.css";
 import YearCard from "../components/YearCard";
+import { GlobalNav } from "../components/GlobalNav";
 
 // ヒストグラムの型を定義
 type HistogramData = {
@@ -60,6 +61,8 @@ function HistogramView() {
   return (
     <div className="app-container">
       <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <GlobalNav />
+
       <h2>年ごとのブックマーク数分布</h2>
 
       {loading && <p>データを読み込み中...</p>}
@@ -67,7 +70,6 @@ function HistogramView() {
 
       {histogramData && (
         <div className="histogram-container">
-          <h2>年ごとのブックマーク数分布</h2>
           <div className="year-details">
             {sortedValidYears.map((year) => (
               <YearCard key={year} year={year} data={histogramData[year]} />

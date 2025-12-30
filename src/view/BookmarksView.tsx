@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import "../App.css";
 import AmazonAssociate from "../components/AmazonAssociate";
+import { GlobalNav } from "../components/GlobalNav";
 
 interface BookmarkInfo {
   title: string;
@@ -70,6 +71,7 @@ function BookmarksView({ initialDate }: BookmarksProps) {
   return (
     <div className="app-container">
       <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <GlobalNav />
       {loading && <p className="bookmarks-loading">データを読み込み中...</p>}
       {error && <p className="bookmarks-error">エラー: {error}</p>}
       {!loading && !error && (
