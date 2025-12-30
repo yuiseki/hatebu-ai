@@ -24,7 +24,7 @@ interface ClusterSummary {
 const DATA_DIR = "./data/2025";
 
 const toColor = (cluster: number) => {
-  const hue = ((cluster * 37) % 360 + 360) % 360;
+  const hue = (((cluster * 37) % 360) + 360) % 360;
   return `hsl(${hue}, 65%, 45%)`;
 };
 
@@ -114,7 +114,9 @@ function ClusteringView() {
       const x = pad + ((p.umap_x - bounds.minX) / rangeX) * width;
       const y = pad + (1 - (p.umap_y - bounds.minY) / rangeY) * height;
       pointMapRef.current.push({ x, y, cluster: p.cluster, id: p.id });
-      ctx.fillStyle = `${toColor(p.cluster).replace("hsl", "hsla").replace(")", `, ${alpha})`)}`;
+      ctx.fillStyle = `${toColor(p.cluster)
+        .replace("hsl", "hsla")
+        .replace(")", `, ${alpha})`)}`;
       ctx.beginPath();
       ctx.arc(x, y, 2, 0, Math.PI * 2);
       ctx.fill();
@@ -165,7 +167,9 @@ function ClusteringView() {
   };
 
   const selectedSummary =
-    selectedCluster === null ? null : summaryByCluster.get(selectedCluster) || null;
+    selectedCluster === null
+      ? null
+      : summaryByCluster.get(selectedCluster) || null;
   const selectedItems = useMemo(() => {
     if (selectedCluster === null) return [];
     return points
@@ -175,7 +179,11 @@ function ClusteringView() {
 
   return (
     <div className="app-container clustering-container">
-      <h1><a className="bookmarks-title" href="./">ゆいせきのブックマーク</a></h1>
+      <h1>
+        <a className="bookmarks-title" href="./">
+          ゆいせきのブックマーク
+        </a>
+      </h1>
       <GlobalNav />
       <h2>埋め込みベクトルのクラスタリング</h2>
       {loading && <p>データを読み込み中...</p>}
@@ -187,7 +195,8 @@ function ClusteringView() {
             <div className="scatter-header">
               <div>UMAP散布図（KMeans）</div>
               <div className="scatter-meta">
-                {points.length.toLocaleString()} points / {summaries.length} clusters
+                {points.length.toLocaleString()} points / {summaries.length}{" "}
+                clusters
               </div>
             </div>
             <canvas
@@ -211,7 +220,24 @@ function ClusteringView() {
                   <ul className="cluster-items">
                     {selectedItems.map((item) => (
                       <li key={item.id}>
-                        <a href={item.link} target="_blank" rel="noopener noreferrer">
+                        <img
+                          className="bookmark-favicon"
+                          width={15}
+                          height={15}
+                          src={`https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=${(() => {
+                            try {
+                              return new URL(item.link).origin + "/";
+                            } catch {
+                              return "";
+                            }
+                          })()}`}
+                          alt="favicon"
+                        />
+                        <a
+                          href={item.link}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           {item.title}
                         </a>
                       </li>
@@ -219,7 +245,9 @@ function ClusteringView() {
                   </ul>
                 </>
               ) : (
-                <p className="cluster-empty">クラスタを選択すると詳細が表示されます。</p>
+                <p className="cluster-empty">
+                  クラスタを選択すると詳細が表示されます。
+                </p>
               )}
             </div>
           </div>
