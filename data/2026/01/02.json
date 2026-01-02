@@ -1,0 +1,157 @@
+[
+  {
+    "title": "GitHub - mimikousi/anomaly-detection_R: 入門 機械学習による異常検知：Rによる実践ガイド をPythonで実装",
+    "link": "https://github.com/mimikousi/anomaly-detection_R",
+    "date": "2026-01-02T12:11:24.000Z"
+  },
+  {
+    "title": "RAGの精度評価をRagasで自動化してみた 〜 いつまで「目視確認」で消耗してるの？",
+    "link": "https://zenn.dev/duo3/articles/6516058c60385b",
+    "date": "2026-01-02T11:46:22.000Z"
+  },
+  {
+    "title": "2025年、AIコーディングをガチって学んだこと10選｜makaneko",
+    "link": "https://note.com/makaneko_ai/n/n606488728c4e",
+    "date": "2026-01-02T11:46:16.000Z"
+  },
+  {
+    "title": "AGIは来ない、バブルは続かない──スタンフォード大 HAI研究所が示す2026年のAI、過剰期待の時代は終わり、評価フェーズへ | Ledge.ai",
+    "link": "https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase",
+    "date": "2026-01-02T11:46:03.000Z"
+  },
+  {
+    "title": "AutoMLでおせちの価格予測&GANで非実在おせちを作る - Qiita",
+    "link": "https://qiita.com/resnant/items/75543fb5047e90dd8202",
+    "date": "2026-01-02T11:27:23.000Z"
+  },
+  {
+    "title": "「DGX Spark」は現代の「Apple II」である",
+    "link": "https://ascii.jp/elem/000/004/363/4363744/",
+    "date": "2026-01-02T11:13:00.000Z"
+  },
+  {
+    "title": "Rust Atomics and Locks by Mara Bos",
+    "link": "https://marabos.nl/atomics/",
+    "date": "2026-01-02T11:08:30.000Z"
+  },
+  {
+    "title": "AIエージェント時代、正直しんどい話",
+    "link": "https://zenn.dev/ryo369/articles/d02561ddaacc62",
+    "date": "2026-01-02T10:26:55.000Z"
+  },
+  {
+    "title": "「想像を、そのまま音に。」頭の中のイメージを瞬時に具現化する次世代AI音楽プラットフォーム「MusicAI」提供開始",
+    "link": "https://prtimes.jp/main/html/rd/p/000000016.000153573.html",
+    "date": "2026-01-02T09:29:25.000Z"
+  },
+  {
+    "title": "Hilbert R-tree - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Hilbert_R-tree",
+    "date": "2026-01-02T07:02:30.000Z"
+  },
+  {
+    "title": "Z階数曲線 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/Z%E9%9A%8E%E6%95%B0%E6%9B%B2%E7%B7%9A",
+    "date": "2026-01-02T06:59:08.000Z"
+  },
+  {
+    "title": "OGC API - DGGS",
+    "link": "https://ogcapi.ogc.org/dggs/",
+    "date": "2026-01-02T06:57:47.000Z"
+  },
+  {
+    "title": "GitHub - opengeospatial/ogcapi-discrete-global-grid-systems: https://ogcapi.ogc.org/dggs",
+    "link": "https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems",
+    "date": "2026-01-02T06:57:37.000Z"
+  },
+  {
+    "title": "Discrete global grid - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Discrete_global_grid",
+    "date": "2026-01-02T06:57:17.000Z"
+  },
+  {
+    "title": "Discrete Global Grid System(DGGS) について調べた",
+    "link": "https://speakerdeck.com/kentarousuzuki/discrete-global-grid-system-dggs-nituitediao-beta",
+    "date": "2026-01-02T06:57:05.000Z"
+  },
+  {
+    "title": "S2 Geometry Libraryを利用し、ある地点の緯度経度よりその地点を含むS2セルを求める方法",
+    "link": "https://zenn.dev/yoshii0110/articles/8207e538276868",
+    "date": "2026-01-02T06:54:07.000Z"
+  },
+  {
+    "title": "ペアノ曲線 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E6%9B%B2%E7%B7%9A",
+    "date": "2026-01-02T06:52:18.000Z"
+  },
+  {
+    "title": "PMTiles version 3: Hilbert Tile IDs and Run-Length Encoding",
+    "link": "https://protomaps.com/blog/pmtiles-v3-hilbert-tile-ids/",
+    "date": "2026-01-02T06:47:32.000Z"
+  },
+  {
+    "title": "PGXN: PostgreSQL Extension Network",
+    "link": "https://pgxn.org/",
+    "date": "2026-01-02T05:38:28.000Z"
+  },
+  {
+    "title": "s2js",
+    "link": "https://s2js.org/",
+    "date": "2026-01-02T03:52:09.000Z"
+  },
+  {
+    "title": "PostGIS入門",
+    "link": "https://zenn.dev/boiledorange73/books/caea8d4c77dbba2e23a0",
+    "date": "2026-01-02T03:35:46.000Z"
+  },
+  {
+    "title": "GPU版PostGISとGiSTインデックス対応 - KaiGaiの俺メモ",
+    "link": "https://kaigai.hatenablog.com/entry/2020/12/05/155047",
+    "date": "2026-01-02T03:34:13.000Z"
+  },
+  {
+    "title": "RDBMS-GIS(MySQL,PostgreSQLなど) - Qiita Advent Calendar 2022 - Qiita",
+    "link": "https://qiita.com/advent-calendar/2022/rdbms_gis",
+    "date": "2026-01-02T03:33:38.000Z"
+  },
+  {
+    "title": "PostGISの空間検索速度とインデックスの話、あるいは&&のおまじないの現在について - Qiita",
+    "link": "https://qiita.com/myonyomu/items/020210925db919283e22",
+    "date": "2026-01-02T03:33:31.000Z"
+  },
+  {
+    "title": "北森瓦版 - 【メモ9】Windows 11 25H2をローカルアカウントでセットアップする",
+    "link": "https://northwood.blog.fc2.com/blog-entry-12943.html",
+    "date": "2026-01-02T02:31:17.000Z"
+  },
+  {
+    "title": "Maestro, End-to-End UI Testing for Mobile and Web",
+    "link": "https://maestro.dev/",
+    "date": "2026-01-02T02:22:21.000Z"
+  },
+  {
+    "title": "mapcn - Beautiful maps made simple",
+    "link": "https://mapcn.vercel.app/",
+    "date": "2026-01-02T01:56:35.000Z"
+  },
+  {
+    "title": "GitHub - timescale/pg-aiguide: MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+    "link": "https://github.com/timescale/pg-aiguide",
+    "date": "2026-01-02T01:48:51.000Z"
+  },
+  {
+    "title": "重さ1kg,SSD2台搭載可能で10万円ちょいの高コスパモバイルノート　Mechrevo機械革命　星耀(XingYao)14 　AMD Ryzen AI 9H 365/メモリ32G/SSD1T(追加でも｜TAKASU Masakazu",
+    "link": "https://note.com/takasu/n/nca9e6b98eac9",
+    "date": "2026-01-02T01:48:23.000Z"
+  },
+  {
+    "title": "星街すいせい「私たちが今、折れないことが本当に大事」　過渡期のVTuberシーンを背負って活動する覚悟",
+    "link": "https://realsound.jp/2026/01/post-2260772.html",
+    "date": "2026-01-01T22:13:51.000Z"
+  },
+  {
+    "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita",
+    "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63",
+    "date": "2026-01-01T21:52:34.000Z"
+  }
+]
