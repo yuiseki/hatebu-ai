@@ -1,0 +1,392 @@
+[
+  {
+    "title": "MapTask-Mie - 音声資源コンソーシアム",
+    "link": "https://research.nii.ac.jp/src/MapTask-Mie.html",
+    "date": "2026-01-30T10:55:28.000Z"
+  },
+  {
+    "title": "MapTask - 音声資源コンソーシアム",
+    "link": "https://research.nii.ac.jp/src/MapTask.html",
+    "date": "2026-01-30T10:54:27.000Z"
+  },
+  {
+    "title": "「嫌な仕事」「宿題」に取り組めない…京大が解明した脳神経回路「やる気ブレーキ」の正体",
+    "link": "https://www.sankei.com/article/20260130-I7UKEJIUFNMZTIYZN4V2BBGEH4/",
+    "date": "2026-01-30T10:35:38.000Z"
+  },
+  {
+    "title": "Nginx Ingress Controller完全に理解した",
+    "link": "https://zenn.dev/yusu29/articles/nginx_ingress_controller",
+    "date": "2026-01-30T07:25:30.000Z"
+  },
+  {
+    "title": "GitHub - gander-tools/osm-tagging-schema-mcp: MCP server providing OpenStreetMap tagging schema tools for AI assistants - validate tags, query values, search presets, and suggest improvements",
+    "link": "https://github.com/gander-tools/osm-tagging-schema-mcp",
+    "date": "2026-01-30T07:12:55.000Z"
+  },
+  {
+    "title": "Planet OSM",
+    "link": "https://planet.openstreetmap.org/",
+    "date": "2026-01-30T06:58:07.000Z"
+  },
+  {
+    "title": "GitHub - osmlab/name-suggestion-index: Canonical common brand names, operators, transit, and flags for OpenStreetMap.",
+    "link": "https://github.com/osmlab/name-suggestion-index",
+    "date": "2026-01-30T06:53:55.000Z"
+  },
+  {
+    "title": "Taginfo/Installation - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/Taginfo/Installation",
+    "date": "2026-01-30T06:50:41.000Z"
+  },
+  {
+    "title": "API Documentation | OpenStreetMap Taginfo",
+    "link": "https://taginfo.openstreetmap.org/taginfo/apidoc",
+    "date": "2026-01-30T06:47:39.000Z"
+  },
+  {
+    "title": "GitHub - osm-seed/osm-seed: A collection of Dockerfiles to run a containerized version of OpenStreetMap",
+    "link": "https://github.com/osm-seed/osm-seed",
+    "date": "2026-01-30T06:45:05.000Z"
+  },
+  {
+    "title": "GitHub - ucd-spatial/OsmSemanticNetwork: OpenStreetMap Semantic Network, extracted from the OpenStreetMap wiki website. The network is available in RDF.",
+    "link": "https://github.com/ucd-spatial/OsmSemanticNetwork",
+    "date": "2026-01-30T06:38:21.000Z"
+  },
+  {
+    "title": "OSM Semantic Network - OpenStreetMap Wiki",
+    "link": "https://wiki.openstreetmap.org/wiki/OSM_Semantic_Network",
+    "date": "2026-01-30T06:38:13.000Z"
+  },
+  {
+    "title": "GitHub - geometalab/OSMTagFinder: Web search engine for OpenStreetMap tags similar to taginfo but simpler.",
+    "link": "https://github.com/geometalab/OSMTagFinder",
+    "date": "2026-01-30T06:31:24.000Z"
+  },
+  {
+    "title": "GitHub - openstreetmap/id-tagging-schema: 🆔🏷 The presets and other tagging data used by the iD editor",
+    "link": "https://github.com/openstreetmap/id-tagging-schema",
+    "date": "2026-01-30T06:31:15.000Z"
+  },
+  {
+    "title": "OSM TagFinder",
+    "link": "https://tagfinder.osm.ch/apidoc",
+    "date": "2026-01-30T06:29:51.000Z"
+  },
+  {
+    "title": "OSM TagFinder",
+    "link": "https://tagfinder.osm.ch/",
+    "date": "2026-01-30T06:29:19.000Z"
+  },
+  {
+    "title": "OpenStreetMap",
+    "link": "https://wiki.openstreetmap.org/wiki/Main_Page",
+    "date": "2026-01-30T06:27:17.000Z"
+  },
+  {
+    "title": "Installing kubeadm - Kubernetes",
+    "link": "https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/",
+    "date": "2026-01-30T00:53:29.000Z"
+  },
+  {
+    "title": "kubeadmを使用したクラスターの作成",
+    "link": "https://kubernetes.io/ja/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/",
+    "date": "2026-01-30T00:53:20.000Z"
+  },
+  {
+    "title": "G・エリオット・モリス「アメリカ人はトランプへの支持を撤回した」（2026年1月23日）",
+    "link": "https://econ101.jp/the-consent-of-the-governed-has-been-withdrawn/",
+    "date": "2026-01-30T00:36:55.000Z"
+  },
+  {
+    "title": "レジなしスーパー「Amazon Go」全店閉鎖へ　収益モデル確立できず",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news083.html",
+    "date": "2026-01-30T00:35:56.000Z"
+  },
+  {
+    "title": "OGC forms new GeoZarr Standards Working Group to establish a Zarr encoding for geospatial data - Open Geospatial Consortium",
+    "link": "https://www.ogc.org/announcement/ogc-forms-new-geozarr-standards-working-group-to-establish-a-zarr-encoding-for-geospatial-data/",
+    "date": "2026-01-30T00:10:16.000Z"
+  },
+  {
+    "title": "気象データをZarrに変換して風を可視化する",
+    "link": "https://zenn.dev/mierune/articles/bf217beb554da0",
+    "date": "2026-01-30T00:10:04.000Z"
+  },
+  {
+    "title": "GeoZarr examples",
+    "link": "https://developmentseed.org/geozarr-examples/",
+    "date": "2026-01-30T00:09:57.000Z"
+  },
+  {
+    "title": "Introduction to Zarr",
+    "link": "https://tutorial.xarray.dev/intermediate/intro-to-zarr.html",
+    "date": "2026-01-30T00:09:32.000Z"
+  },
+  {
+    "title": "Zarr Encoding Specification",
+    "link": "https://docs.xarray.dev/en/latest/internals/zarr-encoding-spec.html",
+    "date": "2026-01-30T00:09:31.000Z"
+  },
+  {
+    "title": "xarrayでZarrを読み込む、書き込む - Qiita",
+    "link": "https://qiita.com/tkmim/items/4166cace12fa2b9e96e2",
+    "date": "2026-01-30T00:09:28.000Z"
+  },
+  {
+    "title": "GitHub - pydata/xarray: N-D labeled arrays and datasets in Python",
+    "link": "https://github.com/pydata/xarray",
+    "date": "2026-01-30T00:09:25.000Z"
+  },
+  {
+    "title": "Xarray documentation",
+    "link": "https://docs.xarray.dev/en/stable/",
+    "date": "2026-01-30T00:09:12.000Z"
+  },
+  {
+    "title": "CustomLayerInterface - MapLibre GL JS",
+    "link": "https://maplibre.org/maplibre-gl-js/docs/API/interfaces/CustomLayerInterface/",
+    "date": "2026-01-29T23:58:03.000Z"
+  },
+  {
+    "title": "GitHub - developmentseed/deck.gl-raster: Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl",
+    "link": "https://github.com/developmentseed/deck.gl-raster",
+    "date": "2026-01-29T23:57:59.000Z"
+  },
+  {
+    "title": "GitHub - carbonplan/maps: interactive multi-dimensional data-driven web maps",
+    "link": "https://github.com/carbonplan/maps",
+    "date": "2026-01-29T23:57:53.000Z"
+  },
+  {
+    "title": "GitHub - NOC-OI/zarr-cesium: CesiumJS providers for interactive 2D and 3D visualization of environmental and geospatial data stored in Zarr.",
+    "link": "https://github.com/NOC-OI/zarr-cesium",
+    "date": "2026-01-29T23:57:51.000Z"
+  },
+  {
+    "title": "Zarr Developers",
+    "link": "https://github.com/zarr-developers",
+    "date": "2026-01-29T23:57:41.000Z"
+  },
+  {
+    "title": "GitHub - carderne/zarr-gl: Custom WebGL Zarr layer for Mapbox and Maplibre",
+    "link": "https://github.com/carderne/zarr-gl",
+    "date": "2026-01-29T23:57:23.000Z"
+  },
+  {
+    "title": "GitHub - carbonplan/zarr-layer: flexible zarr rendering for maplibre and mapbox maps",
+    "link": "https://github.com/carbonplan/zarr-layer",
+    "date": "2026-01-29T23:56:56.000Z"
+  },
+  {
+    "title": "Zarr (data format) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Zarr_(data_format)",
+    "date": "2026-01-29T23:56:42.000Z"
+  },
+  {
+    "title": "Fused × Zarr：全球データをブラウザで動かす仕組み - Pacific Spatial Solutions株式会社 （PSS）",
+    "link": "https://pacificspatial.com/fused/3003/",
+    "date": "2026-01-29T23:56:34.000Z"
+  },
+  {
+    "title": "Zarr",
+    "link": "https://zarr.dev/",
+    "date": "2026-01-29T23:56:26.000Z"
+  },
+  {
+    "title": "エプソン販売、問い合わせフォーム不具合で5年近く回答できず　設定ミスが原因",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news094.html",
+    "date": "2026-01-29T23:53:35.000Z"
+  },
+  {
+    "title": "Googleが開発中のPC向けOS「Aluminium OS」の見た目をうっかり漏らしてしまう",
+    "link": "https://gigazine.net/news/20260129-google-pc-aluminium-os/",
+    "date": "2026-01-29T23:53:15.000Z"
+  },
+  {
+    "title": "米防衛テック・アンドゥリルは、なぜ秋田の未上場モーター会社を選んだのか | 実業之日本フォーラム",
+    "link": "https://forum.j-n.co.jp/narrative/9160/",
+    "date": "2026-01-29T23:52:23.000Z"
+  },
+  {
+    "title": "GitHub - lukilabs/beautiful-mermaid",
+    "link": "https://github.com/lukilabs/beautiful-mermaid",
+    "date": "2026-01-29T23:52:22.000Z"
+  },
+  {
+    "title": "Tesla、「モデルS」「モデルX」生産終了　空いた工場で人型ロボ「Optimus」大量生産へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news105.html",
+    "date": "2026-01-29T23:52:15.000Z"
+  },
+  {
+    "title": "アスクル、ランサム攻撃で66億円の赤字に　30日から復活セール",
+    "link": "https://www.watch.impress.co.jp/docs/news/2081946.html",
+    "date": "2026-01-29T23:52:09.000Z"
+  },
+  {
+    "title": "日本の選挙介入の拠点の一部となっていた中華ボットネット群、Googleさんに潰される | 山本一郎（やまもといちろう） / マイノート by 夜間飛行",
+    "link": "https://note.yakan-hiko.com/n/1LzwmoEWB7",
+    "date": "2026-01-29T23:51:55.000Z"
+  },
+  {
+    "title": "開発者が知っておくべきPostgreSQLパフォーマンス改善Tips 入門10選",
+    "link": "https://zenn.dev/gizmo/articles/f61b3e999a5137",
+    "date": "2026-01-29T23:51:38.000Z"
+  },
+  {
+    "title": "ハッブル宇宙望遠鏡の画像アーカイブ1億枚をAIがわずか2.5日で解析して異常天体1300個超が確認される",
+    "link": "https://gigazine.net/news/20260129-hubble-archive-ai-anomaly-match-discover/",
+    "date": "2026-01-29T23:51:33.000Z"
+  },
+  {
+    "title": "「Gemini in Chrome」が強化 ～表示中の画像をAI加工、エージェントがブラウザ操作する「自動ブラウズ」、Googleアプリ連携など／米国で展開、サイドパネルも強化",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2081739.html",
+    "date": "2026-01-29T23:51:27.000Z"
+  },
+  {
+    "title": "Antigravityで大人のLP開発",
+    "link": "https://zenn.dev/xxishan/articles/7686830bf5eeaf",
+    "date": "2026-01-29T23:51:19.000Z"
+  },
+  {
+    "title": "「メモ帳」の対応で脚光を浴びるMarkdown　AI時代の“文書共有のスタンダード”になるか",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news056.html",
+    "date": "2026-01-29T23:51:05.000Z"
+  },
+  {
+    "title": "VS Code + GitHub Copilotで「”半自動”マルチエージェント」開発をやってみた",
+    "link": "https://zenn.dev/jins/articles/25900be95ab8b8",
+    "date": "2026-01-29T23:50:35.000Z"
+  },
+  {
+    "title": "【速報】東京・台東区で現金4億円超の強盗か（2026年1月29日掲載）｜日テレNEWS NNN",
+    "link": "https://news.ntv.co.jp/category/society/2c40bfad907e463d8caa717d1efb2ab4",
+    "date": "2026-01-29T23:50:19.000Z"
+  },
+  {
+    "title": "Beautiful Mermaid",
+    "link": "https://agents.craft.do/mermaid",
+    "date": "2026-01-29T23:50:17.000Z"
+  },
+  {
+    "title": "【続】Claude Codeマルチエージェント：v1.1.0で家老が切腹しかけた話",
+    "link": "https://zenn.dev/shio_shoppaize/articles/8870bbf7c14c22",
+    "date": "2026-01-29T23:49:45.000Z"
+  },
+  {
+    "title": "Claude Codeで5分でずんだもん解説動画を作る！｜Naoki |電電猫猫",
+    "link": "https://note.com/electrical_cat/n/n9be53194cb5c",
+    "date": "2026-01-29T23:49:28.000Z"
+  },
+  {
+    "title": "格安Gemini新プランGoogle AI Plus月額1,200円来た！ でも一番のお得プランは隠されてた!?｜にゃ～の♪/姫神梓",
+    "link": "https://note.com/nyano_vr/n/n143f9318ba47",
+    "date": "2026-01-29T23:48:05.000Z"
+  },
+  {
+    "title": "スペイン左派政権、不法移民50万人を合法化 他の欧州諸国と逆行",
+    "link": "https://www.afpbb.com/articles/-/3619722",
+    "date": "2026-01-29T23:48:02.000Z"
+  },
+  {
+    "title": "偽造マイナカード１６８枚で銀行口座を開設、金融機関などから６億円詐取した疑い…男４人を逮捕",
+    "link": "https://www.yomiuri.co.jp/national/20260128-GYT1T00134/",
+    "date": "2026-01-29T23:47:36.000Z"
+  },
+  {
+    "title": "偽造マイナンバーカードで口座開設 約6億円分不正使用か | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015037461000",
+    "date": "2026-01-29T23:47:32.000Z"
+  },
+  {
+    "title": "肥満症薬で乗客軽く、米航空会社に上昇気流　燃費低減の思わぬ恩恵 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN210070R20C26A1000000/",
+    "date": "2026-01-29T23:47:31.000Z"
+  },
+  {
+    "title": "コロプラ、“位置ゲー”向け地図配信サービスを内製　「将来の競争力強化に」",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/28/news075.html",
+    "date": "2026-01-29T23:46:31.000Z"
+  },
+  {
+    "title": "Agentation",
+    "link": "https://agentation.dev/",
+    "date": "2026-01-29T23:46:15.000Z"
+  },
+  {
+    "title": "SQLiteが泣きたくなるほど遅い場合の対処法 - Qiita",
+    "link": "https://qiita.com/koizumistr/items/d81f121ef3566e9fcd10",
+    "date": "2026-01-29T23:46:07.000Z"
+  },
+  {
+    "title": "マイルドな文体に自動変換、アバターに託して書ける匿名日記サービスが「はてな」から登場【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2081372.html",
+    "date": "2026-01-29T23:45:43.000Z"
+  },
+  {
+    "title": "JAXAが公開したMCPサーバーを触ってみる",
+    "link": "https://zenn.dev/ra0kley/articles/cb2fc726f167da",
+    "date": "2026-01-29T23:44:59.000Z"
+  },
+  {
+    "title": "The Voyage 4 model family: shared embedding space with MoE architecture",
+    "link": "https://blog.voyageai.com/2026/01/15/voyage-4/",
+    "date": "2026-01-29T23:44:36.000Z"
+  },
+  {
+    "title": "「GPT-5.2」＋「LaTeX」＝「Prism」、OpenAIが科学論文執筆環境を発表、利用は無料／共同作業者の数に制限なし",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2081315.html",
+    "date": "2026-01-29T23:44:30.000Z"
+  },
+  {
+    "title": "Gemini 3 Flashに高精度な画像理解機能「Agentic Vision」が追加される、コードを実行して画像に枠線などを描画しながら細かい理解が可能",
+    "link": "https://gigazine.net/news/20260128-agentic-vision-gemini-3-flash/",
+    "date": "2026-01-29T23:44:27.000Z"
+  },
+  {
+    "title": "2026年のローカルLLM事情を整理してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/local-llm-guide-2026/",
+    "date": "2026-01-29T23:39:47.000Z"
+  },
+  {
+    "title": "Del.icio.us - Wikipedia, the free encyclopedia",
+    "link": "https://en.wikipedia.org/wiki/Delicious_(website)",
+    "date": "2026-01-29T23:39:02.000Z"
+  },
+  {
+    "title": "ollama launch · Ollama Blog",
+    "link": "https://ollama.com/blog/launch",
+    "date": "2026-01-29T23:33:44.000Z"
+  },
+  {
+    "title": "【神アプデ】ollama launch で全てが変わった。1コマンドでAIコーディング環境が完成する狂気 - Qiita",
+    "link": "https://qiita.com/emi_ndk/items/b79a184560cacc7439d1",
+    "date": "2026-01-29T23:31:29.000Z"
+  },
+  {
+    "title": "台東区東上野の繁華街路上で強盗、中国人らが現金４億２０００万円奪われたか…近くでひき逃げ事件も",
+    "link": "https://www.yomiuri.co.jp/national/20260130-GYT1T00038/",
+    "date": "2026-01-29T22:29:48.000Z"
+  },
+  {
+    "title": "GitHub - microsoft/bf-tree: Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.",
+    "link": "https://github.com/microsoft/bf-tree",
+    "date": "2026-01-29T22:26:31.000Z"
+  },
+  {
+    "title": "Mermaid ASCII",
+    "link": "https://mermaid-ascii.art/",
+    "date": "2026-01-29T22:25:53.000Z"
+  },
+  {
+    "title": "車内で Gemini とチャットする - Gemini アプリ ヘルプ",
+    "link": "https://support.google.com/gemini/answer/16735982?hl=ja",
+    "date": "2026-01-29T21:58:01.000Z"
+  },
+  {
+    "title": "車に話しかけたらGeminiが返事してくれるようになった - hitode909の日記",
+    "link": "https://blog.sushi.money/entry/2026/01/28/235900",
+    "date": "2026-01-29T21:57:12.000Z"
+  }
+]
