@@ -1,0 +1,147 @@
+[
+  {
+    "title": "TiDB移行、アプリケーションチームはどうする？",
+    "link": "https://zenn.dev/levtech/articles/my-first-database-migration-project",
+    "date": "2026-02-14T08:57:20.000Z"
+  },
+  {
+    "title": "不可視の選択肢：なぜ働いていると国家を打倒できなくなるのか｜遊星歯車機関",
+    "link": "https://note.com/planetary_gear/n/n10880d4312be",
+    "date": "2026-02-14T08:55:50.000Z"
+  },
+  {
+    "title": "FocuSee - Turn Screen Recordings into Eye-Catching Videos Automatically",
+    "link": "https://focusee.imobie.com/",
+    "date": "2026-02-14T08:53:52.000Z"
+  },
+  {
+    "title": "最新｜ビタミンDの抗がん効果を左右する鍵は「ビタミンA」にあり：慈恵医大が解明｜Hirokazu",
+    "link": "https://note.com/hirokazumineral/n/n42e74eabd690",
+    "date": "2026-02-14T08:52:30.000Z"
+  },
+  {
+    "title": "Elasticsearchのインデキシングから検索までの仕組みを図解してみた - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/02/12/131403",
+    "date": "2026-02-14T08:51:04.000Z"
+  },
+  {
+    "title": "Boris Tane",
+    "link": "https://boristane.com/blog/how-i-use-claude-code/",
+    "date": "2026-02-14T08:50:57.000Z"
+  },
+  {
+    "title": "AIコーディングのベストプラクティスを読み漁って分かった、本当に重要な4つの原則",
+    "link": "https://zenn.dev/epicai_techblog/articles/7bf1e878061ef5",
+    "date": "2026-02-14T08:50:46.000Z"
+  },
+  {
+    "title": "chrome で見たページの履歴を全てとっておく Archivist というツールを作った - tokuhirom's blog",
+    "link": "https://blog.64p.org/entry/2026/02/13/092448",
+    "date": "2026-02-14T08:50:25.000Z"
+  },
+  {
+    "title": "量子パズル？ 最新アプリ QA²を早速遊んでみた - Qiita",
+    "link": "https://qiita.com/notori48/items/315e32e025ab2e021b86",
+    "date": "2026-02-14T08:50:17.000Z"
+  },
+  {
+    "title": "品質工学入門（23）直交表を使った「最強のバグ出し」〜組み合わせテストを減らせる技術〜｜Macro-k",
+    "link": "https://note.com/macrok/n/n443f9f39d0db",
+    "date": "2026-02-14T08:49:46.000Z"
+  },
+  {
+    "title": "Native Geospatial Types in Apache Parquet",
+    "link": "https://parquet.apache.org/blog/2026/02/13/native-geospatial-types-in-apache-parquet/",
+    "date": "2026-02-14T08:49:10.000Z"
+  },
+  {
+    "title": "VSCodeでPostgreSQLをデバッグする",
+    "link": "https://zenn.dev/dltk/articles/221d036fa4c8ab",
+    "date": "2026-02-14T08:46:31.000Z"
+  },
+  {
+    "title": "GPT OSS WebGPU - a Hugging Face Space by webml-community",
+    "link": "https://huggingface.co/spaces/webml-community/GPT-OSS-WebGPU",
+    "date": "2026-02-14T08:45:43.000Z"
+  },
+  {
+    "title": "技術負債も理解負債も生まないAIコーディング手法（2026年2月現在）",
+    "link": "https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices",
+    "date": "2026-02-14T08:45:03.000Z"
+  },
+  {
+    "title": "温故知新なUIデザイン｜Nob NUKUI | THE GUILD",
+    "link": "https://note.com/nobtaka/n/ne81df3261a37",
+    "date": "2026-02-14T08:44:31.000Z"
+  },
+  {
+    "title": "Rails 8.1 + Ruby 4.0.1で作り直したenno.jpアプリをfly.ioでリリースしました｜TechRacho by BPS株式会社",
+    "link": "https://techracho.bpsinc.jp/hachi8833/2026_02_13/156462",
+    "date": "2026-02-14T08:44:27.000Z"
+  },
+  {
+    "title": "Anthropic、「Claude」無料版を大幅拡充　競合ChatGPTが広告導入の直後",
+    "link": "https://japan.cnet.com/article/35243823/",
+    "date": "2026-02-14T08:43:33.000Z"
+  },
+  {
+    "title": "Cloudflare、「Markdown for Agents」を発表 ——エージェント向けにウェブページのHTMLをオンザフライでMarkdownに変換 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/02/cloudflare-markdown-for-agents",
+    "date": "2026-02-14T08:43:30.000Z"
+  },
+  {
+    "title": "ABEMAのリアルタイム基盤紹介 | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/61806/",
+    "date": "2026-02-14T08:43:24.000Z"
+  },
+  {
+    "title": "セガサミー、「Angry Birds」で約313億円の減損　通期予想は最終赤字に転落",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/13/news094.html",
+    "date": "2026-02-14T08:43:22.000Z"
+  },
+  {
+    "title": "武蔵小杉病院、ナースコールがランサムウェアの餌食に　患者1万人の個人情報が漏えい",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/13/news115.html",
+    "date": "2026-02-14T08:40:59.000Z"
+  },
+  {
+    "title": "旧世界秩序は「もはや存在せず」、欧米の指導者らが見解一致",
+    "link": "https://www.cnn.co.jp/world/35243888.html",
+    "date": "2026-02-14T08:35:45.000Z"
+  },
+  {
+    "title": "コンテナセキュリティの最新事情 ~ 2026年版 ~",
+    "link": "https://speakerdeck.com/kyohmizu/kontenasekiyuriteinozui-xin-shi-qing-2026nian-ban",
+    "date": "2026-02-14T07:40:25.000Z"
+  },
+  {
+    "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+    "link": "https://www.yomiuri.co.jp/national/20260213-GYT1T00579/",
+    "date": "2026-02-14T07:19:17.000Z"
+  },
+  {
+    "title": "養蜂 - Rust Japan Wiki",
+    "link": "https://rust-japan.game-info.wiki/d/%CD%DC%CB%AA",
+    "date": "2026-02-14T06:57:34.000Z"
+  },
+  {
+    "title": "GitHub - softmatcha/softmatcha2: A fast and soft pattern search for trillion-scale corpora.",
+    "link": "https://github.com/softmatcha/softmatcha2",
+    "date": "2026-02-14T06:55:31.000Z"
+  },
+  {
+    "title": "GitHub - ochyai/open-japan-politech-platform: 政党・企業によらない政治のデジタル化オープンソース基盤",
+    "link": "https://github.com/ochyai/open-japan-politech-platform",
+    "date": "2026-02-14T06:55:00.000Z"
+  },
+  {
+    "title": "GitHub - koala73/worldmonitor: Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "link": "https://github.com/koala73/worldmonitor",
+    "date": "2026-02-14T02:43:11.000Z"
+  },
+  {
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "date": "2026-02-14T02:39:56.000Z"
+  }
+]
