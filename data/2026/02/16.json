@@ -1,0 +1,122 @@
+[
+  {
+    "title": "グーグル「Gemini」の複製を狙う攻撃が判明、10万回超のプロンプトを浴びせる事案も",
+    "link": "https://japan.cnet.com/article/35243857/",
+    "date": "2026-02-16T07:57:55.000Z"
+  },
+  {
+    "title": "【DB】id を作成する際に意識した3つのチェックポイントと、文字列 id は ULID or UUID v7 がおすすめという話",
+    "link": "https://zenn.dev/manase/articles/c5298339170932",
+    "date": "2026-02-16T04:55:26.000Z"
+  },
+  {
+    "title": "七夕だからUUID v7について語る - Qiita",
+    "link": "https://qiita.com/cvusk/items/b21f4847ac09eeb7fe5c",
+    "date": "2026-02-16T04:54:53.000Z"
+  },
+  {
+    "title": "OTelBench - OpenTelemetry AI Benchmark",
+    "link": "https://quesma.com/benchmarks/otel/",
+    "date": "2026-02-16T02:10:06.000Z"
+  },
+  {
+    "title": "人を動かすハッカーの技術：ソーシャルエンジニアリングの実践と防御 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15436-3",
+    "date": "2026-02-16T02:09:33.000Z"
+  },
+  {
+    "title": "Claude CodeのAgent Teamのトークン消費量を半分以下に抑える方法（lead以外をGLM-5に委譲する方法）",
+    "link": "https://zenn.dev/sh1ma/articles/b6719fa5fec00c",
+    "date": "2026-02-16T02:08:57.000Z"
+  },
+  {
+    "title": "コロンビア大からチームみらいを経て、地元の住民会議の現場で「喧嘩をしやすくするAI」を作っている話｜Bluemo",
+    "link": "https://note.com/bluemo/n/n16b3502dfad6",
+    "date": "2026-02-16T02:08:19.000Z"
+  },
+  {
+    "title": "電話番号に基づく地理的な関連付けについて - Qiita",
+    "link": "https://qiita.com/phase-d/items/9a6814304e407887d0e7",
+    "date": "2026-02-16T02:08:07.000Z"
+  },
+  {
+    "title": "GitHub - DataDog/pg_tracing: Distributed Tracing for PostgreSQL",
+    "link": "https://github.com/DataDog/pg_tracing",
+    "date": "2026-02-16T02:06:01.000Z"
+  },
+  {
+    "title": "SaaS提供企業における顧客企業入力データのAI学習利用 - 思い出したいことがある",
+    "link": "https://www.seko-law.com/entry/2026/02/15/152816",
+    "date": "2026-02-16T02:05:46.000Z"
+  },
+  {
+    "title": "Qast｜AIナレッジプラットフォーム｜AI × 社内のナレッジで、みんなの業務が動き出す。",
+    "link": "https://qast.jp/",
+    "date": "2026-02-16T02:03:41.000Z"
+  },
+  {
+    "title": "markdown.new - Markdown for Agents",
+    "link": "https://markdown.new/",
+    "date": "2026-02-16T02:02:12.000Z"
+  },
+  {
+    "title": "SakanaAI/Kamon · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/SakanaAI/Kamon",
+    "date": "2026-02-16T02:02:08.000Z"
+  },
+  {
+    "title": "Java (Spring Boot) 開発者が爆速開発可能なRailsと比較してみた - Qiita",
+    "link": "https://qiita.com/yut-nagase/items/039a1eb3108926c232a7",
+    "date": "2026-02-16T02:01:11.000Z"
+  },
+  {
+    "title": "OpenClaw, OpenAI and the future | Peter Steinberger",
+    "link": "https://steipete.me/posts/2026/openclaw",
+    "date": "2026-02-16T02:00:52.000Z"
+  },
+  {
+    "title": "『オメガブースト』が私にとっての史上最高のロボ宇宙戦闘ゲームである理由【オリーさんのロボゲーコラム】 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "link": "https://www.gamespark.jp/article/2026/02/15/162815.html",
+    "date": "2026-02-16T02:00:45.000Z"
+  },
+  {
+    "title": "GitHub、YAMLではなく自然言語でビルドやデプロイなどのワークフローを記述できる「GitHub Agentic Workflows」テクニカルプレビュー",
+    "link": "https://www.publickey1.jp/blog/26/githubyamlgithub_agentic_workflows.html",
+    "date": "2026-02-16T01:59:55.000Z"
+  },
+  {
+    "title": "microgpt",
+    "link": "https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95",
+    "date": "2026-02-16T01:59:47.000Z"
+  },
+  {
+    "title": "useEffect で API を叩くのを卒業しよう",
+    "link": "https://zenn.dev/ashunar0/articles/32419c3c60cc53",
+    "date": "2026-02-16T01:59:37.000Z"
+  },
+  {
+    "title": "Claude Code / Codex / Gemini CLI — Skills 機能比較まとめ",
+    "link": "https://zenn.dev/hiraoku/articles/e3f750a9fe96dc",
+    "date": "2026-02-16T01:57:09.000Z"
+  },
+  {
+    "title": "ソニーグループ、作曲AIの学習データを特定　創作者への対価算出可能に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN070LT0X00C26A2000000/",
+    "date": "2026-02-16T01:56:40.000Z"
+  },
+  {
+    "title": "3年間凍結されていたTwitter（X）アカウントがBBB（米国ビジネス改善協会）への申し立てであっさり復活した話｜ししかわ",
+    "link": "https://note.com/stack_chan/n/nfea877fdddc5",
+    "date": "2026-02-16T01:56:20.000Z"
+  },
+  {
+    "title": "Welcome to Johnny's World",
+    "link": "https://marler8997.github.io/blog/fixed-windows/",
+    "date": "2026-02-16T01:54:09.000Z"
+  },
+  {
+    "title": "AIモデルを取り巻く4つの脅威 ― 進化する攻撃と防御の最前線",
+    "link": "https://www.idnet.co.jp/column/page_410.html",
+    "date": "2026-02-16T00:21:05.000Z"
+  }
+]
