@@ -1,0 +1,107 @@
+[
+  {
+    "title": "クリエイティブ・コモンズはAIモデルやAI出力にどのように影響を及ぼすか？",
+    "link": "https://shujisado.com/2026/02/16/tracing-creative-commons-across-ai/",
+    "date": "2026-02-17T09:06:18.000Z"
+  },
+  {
+    "title": "Codex CLI は Agent Skills をどう実装してるのか",
+    "link": "https://zenn.dev/takiko/articles/codex-cli-agent-skills-implementation",
+    "date": "2026-02-17T04:43:48.000Z"
+  },
+  {
+    "title": "Ralph Loop – Claude Plugin | Anthropic",
+    "link": "https://claude.com/ja-jp/plugins/ralph-loop",
+    "date": "2026-02-17T04:30:45.000Z"
+  },
+  {
+    "title": "GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+    "link": "https://github.com/snarktank/ralph",
+    "date": "2026-02-17T04:30:38.000Z"
+  },
+  {
+    "title": "Claude Code「ralph-loop」解説｜hirokaji",
+    "link": "https://note.com/tasty_dunlin998/n/n411f62ec3c26",
+    "date": "2026-02-17T04:30:33.000Z"
+  },
+  {
+    "title": "寝ている間にAIがコードを書いてくれるralph loopを簡単に試せるようにした",
+    "link": "https://zenn.dev/syuya2036/articles/ralph-agent-loop",
+    "date": "2026-02-17T04:30:26.000Z"
+  },
+  {
+    "title": "Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した",
+    "link": "https://zenn.dev/owayo/articles/63d325934ba0de",
+    "date": "2026-02-17T04:28:47.000Z"
+  },
+  {
+    "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】 - Qiita",
+    "link": "https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24",
+    "date": "2026-02-17T04:28:24.000Z"
+  },
+  {
+    "title": "衛星画像即時マッピングサービスの実現に向けて",
+    "link": "https://speakerdeck.com/lehupa/realtime-ai-service-of-satellite-imagery",
+    "date": "2026-02-17T04:28:14.000Z"
+  },
+  {
+    "title": "OpenStreetMap開発の舞台裏を知る 〜マッパーズサミット2026レポート〜 | さくらのナレッジ",
+    "link": "https://knowledge.sakura.ad.jp/49616/",
+    "date": "2026-02-17T04:27:20.000Z"
+  },
+  {
+    "title": "OAM Meta Dashboard",
+    "link": "https://hfu.github.io/oam-meta-dashboard/",
+    "date": "2026-02-17T03:45:44.000Z"
+  },
+  {
+    "title": "https://openai.com/index/harness-engineering/",
+    "link": "https://openai.com/index/harness-engineering/",
+    "date": "2026-02-17T03:26:14.000Z"
+  },
+  {
+    "title": "GitHub - gemini-cli-extensions/code-review: Google's Code Review extension for the Gemini CLI that reviews your code changes",
+    "link": "https://github.com/gemini-cli-extensions/code-review",
+    "date": "2026-02-17T00:54:03.000Z"
+  },
+  {
+    "title": "地理空間データを異種GNN向けのグラフ表現に変換するPythonライブラリを作ったらバズった",
+    "link": "https://zenn.dev/yutasato/articles/9d7994dc53d378",
+    "date": "2026-02-17T00:10:04.000Z"
+  },
+  {
+    "title": "トランプの暴走を止める方法は「抗議」ではなく「サブスクの解約」である（クーリエ・ジャポン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/9f49f88f7b83dd28916ace360afb38e053cbd3ee",
+    "date": "2026-02-17T00:09:44.000Z"
+  },
+  {
+    "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support",
+    "link": "https://biomejs.dev/blog/biome-v2-4/",
+    "date": "2026-02-17T00:03:09.000Z"
+  },
+  {
+    "title": "【物体検出手法の歴史 : YOLOの紹介】 - Qiita",
+    "link": "https://qiita.com/cv_carnavi/items/68dcda71e90321574a2b",
+    "date": "2026-02-17T00:01:30.000Z"
+  },
+  {
+    "title": "VTuber「ぶいすぽっ！」、性的イラストの作成者を特定　損害賠償1000万円を求め、示談成立",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news130.html",
+    "date": "2026-02-17T00:01:10.000Z"
+  },
+  {
+    "title": "King　Gnuが異例の発表　全国ツアーで公演中の撮影を全編許可　常田大希が理由説明「日本は厳しい」 - スポニチ Sponichi Annex 芸能",
+    "link": "https://www.sponichi.co.jp/entertainment/news/2026/02/16/articles/20260216s00041000021000c.html",
+    "date": "2026-02-17T00:00:40.000Z"
+  },
+  {
+    "title": "S3 Vectors と Bedrock で、サーバーレスなお手軽セマンティック検索基盤を構築してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/s3-vectors-bedrock-semantic-search/",
+    "date": "2026-02-17T00:00:08.000Z"
+  },
+  {
+    "title": "SkillsBench — AI Agent Skills Benchmark & Evaluation",
+    "link": "https://www.skillsbench.ai/blogs/introducing-skillsbench",
+    "date": "2026-02-16T23:59:30.000Z"
+  }
+]
