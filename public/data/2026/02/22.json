@@ -1,0 +1,347 @@
+[
+  {
+    "title": "Mac用ローカルLLM翻訳アプリ：シャンポリオンデック公開｜藤井太洋",
+    "link": "https://note.com/t_trace/n/n44e4dca5dd45",
+    "date": "2026-02-22T12:33:27.000Z"
+  },
+  {
+    "title": "GitHub - EverMind-AI/EverMemOS: Long-term memory OS for your agents across LLMs and platforms.",
+    "link": "https://github.com/EverMind-AI/EverMemOS",
+    "date": "2026-02-22T12:07:51.000Z"
+  },
+  {
+    "title": "支援先のQAチームにClaude Codeを導入してテストケース生成を自動化した話",
+    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation",
+    "date": "2026-02-22T12:02:14.000Z"
+  },
+  {
+    "title": "GitHub - Robbyant/lingbot-world: Advancing Open-source World Models",
+    "link": "https://github.com/Robbyant/lingbot-world",
+    "date": "2026-02-22T12:02:05.000Z"
+  },
+  {
+    "title": "nanoclaw/.claude/skills at main · qwibitai/nanoclaw",
+    "link": "https://github.com/qwibitai/nanoclaw/tree/main/.claude/skills",
+    "date": "2026-02-22T11:33:52.000Z"
+  },
+  {
+    "title": "cmux — The terminal built for multitasking",
+    "link": "https://www.cmux.dev/",
+    "date": "2026-02-22T11:33:19.000Z"
+  },
+  {
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "date": "2026-02-22T11:33:12.000Z"
+  },
+  {
+    "title": "数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった",
+    "link": "https://zenn.dev/kozoka_ai/articles/4041c910f6280e",
+    "date": "2026-02-22T11:32:50.000Z"
+  },
+  {
+    "title": "10年前に予測されていた「なくなるとされた仕事」について、一次ソースを用いて深掘りしてみる｜破綻国家研究所",
+    "link": "https://note.com/hatankokka/n/nb21e45b658b4",
+    "date": "2026-02-22T11:32:39.000Z"
+  },
+  {
+    "title": "「にゃんこ大戦争」インフラ“大引っ越し”の理由　なぜAWSからGoogle Cloudに？",
+    "link": "https://techtarget.itmedia.co.jp/tt/news/2602/21/news01.html",
+    "date": "2026-02-22T11:32:34.000Z"
+  },
+  {
+    "title": "新デザインツールPencilはなぜエンジニアに刺さるのか",
+    "link": "https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it",
+    "date": "2026-02-22T11:32:31.000Z"
+  },
+  {
+    "title": "プログラミング言語オタクとして改めてC#を語りたい",
+    "link": "https://zenn.dev/nuskey/articles/why-i-use-csharp",
+    "date": "2026-02-22T11:32:29.000Z"
+  },
+  {
+    "title": "Anthropic 社内のマーケティングチームが Claude Code をガチ運用してた話 - izanami",
+    "link": "https://izanami.dev/post/b56cafbc-4d8d-477a-8629-b5ef70282f2b",
+    "date": "2026-02-22T11:32:18.000Z"
+  },
+  {
+    "title": "初めて簡易MCPサーバーを作ってOpenAIエージェントとつないでみる",
+    "link": "https://zenn.dev/boiledorange73/articles/0072-mcp-first",
+    "date": "2026-02-22T11:31:25.000Z"
+  },
+  {
+    "title": "MCP+PostGISで緯度経度に強いエージェントができるのです（言い過ぎ）",
+    "link": "https://zenn.dev/boiledorange73/articles/0073-pgis-and-mcp",
+    "date": "2026-02-22T11:31:12.000Z"
+  },
+  {
+    "title": "S3 Vectorsによる激安RAG環境をデータパイプラインに組み込もうとしてみる - Qiita",
+    "link": "https://qiita.com/SoySoySoyB/items/eeb5c3b4d725f89c8be9",
+    "date": "2026-02-22T11:31:10.000Z"
+  },
+  {
+    "title": "GitHub - frankhart2018/animdsl: A DSL for generating 2D animated movies entirely from code. Procedural characters, custom poses, body angle perspective, walk cycles, camera systems — no external assets needed. Text in, video out. Built as a vibe coding ex",
+    "link": "https://github.com/frankhart2018/animdsl",
+    "date": "2026-02-22T11:30:52.000Z"
+  },
+  {
+    "title": "日本語の自然さを測る評価手法の検証 - Preferred Networks Tech Blog",
+    "link": "https://tech.preferred.jp/ja/blog/llm-as-a-judge-for-japanese/",
+    "date": "2026-02-22T11:30:45.000Z"
+  },
+  {
+    "title": "WSL2 で 1Password for Windows と 1Password for Linux を併用する",
+    "link": "https://zenn.dev/nanasess/articles/1password-wsl2-windows-linux-setup",
+    "date": "2026-02-22T11:13:02.000Z"
+  },
+  {
+    "title": "ChizuZu - 地図比較アプリ",
+    "link": "https://chizuzu.highwide.net/",
+    "date": "2026-02-22T11:07:37.000Z"
+  },
+  {
+    "title": "weathercli, newscli, moneycli, gkeepcli, hatebucli, gyazocli の紹介",
+    "link": "https://zenn.dev/yuiseki/articles/61852b021440ce",
+    "date": "2026-02-22T10:59:19.000Z"
+  },
+  {
+    "title": "Obsidian Web Clipper × Claude Codeで技術記事の自動整理をしてみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/obsidian-claude-clip/",
+    "date": "2026-02-22T09:33:02.000Z"
+  },
+  {
+    "title": "AIのやりすぎで頭がおかしくなっている - 運河",
+    "link": "https://uiuret.hatenablog.com/entry/2026/02/22/024509",
+    "date": "2026-02-22T09:32:41.000Z"
+  },
+  {
+    "title": "Geminiが海外旅行のコンシェルジュとして優秀すぎる 勝間和代オフィシャルサイト",
+    "link": "https://www.katsumaweb.com/news.php?id=6510",
+    "date": "2026-02-22T09:30:43.000Z"
+  },
+  {
+    "title": "勝間和代さんが「ChatGPTよりGeminiを使う」と発言。本当はどっちがいいの？｜たてばやし淳.エクセル兄さん@ ８万部ヒット「生成AI最速仕事術」著者",
+    "link": "https://note.com/on_consul/n/nab2c6fad3439",
+    "date": "2026-02-22T09:30:24.000Z"
+  },
+  {
+    "title": "衆議院選挙、中国系400アカウントが「反高市工作」 日本語発信やAI活用で巧妙に - 日本経済新聞",
+    "link": "https://www.nikkei.com/telling/DGXZTS00020520W6A210C2000000/",
+    "date": "2026-02-22T09:29:05.000Z"
+  },
+  {
+    "title": "初めて衛星画像を買いました。｜AS-22",
+    "link": "https://note.com/happy_lotus194/n/n61bbdd768ae3",
+    "date": "2026-02-22T08:43:55.000Z"
+  },
+  {
+    "title": "AIと共に乗りこなす 地理空間情報の世界",
+    "link": "https://speakerdeck.com/groovyjovy/aitogong-nicheng-rikonasu-di-li-kong-jian-qing-bao-noshi-jie-448ef8f9-8278-44f5-a626-1f213aa1a899",
+    "date": "2026-02-22T08:35:45.000Z"
+  },
+  {
+    "title": "SOUL.md — What Makes an AI, Itself?",
+    "link": "https://soul.md/",
+    "date": "2026-02-22T06:58:09.000Z"
+  },
+  {
+    "title": "【10分で理解】次世代 Python Notebook「marimo」 - Qiita",
+    "link": "https://qiita.com/shnchr/items/86868fa8e509b86d7430",
+    "date": "2026-02-22T06:29:28.000Z"
+  },
+  {
+    "title": "ローカルLLMの検索ツールとして Gemini 2.5 Flash-Lite を試す｜npaka",
+    "link": "https://note.com/npaka/n/ne2bd91159e32",
+    "date": "2026-02-22T06:16:03.000Z"
+  },
+  {
+    "title": "ハーネスエンジニアリング - エージェントファーストの世界で Codex を活用する｜npaka",
+    "link": "https://note.com/npaka/n/nb4c5488e82fd",
+    "date": "2026-02-22T06:16:01.000Z"
+  },
+  {
+    "title": "Ollama で NVIDIA Nemotron 2 Nano 9B Japanese を試す｜npaka",
+    "link": "https://note.com/npaka/n/n203120c2ef78",
+    "date": "2026-02-22T06:15:34.000Z"
+  },
+  {
+    "title": "GitHub - harunamitrader/antigravity-discord-bot",
+    "link": "https://github.com/harunamitrader/antigravity-discord-bot",
+    "date": "2026-02-22T02:56:19.000Z"
+  },
+  {
+    "title": "【解決】WSL2(NAT)環境でAntigravityのブラウザ連携が動かない問題をWorkflowで突破する - VEMI Tech Ripples",
+    "link": "https://blog.vemi.jp/entry/2025/12/30/153502",
+    "date": "2026-02-22T02:46:38.000Z"
+  },
+  {
+    "title": "AI が AI と話す — AntigravityからGemini CLIへの直接対話を実現するまで｜てら @ 生成AI × 教師",
+    "link": "https://note.com/ntera/n/nf04ef1928186",
+    "date": "2026-02-22T02:39:33.000Z"
+  },
+  {
+    "title": "[Python]何でもできて、どこでも動く。Agent Skills対応AIエージェントMagicaの紹介(v2)",
+    "link": "https://zenn.dev/tkithrta/articles/cd1d8a058014e1",
+    "date": "2026-02-22T02:18:11.000Z"
+  },
+  {
+    "title": "OpenLevelUp!",
+    "link": "https://openlevelup.net/",
+    "date": "2026-02-22T02:16:32.000Z"
+  },
+  {
+    "title": "AIエージェントにVRMキャラクターをつけてモーションを制御する",
+    "link": "https://zenn.dev/yokomachi/articles/202602_vrm-motion-control-on-web",
+    "date": "2026-02-22T02:16:03.000Z"
+  },
+  {
+    "title": "Gemini 3.1 Proの実力 3Dシューティングゲームが簡単に作れるように｜秋葉原IT戦略研究所",
+    "link": "https://note.com/akb428/n/n552111937ab4",
+    "date": "2026-02-22T02:15:54.000Z"
+  },
+  {
+    "title": "GitHub - scgreenhalgh/nanokvm-mcp",
+    "link": "https://github.com/scgreenhalgh/nanokvm-mcp",
+    "date": "2026-02-22T02:15:18.000Z"
+  },
+  {
+    "title": "NanoKVM MCPサーバー | MCP Servers · LobeHub",
+    "link": "https://lobehub.com/ja/mcp/scgreenhalgh-nanokvm-mcp",
+    "date": "2026-02-22T02:15:03.000Z"
+  },
+  {
+    "title": "GitHub - qwibitai/nanoclaw: A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "link": "https://github.com/qwibitai/nanoclaw",
+    "date": "2026-02-22T02:12:36.000Z"
+  },
+  {
+    "title": "NanoKVMで自宅サーバをリモート操作する – blog.masa23.jp",
+    "link": "https://blog.masa23.jp/posts/2024/10/04/nanokvm/",
+    "date": "2026-02-22T02:11:50.000Z"
+  },
+  {
+    "title": "NanoKVMと自宅サーバで遊ぶ",
+    "link": "https://zenn.dev/flfymoss/articles/2024-12-22-play-with-nanokvm",
+    "date": "2026-02-22T02:11:42.000Z"
+  },
+  {
+    "title": "GitHub - sipeed/NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM",
+    "link": "https://github.com/sipeed/NanoKVM",
+    "date": "2026-02-22T02:11:40.000Z"
+  },
+  {
+    "title": "CLI",
+    "link": "https://opencode.ai/docs/ja/cli/",
+    "date": "2026-02-22T01:30:57.000Z"
+  },
+  {
+    "title": "Permissions",
+    "link": "https://opencode.ai/docs/permissions/",
+    "date": "2026-02-22T01:30:49.000Z"
+  },
+  {
+    "title": "音声・映像データから感情と原因を抽出する - SemEval-2024優勝手法に学ぶ「非言語情報の言語化」アプローチ",
+    "link": "https://zenn.dev/pksha/articles/0847a9f0e36d18",
+    "date": "2026-02-22T01:02:45.000Z"
+  },
+  {
+    "title": "ラズパイ5+5060tiマシン用に自己拡張機能付きOpenClaw的なものを作った｜shi3z",
+    "link": "https://note.com/shi3zblog/n/nce1ebbbf0106",
+    "date": "2026-02-22T01:00:09.000Z"
+  },
+  {
+    "title": "PM向けのバグトリアージプロセス｜METI-DX 経済産業省DXオフィス",
+    "link": "https://metidx-gov.note.jp/n/nac01af865f21",
+    "date": "2026-02-22T00:54:33.000Z"
+  },
+  {
+    "title": "Oh My OpenCode 完全ガイド：OpenCodeを最強のAIエージェント環境に変えるプラグイン",
+    "link": "https://zenn.dev/yamitake/articles/oh-my-opencode-japanese-guide",
+    "date": "2026-02-21T23:08:06.000Z"
+  },
+  {
+    "title": "Agent Skills Scriptsアンチパターン その1",
+    "link": "https://zenn.dev/tkithrta/articles/6e36550369a65e",
+    "date": "2026-02-21T23:05:53.000Z"
+  },
+  {
+    "title": "Agent Skills対応デスクトップマスコットを作ったので紹介だけします。かわいいので",
+    "link": "https://zenn.dev/tkithrta/articles/531884d62ff9a1",
+    "date": "2026-02-21T23:05:42.000Z"
+  },
+  {
+    "title": "Agent Skills対応アンビエントエージェントを作ったので紹介だけします。たのしいので",
+    "link": "https://zenn.dev/tkithrta/articles/b8e06db64a872b",
+    "date": "2026-02-21T23:05:28.000Z"
+  },
+  {
+    "title": "GitHub - Nano-Collective/nanocoder: A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+    "link": "https://github.com/Nano-Collective/nanocoder",
+    "date": "2026-02-21T22:48:33.000Z"
+  },
+  {
+    "title": "Download Ghostty",
+    "link": "https://ghostty.org/download",
+    "date": "2026-02-21T22:27:32.000Z"
+  },
+  {
+    "title": "GitHub - lark-parser/lark: Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.",
+    "link": "https://github.com/lark-parser/lark",
+    "date": "2026-02-21T22:24:45.000Z"
+  },
+  {
+    "title": "GhosttyやClaude Codeで完了通知に使われているOSCとは",
+    "link": "https://tosi-tech.net/2026/01/osc-notification-supported-by-ghostty-and-claude-code/",
+    "date": "2026-02-21T21:29:42.000Z"
+  },
+  {
+    "title": "Open Ethnography - エスノグラフィック・エッセイの共創プラットフォーム",
+    "link": "https://openethnography.jp/",
+    "date": "2026-02-21T21:29:26.000Z"
+  },
+  {
+    "title": "GitHub - onikan27/claude-code-monitor: Real-time dashboard for monitoring multiple Claude Code sessions. CLI + Mobile Web UI with QR code access, terminal focus switching (iTerm2, Terminal.app, Ghostty). macOS only.",
+    "link": "https://github.com/onikan27/claude-code-monitor",
+    "date": "2026-02-21T21:29:04.000Z"
+  },
+  {
+    "title": "Git for Data - lakeFS",
+    "link": "https://lakefs.io/",
+    "date": "2026-02-21T21:28:46.000Z"
+  },
+  {
+    "title": "Open-Sourcing Agent Orchestrator: Effectively Manage 30 Parallel Agents",
+    "link": "https://pkarnal.com/blog/open-sourcing-agent-orchestrator",
+    "date": "2026-02-21T21:28:29.000Z"
+  },
+  {
+    "title": "デスクトップ Claude Code の Preview 機能で UI を直接確認する",
+    "link": "https://azukiazusa.dev/blog/claude-code-preview/",
+    "date": "2026-02-21T21:28:27.000Z"
+  },
+  {
+    "title": "Cord: Coordinating Trees of AI Agents",
+    "link": "https://www.june.kim/cord",
+    "date": "2026-02-21T21:27:51.000Z"
+  },
+  {
+    "title": "藤代裕之 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BB%A3%E8%A3%95%E4%B9%8B",
+    "date": "2026-02-21T21:11:43.000Z"
+  },
+  {
+    "title": "インシデント対応入門",
+    "link": "https://speakerdeck.com/grimoh/insidentodui-ying-ru-men",
+    "date": "2026-02-21T20:45:07.000Z"
+  },
+  {
+    "title": "A Multi-agent Market Model Can Explain the Impact of AI Traders in Financial Markets -- A New Microfoundations of GARCH model",
+    "link": "https://arxiv.org/abs/2409.12516",
+    "date": "2026-02-21T20:44:54.000Z"
+  },
+  {
+    "title": "｢エプスタイン文書｣に約1万回登場する日本人…伊藤穣一氏が｢エプスタイン島を訪問していた証拠写真｣",
+    "link": "https://president.jp/articles/-/109279",
+    "date": "2026-02-21T19:46:24.000Z"
+  }
+]
