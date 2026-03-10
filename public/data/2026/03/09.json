@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Notes on Writing Wasm",
+    "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+    "date": "2026-03-08T22:05:05.000Z"
+  },
+  {
+    "title": "GitHub - karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
+    "link": "https://github.com/karpathy/autoresearch",
+    "date": "2026-03-08T22:04:56.000Z"
+  },
+  {
+    "title": "RAGを構築しなくてもGeminiのGoogle Workspace連携で社内ドキュメント検索が実現できた話 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/gemini-workspace-search-instead-of-rag/",
+    "date": "2026-03-08T22:03:19.000Z"
+  },
+  {
+    "title": "Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた - Qiita",
+    "link": "https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8",
+    "date": "2026-03-08T22:02:28.000Z"
+  },
+  {
+    "title": "アーキテクチャ図、コードで書こう - C4モデル入門",
+    "link": "https://zenn.dev/uniquevision/articles/625e00137b75af",
+    "date": "2026-03-08T22:02:12.000Z"
+  },
+  {
+    "title": "Skill Create スキルを使用したスキルの作成と改善",
+    "link": "https://azukiazusa.dev/blog/skill-create-skill-creation-and-improvement/",
+    "date": "2026-03-08T22:01:04.000Z"
+  },
+  {
+    "title": "第707回　シンプルでおしゃれなモニタリングツールUptime Kuma | gihyo.jp",
+    "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0707",
+    "date": "2026-03-08T21:59:54.000Z"
+  },
+  {
+    "title": "Uptime Kuma",
+    "link": "https://uptime.kuma.pet/",
+    "date": "2026-03-08T21:59:42.000Z"
+  },
+  {
+    "title": "第901回　さらに進化したUptime Kumaで、家庭内監視システムを構築する | gihyo.jp",
+    "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0901",
+    "date": "2026-03-08T21:59:35.000Z"
+  },
+  {
+    "title": "GitHub - Piebald-AI/claude-code-system-prompts: All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review",
+    "link": "https://github.com/Piebald-AI/claude-code-system-prompts/tree/main",
+    "date": "2026-03-08T21:59:12.000Z"
+  },
+  {
+    "title": "GitHub Copilot CLIの/researchが強い - Qiita",
+    "link": "https://qiita.com/shyamagu/items/4e2d30a24594c005a02f",
+    "date": "2026-03-08T21:58:37.000Z"
+  },
+  {
+    "title": "GitHub - iss4cf0ng/OpenShell: OpenShell is a lightweight, open-source reverse shell management server written in Go.",
+    "link": "https://github.com/iss4cf0ng/OpenShell",
+    "date": "2026-03-08T21:58:19.000Z"
+  },
+  {
+    "title": "HuggingFaceFW/finewiki · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/HuggingFaceFW/finewiki",
+    "date": "2026-03-08T21:58:15.000Z"
+  },
+  {
+    "title": "投資の利益だけを支出することで持続可能なOSS支援を目指す基金「Open Source Endowment」が設立される",
+    "link": "https://gigazine.net/news/20260301-open-source-endowment/",
+    "date": "2026-03-08T21:58:08.000Z"
+  },
+  {
+    "title": "『マネーフォワード クラウド会計』、AIエージェントと連携可能な「MCPサーバー」β版を提供開始",
+    "link": "https://corp.moneyforward.com/news/release/service/20251003-mf-press-2/",
+    "date": "2026-03-08T21:57:26.000Z"
+  },
+  {
+    "title": "ClaudeCodeでマーケターの課題を解決する",
+    "link": "https://speakerdeck.com/kenichiota0711/claudecodedemaketanoke-ti-wojie-jue-suru",
+    "date": "2026-03-08T21:55:48.000Z"
+  },
+  {
+    "title": "Prompt guidance for GPT-5.4 | OpenAI API",
+    "link": "https://developers.openai.com/api/docs/guides/prompt-guidance/",
+    "date": "2026-03-08T19:48:36.000Z"
+  }
+]
