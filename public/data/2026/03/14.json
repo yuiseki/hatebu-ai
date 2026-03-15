@@ -1,0 +1,232 @@
+[
+  {
+    "title": "【実感】Copilot+ PCの目玉機能「リコール」はただのスナップショット集ではない！",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2093255.html",
+    "date": "2026-03-14T02:41:05.000Z"
+  },
+  {
+    "title": "なぜ、SOLIDのリスコフ置換の原則(LSP)はもはや不要なのか？",
+    "link": "https://zenn.dev/pdfractal/articles/ddea6faed6f0c4",
+    "date": "2026-03-14T02:40:47.000Z"
+  },
+  {
+    "title": "GitHub - voidzero-dev/vite-plus: Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+    "link": "https://github.com/voidzero-dev/vite-plus",
+    "date": "2026-03-14T02:40:44.000Z"
+  },
+  {
+    "title": "Void",
+    "link": "https://void.cloud/",
+    "date": "2026-03-14T02:40:36.000Z"
+  },
+  {
+    "title": "顔認識AIの誤検知のせいで約半年も無実の罪で勾留され家も車も愛犬も失ってしまった女性",
+    "link": "https://gigazine.net/news/20260313-ai-error-jails-innocent-grandmother/",
+    "date": "2026-03-14T02:40:15.000Z"
+  },
+  {
+    "title": "ハーネスエンジニアリングを自分のプロジェクトで実装してみた - Qiita",
+    "link": "https://qiita.com/nogataka/items/a8306067788798975fa7",
+    "date": "2026-03-14T02:39:56.000Z"
+  },
+  {
+    "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
+    "link": "https://zenn.dev/nrs/articles/88f158aca0505b",
+    "date": "2026-03-14T02:39:52.000Z"
+  },
+  {
+    "title": "仕様駆動開発はやめた方がええ",
+    "link": "https://zenn.dev/simossyi/articles/309e8cd88a90c3",
+    "date": "2026-03-14T02:39:49.000Z"
+  },
+  {
+    "title": "静的サイトジェネレータ「Astro 6.0」正式リリース。開発環境としてCloudflare Workers対応。Rust製コンパイラの実験的追加など",
+    "link": "https://www.publickey1.jp/blog/26/astro_60cloudflare_workersrust.html",
+    "date": "2026-03-14T02:36:46.000Z"
+  },
+  {
+    "title": "Claude Code のコード品質がばらつくので AI に品質保証させる仕組みを作った話 / A story about building a mechanism to have AI ensure quality, because the code quality from Claude Code was inconsistent",
+    "link": "https://speakerdeck.com/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent",
+    "date": "2026-03-14T02:36:44.000Z"
+  },
+  {
+    "title": "公式Slack MCPよりも便利? Slack CLIの紹介",
+    "link": "https://zenn.dev/tokium_dev/articles/84a40cfa2d8534",
+    "date": "2026-03-14T02:36:21.000Z"
+  },
+  {
+    "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
+    "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
+    "date": "2026-03-14T02:36:08.000Z"
+  },
+  {
+    "title": "Anthropic公式が33ページのスキル設計書を出したので、将軍のスキルクリエイターと答え合わせしたら先を行ってた",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-skill-creator-v2",
+    "date": "2026-03-14T02:35:52.000Z"
+  },
+  {
+    "title": "GitHub - jrswab/axe: A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.",
+    "link": "https://github.com/jrswab/axe",
+    "date": "2026-03-14T02:35:37.000Z"
+  },
+  {
+    "title": "なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察",
+    "link": "https://zenn.dev/wuyukwi/articles/97b70df23bd792",
+    "date": "2026-03-14T02:35:30.000Z"
+  },
+  {
+    "title": "GitHub - VirtusLab/sandcat: A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
+    "link": "https://github.com/VirtusLab/sandcat",
+    "date": "2026-03-14T02:34:56.000Z"
+  },
+  {
+    "title": "「実験が失敗したら大喜びしなさい」など江上語録を無料で読む方法",
+    "link": "http://chemistry4410.seesaa.net/article/375604804.html",
+    "date": "2026-03-14T02:33:35.000Z"
+  },
+  {
+    "title": "GraphRAG入門 LangChain+NetworkXで「コミュニティ検出」を自作してみた",
+    "link": "https://zenn.dev/lluminai_tech/articles/1beb0baf8b78e0",
+    "date": "2026-03-14T02:33:28.000Z"
+  },
+  {
+    "title": "AIを使い始めてから、ものを作るのが楽しくてたまらない",
+    "link": "https://zenn.dev/kiakiraki/articles/e35b4c63ac77f7",
+    "date": "2026-03-14T02:33:21.000Z"
+  },
+  {
+    "title": "日本一小さい市、蕨市を約６時間かけて一周した　市境をきれいになぞって歩ける市",
+    "link": "https://dailyportalz.jp/kiji/warabi-1syu",
+    "date": "2026-03-14T02:30:52.000Z"
+  },
+  {
+    "title": "「良いものを作れば売れる」は幻想。それでもクリエイターの純粋な力を信じ、リーダーは自らが「売る」ための全てを引き受けた。傑作『グノーシア』をヒットへ導いた、川勝徹氏の執念【インタビュー】",
+    "link": "https://news.denfaminicogamer.jp/interview/260313v",
+    "date": "2026-03-14T02:30:47.000Z"
+  },
+  {
+    "title": "社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/claudecode-otel",
+    "date": "2026-03-14T02:30:34.000Z"
+  },
+  {
+    "title": "AWSを退職しました - YAMAGUCHI::weblog",
+    "link": "https://ymotongpoo.hatenablog.com/entry/leaving-aws",
+    "date": "2026-03-14T02:30:28.000Z"
+  },
+  {
+    "title": "Announcing Vite+ Alpha",
+    "link": "https://voidzero.dev/posts/announcing-vite-plus-alpha",
+    "date": "2026-03-14T02:13:21.000Z"
+  },
+  {
+    "title": "Tennessee grandmother jailed after AI facial recognition error links her to fraud",
+    "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+    "date": "2026-03-14T02:04:33.000Z"
+  },
+  {
+    "title": "GitHub - understudy-ai/understudy: An understudy watches. Then performs.",
+    "link": "https://github.com/understudy-ai/understudy",
+    "date": "2026-03-14T02:04:21.000Z"
+  },
+  {
+    "title": "Run NanoClaw in Docker Sandboxes with One Command | NanoClaw Blog",
+    "link": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
+    "date": "2026-03-14T02:04:10.000Z"
+  },
+  {
+    "title": "GitHub - onecli/onecli: Open-source credential vault, give your AI agents access to services without exposing keys.",
+    "link": "https://github.com/onecli/onecli",
+    "date": "2026-03-14T02:03:52.000Z"
+  },
+  {
+    "title": "Vite 8.0 is out!",
+    "link": "https://vite.dev/blog/announcing-vite8",
+    "date": "2026-03-14T02:03:23.000Z"
+  },
+  {
+    "title": "新時代のフロントエンドツールチェイン Vite+ を試してみた",
+    "link": "https://azukiazusa.dev/blog/try-vite-plus/",
+    "date": "2026-03-13T21:28:28.000Z"
+  },
+  {
+    "title": "Homepage - Geoconfirmed",
+    "link": "https://geoconfirmed.org/",
+    "date": "2026-03-13T21:21:23.000Z"
+  },
+  {
+    "title": "https://x.com/scupytrooples",
+    "link": "https://x.com/scupytrooples",
+    "date": "2026-03-13T21:20:22.000Z"
+  },
+  {
+    "title": "Understanding Scale to Avoid GeoAI Failures - Geoawesome",
+    "link": "https://geoawesome.com/understanding-scale-to-avoid-geoai-failures/",
+    "date": "2026-03-13T21:19:59.000Z"
+  },
+  {
+    "title": "GitHub - rmsalinas/aruco_nano: Official implementation of ArUco nano, a lightweight implementation of the ArUco marker detection algorithm up to 6.5x faster than standard OpenCV ArUco.",
+    "link": "https://github.com/rmsalinas/aruco_nano",
+    "date": "2026-03-13T21:19:23.000Z"
+  },
+  {
+    "title": "スマートウォッチPebbleのアプリがJavaScriptで作成できるようになりました",
+    "link": "https://zenn.dev/stc1988/articles/e022df8cc51023",
+    "date": "2026-03-13T21:19:14.000Z"
+  },
+  {
+    "title": "t-SNEを理解せずに使っている人へ",
+    "link": "https://zenn.dev/green_tea/articles/576d36f7a8c993",
+    "date": "2026-03-13T21:15:59.000Z"
+  },
+  {
+    "title": "ibm-granite/granite-4.0-1b-speech · Hugging Face",
+    "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
+    "date": "2026-03-13T21:15:49.000Z"
+  },
+  {
+    "title": "ラズパイ5とM.2アクセラレーターで動くオフライン音声AI「AImy」、APIキー不要でカメラ・音声・LLMをローカル処理 - FabScene（ファブシーン）",
+    "link": "https://fabscene.com/new/make/raspi5-aimy-offline-voice-ai-assistant-llm8850-axera-m2-no-api/",
+    "date": "2026-03-13T21:15:23.000Z"
+  },
+  {
+    "title": "BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？ - Qiita",
+    "link": "https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f",
+    "date": "2026-03-13T21:15:14.000Z"
+  },
+  {
+    "title": "Windows 11 + WSL2 Ubuntu環境でClaude Codeの/voiceを使う方法",
+    "link": "https://zenn.dev/beagle/articles/_0020_claude_code_voice_on_wsl2",
+    "date": "2026-03-13T21:14:46.000Z"
+  },
+  {
+    "title": "https://x.com/wavefnx",
+    "link": "https://x.com/wavefnx",
+    "date": "2026-03-13T21:14:38.000Z"
+  },
+  {
+    "title": "just-bash",
+    "link": "https://justbash.dev/",
+    "date": "2026-03-13T21:14:11.000Z"
+  },
+  {
+    "title": "GitHub - olalie/tapmap: See where your computer connects on a live world map.",
+    "link": "https://github.com/olalie/tapmap",
+    "date": "2026-03-13T21:13:43.000Z"
+  },
+  {
+    "title": "Claude Codeでプロンプト1発、MariaDBのメモリ使用量を400MB→150MBに削減した話 - Matsubo Tech Blog",
+    "link": "https://blog.teraren.com/posts/mariadb-memory-tuning-with-claude-code/",
+    "date": "2026-03-13T21:13:01.000Z"
+  },
+  {
+    "title": "https://x.com/radbar_1",
+    "link": "https://x.com/radbar_1",
+    "date": "2026-03-13T21:10:51.000Z"
+  },
+  {
+    "title": "https://x.com/bagusindrayana_",
+    "link": "https://x.com/bagusindrayana_",
+    "date": "2026-03-13T21:10:38.000Z"
+  }
+]
