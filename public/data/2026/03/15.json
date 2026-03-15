@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Open-Source \"GreenBoost\" Driver Aims To Augment NVIDIA GPUs vRAM With System RAM & NVMe To Handle Larger LLMs - Phoronix",
+    "link": "https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA",
+    "date": "2026-03-15T09:47:35.000Z"
+  },
+  {
+    "title": "NVidia GreenBoost kernel modules opensourced",
+    "link": "https://forums.developer.nvidia.com/t/nvidia-greenboost-kernel-modules-opensourced/363486",
+    "date": "2026-03-15T09:47:18.000Z"
+  },
+  {
+    "title": "GitHub - awslabs/green-boost: Build Full Stack Cloud Native Web Apps on AWS Fast",
+    "link": "https://github.com/awslabs/green-boost",
+    "date": "2026-03-15T09:47:02.000Z"
+  },
+  {
+    "title": "Green Boost",
+    "link": "https://awslabs.github.io/green-boost/",
+    "date": "2026-03-15T09:46:57.000Z"
+  },
+  {
+    "title": "GreenBoost──12GBのGPUで32GBのAIモデルを動かす挑戦｜情報の灯台",
+    "link": "https://note.com/joho_no_todai/n/nf0c0f3aed7a9",
+    "date": "2026-03-15T09:46:36.000Z"
+  },
+  {
+    "title": "GitHub - HumanSignal/label-studio: Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "link": "https://github.com/HumanSignal/label-studio",
+    "date": "2026-03-15T09:35:37.000Z"
+  },
+  {
+    "title": "GitHub - voxel51/fiftyone: The open-source tool for building high-quality datasets and computer vision models",
+    "link": "https://github.com/voxel51/fiftyone",
+    "date": "2026-03-15T09:35:33.000Z"
+  },
+  {
+    "title": "たった200行の純粋なPythonコードだけで構成されGPTの学習と推論を実行できる「MicroGPT」をインタラクティブに解説",
+    "link": "https://gigazine.net/news/20260314-microgpt-explained-interactively/",
+    "date": "2026-03-15T07:57:45.000Z"
+  },
+  {
+    "title": "グーグル、35億人のChromeユーザーにゼロデイ警告──攻撃はすでに進行中 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/93724",
+    "date": "2026-03-15T07:57:39.000Z"
+  },
+  {
+    "title": "MIXIが一審で敗訴　特許侵害訴訟で揺れる「子ども見守りサービス市場」で何が起きているのか",
+    "link": "https://japan.cnet.com/article/35245026/",
+    "date": "2026-03-15T07:38:43.000Z"
+  },
+  {
+    "title": "Flood Hub",
+    "link": "https://sites.research.google/floods/",
+    "date": "2026-03-15T07:38:17.000Z"
+  },
+  {
+    "title": "Groundsource: using AI to help communities better predict natural disasters",
+    "link": "https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/",
+    "date": "2026-03-15T07:38:09.000Z"
+  },
+  {
+    "title": "Googleが都市型洪水の予測マップを公開、GoogleマップとGeminiを用いた災害予測データセット構築手法「Groundsource」を活用",
+    "link": "https://gigazine.net/news/20260313-google-groundsource-gemini-crisis-prediction/",
+    "date": "2026-03-15T07:38:04.000Z"
+  },
+  {
+    "title": "Playwright + OWASP ZAP + Claude Code で E2E テストから脆弱性診断まで一気通貫でできるかやってみた",
+    "link": "https://zenn.dev/rescuenow/articles/7192f8ca6ebe48",
+    "date": "2026-03-15T07:38:00.000Z"
+  },
+  {
+    "title": "“AIの知ったかぶり”相次ぐ 営業被害やひぼう中傷のリスクも | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015074431000",
+    "date": "2026-03-15T07:37:30.000Z"
+  },
+  {
+    "title": "Claude Code to Figmaを試して、UI/UXデザイナーの役割について考えたこと｜ミテ",
+    "link": "https://note.com/miteo/n/n91b288c75214",
+    "date": "2026-03-15T07:19:13.000Z"
+  },
+  {
+    "title": "CosenseのRAGをCloudflare AI Search (Auto Rag)を使って爆速で作ってみる",
+    "link": "https://zenn.dev/helpfeel/articles/901401c8569b81",
+    "date": "2026-03-15T06:43:18.000Z"
+  },
+  {
+    "title": "MacroParsersでRubyのフルセットパーザを書いてRuby公式テスト301本を全部通した話",
+    "link": "https://zenn.dev/kmizu/articles/2026-03-macro-peg-ruby-parser",
+    "date": "2026-03-15T06:43:09.000Z"
+  },
+  {
+    "title": "A/Bテストの効果測定を標準化 —— BigQuery Python UDFを活用したレビュー工数削減の取り組み",
+    "link": "https://zenn.dev/dmmdata/articles/27c5e06137e198",
+    "date": "2026-03-15T06:42:48.000Z"
+  },
+  {
+    "title": "生成AIで社内ログ分析SQLを自動生成する仕組み ── Skillsによるナレッジ管理とマルチエージェント設計の実践 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/how-to-make-sql-with-coding-ai-agent",
+    "date": "2026-03-15T06:42:43.000Z"
+  },
+  {
+    "title": "財務データを題材に、 ETLとは何であるかを考える",
+    "link": "https://speakerdeck.com/shoe116/buffettcodefinancialdataetl",
+    "date": "2026-03-15T06:42:36.000Z"
+  },
+  {
+    "title": "Pencilを使った『デザイン駆動開発』",
+    "link": "https://zenn.dev/kndoshn/articles/7e48b95f1d72ad",
+    "date": "2026-03-15T06:42:31.000Z"
+  },
+  {
+    "title": "物流拠点「ZOZOBASE」の意思決定を支える注文数の時系列予測 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/base-predict",
+    "date": "2026-03-15T06:42:27.000Z"
+  },
+  {
+    "title": "3つのシンプルな改善策で実現！elasticsearch-modelを使ったインポート処理を2倍高速化した話 - Sansan Tech Blog",
+    "link": "https://buildersbox.corp-sansan.com/entry/2025/09/04/120000",
+    "date": "2026-03-15T06:42:23.000Z"
+  },
+  {
+    "title": "テレワーク社会の落とし穴　体力が10歳分下がり、議論が偏りがちに - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOSG174BJ0X10C26A2000000/",
+    "date": "2026-03-15T06:42:10.000Z"
+  },
+  {
+    "title": "【自然言語処理】【Python】Word2Vecを使って「人生」から「愛」を引いたら何が残るかを計算してみた",
+    "link": "https://zenn.dev/robes/articles/c251dd89a0e47f",
+    "date": "2026-03-15T06:42:02.000Z"
+  },
+  {
+    "title": "口コミットくん - Googleビジネスプロフィール 口コミ改善・管理ツール",
+    "link": "https://kuchi-commit.com/",
+    "date": "2026-03-15T06:00:57.000Z"
+  },
+  {
+    "title": "住宅購入シミュレーター",
+    "link": "https://city-development-research.vercel.app/souba",
+    "date": "2026-03-15T04:12:22.000Z"
+  },
+  {
+    "title": "「同じ言葉」は命名規則ではなく、学習と合意形成のインフラだった──DDD第2章の気づき",
+    "link": "https://zenn.dev/tamai_hideyuki/articles/ddd-ubiquitous-language-as-learning-infra",
+    "date": "2026-03-15T03:51:00.000Z"
+  },
+  {
+    "title": "GitHub - soukouki/local-wikipedia: An MCP server written in Python that searches and reads Wikipedia articles by downloading the information in advance.",
+    "link": "https://github.com/soukouki/local-wikipedia",
+    "date": "2026-03-15T03:43:41.000Z"
+  },
+  {
+    "title": "Earth's Rivers",
+    "link": "https://shahnab.github.io/earthrivers/",
+    "date": "2026-03-15T03:43:10.000Z"
+  },
+  {
+    "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "link": "https://github.com/openai/symphony",
+    "date": "2026-03-15T03:42:57.000Z"
+  },
+  {
+    "title": "Evangelion UI Artboard",
+    "link": "https://codepen.io/hlfcoding/pen/oXpWOV",
+    "date": "2026-03-15T03:42:19.000Z"
+  },
+  {
+    "title": "https://ews-concept.pages.dev/realtime?networkCode=GE&stationCode=UGM",
+    "link": "https://ews-concept.pages.dev/realtime?networkCode=GE&stationCode=UGM",
+    "date": "2026-03-15T03:40:51.000Z"
+  },
+  {
+    "title": "EWS Concept UI",
+    "link": "https://ews-concept.pages.dev/",
+    "date": "2026-03-15T03:40:41.000Z"
+  },
+  {
+    "title": "Status UI | Rib Cage Layout",
+    "link": "https://ews-concept.pages.dev/status-ui",
+    "date": "2026-03-15T03:40:32.000Z"
+  },
+  {
+    "title": "GitHub - TheGreatGildo/nerv-ui: NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw",
+    "link": "https://github.com/TheGreatGildo/nerv-ui",
+    "date": "2026-03-15T03:39:56.000Z"
+  },
+  {
+    "title": "GitHub - tylermorganwall/rayrender: A pathtracer for R. Build and render complex scenes and 3D data visualizations directly from R",
+    "link": "https://github.com/tylermorganwall/rayrender",
+    "date": "2026-03-15T03:36:27.000Z"
+  },
+  {
+    "title": "懇親会でぼっちにならないテクニック",
+    "link": "https://zenn.dev/philosophum/articles/4bdf97acbb2299",
+    "date": "2026-03-15T03:36:04.000Z"
+  },
+  {
+    "title": "飲酒で驚くほどコレステロール値が改善することが日本の研究で判明、脂質低下薬よりも効果大",
+    "link": "https://gigazine.net/news/20250313-drinking-alcohol-cholesterol-levels/",
+    "date": "2026-03-15T03:35:59.000Z"
+  },
+  {
+    "title": "GitHub - yusuke/tiley",
+    "link": "https://github.com/yusuke/tiley",
+    "date": "2026-03-15T03:35:50.000Z"
+  },
+  {
+    "title": "Tiley — ウインドウを、手軽に整列",
+    "link": "https://yusuke.github.io/tiley/ja/?a",
+    "date": "2026-03-15T03:35:44.000Z"
+  },
+  {
+    "title": "OpenSpec×Claude Codeでテストケース作成を効率化した話 - KAKEHASHI Tech Blog",
+    "link": "https://kakehashi-dev.hatenablog.com/entry/2026/01/15/110000",
+    "date": "2026-03-15T03:24:15.000Z"
+  },
+  {
+    "title": "ArXivの論文を検索できるMCPサーバーを試してみる | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/trial-arxiv-mcp-server/",
+    "date": "2026-03-15T03:10:38.000Z"
+  },
+  {
+    "title": "「友人と行く」カンボジアで行方不明　福岡だけで10人　無事祈る母 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260313/k00/00m/040/326000c",
+    "date": "2026-03-15T03:10:30.000Z"
+  },
+  {
+    "title": "証券システムと、それを取り巻く世界",
+    "link": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
+    "date": "2026-03-15T03:09:52.000Z"
+  },
+  {
+    "title": "「WEBの技術×記事」の組み合わせでいろいろ遊ぶ！変なWEBメディアとは？",
+    "link": "https://web-media.blue-puddle.com/about/",
+    "date": "2026-03-15T03:09:12.000Z"
+  },
+  {
+    "title": "JPYCサブスク決済を実装してみた（EIP-3009 / EIP-2612）",
+    "link": "https://zenn.dev/komlock_lab/articles/b0c32aa290ff88",
+    "date": "2026-03-15T03:08:04.000Z"
+  },
+  {
+    "title": "StripeがUSDCで始めたサブスク決済をJPYCで再現できるか？",
+    "link": "https://zenn.dev/komlock_lab/articles/09a3e262dfd94c",
+    "date": "2026-03-15T03:07:59.000Z"
+  },
+  {
+    "title": "GitHub - chubin/cheat.sh: the only cheat sheet you need",
+    "link": "https://github.com/chubin/cheat.sh",
+    "date": "2026-03-15T03:07:58.000Z"
+  },
+  {
+    "title": "Claude Codeのエージェントチームを使うだけで大抵のことが出来るようになった",
+    "link": "https://zenn.dev/n314/articles/e06f189f093902",
+    "date": "2026-03-15T01:35:39.000Z"
+  },
+  {
+    "title": "バンクシーの正体を特定　ロイター報道　手がかりは四半世紀前の逮捕：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASV3G566TV3GSFVU3FXM.html",
+    "date": "2026-03-15T01:35:34.000Z"
+  },
+  {
+    "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください - Qiita",
+    "link": "https://qiita.com/K5K/items/72cc4282819ace823524",
+    "date": "2026-03-15T01:35:32.000Z"
+  },
+  {
+    "title": "MacBookで動くし、ぶっ壊れ性能。いま最強のローカルLLM｢Qwen3.5｣を解説しちゃう",
+    "link": "https://www.gizmodo.jp/2026/03/qwen_3_5_9b_4b.html",
+    "date": "2026-03-15T01:33:26.000Z"
+  },
+  {
+    "title": "GitHub - nemy-new/-YouTube-Equalizer-Normalizer-Disabler",
+    "link": "https://github.com/nemy-new/-YouTube-Equalizer-Normalizer-Disabler",
+    "date": "2026-03-14T21:50:26.000Z"
+  },
+  {
+    "title": "目的地のわからないナビアプリを作った｜岡田悠",
+    "link": "https://note.com/hyosasa/n/n917c1b0efb06",
+    "date": "2026-03-14T21:13:03.000Z"
+  },
+  {
+    "title": "Rennes Transit Map - Le réseau STAR en 3D",
+    "link": "https://nahelou.github.io/rennes-transit-map/",
+    "date": "2026-03-14T21:10:39.000Z"
+  }
+]
