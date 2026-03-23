@@ -1,0 +1,197 @@
+[
+  {
+    "title": "「クックパッドの新機能ひどい」外部レシピ取り込みに料理家ら反発、機能見直しへ……　一方「Notionなどと同じでは？」の声も",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/23/news065.html",
+    "date": "2026-03-23T09:02:08.000Z"
+  },
+  {
+    "title": "Windows 11の大改革。メモリ削減やMicrosoftアカウント不要化へ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2095245.html",
+    "date": "2026-03-23T09:02:05.000Z"
+  },
+  {
+    "title": "ホルムズ海峡で機雷の除去ができるマインスイーパー「Hormuz Minesweeper」",
+    "link": "https://gigazine.net/news/20260323-hormuz-minesweeper/",
+    "date": "2026-03-23T09:02:01.000Z"
+  },
+  {
+    "title": "Proxmox + Ollama + Continueで作るAIアシスタント基盤 - Qiita",
+    "link": "https://qiita.com/ohtsuka-shota/items/48a51c38ae5a87788954",
+    "date": "2026-03-23T07:54:58.000Z"
+  },
+  {
+    "title": "ゲーム中に“炭酸水”飲むと脳の疲れが軽減する──筑波大×アサヒ飲料が研究　楽しさ増大・違反行為も減少",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/23/news033.html",
+    "date": "2026-03-23T07:54:45.000Z"
+  },
+  {
+    "title": "マスク氏、次世代半導体工場「Terafab」発表　計算リソースは宇宙空間へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/23/news053.html",
+    "date": "2026-03-23T07:54:33.000Z"
+  },
+  {
+    "title": "ドバイ、崩れる砂上の安全神話　空港火災・F1中止…湾岸発展モデル直撃 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGR212I40R20C26A3000000/",
+    "date": "2026-03-23T07:54:17.000Z"
+  },
+  {
+    "title": "医療用大麻、精神疾患に「効果なし」　有害の恐れも警告―豪大学調査：時事ドットコム",
+    "link": "https://www.jiji.com/jc/article?k=2026032200143&g=int",
+    "date": "2026-03-23T07:53:40.000Z"
+  },
+  {
+    "title": "GitHub - ogwata/ndlocr-lite-web-ai: NDLOCRLite Web: ブラウザ完結型日本語OCRツール（ONNX Web Runtime使用）",
+    "link": "https://github.com/ogwata/ndlocr-lite-web-ai",
+    "date": "2026-03-23T00:42:31.000Z"
+  },
+  {
+    "title": "衛星データ、地上に大容量・即時伝送　NTT・スカパーが光技術で - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC1605R0W6A310C2000000/",
+    "date": "2026-03-23T00:42:20.000Z"
+  },
+  {
+    "title": "Windows Native App Development Is a Mess",
+    "link": "https://domenic.me/windows-native-dev/",
+    "date": "2026-03-23T00:41:26.000Z"
+  },
+  {
+    "title": "GitHub - Crosstalk-Solutions/project-nomad: Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "date": "2026-03-23T00:39:01.000Z"
+  },
+  {
+    "title": "Project NOMAD - Knowledge That Never Goes Offline",
+    "link": "https://www.projectnomad.us/",
+    "date": "2026-03-23T00:38:51.000Z"
+  },
+  {
+    "title": "GitHub - Project-PLATEAU/3D-City-Model-Generator: 地物属性や密集度等のパラメータ、衛星画像・沿道画像（任意）を入力として、3D都市モデルを生成するツール",
+    "link": "https://github.com/Project-PLATEAU/3D-City-Model-Generator",
+    "date": "2026-03-22T23:37:25.000Z"
+  },
+  {
+    "title": "GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, lang",
+    "link": "https://github.com/danny-avila/LibreChat",
+    "date": "2026-03-22T23:04:59.000Z"
+  },
+  {
+    "title": "RAG パイプラインを捨てて claude -p に Grep させたら3時間で社内ナレッジ Bot が動いた",
+    "link": "https://zenn.dev/kok1eeeee/articles/knowledge-chatbot-agentic-search",
+    "date": "2026-03-22T23:04:39.000Z"
+  },
+  {
+    "title": "Anthropic、“OpenClawキラー”の「Claude Code Channels」を発表 | XenoSpectrum",
+    "link": "https://xenospectrum.com/claude-code-channels-telegram-discord-openclaw/",
+    "date": "2026-03-22T23:04:37.000Z"
+  },
+  {
+    "title": "Trivy Compromised a Second Time - Malicious v0.69.4 Release, aquasecurity/setup-trivy, aquasecurity/trivy-action GitHub Actions Compromised - StepSecurity",
+    "link": "https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release",
+    "date": "2026-03-22T23:04:35.000Z"
+  },
+  {
+    "title": "GitHub - karpathy/micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "link": "https://github.com/karpathy/micrograd",
+    "date": "2026-03-22T23:01:57.000Z"
+  },
+  {
+    "title": "GitHub - tinygrad/tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "link": "https://github.com/tinygrad/tinygrad",
+    "date": "2026-03-22T23:01:42.000Z"
+  },
+  {
+    "title": "https://g-pc.info/archives/44480/",
+    "link": "https://g-pc.info/archives/44480/",
+    "date": "2026-03-22T23:00:19.000Z"
+  },
+  {
+    "title": "Tinybox──120Bモデルをオフラインで動かすAIデバイス",
+    "link": "https://www.aitlylab.com/overseas-trending/1617",
+    "date": "2026-03-22T23:00:07.000Z"
+  },
+  {
+    "title": "GitHub - danveloper/flash-moe: Running a big model on a small laptop",
+    "link": "https://github.com/danveloper/flash-moe",
+    "date": "2026-03-22T22:56:33.000Z"
+  },
+  {
+    "title": "Bored of eating your own dogfood? Try smelling your own farts!",
+    "link": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+    "date": "2026-03-22T22:56:22.000Z"
+  },
+  {
+    "title": "Tooscut - Video Editor",
+    "link": "https://tooscut.app/",
+    "date": "2026-03-22T22:56:00.000Z"
+  },
+  {
+    "title": "tinygrad: A simple and powerful neural network framework",
+    "link": "https://tinygrad.org/",
+    "date": "2026-03-22T22:55:43.000Z"
+  },
+  {
+    "title": "Hormuz Minesweeper",
+    "link": "https://hormuz.pythonic.ninja/",
+    "date": "2026-03-22T22:54:32.000Z"
+  },
+  {
+    "title": "株式会社Mycat | 判断に必要な知恵を、すべての人に。",
+    "link": "https://mycat.business/",
+    "date": "2026-03-22T22:53:04.000Z"
+  },
+  {
+    "title": "<h1>Rob Pike's 5 Rules of Programming</h1>",
+    "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "date": "2026-03-22T22:44:55.000Z"
+  },
+  {
+    "title": "[Mac Studio vs DGX Spark] 同じモデルで2倍速 — ローカルLLM×Claude Codeの最適化で見えた本当のボトルネック - Qiita",
+    "link": "https://qiita.com/Humanophilic_development/items/b416c443d9f52d04eaae",
+    "date": "2026-03-22T22:44:01.000Z"
+  },
+  {
+    "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
+    "link": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
+    "date": "2026-03-22T22:43:57.000Z"
+  },
+  {
+    "title": "Browser Use CLI - Browser Use",
+    "link": "https://docs.browser-use.com/open-source/browser-use-cli",
+    "date": "2026-03-22T22:43:51.000Z"
+  },
+  {
+    "title": "NHI（Non-Human Identity）管理が一気に立ち上がってきた件 | CloudNative BLOGs",
+    "link": "https://blog.cloudnative.co.jp/articles/nhi-non-human-identity-management/",
+    "date": "2026-03-22T22:43:44.000Z"
+  },
+  {
+    "title": "ありとあらゆるAIモデルを組み合わせることができる「LibreChat」で「ウェブ検索」「画像自動生成」をやってみる、無料でセルフホスト可能",
+    "link": "https://gigazine.net/news/20260322-librechat/",
+    "date": "2026-03-22T22:43:34.000Z"
+  },
+  {
+    "title": "Everything Claude Codeを眺めてみる | oikon48",
+    "link": "https://oikon48.dev/ja/blog/everything-claude-code/",
+    "date": "2026-03-22T22:43:24.000Z"
+  },
+  {
+    "title": "Kongyo CSS - 画像→Pure CSS 変換",
+    "link": "https://kongyo2.github.io/kongyo-css/",
+    "date": "2026-03-22T22:26:46.000Z"
+  },
+  {
+    "title": "新機能についていただいたご意見と、今後の取り組みについて",
+    "link": "https://info.cookpad.com/news/%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E3%81%94%E6%84%8F%E8%A6%8B%E3%81%A8%E3%80%81%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%8F%96%E3%82%8A",
+    "date": "2026-03-22T22:25:42.000Z"
+  },
+  {
+    "title": "Transformers are Bayesian Networks",
+    "link": "https://arxiv.org/abs/2603.17063",
+    "date": "2026-03-22T21:57:30.000Z"
+  },
+  {
+    "title": "Monitor The Situation — OSINT Military Aircraft Monitor",
+    "link": "https://monitorthesituation.org/",
+    "date": "2026-03-22T21:54:19.000Z"
+  }
+]
