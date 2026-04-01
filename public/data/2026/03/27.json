@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Qwen3.5 実機検証まとめ：27Bの圧倒的優位性と「量子化の壁」を考察する",
+    "link": "https://zenn.dev/nakano_teppei/articles/0f0b99d0c322d1",
+    "date": "2026-03-27T10:59:41.000Z"
+  },
+  {
+    "title": "国会図書館の文字認識ツールをスマホからでも快適に使える「NDLOCR-Lite Web」 [てっぱんアプリ！]",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2095860.html",
+    "date": "2026-03-27T10:10:14.000Z"
+  },
+  {
+    "title": "自分の知らなかったVim標準操作たち",
+    "link": "https://shizukani-cp.github.io/blog/articles/20260323/",
+    "date": "2026-03-27T10:10:05.000Z"
+  },
+  {
+    "title": "GitHubがCopilotへの入出力や関連コンテキストをAI学習に使用すると発表、学習されたくない場合は2026年4月24日までにオプトアウトする必要あり",
+    "link": "https://gigazine.net/news/20260326-github-copilot-data-training/",
+    "date": "2026-03-27T04:59:32.000Z"
+  },
+  {
+    "title": "AIの「おべっか」に注意　自己正当化強め反復使用も",
+    "link": "https://www.47news.jp/14059087.html",
+    "date": "2026-03-27T04:59:28.000Z"
+  },
+  {
+    "title": "対話型AIは「おべっか」　研究で明らかに　人間関係にも悪影響 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260326/k00/00m/020/420000c",
+    "date": "2026-03-27T04:59:25.000Z"
+  },
+  {
+    "title": "Google、LLMのメモリ消費を6分の1に削減する新技術「TurboQuant」発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/27/news067.html",
+    "date": "2026-03-27T04:55:09.000Z"
+  },
+  {
+    "title": "実践CQRS+ES ── 小さな集約と大きな業務出力を両立する - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/cqrs-es-accounting-service",
+    "date": "2026-03-27T04:55:06.000Z"
+  },
+  {
+    "title": "さくらインターネット、令和5年度および令和8年度 ガバメントクラウドサービス提供事業者に採択 | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/03/27/1968224087/",
+    "date": "2026-03-27T04:54:47.000Z"
+  },
+  {
+    "title": "周辺をぐるっと回って戻ってこれる「散歩ルート機能」をつくりました｜NAVITIME_Tech",
+    "link": "https://note.com/navitime_tech/n/n0dc828370a05",
+    "date": "2026-03-27T04:53:16.000Z"
+  },
+  {
+    "title": "Qwen3.5の27Bが9Bに負けた RTX 4060の逆説",
+    "link": "https://zenn.dev/plasmon/articles/20260325-cata-local-llm-b3d0fb",
+    "date": "2026-03-27T04:49:57.000Z"
+  },
+  {
+    "title": "Next.js Across Platforms: Adapters, OpenNext, and Our Commitments",
+    "link": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-03-27T04:49:04.000Z"
+  },
+  {
+    "title": "Claude Codeでグロース業務をPO1人で回せるようになった。考え方と気づき｜おがわ",
+    "link": "https://note.com/tetsuya_o/n/n83a70a88a47f",
+    "date": "2026-03-27T04:48:17.000Z"
+  },
+  {
+    "title": "「GitHub Copilot」個人ユーザーは要確認！ 拒否しないとAIの学習に利用されるように／「Copilot Free」「Copilot Pro」「Copilot Pro+」が対象",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2096552.html",
+    "date": "2026-03-27T04:47:50.000Z"
+  },
+  {
+    "title": "技術調査 - Browser Use CLI 2.0",
+    "link": "https://zenn.dev/suwash/articles/browser_use_cli_20_20260322",
+    "date": "2026-03-27T04:47:44.000Z"
+  },
+  {
+    "title": "AIを8倍高速化しメモリ使用量を6分の1に削減するGoogleの新アルゴリズム「TurboQuant」 - GIGAZINE",
+    "link": "https://gigazine.net/news/20260326-google-turbo-quant/",
+    "date": "2026-03-27T04:43:51.000Z"
+  }
+]
