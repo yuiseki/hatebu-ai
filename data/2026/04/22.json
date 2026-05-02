@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Zef Programming Language",
+    "link": "https://zef-lang.dev/",
+    "date": "2026-04-22T13:01:46.000Z"
+  },
+  {
+    "title": "MGS5を題材にした作品を収録する短編集『きみはメタルギアソリッドV:ファントムペインをプレイする』が2月27日に発売へ",
+    "link": "https://jp.ign.com/metal-gear-solid-5/78398/news/mgs5v227",
+    "date": "2026-04-22T13:01:29.000Z"
+  },
+  {
+    "title": "PFU、帳簿を構造化データに自動変換するAI-OCR「PaperStream AI」と「ドキュメントDX」提供　データ変換から業務効率化までをワンストップで提供",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2103412.html",
+    "date": "2026-04-22T12:45:37.000Z"
+  },
+  {
+    "title": "サンリオ、ゲームブランド「Sanrio Games」始動　自社IPゲームをグローバル展開",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/21/news110.html",
+    "date": "2026-04-22T12:45:15.000Z"
+  },
+  {
+    "title": "東映、ゲーム事業に本格参入　「既存IPに頼らない新タイトル」発表へ　まずSteamから",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/21/news106.html",
+    "date": "2026-04-22T12:45:07.000Z"
+  },
+  {
+    "title": "東映ゲームズ",
+    "link": "https://games.toei.co.jp/",
+    "date": "2026-04-22T12:44:37.000Z"
+  },
+  {
+    "title": "東映がゲーム事業に進出、“東映ゲームズ”を設立。はじめはPCゲームをSteamで展開、4月24日にタイトルを発表 | ゲーム・エンタメ最新情報のファミ通.com",
+    "link": "https://www.famitsu.com/article/202604/72488",
+    "date": "2026-04-22T12:44:36.000Z"
+  },
+  {
+    "title": "『プロジェクト・ヘイル・メアリー』原作者、映画化における「唯一の後悔」を明かす やはり“南極のシーン”はどうしても入れたかった",
+    "link": "https://jp.ign.com/project-hail-mary/83206/",
+    "date": "2026-04-22T12:44:20.000Z"
+  },
+  {
+    "title": "7980円の「Fire TV Stick 4K Select」に“YouTubeボタン”搭載モデル登場",
+    "link": "https://av.watch.impress.co.jp/docs/news/2103600.html",
+    "date": "2026-04-22T12:09:07.000Z"
+  },
+  {
+    "title": "GitHub Copilotにソースコードを学習されないために対応したこと - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/github-copilot-governance",
+    "date": "2026-04-22T12:08:34.000Z"
+  },
+  {
+    "title": "入社後は1行もコードは書いていない。それでもいつまでもプログラマー、田籠聡（tagomoris）の輪郭 | LIFE DRAFT",
+    "link": "https://life.job-draft.jp/2026/04/21/1259/",
+    "date": "2026-04-22T12:08:17.000Z"
+  },
+  {
+    "title": "なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？",
+    "link": "https://zenn.dev/pdfractal/articles/7769297acf47a3",
+    "date": "2026-04-22T12:08:08.000Z"
+  },
+  {
+    "title": "「ぶいすぽっ！」のBrave groupがシリーズEで約80億円を調達　筆頭株主はグリーに",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/22/news084.html",
+    "date": "2026-04-22T12:07:28.000Z"
+  },
+  {
+    "title": "グリー、Vチューバーで「第2の創業」　ゲーム依存脱却へ新興に出資 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC194C30Z10C26A3000000/",
+    "date": "2026-04-22T12:07:09.000Z"
+  },
+  {
+    "title": "原油市場でトランプ発言直前に巨額取引　通常の9倍、インサイダー疑惑 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2145Y0R20C26A4000000/",
+    "date": "2026-04-22T12:07:05.000Z"
+  },
+  {
+    "title": "ソニー生命でも金銭詐取疑い、20〜30件か　金融庁は報告徴求命令検討 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB2286K0S6A420C2000000/",
+    "date": "2026-04-22T12:06:48.000Z"
+  },
+  {
+    "title": "App Store に配布したアプリのみクラッシュした",
+    "link": "https://zenn.dev/knee/articles/cecb8537dce4e3",
+    "date": "2026-04-22T11:33:11.000Z"
+  },
+  {
+    "title": "Meta、視覚で世界を理解する新AI「Muse Spark」発表　「Llama」より高効率でAIメガネにも統合へ",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news059.html",
+    "date": "2026-04-22T11:18:30.000Z"
+  },
+  {
+    "title": "MetaのAIに復権の兆し。新モデル｢Muse Spark｣が思った以上に高性能",
+    "link": "https://www.gizmodo.jp/2026/04/meta_muse_spark.html",
+    "date": "2026-04-22T11:18:13.000Z"
+  },
+  {
+    "title": "「Muse Spark」登場：人を中心に設計されたMeta Superintelligence Labs初のモデル | Metaについて",
+    "link": "https://about.fb.com/ja/news/2026/04/introducing-muse-spark-meta-superintelligence-labs-first-model-built-to-prioritize-people/",
+    "date": "2026-04-22T11:17:56.000Z"
+  },
+  {
+    "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+    "date": "2026-04-22T11:17:48.000Z"
+  },
+  {
+    "title": "Muse Spark の概要｜npaka",
+    "link": "https://note.com/npaka/n/n15faa774e781",
+    "date": "2026-04-22T11:17:41.000Z"
+  },
+  {
+    "title": "Read the full memo behind Meta's AI employee tracking rollout",
+    "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "date": "2026-04-22T11:12:03.000Z"
+  },
+  {
+    "title": "GitHub - OpenWonderLabs/switchbot-openapi-cli: Command-line interface for the SwitchBot API v1.1",
+    "link": "https://github.com/OpenWonderLabs/switchbot-openapi-cli",
+    "date": "2026-04-22T11:09:20.000Z"
+  },
+  {
+    "title": "GoogleがGemini 3.1 Proベースの新型AIエージェント「Deep Research Max」を発表",
+    "link": "https://gigazine.net/news/20260422-google-deep-research-max/",
+    "date": "2026-04-22T11:04:39.000Z"
+  },
+  {
+    "title": "その生産性向上、現場が静かに支払っているコストの話",
+    "link": "https://zenn.dev/shintaroamaike/articles/69a7611880420d",
+    "date": "2026-04-22T11:04:09.000Z"
+  },
+  {
+    "title": "ノジマ、日立の家電事業1000億円超で買収　付加価値で薄利販売と一線 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC081Y60Y6A400C2000000/",
+    "date": "2026-04-22T11:02:46.000Z"
+  },
+  {
+    "title": "【分析】トランプ氏支持率、崩壊が始まった可能性",
+    "link": "https://www.cnn.co.jp/usa/35246737.html",
+    "date": "2026-04-22T11:02:20.000Z"
+  },
+  {
+    "title": "GitHub - calcom/cal.diy: Scheduling infrastructure for absolutely everyone.",
+    "link": "https://github.com/calcom/cal.diy",
+    "date": "2026-04-22T11:02:12.000Z"
+  },
+  {
+    "title": "【プレスリリース】SateAIsに「盛土検知AI」を追加",
+    "link": "https://www.spcsft.com/news/4484/",
+    "date": "2026-04-22T10:51:31.000Z"
+  },
+  {
+    "title": "IPAが「Open Data Spaces」仕様公開、AIエージェント対応で海外も注目",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03592/042000002/",
+    "date": "2026-04-22T10:51:05.000Z"
+  },
+  {
+    "title": "AI 駆動の業務変革手法 :「課題は何ですか？」と聞くのをやめた日 | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/ai-bpr/",
+    "date": "2026-04-22T10:37:52.000Z"
+  },
+  {
+    "title": "ユビキタス言語 - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E3%83%A6%E3%83%93%E3%82%AD%E3%82%BF%E3%82%B9%E8%A8%80%E8%AA%9E",
+    "date": "2026-04-22T10:36:02.000Z"
+  },
+  {
+    "title": "プロダクト開発組織における信念更新の設計 - yuiseki",
+    "link": "https://scrapbox.io/yuiseki/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E7%B5%84%E7%B9%94%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BF%A1%E5%BF%B5%E6%9B%B4%E6%96%B0%E3%81%AE%E8%A8%AD%E8%A8%88",
+    "date": "2026-04-22T10:28:12.000Z"
+  },
+  {
+    "title": "UXプロトタイプ：低忠実度か高忠実度か",
+    "link": "https://u-site.jp/alertbox/ux-prototype-hi-lo-fidelity",
+    "date": "2026-04-22T09:51:14.000Z"
+  },
+  {
+    "title": "便利だから頻繁に使うわけではなく頻繁に使えるand使うものを便利だと感じる - yuiseki",
+    "link": "https://scrapbox.io/yuiseki/%E4%BE%BF%E5%88%A9%E3%81%A0%E3%81%8B%E3%82%89%E9%A0%BB%E7%B9%81%E3%81%AB%E4%BD%BF%E3%81%86%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E9%A0%BB%E7%B9%81%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8Band%E4%BD%BF%E3%81%86%E3%82%82%E3%81%AE%E3%82%92%E4%BE%BF%E5%88%A9%E3%81%A0%E3%81%A8%E6%84%9F%E3%81%98%E3%82%8B",
+    "date": "2026-04-22T09:44:10.000Z"
+  },
+  {
+    "title": "買わない理由を潰したり買うべき理由を増やしたりしたところで別に一向に買われることはない - yuiseki",
+    "link": "https://scrapbox.io/yuiseki/%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%82%92%E6%BD%B0%E3%81%97%E3%81%9F%E3%82%8A%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%E7%90%86%E7%94%B1%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%E3%81%97%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7%E5%88%A5%E3%81%AB%E4%B8%80%E5%90%91%E3%81%AB%E8%B2%B7%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84",
+    "date": "2026-04-22T09:44:02.000Z"
+  },
+  {
+    "title": "起業前にお客様を作って、商品を売ってみる",
+    "link": "https://www.shoubaisekkei.co.jp/column/kigyou-zyoukenn.html",
+    "date": "2026-04-22T08:43:32.000Z"
+  },
+  {
+    "title": "「作る前に売る」という考え方を知って自分の開発スタイルを見直してみた話｜PSUKE｜AI×個人開発",
+    "link": "https://note.com/psukenoheya/n/nc246928f6ee2",
+    "date": "2026-04-22T08:42:38.000Z"
+  },
+  {
+    "title": "GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "link": "https://github.com/soxoj/maigret",
+    "date": "2026-04-22T07:48:32.000Z"
+  },
+  {
+    "title": "GitHub - megadose/holehe: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "link": "https://github.com/megadose/holehe",
+    "date": "2026-04-22T07:46:51.000Z"
+  },
+  {
+    "title": "算術的階層 - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93%E7%9A%84%E9%9A%8E%E5%B1%A4",
+    "date": "2026-04-22T05:58:13.000Z"
+  },
+  {
+    "title": "ハイパーコンピュータ - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF",
+    "date": "2026-04-22T05:58:02.000Z"
+  },
+  {
+    "title": "ランダムオラクル - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB",
+    "date": "2026-04-22T05:57:49.000Z"
+  },
+  {
+    "title": "ニュースルーム - Newsroom | プラチナマップ",
+    "link": "https://platinumaps.jp/news/",
+    "date": "2026-04-22T03:01:23.000Z"
+  },
+  {
+    "title": "プラチナマップ、生成AIと「地図」をつなぐMCPを提供開始 | Platinumaps - プラチナマップ ニュースルーム",
+    "link": "https://platinumaps.jp/news/20251029/?culture=ja",
+    "date": "2026-04-22T03:01:17.000Z"
+  },
+  {
+    "title": "「プラチナマップ」導入によりスタンプラリーの共通プラットフォームを実現！「横浜デジタルMAP」で花咲く横浜をめぐる「花咲く Rally」を支援",
+    "link": "https://prtimes.jp/main/html/rd/p/000000028.000043899.html",
+    "date": "2026-04-22T03:01:02.000Z"
+  },
+  {
+    "title": "プラチナマップ | デジタルマッププラットフォーム - Platinumaps",
+    "link": "https://platinumaps.jp/",
+    "date": "2026-04-22T03:00:47.000Z"
+  },
+  {
+    "title": "Platinumaps MCP Server",
+    "link": "https://mcp.platinumaps.jp/",
+    "date": "2026-04-22T03:00:38.000Z"
+  },
+  {
+    "title": "「わからせる」にはどうすればいいか　-理解とモチベーションのコントロール - 図書館学徒未満",
+    "link": "https://lovelibrary.hatenablog.com/entry/20130620/p3",
+    "date": "2026-04-22T02:51:27.000Z"
+  },
+  {
+    "title": "個人開発アプリを作ったあと、どう売るかを仮説検証して整理してみた",
+    "link": "https://zenn.dev/toshipon/articles/focusnest-go-to-market-with-kaizenlab",
+    "date": "2026-04-22T02:51:11.000Z"
+  },
+  {
+    "title": "【特集】 「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2103480.html",
+    "date": "2026-04-22T02:50:55.000Z"
+  },
+  {
+    "title": "「バーガーキング下北沢店作ってくれや」　SNSの声に計算された対応",
+    "link": "https://xtrend.nikkei.com/atcl/contents/18/01332/00003/",
+    "date": "2026-04-22T02:50:49.000Z"
+  },
+  {
+    "title": "AI が“買い物”を代行する時代へ　Stripe、エージェンティック コマースへの対応準備に関する調査を実施",
+    "link": "https://prtimes.jp/main/html/rd/p/000000117.000077879.html",
+    "date": "2026-04-22T02:48:45.000Z"
+  },
+  {
+    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由 - Qiita",
+    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
+    "date": "2026-04-22T02:48:41.000Z"
+  },
+  {
+    "title": "Home | Swiss AI",
+    "link": "https://www.swiss-ai.org/",
+    "date": "2026-04-22T02:23:44.000Z"
+  },
+  {
+    "title": "Qwen Studio",
+    "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+    "date": "2026-04-22T02:17:53.000Z"
+  },
+  {
+    "title": "Fusion Power Plant Simulator",
+    "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+    "date": "2026-04-22T02:17:42.000Z"
+  },
+  {
+    "title": "@codemix/graph - codemix",
+    "link": "https://codemix.com/graph",
+    "date": "2026-04-22T02:17:30.000Z"
+  },
+  {
+    "title": "Mediator.ai - Cooperative negotiation is a solvable problem",
+    "link": "https://mediator.ai/",
+    "date": "2026-04-22T02:17:11.000Z"
+  },
+  {
+    "title": "how a roblox cheat and one AI tool brought down vercel's entire platform | techwizardrino",
+    "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "date": "2026-04-22T02:10:40.000Z"
+  },
+  {
+    "title": "Laws of Software Engineering",
+    "link": "https://lawsofsoftwareengineering.com/",
+    "date": "2026-04-22T02:10:20.000Z"
+  },
+  {
+    "title": "《スクープ》悠仁さまが高校2年時に発表したトンボ論文に、専門家が研究者会報で指摘　「これは厳密には羽化とは言えないのではないか」と問題提起",
+    "link": "https://www.news-postseven.com/archives/20260420_2104415.html?DETAIL",
+    "date": "2026-04-22T01:32:47.000Z"
+  },
+  {
+    "title": "とほほのローカルAI入門 - とほほのWWW入門",
+    "link": "https://www.tohoho-web.com/ai/local-ai.html",
+    "date": "2026-04-22T01:32:33.000Z"
+  },
+  {
+    "title": "ローカル Atlas 配置の作成 - Atlas CLI - MongoDB Docs",
+    "link": "https://www.mongodb.com/ja-jp/docs/atlas/cli/current/atlas-cli-deploy-local/",
+    "date": "2026-04-22T00:40:47.000Z"
+  },
+  {
+    "title": "Dockerを使用してローカル Atlas 配置を作成する - Atlas CLI - MongoDBドキュメント",
+    "link": "https://www.mongodb.com/ja-jp/docs/atlas/cli/current/atlas-cli-deploy-docker/",
+    "date": "2026-04-22T00:40:42.000Z"
+  },
+  {
+    "title": "グローバルクラスターの管理 - Atlas - MongoDB Docs",
+    "link": "https://www.mongodb.com/ja-jp/docs/atlas/global-clusters/",
+    "date": "2026-04-22T00:30:42.000Z"
+  },
+  {
+    "title": "マルチリージョン配置パラダイム - Atlas アーキテクチャセンター - MongoDBドキュメント",
+    "link": "https://www.mongodb.com/ja-jp/docs/atlas/architecture/current/deployment-paradigms/multi-region/",
+    "date": "2026-04-22T00:30:37.000Z"
+  },
+  {
+    "title": "サンリオが乱高下､ゲームブランド立ち上げを買い材料視｜会社四季報オンライン",
+    "link": "https://shikiho.toyokeizai.net/news/0/942166",
+    "date": "2026-04-21T22:56:10.000Z"
+  },
+  {
+    "title": "サンリオ初のゲームブランド“サンリオゲームズ”が始動。2026年秋にSwitch／Switch2向けタイトル『サンリオパーティランド』を発売 | ゲーム・エンタメ最新情報のファミ通.com",
+    "link": "https://www.famitsu.com/article/202604/72560",
+    "date": "2026-04-21T22:55:48.000Z"
+  },
+  {
+    "title": "初の自社ゲームブランド「Sanrio Games」始動",
+    "link": "https://prtimes.jp/main/html/rd/p/000000734.000037629.html",
+    "date": "2026-04-21T22:55:39.000Z"
+  },
+  {
+    "title": "サンリオがまさかの自社ゲームブランド「Sanrio Games」設立を発表。新作『サンリオ パーティランド』を始め、“今後3年で10タイトル”続々リリース予定 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260421-438708/",
+    "date": "2026-04-21T22:55:34.000Z"
+  },
+  {
+    "title": "GitHub Copilot制限へ、2026年1月以降の週次運用コストがほぼ倍増したことを受けて課金方式をトークンベースへと段階的に移行か",
+    "link": "https://gigazine.net/news/20260421-github-copilot-plans-changes/",
+    "date": "2026-04-21T22:38:23.000Z"
+  },
+  {
+    "title": "プログラミング言語「Ruby」のエコシステムを支援する非営利団体Ruby Centralが「深刻な財政危機」に陥っていることが明らかに",
+    "link": "https://gigazine.net/news/20260421-ruby-central-financial-jeopardy/",
+    "date": "2026-04-21T22:38:20.000Z"
+  },
+  {
+    "title": "「Git for Windows」v2.54.0が公開 ～「git svn」を削除、「git history」を実験導入／分散型バージョン管理システム「Git」のWindows版",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2103166.html",
+    "date": "2026-04-21T22:38:17.000Z"
+  },
+  {
+    "title": "SwitchBot、時刻や天気・スケジュールを常時表示する電子ペーパー",
+    "link": "https://www.watch.impress.co.jp/docs/news/2103296.html",
+    "date": "2026-04-21T22:38:11.000Z"
+  },
+  {
+    "title": "陸自 戦車の射撃訓練中に砲弾破裂 隊員3人死亡 1人重傷 大分 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015104341000",
+    "date": "2026-04-21T22:36:01.000Z"
+  },
+  {
+    "title": "ながーーーーい地番を探せ！　登記所備付地図を覗いてみよう",
+    "link": "https://zenn.dev/estie/articles/9cba491ae6e44a",
+    "date": "2026-04-21T22:25:50.000Z"
+  },
+  {
+    "title": "モバイルファクトリー、位置情報共有アプリ「NauNau」を運営するSuishowを完全子会社化",
+    "link": "https://prtimes.jp/main/html/rd/p/000000074.000024306.html",
+    "date": "2026-04-21T22:19:24.000Z"
+  },
+  {
+    "title": "Stop trying to engineer your way out of listening to people",
+    "link": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+    "date": "2026-04-21T15:32:53.000Z"
+  }
+]
