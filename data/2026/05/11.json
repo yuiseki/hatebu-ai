@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Maltego | OSINT & Cyber Investigations Platform for High-Stakes Cases",
+    "link": "https://www.maltego.com/",
+    "date": "2026-05-10T23:54:32.000Z"
+  },
+  {
+    "title": "CodexをローカルLLMで駆動する",
+    "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+    "date": "2026-05-10T23:52:45.000Z"
+  },
+  {
+    "title": "分析自動化AIエージェントの全体像 — 中核に置く『統合オントロジー』とは｜ほぽぷ｜AI Readyデータ基盤+AI分析エージェント",
+    "link": "https://note.com/hopop_data/n/n1c684062a404",
+    "date": "2026-05-10T23:52:28.000Z"
+  },
+  {
+    "title": "話題のGoogle Workspace MCPサーバーをさっそく使ってみた",
+    "link": "https://www.yoshidumi.co.jp/collaboration-lab/gws-mcp-server",
+    "date": "2026-05-10T23:52:23.000Z"
+  },
+  {
+    "title": "触って分かる BigQuery Graph 入門: グラフの作成から GQL での分析まで",
+    "link": "https://zenn.dev/bare64/articles/4c4280ed5eb43f",
+    "date": "2026-05-10T23:52:21.000Z"
+  },
+  {
+    "title": "GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for Metal and CUDA",
+    "link": "https://github.com/antirez/ds4",
+    "date": "2026-05-10T23:52:05.000Z"
+  },
+  {
+    "title": "磐越道事故の北越高校が会見　過去の請求書に「レンタカー代」の記載：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASV5B35NPV5BUOHB004M.html",
+    "date": "2026-05-10T23:22:09.000Z"
+  },
+  {
+    "title": "ゼロからデータ基盤構築をした時の失敗談：すべては要件定義できまる",
+    "link": "https://zenn.dev/ivry/articles/data-engineer-principles",
+    "date": "2026-05-10T23:11:32.000Z"
+  },
+  {
+    "title": "OpenCode Go + pi-coding-agent のすゝめ",
+    "link": "https://zenn.dev/kimuson/articles/pi-coding-agent-with-opencode-go",
+    "date": "2026-05-10T23:11:27.000Z"
+  },
+  {
+    "title": "エージェントは、Cloudflare アカウントの作成、ドメインの購入、デプロイができるようになりました",
+    "link": "https://blog.cloudflare.com/ja-jp/agents-stripe-projects/",
+    "date": "2026-05-10T23:11:22.000Z"
+  },
+  {
+    "title": "128GB超メモリMac専用の巨大LLMエンジン「DwarfStar 4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+    "date": "2026-05-10T23:10:55.000Z"
+  },
+  {
+    "title": "00年代のIT業界最大のバズワード「XML」は現在どうなったのか？",
+    "link": "https://zenn.dev/pdfractal/articles/89b1943aef64fe",
+    "date": "2026-05-10T23:10:39.000Z"
+  },
+  {
+    "title": "LLMorphism: When humans come to see themselves as language models",
+    "link": "https://arxiv.org/abs/2605.05419",
+    "date": "2026-05-10T22:38:57.000Z"
+  },
+  {
+    "title": "Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary",
+    "link": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+    "date": "2026-05-10T22:38:23.000Z"
+  },
+  {
+    "title": "GitHub - imtomt/ymawky: MacOS Web Server written entirely in ARM64 assembly",
+    "link": "https://github.com/imtomt/ymawky",
+    "date": "2026-05-10T22:37:36.000Z"
+  }
+]
