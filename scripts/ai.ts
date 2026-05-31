@@ -1,4 +1,4 @@
-import { Ollama } from "@langchain/ollama";
+import OpenAI from "openai";
 import * as fs from "fs";
 import * as path from "path";
 
@@ -8,12 +8,18 @@ interface BookmarkItem {
   date: string;
 }
 
+// Qwen3 series outputs <think>...</think> reasoning blocks before the answer.
+// Strip them so JSON parsing works reliably.
+function stripThinkTags(text: string): string {
+  return text.replace(/<think>[\s\S]*?<\/think>/g, "").trim();
+}
+
 async function extractKeywords(bookmarks: BookmarkItem[], filePath: string): Promise<string[]> {
-  const llm = new Ollama({
-    baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434",
-    model: process.env.OLLAMA_CHAT_MODEL || "qwen3:1.7b",
-    temperature: 0.3,
+  const openai = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY || "dummy",
+    baseURL: process.env.OPENAI_BASE_URL || "http://10.108.45.102:8080/v1",
   });
+  const model = process.env.OPENAI_MODEL || "gvt-llm";
 
   // ファイルパスから日付を抽出
   const pathParts = filePath.split(path.sep);
@@ -40,12 +46,18 @@ ${titles}
 重要: 回答は必ず有効なJSON配列形式でお答えください。説明文は不要です。
 出力例: ["Python", "機械学習", "Docker", "AWS", "React"]`;
 
-  let response;
+  let rawContent: string | undefined;
   try {
-    response = await llm.invoke(prompt);
-    
-    // LLMの応答からJSONを抽出
-    let jsonStr = response.toString();
+    const completion = await openai.chat.completions.create({
+      model,
+      messages: [{ role: "user", content: prompt }],
+      temperature: 0.3,
+      max_tokens: 512,
+    });
+    rawContent = completion.choices[0]?.message?.content ?? "";
+
+    // LLMの応答からJSONを抽出 (<think> タグを除去してから処理)
+    let jsonStr = stripThinkTags(rawContent);
     
     // より堅牢なJSON抽出ロジック
     // 1. ```json ブロックを探す
@@ -98,8 +110,8 @@ ${titles}
     }
   } catch (error) {
     console.error("Error extracting keywords:", error);
-    if (response) {
-      console.error("Raw response:", response.toString().substring(0, 500) + "...");
+    if (rawContent) {
+      console.error("Raw response:", rawContent.substring(0, 500) + "...");
     }
     
     // フォールバックとして基本的なキーワード抽出
