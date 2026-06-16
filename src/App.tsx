@@ -3,6 +3,7 @@ import "./App.css";
 import HistogramView from "./view/HistogramView";
 import BookmarksView from "./view/BookmarksView";
 import ClusteringView from "./view/ClusteringView";
+import InterestsView from "./view/InterestsView";
 
 function App() {
   const [hash, setHash] = useState<string>(window.location.hash);
@@ -19,6 +20,10 @@ function App() {
 
   if (hash === "#clustering") {
     return <ClusteringView />;
+  }
+
+  if (hash === "#interests") {
+    return <InterestsView />;
   }
 
   const dateMatch = hash.match(/^#(\d{4}-\d{2}-\d{2})$/);
