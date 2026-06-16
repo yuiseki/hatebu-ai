@@ -74,23 +74,23 @@ function main() {
   // Time anchors (relative to today)
   const d = (n: number) => addDays(today, n);
 
-  const recentFrom  = d(-7);   // 7 days ago
+  const recentFrom  = d(-30);  // 30 days ago
   const recentTo    = d(-1);   // yesterday
 
-  const prevWeekFrom  = d(-14); // 8-14 days ago
-  const prevWeekTo    = d(-8);
+  const prevWeekFrom  = d(-37); // 31-37 days ago (prev week before candidate window)
+  const prevWeekTo    = d(-31);
 
-  const prevMonthFrom = d(-37); // 15-37 days ago
-  const prevMonthTo   = d(-15);
+  const prevMonthFrom = d(-60); // 38-60 days ago (prev month before candidate window)
+  const prevMonthTo   = d(-38);
 
   const hist90From  = d(-90);
-  const hist90To    = d(-8);
+  const hist90To    = d(-31);
 
   const hist180From = d(-180);
-  const hist180To   = d(-8);
+  const hist180To   = d(-31);
 
   const hist365From = d(-365);
-  const hist365To   = d(-8);
+  const hist365To   = d(-31);
 
   console.log("Loading keyword maps...");
 
@@ -101,10 +101,10 @@ function main() {
   const hist180Map   = buildKeywordDayMap(hist180From,   hist180To);
   const hist365Map   = buildKeywordDayMap(hist365From,   hist365To);
 
-  // Find last-seen date for each candidate keyword
+  // Find last-seen date for each candidate keyword (outside the recent window)
   function findLastSeen(kw: string): string | null {
-    // scan from yesterday backwards up to 365 days
-    for (let i = 1; i <= 365; i++) {
+    // scan from 31 days ago backwards up to 365 days
+    for (let i = 31; i <= 365; i++) {
       const day = d(-i);
       const kws = readAiKeywords(day);
       if (kws.includes(kw)) return dateKey(day);

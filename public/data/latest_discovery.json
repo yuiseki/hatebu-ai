@@ -1,17 +1,185 @@
 {
   "generated_at": "2026-06-17",
   "window": {
-    "from": "2026-06-10",
+    "from": "2026-05-18",
     "to": "2026-06-16"
   },
   "discoveries": [
+    {
+      "keyword": "ドローン",
+      "score": 6,
+      "recent_days": 3,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Amazon Echo",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Drone",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "e-Paper HAT",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "OGC API",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
     {
       "keyword": "OKF",
       "score": 6,
       "recent_days": 2,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "Seeed Studio",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "技術書",
+      "score": 6,
+      "recent_days": 2,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "1Password",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "360°カメラ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "3D",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "5G",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "A2UI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Acer Veriton GN100",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AG-UI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Applications",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Ethics",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Price Monitoring",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Safety",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Search",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI Studio",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AI エージェント",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "AIデータセンター",
@@ -19,7 +187,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
     },
     {
       "keyword": "AIニュースキュレーター",
@@ -27,7 +195,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
     },
     {
       "keyword": "AIノートブック",
@@ -35,7 +203,87 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "AI生成",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AliveUI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Amazonアフィリエイト",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AMD Ryzen AI Max PRO 400",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Anker バッテリー",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ArduPilot",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AWS Lambda",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Beta Tester",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Betaflight",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Bitburner",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Build Agents",
@@ -43,7 +291,47 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
+    },
+    {
+      "keyword": "Bun",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Caddy",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Chatwork",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "CISA Leak",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Claude Code Plugin",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Claude Fable 5",
@@ -51,7 +339,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "Cloud Security",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Cloudflare Zero Trust",
@@ -59,7 +355,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
     },
     {
       "keyword": "Code with Claude",
@@ -67,7 +363,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
     },
     {
       "keyword": "Copilot Notebooks",
@@ -75,7 +371,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
     },
     {
       "keyword": "CSS Grid",
@@ -83,7 +379,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "Database Technologies",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "DAZN",
@@ -91,7 +395,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
+    },
+    {
+      "keyword": "DependencyAI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Dexie.js",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "DuckDuckGo",
@@ -99,7 +419,63 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
+    },
+    {
+      "keyword": "Dynamic Workflow",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Embedded systems",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ER939-AI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ESP32 C3 SuperMini",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "EVソフトウェア",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Flipper One",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "forge",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Forza Horizon",
@@ -107,7 +483,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "FPV",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "freee",
@@ -115,7 +499,39 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
+    },
+    {
+      "keyword": "Gemini for Science",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Generative AI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Generative UI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "GeoAgent",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Geolonia",
@@ -123,7 +539,39 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
+    },
+    {
+      "keyword": "Geospatial Technology",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "GitHub Security",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "gitleaks",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "GKE",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "GL.iNet",
@@ -131,7 +579,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
     },
     {
       "keyword": "GNU screen",
@@ -139,7 +587,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
+    },
+    {
+      "keyword": "Google Antigravity 2.0",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Google Gemini",
@@ -147,7 +603,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
+    },
+    {
+      "keyword": "Google Search",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Graph RAG",
@@ -155,7 +619,79 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "HENNGE One",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Holy Stone",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Holy Stone HS156",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "HTML Installer",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ICT技術",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "IDaaS",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "iOS 27",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Istio",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "k3s",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Knowledge Catalog",
@@ -163,7 +699,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
+    },
+    {
+      "keyword": "KV cache",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Language Segment Anything",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Large Language Model",
@@ -171,7 +723,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
+    },
+    {
+      "keyword": "LD2450",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Le Chat",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "LED",
@@ -179,7 +747,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
+    },
+    {
+      "keyword": "Let's Encrypt",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "libghostty",
@@ -187,7 +763,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
     },
     {
       "keyword": "Lini Mini PC",
@@ -195,7 +771,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "Linuxサーバ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Lit",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Loop Engineering",
@@ -203,7 +795,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "MacBook",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Map API",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "MapComplete",
@@ -211,7 +819,71 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "Mermaid",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Microsoft Build 2026",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "MiniCPM5-1B",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Mistral AI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Netskope",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Nginx",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "NVIDIA GPU",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "NVIDIA RTX Spark",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Open Knowledge Format",
@@ -219,7 +891,39 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
+    },
+    {
+      "keyword": "OpenAI Codex",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Optane SSD P5800X",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "OSM",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "PayPal",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "PiSugar",
@@ -227,7 +931,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "PLATEAU",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Polycast5",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Programming",
@@ -235,7 +955,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
     },
     {
       "keyword": "Pwnagotchi",
@@ -243,7 +963,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "PX4",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Qt",
@@ -251,7 +979,31 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "Qwen3-VL",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Raspberry Pi Pico 2",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Raspberry Pi Pico 2 W",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Raspberry Pi Zero",
@@ -259,7 +1011,119 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "RDB",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Regression Analysis",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "RT-Thread",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "RTL-SDR",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "RTOS",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Rubydex",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Ryzen AI Max",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Security Tools",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Semgrep",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Siri AI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Space Computing",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "SpatialID",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Speech to Text",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "TanStack Query",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "TensorZero",
@@ -267,7 +1131,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
     },
     {
       "keyword": "terminal multiplexer",
@@ -275,7 +1139,31 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
+    },
+    {
+      "keyword": "ThinkPad P",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Tiny LLMs",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "TUI Antigravity",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "U-Blox",
@@ -283,7 +1171,39 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
+    },
+    {
+      "keyword": "ultracode",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Universal Cart",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "USB指紋リーダー",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "UX Design",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Vector Map",
@@ -291,7 +1211,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": null
     },
     {
       "keyword": "Vue",
@@ -299,7 +1219,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "Walksnail",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "WASI",
@@ -307,7 +1235,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": null
     },
     {
       "keyword": "Waveshare",
@@ -315,7 +1243,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "Web Clipper",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Web調査エージェント",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Whisplay HAT",
@@ -323,7 +1267,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
+    },
+    {
+      "keyword": "WiFi Protocol",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Windows",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Windows 11",
@@ -331,7 +1291,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
+    },
+    {
+      "keyword": "Windows Coreutils",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "Windows Developer Config",
@@ -339,7 +1307,71 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "Windows Hello",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "WinUI",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "WSLg",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "XIAO",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Zero-day",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "アプリ開発",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "アリババ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "インフラ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "エンジニア",
@@ -347,7 +1379,39 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "サーバー管理",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "サーバー構築",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "システム設計",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "セキュリティエージェント",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "データ共有",
@@ -355,7 +1419,23 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
+    },
+    {
+      "keyword": "データ処理",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "テキスト処理",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "トラベルルーター",
@@ -363,7 +1443,87 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "ハーネスエンジニアリング",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "パスキー",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "パッケージ管理",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ファイル共有",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "フルリモート",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "プログラミング学習",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "プログラミング書籍",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "プログラミング設計",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "プロダクトエンジニア",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "プロトコル",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "プロンプトエンジニアリング",
@@ -371,7 +1531,31 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-16"
+      "last_seen": null
+    },
+    {
+      "keyword": "ベクトル検索",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "マイクロコンピュータ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "マイクロソフト",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "ミュトス級AI",
@@ -379,7 +1563,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
     },
     {
       "keyword": "メイソンリーレイアウト",
@@ -387,7 +1571,63 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "メモリ削減",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "モーションファースト",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "モバイル開発",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ラジオ体操",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ラズパイ",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "レバテックLAB",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "ローカル実行",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "音声AIアシスタント",
@@ -395,7 +1635,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": null
     },
     {
       "keyword": "外部脳",
@@ -403,7 +1643,47 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
+    },
+    {
+      "keyword": "合成DNA",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "首相",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "振る舞い仕様",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "正規表現",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "生物兵器",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "西尾泰和",
@@ -411,7 +1691,15 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-13"
+      "last_seen": null
+    },
+    {
+      "keyword": "設計思想",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
     },
     {
       "keyword": "全固体電池",
@@ -419,7 +1707,7 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": null
     },
     {
       "keyword": "組み込みLinux",
@@ -427,7 +1715,103 @@
       "recent_days": 1,
       "novelty_bonus": 6,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": null
+    },
+    {
+      "keyword": "代数的データ型",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "渡辺メソッド",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "γ-World",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Google Cloud",
+      "score": 5,
+      "recent_days": 3,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-11-17"
+    },
+    {
+      "keyword": "プログラミング",
+      "score": 5,
+      "recent_days": 3,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-11-13"
+    },
+    {
+      "keyword": "AI開発",
+      "score": 5,
+      "recent_days": 2,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-06-23"
+    },
+    {
+      "keyword": "ESP32-S3",
+      "score": 5,
+      "recent_days": 2,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-10-02"
+    },
+    {
+      "keyword": "AI Research",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-11-01"
+    },
+    {
+      "keyword": "AI Tools",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-08-12"
+    },
+    {
+      "keyword": "Arduino",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-10-09"
+    },
+    {
+      "keyword": "Chrome DevTools",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-09-30"
+    },
+    {
+      "keyword": "Data Science",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-09-23"
     },
     {
       "keyword": "Google Colab",
@@ -435,7 +1819,23 @@
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": "2025-11-14"
+    },
+    {
+      "keyword": "MCP Apps",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-11-24"
+    },
+    {
+      "keyword": "Microsoft",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-10-21"
     },
     {
       "keyword": "NFC",
@@ -443,7 +1843,7 @@
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": "2025-06-22"
     },
     {
       "keyword": "Open Source AI",
@@ -451,7 +1851,7 @@
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
-      "last_seen": "2026-06-14"
+      "last_seen": "2025-10-16"
     },
     {
       "keyword": "PowerToys",
@@ -459,7 +1859,7 @@
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
-      "last_seen": "2026-06-12"
+      "last_seen": "2025-08-19"
     },
     {
       "keyword": "Remote Sensing",
@@ -467,7 +1867,127 @@
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
-      "last_seen": "2026-06-15"
+      "last_seen": "2025-11-29"
+    },
+    {
+      "keyword": "Reverse Engineering",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-07-14"
+    },
+    {
+      "keyword": "Terraform",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-12-02"
+    },
+    {
+      "keyword": "yt-dlp",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-07-05"
+    },
+    {
+      "keyword": "データベース",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-11-07"
+    },
+    {
+      "keyword": "開発ツール",
+      "score": 3,
+      "recent_days": 5,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-18"
+    },
+    {
+      "keyword": "LangChain",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-29"
+    },
+    {
+      "keyword": "Linux",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-01-01"
+    },
+    {
+      "keyword": "NVIDIA",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-15"
+    },
+    {
+      "keyword": "Raspberry Pi 5",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-06"
+    },
+    {
+      "keyword": "オープンソース",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-18"
+    },
+    {
+      "keyword": "Cloud Computing",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-15"
+    },
+    {
+      "keyword": "ESP32",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-16"
+    },
+    {
+      "keyword": "Firefox",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-30"
+    },
+    {
+      "keyword": "Gemini API",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-20"
+    },
+    {
+      "keyword": "Gemini CLI",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-16"
     },
     {
       "keyword": "GitHub Actions",
@@ -475,7 +1995,47 @@
       "recent_days": 1,
       "novelty_bonus": 3,
       "penalty": 0,
-      "last_seen": "2026-06-11"
+      "last_seen": "2026-01-01"
+    },
+    {
+      "keyword": "Google",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-15"
+    },
+    {
+      "keyword": "llama.cpp",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-04"
+    },
+    {
+      "keyword": "LoRa",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-17"
+    },
+    {
+      "keyword": "MySQL",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-12"
+    },
+    {
+      "keyword": "Next.js",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-01-09"
     },
     {
       "keyword": "NotebookLM",
@@ -483,7 +2043,87 @@
       "recent_days": 1,
       "novelty_bonus": 3,
       "penalty": 0,
-      "last_seen": "2026-06-10"
+      "last_seen": "2026-02-12"
+    },
+    {
+      "keyword": "NVIDIA Blackwell",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-26"
+    },
+    {
+      "keyword": "Palantir",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-28"
+    },
+    {
+      "keyword": "Playwright",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-15"
+    },
+    {
+      "keyword": "PostGIS",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-01-02"
+    },
+    {
+      "keyword": "PostgreSQL",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-12"
+    },
+    {
+      "keyword": "Ruby on Rails",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-25"
+    },
+    {
+      "keyword": "Traccar",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-17"
+    },
+    {
+      "keyword": "Vite",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-16"
+    },
+    {
+      "keyword": "WSL",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-27"
+    },
+    {
+      "keyword": "生成AI",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-20"
     }
   ]
 }
