@@ -412,3 +412,97 @@ h2 {
   min-width: 28px;
   text-align: right;
 }
+
+/* Discovery view */
+.discovery-legend {
+  font-size: 0.8rem;
+  color: #777;
+  margin-bottom: 16px;
+}
+
+.discovery-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 760px;
+}
+
+.discovery-item {
+  display: grid;
+  grid-template-columns: 28px 44px 68px 1fr auto auto;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.discovery-rank {
+  color: #aaa;
+  font-size: 0.75rem;
+  text-align: right;
+}
+
+.discovery-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.discovery-pips {
+  display: flex;
+  gap: 3px;
+}
+
+.pip {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 1px 4px;
+  border-radius: 3px;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.pip-3mo { background: #2e7d32; }
+.pip-6mo { background: #1565c0; }
+.pip-year { background: #6a1b9a; }
+
+.discovery-keyword {
+  font-size: 0.95rem;
+  color: #222;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.discovery-bar-wrap {
+  height: 6px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  overflow: hidden;
+  min-width: 60px;
+}
+
+.discovery-bar {
+  height: 100%;
+  background: #7b1fa2;
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.discovery-meta {
+  font-size: 0.75rem;
+  color: #888;
+  white-space: nowrap;
+}
+
+.discovery-last-seen {
+  color: #aaa;
+}

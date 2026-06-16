@@ -12,7 +12,8 @@
     "histogram": "ts-node scripts/histogram.ts",
     "ai": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/ai.ts",
     "amazon": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/amazon.ts",
-    "interests": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/interests.ts"
+    "interests": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/interests.ts",
+    "discovery": "node --import \"data:text/javascript,import { register } from 'node:module'; import { pathToFileURL } from 'node:url'; register('ts-node/esm', pathToFileURL('./'));\" scripts/discovery.ts"
   },
   "dependencies": {
     "amazon-pa-api5-node-ts": "^2.3.2",

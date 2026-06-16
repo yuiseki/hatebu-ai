@@ -1,5 +1,5 @@
 
-all: fetch histogram ai amazon interests
+all: fetch histogram ai amazon interests discovery
 
 .PHONY: fetch
 fetch:
@@ -20,3 +20,7 @@ amazon:
 .PHONY: interests
 interests:
 	npm run interests
+
+.PHONY: discovery
+discovery:
+	npm run discovery
