@@ -1,0 +1,97 @@
+[
+  {
+    "title": "GitHub - lit/lit: Lit is a simple library for building fast, lightweight web components.",
+    "link": "https://github.com/lit/lit/",
+    "date": "2026-06-08T01:52:50.000Z"
+  },
+  {
+    "title": "Using lit-html standalone – Lit",
+    "link": "https://lit.dev/docs/libraries/standalone-templates/",
+    "date": "2026-06-08T01:52:43.000Z"
+  },
+  {
+    "title": "React、まだ楽しくて草",
+    "link": "https://speakerdeck.com/uhyo/react-madale-sikutecao",
+    "date": "2026-06-07T23:01:26.000Z"
+  },
+  {
+    "title": "RDBで木構造の深さを制限したいときの設計パターン",
+    "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
+    "date": "2026-06-07T23:01:17.000Z"
+  },
+  {
+    "title": "1B最強でペット付きなローカルAI「MiniCPM5-1B」、マルチプレイのゲーム環境をリアルタイムにAI生成するNVIDIA開発の世界モデル「γ-World」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/06/07/5152.html",
+    "date": "2026-06-07T22:51:24.000Z"
+  },
+  {
+    "title": "無料でローカルAIに再試行を促す機能・ステップの強制・エラー回復・VRAMを考慮したコンテキスト管理などのガードレールを追加できる「forge」",
+    "link": "https://gigazine.net/news/20260607-forge/",
+    "date": "2026-06-07T22:51:18.000Z"
+  },
+  {
+    "title": "ultracode でアイデア出しを安く回す — Claude Code の workflow コストを実測で約7割削る手法",
+    "link": "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
+    "date": "2026-06-07T22:50:59.000Z"
+  },
+  {
+    "title": "AIプラットフォームを運用し続けるための可観測性",
+    "link": "https://speakerdeck.com/tanimuyk/aipuratutohuomuwoyun-yong-sisok-kerutamenoke-guan-ce-xing",
+    "date": "2026-06-07T22:50:50.000Z"
+  },
+  {
+    "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
+    "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+    "date": "2026-06-07T22:50:46.000Z"
+  },
+  {
+    "title": "現代の GPU アーキテクチャとシェーダー最適化の考え方",
+    "link": "https://zenn.dev/ruccho/articles/shader-optimization",
+    "date": "2026-06-07T22:50:42.000Z"
+  },
+  {
+    "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
+    "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
+    "date": "2026-06-07T22:50:39.000Z"
+  },
+  {
+    "title": "ChatGPTに「ロックダウンモード」　プロンプトインジェクションによる情報漏えい対策",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+    "date": "2026-06-07T22:50:36.000Z"
+  },
+  {
+    "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+    "date": "2026-06-07T22:50:32.000Z"
+  },
+  {
+    "title": "CDKをやめてTerraformに移行しようか迷っている話 vol.1",
+    "link": "https://zenn.dev/rrrraaaaa6/articles/5a8a540a864d83",
+    "date": "2026-06-07T22:50:14.000Z"
+  },
+  {
+    "title": "Kyushu",
+    "link": "https://kyushu.dev/",
+    "date": "2026-06-07T22:49:45.000Z"
+  },
+  {
+    "title": "総裁選で小泉氏批評動画　首相秘書から相談と作成者",
+    "link": "https://www.47news.jp/14431514.html",
+    "date": "2026-06-07T22:49:04.000Z"
+  },
+  {
+    "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する - Qiita",
+    "link": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
+    "date": "2026-06-07T22:48:58.000Z"
+  },
+  {
+    "title": "WSLgのGUIアプリ（Chrome・Obsidian）で文字をくっきり表示し、ウィンドウの端をドラッグでリサイズする - Qiita",
+    "link": "https://qiita.com/vochicong/items/17a43cc51fcbac282b3c",
+    "date": "2026-06-07T22:28:30.000Z"
+  },
+  {
+    "title": "正規表現ゴリ押し部",
+    "link": "https://wbsb.dev/articles/7f1c80ce-25ce-4dbf-a6aa-202c98bd6882",
+    "date": "2026-06-07T22:28:22.000Z"
+  }
+]
