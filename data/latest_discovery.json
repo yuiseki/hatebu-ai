@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-19",
   "window": {
-    "from": "2026-05-18",
-    "to": "2026-06-16"
+    "from": "2026-05-20",
+    "to": "2026-06-18"
   },
   "discoveries": [
     {
@@ -238,6 +238,14 @@
       "last_seen": null
     },
     {
+      "keyword": "Android 17",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "Anker バッテリー",
       "score": 6,
       "recent_days": 1,
@@ -254,7 +262,7 @@
       "last_seen": null
     },
     {
-      "keyword": "AWS Lambda",
+      "keyword": "ASUS ExpertBook",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -262,7 +270,7 @@
       "last_seen": null
     },
     {
-      "keyword": "Beta Tester",
+      "keyword": "AWS Lambda",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -398,14 +406,6 @@
       "last_seen": null
     },
     {
-      "keyword": "DependencyAI",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
       "keyword": "Dexie.js",
       "score": 6,
       "recent_days": 1,
@@ -423,14 +423,6 @@
     },
     {
       "keyword": "Dynamic Workflow",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "Embedded systems",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -503,14 +495,6 @@
     },
     {
       "keyword": "Gemini for Science",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "Generative AI",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -606,14 +590,6 @@
       "last_seen": null
     },
     {
-      "keyword": "Google Search",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
       "keyword": "Graph RAG",
       "score": 6,
       "recent_days": 1,
@@ -686,6 +662,14 @@
       "last_seen": null
     },
     {
+      "keyword": "Jira代替",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "k3s",
       "score": 6,
       "recent_days": 1,
@@ -703,14 +687,6 @@
     },
     {
       "keyword": "KV cache",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "Language Segment Anything",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -767,6 +743,14 @@
     },
     {
       "keyword": "Lini Mini PC",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Linuxカーネル",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -886,6 +870,14 @@
       "last_seen": null
     },
     {
+      "keyword": "ONNX Runtime",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "Open Knowledge Format",
       "score": 6,
       "recent_days": 1,
@@ -895,14 +887,6 @@
     },
     {
       "keyword": "OpenAI Codex",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "Optane SSD P5800X",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1118,6 +1102,14 @@
       "last_seen": null
     },
     {
+      "keyword": "SVGMap",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "TanStack Query",
       "score": 6,
       "recent_days": 1,
@@ -1199,6 +1191,14 @@
     },
     {
       "keyword": "UX Design",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Vector Database",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1399,6 +1399,14 @@
     },
     {
       "keyword": "システム設計",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "スマートウォッチ",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1662,6 +1670,14 @@
       "last_seen": null
     },
     {
+      "keyword": "準固体電池",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "振る舞い仕様",
       "score": 6,
       "recent_days": 1,
@@ -1774,6 +1790,14 @@
       "last_seen": "2025-10-02"
     },
     {
+      "keyword": "Terraform",
+      "score": 5,
+      "recent_days": 2,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-12-02"
+    },
+    {
       "keyword": "AI Research",
       "score": 5,
       "recent_days": 1,
@@ -1878,14 +1902,6 @@
       "last_seen": "2025-07-14"
     },
     {
-      "keyword": "Terraform",
-      "score": 5,
-      "recent_days": 1,
-      "novelty_bonus": 5,
-      "penalty": 0,
-      "last_seen": "2025-12-02"
-    },
-    {
       "keyword": "yt-dlp",
       "score": 5,
       "recent_days": 1,
@@ -1902,12 +1918,28 @@
       "last_seen": "2025-11-07"
     },
     {
+      "keyword": "生成AI",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-12-20"
+    },
+    {
       "keyword": "開発ツール",
       "score": 3,
       "recent_days": 5,
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-03-18"
+    },
+    {
+      "keyword": "GitHub Actions",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-01-01"
     },
     {
       "keyword": "LangChain",
@@ -1942,6 +1974,14 @@
       "last_seen": "2026-02-06"
     },
     {
+      "keyword": "WSL",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-27"
+    },
+    {
       "keyword": "オープンソース",
       "score": 3,
       "recent_days": 2,
@@ -1950,12 +1990,28 @@
       "last_seen": "2026-03-18"
     },
     {
+      "keyword": "AIモデル",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-19"
+    },
+    {
       "keyword": "Cloud Computing",
       "score": 3,
       "recent_days": 1,
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-02-15"
+    },
+    {
+      "keyword": "Cursor",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-01-21"
     },
     {
       "keyword": "ESP32",
@@ -1988,14 +2044,6 @@
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-02-16"
-    },
-    {
-      "keyword": "GitHub Actions",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2026-01-01"
     },
     {
       "keyword": "Google",
@@ -2054,6 +2102,14 @@
       "last_seen": "2025-12-26"
     },
     {
+      "keyword": "OpenRouter",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2025-12-21"
+    },
+    {
       "keyword": "Palantir",
       "score": 3,
       "recent_days": 1,
@@ -2108,22 +2164,6 @@
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-03-16"
-    },
-    {
-      "keyword": "WSL",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2026-02-27"
-    },
-    {
-      "keyword": "生成AI",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2025-12-20"
     }
   ]
 }
