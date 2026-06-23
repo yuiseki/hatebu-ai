@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-19",
+  "generated_at": "2026-06-24",
   "periods": {
     "week": {
-      "from": "2026-06-12",
-      "to": "2026-06-18",
+      "from": "2026-06-17",
+      "to": "2026-06-23",
       "total_days_with_data": 7,
       "keywords": [
         {
           "keyword": "AIエージェント",
+          "count": 4,
+          "days": 4
+        },
+        {
+          "keyword": "LLM",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "GitHub",
+          "keyword": "Raspberry Pi",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "AI",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "Anthropic",
-          "count": 2,
-          "days": 2
+          "keyword": "Rust",
+          "count": 3,
+          "days": 3
         },
         {
           "keyword": "Cloudflare",
@@ -32,17 +32,37 @@
           "days": 2
         },
         {
-          "keyword": "Google Cloud",
+          "keyword": "Cursor",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "LLM",
+          "keyword": "Docker",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "OKF",
+          "keyword": "GitHub",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "GitHub Actions",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "OpenAI",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "OSS",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "PostgreSQL",
           "count": 2,
           "days": 2
         },
@@ -52,7 +72,7 @@
           "days": 2
         },
         {
-          "keyword": "Rust",
+          "keyword": "ミニPC",
           "count": 2,
           "days": 2
         },
@@ -62,22 +82,12 @@
           "days": 2
         },
         {
-          "keyword": "開発ツール",
+          "keyword": "生成AI",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "学習リソース",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "AIニュースキュレーター",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AIノートブック",
+          "keyword": "4D Gaussian Splatting",
           "count": 1,
           "days": 1
         },
@@ -92,17 +102,12 @@
           "days": 1
         },
         {
-          "keyword": "AWS",
+          "keyword": "Bangle.js",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Build Agents",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Claude",
+          "keyword": "CDC",
           "count": 1,
           "days": 1
         },
@@ -112,12 +117,7 @@
           "days": 1
         },
         {
-          "keyword": "Claude Fable 5",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Code with Claude",
+          "keyword": "ClickHouse",
           "count": 1,
           "days": 1
         },
@@ -127,57 +127,77 @@
           "days": 1
         },
         {
-          "keyword": "Copilot Notebooks",
+          "keyword": "Copilot Studio",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "CSS Grid",
+          "keyword": "Cpp.js",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Cursor",
+          "keyword": "DuckDB",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "DAZN",
+          "keyword": "E-ink Monitor",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Development Tools",
+          "keyword": "embedded Linux",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Docker",
+          "keyword": "ESP32",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Forza Horizon",
+          "keyword": "Felt AI",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "freee",
+          "keyword": "Gemini CLI",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "GitHub Actions",
+          "keyword": "GGUF",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "GL.iNet",
+          "keyword": "GIS",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "GNU screen",
+          "keyword": "Git",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "GitHub Copilot",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "HackRF One",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Hugging Face",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "HyperPixel4.0",
           "count": 1,
           "days": 1
         },
@@ -187,37 +207,22 @@
           "days": 1
         },
         {
-          "keyword": "Knowledge Catalog",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Large Language Model",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "LED",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "libghostty",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Linuxカーネル",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Loop Engineering",
+          "keyword": "llama.cpp",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "MapComplete",
+          "keyword": "LoRa",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Lore (Version Control)",
           "count": 1,
           "days": 1
         },
@@ -227,7 +232,32 @@
           "days": 1
         },
         {
-          "keyword": "NFC",
+          "keyword": "MediaPipe",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Mesa 3D",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Microsoft Scout",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "MySQL",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Next.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OCuLink",
           "count": 1,
           "days": 1
         },
@@ -242,22 +272,12 @@
           "days": 1
         },
         {
-          "keyword": "Open Knowledge Format",
+          "keyword": "Open Source",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Open Source AI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "OpenAI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "OpenClaw",
+          "keyword": "OpenCode",
           "count": 1,
           "days": 1
         },
@@ -267,42 +287,37 @@
           "days": 1
         },
         {
-          "keyword": "OpenStreetMap",
+          "keyword": "OSINT",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "PowerToys",
+          "keyword": "Quimat",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Programming",
+          "keyword": "Record & Replay",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Python",
+          "keyword": "REST API",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Qt",
+          "keyword": "Ryzen AI",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Raspberry Pi",
+          "keyword": "socktainer",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Remote Sensing",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "SaaS",
+          "keyword": "SQLite",
           "count": 1,
           "days": 1
         },
@@ -312,22 +327,7 @@
           "days": 1
         },
         {
-          "keyword": "STAC",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "SVGMap",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "TensorZero",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "terminal multiplexer",
           "count": 1,
           "days": 1
         },
@@ -337,22 +337,32 @@
           "days": 1
         },
         {
+          "keyword": "Three.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "uv (Python)",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Vector Database",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Vector Map",
+          "keyword": "Vercel",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Vue",
+          "keyword": "Vibe Coding",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "WASI",
+          "keyword": "WASM",
           "count": 1,
           "days": 1
         },
@@ -362,7 +372,7 @@
           "days": 1
         },
         {
-          "keyword": "Windows Developer Config",
+          "keyword": "Webサーバー",
           "count": 1,
           "days": 1
         },
@@ -372,7 +382,7 @@
           "days": 1
         },
         {
-          "keyword": "エンジニア",
+          "keyword": "コンパクトスマホ",
           "count": 1,
           "days": 1
         },
@@ -382,42 +392,27 @@
           "days": 1
         },
         {
-          "keyword": "データ共有",
+          "keyword": "タッチスクリーンディスプレイ",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "トラベルルーター",
+          "keyword": "データウェアハウス",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "プログラミング",
+          "keyword": "ワークフロー自動化",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "プロンプトエンジニアリング",
+          "keyword": "自治体システム",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "ミュトス級AI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "メイソンリーレイアウト",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "外部脳",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "技術書",
+          "keyword": "自然言語処理",
           "count": 1,
           "days": 1
         },
@@ -427,34 +422,34 @@
           "days": 1
         },
         {
-          "keyword": "西尾泰和",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "組み込みLinux",
+          "keyword": "物理キーボード",
           "count": 1,
           "days": 1
         }
       ]
     },
     "month": {
-      "from": "2026-05-20",
-      "to": "2026-06-18",
+      "from": "2026-05-25",
+      "to": "2026-06-23",
       "total_days_with_data": 30,
       "keywords": [
         {
+          "keyword": "AIエージェント",
+          "count": 9,
+          "days": 9
+        },
+        {
           "keyword": "LLM",
+          "count": 9,
+          "days": 9
+        },
+        {
+          "keyword": "Rust",
           "count": 8,
           "days": 8
         },
         {
           "keyword": "AI",
-          "count": 7,
-          "days": 7
-        },
-        {
-          "keyword": "AIエージェント",
           "count": 6,
           "days": 6
         },
@@ -469,12 +464,17 @@
           "days": 6
         },
         {
-          "keyword": "Rust",
-          "count": 6,
-          "days": 6
+          "keyword": "Cloudflare",
+          "count": 5,
+          "days": 5
         },
         {
-          "keyword": "AWS",
+          "keyword": "GitHub",
+          "count": 5,
+          "days": 5
+        },
+        {
+          "keyword": "OpenAI",
           "count": 5,
           "days": 5
         },
@@ -489,12 +489,12 @@
           "days": 5
         },
         {
-          "keyword": "GitHub",
+          "keyword": "AWS",
           "count": 4,
           "days": 4
         },
         {
-          "keyword": "OpenAI",
+          "keyword": "Raspberry Pi",
           "count": 4,
           "days": 4
         },
@@ -504,37 +504,27 @@
           "days": 3
         },
         {
-          "keyword": "Cloudflare",
-          "count": 3,
-          "days": 3
-        },
-        {
           "keyword": "Docker",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "Gemini",
+          "keyword": "DuckDB",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "Google Cloud",
+          "keyword": "GitHub Actions",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "OpenStreetMap",
+          "keyword": "PostgreSQL",
           "count": 3,
           "days": 3
         },
         {
           "keyword": "RAG",
-          "count": 3,
-          "days": 3
-        },
-        {
-          "keyword": "Raspberry Pi",
           "count": 3,
           "days": 3
         },
@@ -559,6 +549,11 @@
           "days": 3
         },
         {
+          "keyword": "生成AI",
+          "count": 3,
+          "days": 3
+        },
+        {
           "keyword": "AI開発",
           "count": 2,
           "days": 2
@@ -579,12 +574,12 @@
           "days": 2
         },
         {
-          "keyword": "Drone",
+          "keyword": "Cursor",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "DuckDB",
+          "keyword": "Drone",
           "count": 2,
           "days": 2
         },
@@ -594,17 +589,37 @@
           "days": 2
         },
         {
+          "keyword": "ESP32",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "ESP32-S3",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "GitHub Actions",
+          "keyword": "Gemini",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "Kubernetes",
+          "keyword": "GIS",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Git",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "GitHub Copilot",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Google Cloud",
           "count": 2,
           "days": 2
         },
@@ -619,12 +634,22 @@
           "days": 2
         },
         {
-          "keyword": "Machine Learning",
+          "keyword": "llama.cpp",
           "count": 2,
           "days": 2
         },
         {
           "keyword": "MCP",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "MySQL",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Next.js",
           "count": 2,
           "days": 2
         },
@@ -654,6 +679,16 @@
           "days": 2
         },
         {
+          "keyword": "OpenStreetMap",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "OSS",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "Raspberry Pi 5",
           "count": 2,
           "days": 2
@@ -665,6 +700,11 @@
         },
         {
           "keyword": "Seeed Studio",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "SQLite",
           "count": 2,
           "days": 2
         },
@@ -694,14 +734,14 @@
           "days": 2
         },
         {
-          "keyword": "技術書",
+          "keyword": "ミニPC",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "1Password",
-          "count": 1,
-          "days": 1
+          "keyword": "技術書",
+          "count": 2,
+          "days": 2
         },
         {
           "keyword": "360°カメラ",
@@ -709,7 +749,7 @@
           "days": 1
         },
         {
-          "keyword": "3D",
+          "keyword": "4D Gaussian Splatting",
           "count": 1,
           "days": 1
         },
@@ -720,11 +760,6 @@
         },
         {
           "keyword": "A2UI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Acer Veriton GN100",
           "count": 1,
           "days": 1
         },
@@ -749,27 +784,12 @@
           "days": 1
         },
         {
-          "keyword": "AI Price Monitoring",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "AI Research",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "AI Safety",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Search",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Studio",
           "count": 1,
           "days": 1
         },
@@ -819,11 +839,6 @@
           "days": 1
         },
         {
-          "keyword": "AMD Ryzen AI Max PRO 400",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Android 17",
           "count": 1,
           "days": 1
@@ -854,12 +869,12 @@
           "days": 1
         },
         {
-          "keyword": "Betaflight",
+          "keyword": "Bangle.js",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "BigQuery",
+          "keyword": "Betaflight",
           "count": 1,
           "days": 1
         },
@@ -884,6 +899,11 @@
           "days": 1
         },
         {
+          "keyword": "CDC",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "CDK",
           "count": 1,
           "days": 1
@@ -904,16 +924,6 @@
           "days": 1
         },
         {
-          "keyword": "Chrome DevTools",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "CISA Leak",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Claude Code Plugin",
           "count": 1,
           "days": 1
@@ -924,17 +934,12 @@
           "days": 1
         },
         {
-          "keyword": "CLI",
+          "keyword": "ClickHouse",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Cloud Computing",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Cloud Security",
           "count": 1,
           "days": 1
         },
@@ -964,12 +969,17 @@
           "days": 1
         },
         {
-          "keyword": "CSS Grid",
+          "keyword": "Copilot Studio",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Cursor",
+          "keyword": "Cpp.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "CSS Grid",
           "count": 1,
           "days": 1
         },
@@ -1014,12 +1024,17 @@
           "days": 1
         },
         {
-          "keyword": "ER939-AI",
+          "keyword": "E-ink Monitor",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "ESP32",
+          "keyword": "embedded Linux",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "ER939-AI",
           "count": 1,
           "days": 1
         },
@@ -1029,17 +1044,12 @@
           "days": 1
         },
         {
-          "keyword": "EVソフトウェア",
+          "keyword": "Felt AI",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Firefox",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Flipper One",
           "count": 1,
           "days": 1
         },
@@ -1064,17 +1074,7 @@
           "days": 1
         },
         {
-          "keyword": "Gemini API",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Gemini CLI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Gemini for Science",
           "count": 1,
           "days": 1
         },
@@ -1104,22 +1104,7 @@
           "days": 1
         },
         {
-          "keyword": "GIS",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Git",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "GitHub Copilot",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "GitHub Security",
+          "keyword": "GGUF",
           "count": 1,
           "days": 1
         },
@@ -1149,17 +1134,7 @@
           "days": 1
         },
         {
-          "keyword": "Godot",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Google",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Google Antigravity 2.0",
           "count": 1,
           "days": 1
         },
@@ -1179,7 +1154,7 @@
           "days": 1
         },
         {
-          "keyword": "HENNGE One",
+          "keyword": "HackRF One",
           "count": 1,
           "days": 1
         },
@@ -1194,7 +1169,12 @@
           "days": 1
         },
         {
-          "keyword": "HTML Installer",
+          "keyword": "Hugging Face",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "HyperPixel4.0",
           "count": 1,
           "days": 1
         },
@@ -1204,17 +1184,7 @@
           "days": 1
         },
         {
-          "keyword": "IDaaS",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "iOS 27",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Istio",
           "count": 1,
           "days": 1
         },
@@ -1229,12 +1199,12 @@
           "days": 1
         },
         {
-          "keyword": "k3s",
+          "keyword": "Knowledge Catalog",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Knowledge Catalog",
+          "keyword": "Kubernetes",
           "count": 1,
           "days": 1
         },
@@ -1284,17 +1254,7 @@
           "days": 1
         },
         {
-          "keyword": "Linuxサーバ",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Lit",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "llama.cpp",
           "count": 1,
           "days": 1
         },
@@ -1309,12 +1269,17 @@
           "days": 1
         },
         {
+          "keyword": "Lore (Version Control)",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "MacBook",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Map API",
+          "keyword": "Machine Learning",
           "count": 1,
           "days": 1
         },
@@ -1329,7 +1294,17 @@
           "days": 1
         },
         {
+          "keyword": "MediaPipe",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Mermaid",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Mesa 3D",
           "count": 1,
           "days": 1
         },
@@ -1344,27 +1319,17 @@
           "days": 1
         },
         {
+          "keyword": "Microsoft Scout",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "MiniCPM5-1B",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Mistral AI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "MySQL",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Netskope",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Next.js",
           "count": 1,
           "days": 1
         },
@@ -1389,17 +1354,17 @@
           "days": 1
         },
         {
-          "keyword": "NVIDIA Blackwell",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "NVIDIA GPU",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "NVIDIA RTX Spark",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OCuLink",
           "count": 1,
           "days": 1
         },
@@ -1414,6 +1379,11 @@
           "days": 1
         },
         {
+          "keyword": "Open Source",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Open Source AI",
           "count": 1,
           "days": 1
@@ -1424,7 +1394,17 @@
           "days": 1
         },
         {
+          "keyword": "OpenCode",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "OpenRouter",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OSINT",
           "count": 1,
           "days": 1
         },
@@ -1449,27 +1429,12 @@
           "days": 1
         },
         {
-          "keyword": "PLATEAU",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Playwright",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Polycast5",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "PostGIS",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "PostgreSQL",
           "count": 1,
           "days": 1
         },
@@ -1499,6 +1464,11 @@
           "days": 1
         },
         {
+          "keyword": "Quimat",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Qwen",
           "count": 1,
           "days": 1
@@ -1510,11 +1480,6 @@
         },
         {
           "keyword": "Raspberry Pi Pico 2",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Raspberry Pi Pico 2 W",
           "count": 1,
           "days": 1
         },
@@ -1534,12 +1499,17 @@
           "days": 1
         },
         {
-          "keyword": "Regression Analysis",
+          "keyword": "Record & Replay",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Remote Sensing",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "REST API",
           "count": 1,
           "days": 1
         },
@@ -1554,11 +1524,6 @@
           "days": 1
         },
         {
-          "keyword": "RTL-SDR",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "RTOS",
           "count": 1,
           "days": 1
@@ -1569,12 +1534,7 @@
           "days": 1
         },
         {
-          "keyword": "Ruby on Rails",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Rubydex",
+          "keyword": "Ryzen AI",
           "count": 1,
           "days": 1
         },
@@ -1599,22 +1559,7 @@
           "days": 1
         },
         {
-          "keyword": "Space Computing",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "SpatialID",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Speech to Text",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "SQLite",
+          "keyword": "socktainer",
           "count": 1,
           "days": 1
         },
@@ -1649,6 +1594,11 @@
           "days": 1
         },
         {
+          "keyword": "Three.js",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Tiny LLMs",
           "count": 1,
           "days": 1
@@ -1664,11 +1614,6 @@
           "days": 1
         },
         {
-          "keyword": "TUI Antigravity",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "U-Blox",
           "count": 1,
           "days": 1
@@ -1679,22 +1624,12 @@
           "days": 1
         },
         {
-          "keyword": "Unity",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Universal Cart",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "USB指紋リーダー",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "UX Design",
+          "keyword": "uv (Python)",
           "count": 1,
           "days": 1
         },
@@ -1705,6 +1640,16 @@
         },
         {
           "keyword": "Vector Map",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Vercel",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Vibe Coding",
           "count": 1,
           "days": 1
         },
@@ -1734,17 +1679,22 @@
           "days": 1
         },
         {
+          "keyword": "WASM",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Waveshare",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Web Clipper",
+          "keyword": "WebGPU",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "WebGPU",
+          "keyword": "Webサーバー",
           "count": 1,
           "days": 1
         },
@@ -1834,6 +1784,11 @@
           "days": 1
         },
         {
+          "keyword": "コンパクトスマホ",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "サーバー管理",
           "count": 1,
           "days": 1
@@ -1855,6 +1810,16 @@
         },
         {
           "keyword": "セキュリティエージェント",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "タッチスクリーンディスプレイ",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "データウェアハウス",
           "count": 1,
           "days": 1
         },
@@ -1979,11 +1944,6 @@
           "days": 1
         },
         {
-          "keyword": "ラジオ体操",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "ラズパイ",
           "count": 1,
           "days": 1
@@ -1999,6 +1959,11 @@
           "days": 1
         },
         {
+          "keyword": "ワークフロー自動化",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "音声AIアシスタント",
           "count": 1,
           "days": 1
@@ -2010,6 +1975,16 @@
         },
         {
           "keyword": "合成DNA",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "自治体システム",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "自然言語処理",
           "count": 1,
           "days": 1
         },
@@ -2030,11 +2005,6 @@
         },
         {
           "keyword": "正規表現",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "生成AI",
           "count": 1,
           "days": 1
         },
@@ -2074,6 +2044,11 @@
           "days": 1
         },
         {
+          "keyword": "物理キーボード",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "γ-World",
           "count": 1,
           "days": 1
@@ -2081,8 +2056,8 @@
       ]
     },
     "three_months": {
-      "from": "2026-03-21",
-      "to": "2026-06-18",
+      "from": "2026-03-26",
+      "to": "2026-06-23",
       "total_days_with_data": 90,
       "keywords": [
         {
@@ -2092,13 +2067,13 @@
         },
         {
           "keyword": "Docker",
-          "count": 19,
-          "days": 19
+          "count": 20,
+          "days": 20
         },
         {
           "keyword": "Python",
-          "count": 19,
-          "days": 19
+          "count": 18,
+          "days": 18
         },
         {
           "keyword": "AI",
@@ -2107,6 +2082,11 @@
         },
         {
           "keyword": "GitHub",
+          "count": 15,
+          "days": 15
+        },
+        {
+          "keyword": "LLM",
           "count": 14,
           "days": 14
         },
@@ -2116,14 +2096,14 @@
           "days": 13
         },
         {
-          "keyword": "LLM",
-          "count": 12,
-          "days": 12
+          "keyword": "AIエージェント",
+          "count": 11,
+          "days": 11
         },
         {
-          "keyword": "AIエージェント",
-          "count": 9,
-          "days": 9
+          "keyword": "Rust",
+          "count": 11,
+          "days": 11
         },
         {
           "keyword": "Claude Code",
@@ -2136,7 +2116,7 @@
           "days": 9
         },
         {
-          "keyword": "Rust",
+          "keyword": "Raspberry Pi",
           "count": 9,
           "days": 9
         },
@@ -2147,8 +2127,13 @@
         },
         {
           "keyword": "DuckDB",
-          "count": 7,
-          "days": 7
+          "count": 8,
+          "days": 8
+        },
+        {
+          "keyword": "OpenAI",
+          "count": 8,
+          "days": 8
         },
         {
           "keyword": "Gemini",
@@ -2156,29 +2141,24 @@
           "days": 7
         },
         {
-          "keyword": "OpenAI",
-          "count": 7,
-          "days": 7
-        },
-        {
-          "keyword": "Raspberry Pi",
-          "count": 7,
-          "days": 7
-        },
-        {
-          "keyword": "OpenStreetMap",
+          "keyword": "Cloudflare",
           "count": 6,
           "days": 6
         },
         {
           "keyword": "Codex",
-          "count": 5,
-          "days": 5
+          "count": 6,
+          "days": 6
         },
         {
           "keyword": "Git",
-          "count": 5,
-          "days": 5
+          "count": 6,
+          "days": 6
+        },
+        {
+          "keyword": "OpenStreetMap",
+          "count": 6,
+          "days": 6
         },
         {
           "keyword": "Ollama",
@@ -2206,12 +2186,12 @@
           "days": 4
         },
         {
-          "keyword": "Cloudflare",
+          "keyword": "Copilot",
           "count": 4,
           "days": 4
         },
         {
-          "keyword": "Copilot",
+          "keyword": "GitHub Copilot",
           "count": 4,
           "days": 4
         },
@@ -2221,7 +2201,7 @@
           "days": 4
         },
         {
-          "keyword": "RAG",
+          "keyword": "Open Source",
           "count": 4,
           "days": 4
         },
@@ -2276,7 +2256,12 @@
           "days": 3
         },
         {
-          "keyword": "GitHub Copilot",
+          "keyword": "GIS",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "GitHub Actions",
           "count": 3,
           "days": 3
         },
@@ -2311,27 +2296,32 @@
           "days": 3
         },
         {
-          "keyword": "Open Source",
-          "count": 3,
-          "days": 3
-        },
-        {
           "keyword": "OpenClaw",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "Qwen",
+          "keyword": "OSS",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "Qwen3.5",
+          "keyword": "PostgreSQL",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "RAG",
           "count": 3,
           "days": 3
         },
         {
           "keyword": "Security",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "SQLite",
           "count": 3,
           "days": 3
         },
@@ -2362,6 +2352,11 @@
         },
         {
           "keyword": "プログラミング",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "生成AI",
           "count": 3,
           "days": 3
         },
@@ -2411,7 +2406,7 @@
           "days": 2
         },
         {
-          "keyword": "CQRS",
+          "keyword": "Cursor",
           "count": 2,
           "days": 2
         },
@@ -2436,6 +2431,11 @@
           "days": 2
         },
         {
+          "keyword": "ESP32",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "ESP32-S3",
           "count": 2,
           "days": 2
@@ -2451,17 +2451,12 @@
           "days": 2
         },
         {
+          "keyword": "Gemini CLI",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "Geospatial",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "GIS",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "GitHub Actions",
           "count": 2,
           "days": 2
         },
@@ -2477,6 +2472,11 @@
         },
         {
           "keyword": "GraphRAG",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Hugging Face",
           "count": 2,
           "days": 2
         },
@@ -2501,12 +2501,32 @@
           "days": 2
         },
         {
+          "keyword": "llama.cpp",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "LoRa",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "Mapbox",
           "count": 2,
           "days": 2
         },
         {
           "keyword": "MongoDB",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "MySQL",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Next.js",
           "count": 2,
           "days": 2
         },
@@ -2536,6 +2556,21 @@
           "days": 2
         },
         {
+          "keyword": "OSINT",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Qwen",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Qwen3.5",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "Raspberry Pi 5",
           "count": 2,
           "days": 2
@@ -2561,11 +2596,6 @@
           "days": 2
         },
         {
-          "keyword": "SQLite",
-          "count": 2,
-          "days": 2
-        },
-        {
           "keyword": "SSD",
           "count": 2,
           "days": 2
@@ -2581,12 +2611,12 @@
           "days": 2
         },
         {
-          "keyword": "Tool",
+          "keyword": "Three.js",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "UI/UX",
+          "keyword": "Tool",
           "count": 2,
           "days": 2
         },
@@ -2597,6 +2627,11 @@
         },
         {
           "keyword": "Vim",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "WASM",
           "count": 2,
           "days": 2
         },
@@ -2616,7 +2651,7 @@
           "days": 2
         },
         {
-          "keyword": "テクノロジー",
+          "keyword": "ミニPC",
           "count": 2,
           "days": 2
         },
@@ -2652,6 +2687,11 @@
         },
         {
           "keyword": "3分で出す",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "4D Gaussian Splatting",
           "count": 1,
           "days": 1
         },
@@ -2737,11 +2777,6 @@
         },
         {
           "keyword": "AI Database",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI defense systems",
           "count": 1,
           "days": 1
         },
@@ -2971,6 +3006,11 @@
           "days": 1
         },
         {
+          "keyword": "Bangle.js",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Beta Tester",
           "count": 1,
           "days": 1
@@ -3066,6 +3106,11 @@
           "days": 1
         },
         {
+          "keyword": "CDC",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "chardet",
           "count": 1,
           "days": 1
@@ -3106,11 +3151,6 @@
           "days": 1
         },
         {
-          "keyword": "Claude AI",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Claude Code Plugin",
           "count": 1,
           "days": 1
@@ -3127,6 +3167,11 @@
         },
         {
           "keyword": "Claude Mythos",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "ClickHouse",
           "count": 1,
           "days": 1
         },
@@ -3226,17 +3271,27 @@
           "days": 1
         },
         {
+          "keyword": "Copilot Studio",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Cpp.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "CQRS",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Crates.io",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "CSS Grid",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Cursor",
           "count": 1,
           "days": 1
         },
@@ -3252,11 +3307,6 @@
         },
         {
           "keyword": "data analyst",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Data efficiency",
           "count": 1,
           "days": 1
         },
@@ -3282,11 +3332,6 @@
         },
         {
           "keyword": "Database Technologies",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "DataFast",
           "count": 1,
           "days": 1
         },
@@ -3371,6 +3416,11 @@
           "days": 1
         },
         {
+          "keyword": "E-ink Monitor",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "East Japan Games",
           "count": 1,
           "days": 1
@@ -3386,12 +3436,12 @@
           "days": 1
         },
         {
-          "keyword": "Egami Sayings",
+          "keyword": "elevation model",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "elevation model",
+          "keyword": "embedded Linux",
           "count": 1,
           "days": 1
         },
@@ -3426,11 +3476,6 @@
           "days": 1
         },
         {
-          "keyword": "ESP32",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "ESP32 C3 SuperMini",
           "count": 1,
           "days": 1
@@ -3447,6 +3492,11 @@
         },
         {
           "keyword": "Fargate",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Felt AI",
           "count": 1,
           "days": 1
         },
@@ -3476,17 +3526,7 @@
           "days": 1
         },
         {
-          "keyword": "Flow Accumulation",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "FME",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Folksonomy",
           "count": 1,
           "days": 1
         },
@@ -3541,11 +3581,6 @@
           "days": 1
         },
         {
-          "keyword": "Gemini CLI",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Gemini for Science",
           "count": 1,
           "days": 1
@@ -3581,11 +3616,6 @@
           "days": 1
         },
         {
-          "keyword": "GeoGuessr",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "GeoJSON",
           "count": 1,
           "days": 1
@@ -3617,6 +3647,11 @@
         },
         {
           "keyword": "Geospatial Technology",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "GGUF",
           "count": 1,
           "days": 1
         },
@@ -3721,17 +3756,7 @@
           "days": 1
         },
         {
-          "keyword": "Googology",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Grafana",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Grafeo",
           "count": 1,
           "days": 1
         },
@@ -3756,7 +3781,7 @@
           "days": 1
         },
         {
-          "keyword": "HDDクラウド",
+          "keyword": "HackRF One",
           "count": 1,
           "days": 1
         },
@@ -3801,17 +3826,12 @@
           "days": 1
         },
         {
-          "keyword": "Hugging Face",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "huihui-ai",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Human-in-the-Loop",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "HyperPixel4.0",
           "count": 1,
           "days": 1
         },
@@ -3866,11 +3886,6 @@
           "days": 1
         },
         {
-          "keyword": "JOSM",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "k3s",
           "count": 1,
           "days": 1
@@ -3887,11 +3902,6 @@
         },
         {
           "keyword": "Keycloak",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "KittenTTS",
           "count": 1,
           "days": 1
         },
@@ -3971,11 +3981,6 @@
           "days": 1
         },
         {
-          "keyword": "LibreChat",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Lini Mini PC",
           "count": 1,
           "days": 1
@@ -4006,11 +4011,6 @@
           "days": 1
         },
         {
-          "keyword": "llama.cpp",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "LLM interoperability",
           "count": 1,
           "days": 1
@@ -4022,11 +4022,6 @@
         },
         {
           "keyword": "LLM360",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "LLM技術",
           "count": 1,
           "days": 1
         },
@@ -4046,12 +4041,7 @@
           "days": 1
         },
         {
-          "keyword": "LoRa",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "LoRA",
+          "keyword": "Lore (Version Control)",
           "count": 1,
           "days": 1
         },
@@ -4131,7 +4121,17 @@
           "days": 1
         },
         {
+          "keyword": "MediaPipe",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Mermaid",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Mesa 3D",
           "count": 1,
           "days": 1
         },
@@ -4157,6 +4157,11 @@
         },
         {
           "keyword": "Microsoft Build 2026",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Microsoft Scout",
           "count": 1,
           "days": 1
         },
@@ -4206,21 +4211,6 @@
           "days": 1
         },
         {
-          "keyword": "Mycat",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "MySQL",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "NanoGPT",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Native",
           "count": 1,
           "days": 1
@@ -4231,27 +4221,12 @@
           "days": 1
         },
         {
-          "keyword": "NDLOCRLite",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Netskope",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Next.js",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "NFC",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "NFCタグ",
           "count": 1,
           "days": 1
         },
@@ -4272,11 +4247,6 @@
         },
         {
           "keyword": "NLP",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "NLP training",
           "count": 1,
           "days": 1
         },
@@ -4327,6 +4297,11 @@
         },
         {
           "keyword": "Obsidian",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OCuLink",
           "count": 1,
           "days": 1
         },
@@ -4406,22 +4381,12 @@
           "days": 1
         },
         {
-          "keyword": "OSINT",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "OSM",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "OsmAnd",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "OSS",
           "count": 1,
           "days": 1
         },
@@ -4466,17 +4431,7 @@
           "days": 1
         },
         {
-          "keyword": "pCloud",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "PDA",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "PEFT",
           "count": 1,
           "days": 1
         },
@@ -4517,11 +4472,6 @@
         },
         {
           "keyword": "PostGIS",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "PostgreSQL",
           "count": 1,
           "days": 1
         },
@@ -4581,11 +4531,6 @@
           "days": 1
         },
         {
-          "keyword": "QGISクラウド",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Qt",
           "count": 1,
           "days": 1
@@ -4602,6 +4547,11 @@
         },
         {
           "keyword": "QuantizedMesh",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Quimat",
           "count": 1,
           "days": 1
         },
@@ -4636,7 +4586,7 @@
           "days": 1
         },
         {
-          "keyword": "Reactコンパイラ",
+          "keyword": "Record & Replay",
           "count": 1,
           "days": 1
         },
@@ -4656,12 +4606,12 @@
           "days": 1
         },
         {
-          "keyword": "Remote work",
+          "keyword": "Response Proposal",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Response Proposal",
+          "keyword": "REST API",
           "count": 1,
           "days": 1
         },
@@ -4712,6 +4662,11 @@
         },
         {
           "keyword": "RustFS",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Ryzen AI",
           "count": 1,
           "days": 1
         },
@@ -4811,11 +4766,6 @@
           "days": 1
         },
         {
-          "keyword": "SGLang",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Siftly",
           "count": 1,
           "days": 1
@@ -4841,16 +4791,6 @@
           "days": 1
         },
         {
-          "keyword": "Slowrun",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "SMT Solver",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Snapdragon",
           "count": 1,
           "days": 1
@@ -4862,6 +4802,11 @@
         },
         {
           "keyword": "Snowflake-managed Iceberg",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "socktainer",
           "count": 1,
           "days": 1
         },
@@ -4986,11 +4931,6 @@
           "days": 1
         },
         {
-          "keyword": "Three.js",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Tiny LLMs",
           "count": 1,
           "days": 1
@@ -5051,6 +4991,11 @@
           "days": 1
         },
         {
+          "keyword": "UI/UX",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "UIデザイン",
           "count": 1,
           "days": 1
@@ -5071,17 +5016,17 @@
           "days": 1
         },
         {
-          "keyword": "Unsloth",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "USB指紋リーダー",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "UserSearch",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "uv (Python)",
           "count": 1,
           "days": 1
         },
@@ -5111,12 +5056,22 @@
           "days": 1
         },
         {
+          "keyword": "Vercel",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Vercel Plugin",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Version Control",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Vibe Coding",
           "count": 1,
           "days": 1
         },
@@ -5161,11 +5116,6 @@
           "days": 1
         },
         {
-          "keyword": "WASM",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Waveshare",
           "count": 1,
           "days": 1
@@ -5186,11 +5136,6 @@
           "days": 1
         },
         {
-          "keyword": "Web NFC API",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Web Technologies",
           "count": 1,
           "days": 1
@@ -5201,7 +5146,7 @@
           "days": 1
         },
         {
-          "keyword": "WebP保存",
+          "keyword": "Webサーバー",
           "count": 1,
           "days": 1
         },
@@ -5316,22 +5261,12 @@
           "days": 1
         },
         {
-          "keyword": "インクリメンタルゲーム",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "インフラ",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "エンジニア",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "オフラインツール",
           "count": 1,
           "days": 1
         },
@@ -5351,17 +5286,12 @@
           "days": 1
         },
         {
-          "keyword": "グラハム数",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "グラフ理論",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "コンテナ",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "コンパクトスマホ",
           "count": 1,
           "days": 1
         },
@@ -5406,6 +5336,11 @@
           "days": 1
         },
         {
+          "keyword": "タッチスクリーンディスプレイ",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "ディープニューラルネットワーク",
           "count": 1,
           "days": 1
@@ -5426,12 +5361,12 @@
           "days": 1
         },
         {
-          "keyword": "データセキュリティ",
+          "keyword": "データウェアハウス",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "データセンター",
+          "keyword": "データセキュリティ",
           "count": 1,
           "days": 1
         },
@@ -5456,6 +5391,11 @@
           "days": 1
         },
         {
+          "keyword": "テクノロジー",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "デジタルコレクション",
           "count": 1,
           "days": 1
@@ -5472,11 +5412,6 @@
         },
         {
           "keyword": "ハーネスエンジニアリング",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "バシク行列",
           "count": 1,
           "days": 1
         },
@@ -5511,22 +5446,7 @@
           "days": 1
         },
         {
-          "keyword": "ブラウザ使用CLI",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "プラットフォームエンジニアリング",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "フルリモート",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "プログラミングルール",
           "count": 1,
           "days": 1
         },
@@ -5591,11 +5511,6 @@
           "days": 1
         },
         {
-          "keyword": "マインスイーパー",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "ミニマップ",
           "count": 1,
           "days": 1
@@ -5607,11 +5522,6 @@
         },
         {
           "keyword": "メイソンリーレイアウト",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "メタバースアパッチ",
           "count": 1,
           "days": 1
         },
@@ -5656,7 +5566,7 @@
           "days": 1
         },
         {
-          "keyword": "衛星データ伝送",
+          "keyword": "ワークフロー自動化",
           "count": 1,
           "days": 1
         },
@@ -5696,6 +5606,16 @@
           "days": 1
         },
         {
+          "keyword": "自治体システム",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "自然言語処理",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "首相",
           "count": 1,
           "days": 1
@@ -5722,11 +5642,6 @@
         },
         {
           "keyword": "正規表現",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "生成AI",
           "count": 1,
           "days": 1
         },
@@ -5771,17 +5686,17 @@
           "days": 1
         },
         {
-          "keyword": "地盤可視化",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "渡辺メソッド",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "不正行為",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "物理キーボード",
           "count": 1,
           "days": 1
         },
