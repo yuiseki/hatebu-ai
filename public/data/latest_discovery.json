@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "window": {
-    "from": "2026-05-25",
-    "to": "2026-06-23"
+    "from": "2026-05-26",
+    "to": "2026-06-24"
   },
   "discoveries": [
     {
@@ -39,14 +39,6 @@
     },
     {
       "keyword": "e-Paper HAT",
-      "score": 6,
-      "recent_days": 2,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "OGC API",
       "score": 6,
       "recent_days": 2,
       "novelty_bonus": 6,
@@ -126,22 +118,6 @@
       "last_seen": null
     },
     {
-      "keyword": "AI Applications",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "AI Ethics",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
       "keyword": "AI Safety",
       "score": 6,
       "recent_days": 1,
@@ -159,6 +135,14 @@
     },
     {
       "keyword": "AIデータセンター",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "AIナレッジ管理",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -382,14 +366,6 @@
       "last_seen": null
     },
     {
-      "keyword": "Database Technologies",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
       "keyword": "DAZN",
       "score": 6,
       "recent_days": 1,
@@ -518,14 +494,6 @@
       "last_seen": null
     },
     {
-      "keyword": "Geospatial Technology",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
       "keyword": "GGUF",
       "score": 6,
       "recent_days": 1,
@@ -535,14 +503,6 @@
     },
     {
       "keyword": "gitleaks",
-      "score": 6,
-      "recent_days": 1,
-      "novelty_bonus": 6,
-      "penalty": 0,
-      "last_seen": null
-    },
-    {
-      "keyword": "GKE",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -702,6 +662,22 @@
       "last_seen": null
     },
     {
+      "keyword": "LicheeRV Nano",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "LINE Bot",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "Lini Mini PC",
       "score": 6,
       "recent_days": 1,
@@ -814,6 +790,14 @@
       "last_seen": null
     },
     {
+      "keyword": "Mistral OCR",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "NFC",
       "score": 6,
       "recent_days": 1,
@@ -887,6 +871,14 @@
     },
     {
       "keyword": "PayPal",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Pimoroni Pico",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -998,6 +990,14 @@
       "last_seen": null
     },
     {
+      "keyword": "RISC-V",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
       "keyword": "RT-Thread",
       "score": 6,
       "recent_days": 1,
@@ -1022,7 +1022,7 @@
       "last_seen": null
     },
     {
-      "keyword": "Security Tools",
+      "keyword": "Semgrep",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1030,7 +1030,7 @@
       "last_seen": null
     },
     {
-      "keyword": "Semgrep",
+      "keyword": "Sipeed",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1111,6 +1111,14 @@
     },
     {
       "keyword": "ultracode",
+      "score": 6,
+      "recent_days": 1,
+      "novelty_bonus": 6,
+      "penalty": 0,
+      "last_seen": null
+    },
+    {
+      "keyword": "Unlimited-OCR",
       "score": 6,
       "recent_days": 1,
       "novelty_bonus": 6,
@@ -1774,36 +1782,12 @@
       "last_seen": "2025-12-02"
     },
     {
-      "keyword": "AI Research",
-      "score": 5,
-      "recent_days": 1,
-      "novelty_bonus": 5,
-      "penalty": 0,
-      "last_seen": "2025-11-01"
-    },
-    {
-      "keyword": "AI Tools",
-      "score": 5,
-      "recent_days": 1,
-      "novelty_bonus": 5,
-      "penalty": 0,
-      "last_seen": "2025-08-12"
-    },
-    {
       "keyword": "Arduino",
       "score": 5,
       "recent_days": 1,
       "novelty_bonus": 5,
       "penalty": 0,
       "last_seen": "2025-10-09"
-    },
-    {
-      "keyword": "Data Science",
-      "score": 5,
-      "recent_days": 1,
-      "novelty_bonus": 5,
-      "penalty": 0,
-      "last_seen": "2025-09-23"
     },
     {
       "keyword": "Google Colab",
@@ -1868,6 +1852,14 @@
       "novelty_bonus": 5,
       "penalty": 0,
       "last_seen": "2025-07-14"
+    },
+    {
+      "keyword": "Tailwind CSS",
+      "score": 5,
+      "recent_days": 1,
+      "novelty_bonus": 5,
+      "penalty": 0,
+      "last_seen": "2025-12-21"
     },
     {
       "keyword": "Vibe Coding",
@@ -1990,6 +1982,14 @@
       "last_seen": "2026-01-09"
     },
     {
+      "keyword": "NotebookLM",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-02-12"
+    },
+    {
       "keyword": "NVIDIA",
       "score": 3,
       "recent_days": 2,
@@ -2004,6 +2004,14 @@
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-02-06"
+    },
+    {
+      "keyword": "Vite",
+      "score": 3,
+      "recent_days": 2,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-16"
     },
     {
       "keyword": "WSL",
@@ -2030,14 +2038,6 @@
       "last_seen": "2026-03-19"
     },
     {
-      "keyword": "Cloud Computing",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2026-02-15"
-    },
-    {
       "keyword": "Firefox",
       "score": 3,
       "recent_days": 1,
@@ -2054,20 +2054,20 @@
       "last_seen": "2026-03-15"
     },
     {
-      "keyword": "NotebookLM",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2026-02-12"
-    },
-    {
       "keyword": "OpenCode",
       "score": 3,
       "recent_days": 1,
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-03-24"
+    },
+    {
+      "keyword": "OSINT",
+      "score": 3,
+      "recent_days": 1,
+      "novelty_bonus": 3,
+      "penalty": 0,
+      "last_seen": "2026-03-26"
     },
     {
       "keyword": "Palantir",
@@ -2100,14 +2100,6 @@
       "novelty_bonus": 3,
       "penalty": 0,
       "last_seen": "2026-03-17"
-    },
-    {
-      "keyword": "Vite",
-      "score": 3,
-      "recent_days": 1,
-      "novelty_bonus": 3,
-      "penalty": 0,
-      "last_seen": "2026-03-16"
     }
   ]
 }

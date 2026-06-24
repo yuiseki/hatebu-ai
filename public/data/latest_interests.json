@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "periods": {
     "week": {
-      "from": "2026-06-17",
-      "to": "2026-06-23",
+      "from": "2026-06-18",
+      "to": "2026-06-24",
       "total_days_with_data": 7,
       "keywords": [
         {
@@ -12,12 +12,12 @@
           "days": 4
         },
         {
-          "keyword": "LLM",
+          "keyword": "GitHub",
           "count": 3,
           "days": 3
         },
         {
-          "keyword": "Raspberry Pi",
+          "keyword": "LLM",
           "count": 3,
           "days": 3
         },
@@ -32,22 +32,7 @@
           "days": 2
         },
         {
-          "keyword": "Cursor",
-          "count": 2,
-          "days": 2
-        },
-        {
           "keyword": "Docker",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "GitHub",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "GitHub Actions",
           "count": 2,
           "days": 2
         },
@@ -67,17 +52,12 @@
           "days": 2
         },
         {
-          "keyword": "RAG",
+          "keyword": "Raspberry Pi",
           "count": 2,
           "days": 2
         },
         {
           "keyword": "ミニPC",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "ローカルLLM",
           "count": 2,
           "days": 2
         },
@@ -92,7 +72,7 @@
           "days": 1
         },
         {
-          "keyword": "Android 17",
+          "keyword": "AIナレッジ管理",
           "count": 1,
           "days": 1
         },
@@ -108,11 +88,6 @@
         },
         {
           "keyword": "CDC",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Claude Code",
           "count": 1,
           "days": 1
         },
@@ -133,6 +108,11 @@
         },
         {
           "keyword": "Cpp.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Cursor",
           "count": 1,
           "days": 1
         },
@@ -182,6 +162,11 @@
           "days": 1
         },
         {
+          "keyword": "GitHub Actions",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "GitHub Copilot",
           "count": 1,
           "days": 1
@@ -202,7 +187,12 @@
           "days": 1
         },
         {
-          "keyword": "Jira代替",
+          "keyword": "LicheeRV Nano",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "LINE Bot",
           "count": 1,
           "days": 1
         },
@@ -247,12 +237,27 @@
           "days": 1
         },
         {
+          "keyword": "Mistral OCR",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "MySQL",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Next.js",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "NotebookLM",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OCR",
           "count": 1,
           "days": 1
         },
@@ -282,17 +287,22 @@
           "days": 1
         },
         {
-          "keyword": "OpenRouter",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "OSINT",
           "count": 1,
           "days": 1
         },
         {
+          "keyword": "Pimoroni Pico",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Quimat",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "RAG",
           "count": 1,
           "days": 1
         },
@@ -307,7 +317,17 @@
           "days": 1
         },
         {
+          "keyword": "RISC-V",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Ryzen AI",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Sipeed",
           "count": 1,
           "days": 1
         },
@@ -327,12 +347,7 @@
           "days": 1
         },
         {
-          "keyword": "SVGMap",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Terraform",
+          "keyword": "Tailwind CSS",
           "count": 1,
           "days": 1
         },
@@ -342,12 +357,12 @@
           "days": 1
         },
         {
-          "keyword": "uv (Python)",
+          "keyword": "Unlimited-OCR",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Vector Database",
+          "keyword": "uv (Python)",
           "count": 1,
           "days": 1
         },
@@ -358,6 +373,11 @@
         },
         {
           "keyword": "Vibe Coding",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Vite",
           "count": 1,
           "days": 1
         },
@@ -377,17 +397,7 @@
           "days": 1
         },
         {
-          "keyword": "WSL",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "コンパクトスマホ",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "スマートウォッチ",
           "count": 1,
           "days": 1
         },
@@ -398,6 +408,11 @@
         },
         {
           "keyword": "データウェアハウス",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "ローカルLLM",
           "count": 1,
           "days": 1
         },
@@ -417,11 +432,6 @@
           "days": 1
         },
         {
-          "keyword": "準固体電池",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "物理キーボード",
           "count": 1,
           "days": 1
@@ -429,8 +439,8 @@
       ]
     },
     "month": {
-      "from": "2026-05-25",
-      "to": "2026-06-23",
+      "from": "2026-05-26",
+      "to": "2026-06-24",
       "total_days_with_data": 30,
       "keywords": [
         {
@@ -445,13 +455,8 @@
         },
         {
           "keyword": "Rust",
-          "count": 8,
-          "days": 8
-        },
-        {
-          "keyword": "AI",
-          "count": 6,
-          "days": 6
+          "count": 7,
+          "days": 7
         },
         {
           "keyword": "Anthropic",
@@ -464,12 +469,17 @@
           "days": 6
         },
         {
-          "keyword": "Cloudflare",
+          "keyword": "GitHub",
+          "count": 6,
+          "days": 6
+        },
+        {
+          "keyword": "AI",
           "count": 5,
           "days": 5
         },
         {
-          "keyword": "GitHub",
+          "keyword": "Cloudflare",
           "count": 5,
           "days": 5
         },
@@ -479,17 +489,12 @@
           "days": 5
         },
         {
-          "keyword": "Python",
-          "count": 5,
-          "days": 5
-        },
-        {
           "keyword": "開発ツール",
           "count": 5,
           "days": 5
         },
         {
-          "keyword": "AWS",
+          "keyword": "Python",
           "count": 4,
           "days": 4
         },
@@ -499,17 +504,17 @@
           "days": 4
         },
         {
+          "keyword": "AWS",
+          "count": 3,
+          "days": 3
+        },
+        {
           "keyword": "Claude",
           "count": 3,
           "days": 3
         },
         {
           "keyword": "Docker",
-          "count": 3,
-          "days": 3
-        },
-        {
-          "keyword": "DuckDB",
           "count": 3,
           "days": 3
         },
@@ -584,6 +589,11 @@
           "days": 2
         },
         {
+          "keyword": "DuckDB",
+          "count": 2,
+          "days": 2
+        },
+        {
           "keyword": "e-Paper HAT",
           "count": 2,
           "days": 2
@@ -654,12 +664,12 @@
           "days": 2
         },
         {
-          "keyword": "NVIDIA",
+          "keyword": "NotebookLM",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "OGC API",
+          "keyword": "NVIDIA",
           "count": 2,
           "days": 2
         },
@@ -709,12 +719,12 @@
           "days": 2
         },
         {
-          "keyword": "STAC",
+          "keyword": "Terraform",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "Terraform",
+          "keyword": "Vite",
           "count": 2,
           "days": 2
         },
@@ -769,32 +779,7 @@
           "days": 1
         },
         {
-          "keyword": "AI Applications",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Ethics",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Models",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Research",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "AI Safety",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AI Tools",
           "count": 1,
           "days": 1
         },
@@ -805,6 +790,11 @@
         },
         {
           "keyword": "AIデータセンター",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "AIナレッジ管理",
           "count": 1,
           "days": 1
         },
@@ -939,16 +929,6 @@
           "days": 1
         },
         {
-          "keyword": "Cloud Computing",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Cloud Services",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Cloudflare Zero Trust",
           "count": 1,
           "days": 1
@@ -984,27 +964,12 @@
           "days": 1
         },
         {
-          "keyword": "Data Science",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Database Technologies",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "DAZN",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Development Tools",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "DevOps",
           "count": 1,
           "days": 1
         },
@@ -1099,22 +1064,12 @@
           "days": 1
         },
         {
-          "keyword": "Geospatial Technology",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "GGUF",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "gitleaks",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "GKE",
           "count": 1,
           "days": 1
         },
@@ -1244,6 +1199,16 @@
           "days": 1
         },
         {
+          "keyword": "LicheeRV Nano",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "LINE Bot",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Lini Mini PC",
           "count": 1,
           "days": 1
@@ -1275,11 +1240,6 @@
         },
         {
           "keyword": "MacBook",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Machine Learning",
           "count": 1,
           "days": 1
         },
@@ -1334,17 +1294,17 @@
           "days": 1
         },
         {
+          "keyword": "Mistral OCR",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "NFC",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "Nginx",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "NotebookLM",
           "count": 1,
           "days": 1
         },
@@ -1364,7 +1324,17 @@
           "days": 1
         },
         {
+          "keyword": "OCR",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "OCuLink",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "OGC API",
           "count": 1,
           "days": 1
         },
@@ -1420,6 +1390,11 @@
         },
         {
           "keyword": "PayPal",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Pimoroni Pico",
           "count": 1,
           "days": 1
         },
@@ -1519,6 +1494,11 @@
           "days": 1
         },
         {
+          "keyword": "RISC-V",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "RT-Thread",
           "count": 1,
           "days": 1
@@ -1544,12 +1524,12 @@
           "days": 1
         },
         {
-          "keyword": "Security Tools",
+          "keyword": "Semgrep",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "Semgrep",
+          "keyword": "Sipeed",
           "count": 1,
           "days": 1
         },
@@ -1569,7 +1549,17 @@
           "days": 1
         },
         {
+          "keyword": "STAC",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "SVGMap",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Tailwind CSS",
           "count": 1,
           "days": 1
         },
@@ -1624,6 +1614,11 @@
           "days": 1
         },
         {
+          "keyword": "Unlimited-OCR",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "USB指紋リーダー",
           "count": 1,
           "days": 1
@@ -1655,11 +1650,6 @@
         },
         {
           "keyword": "Vim",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Vite",
           "count": 1,
           "days": 1
         },
@@ -2056,8 +2046,8 @@
       ]
     },
     "three_months": {
-      "from": "2026-03-26",
-      "to": "2026-06-23",
+      "from": "2026-03-27",
+      "to": "2026-06-24",
       "total_days_with_data": 90,
       "keywords": [
         {
@@ -2076,12 +2066,12 @@
           "days": 18
         },
         {
-          "keyword": "AI",
-          "count": 15,
-          "days": 15
+          "keyword": "GitHub",
+          "count": 16,
+          "days": 16
         },
         {
-          "keyword": "GitHub",
+          "keyword": "AI",
           "count": 15,
           "days": 15
         },
@@ -2106,11 +2096,6 @@
           "days": 11
         },
         {
-          "keyword": "Claude Code",
-          "count": 9,
-          "days": 9
-        },
-        {
           "keyword": "Machine Learning",
           "count": 9,
           "days": 9
@@ -2122,6 +2107,11 @@
         },
         {
           "keyword": "Anthropic",
+          "count": 8,
+          "days": 8
+        },
+        {
+          "keyword": "Claude Code",
           "count": 8,
           "days": 8
         },
@@ -2186,11 +2176,6 @@
           "days": 4
         },
         {
-          "keyword": "Copilot",
-          "count": 4,
-          "days": 4
-        },
-        {
           "keyword": "GitHub Copilot",
           "count": 4,
           "days": 4
@@ -2237,6 +2222,11 @@
         },
         {
           "keyword": "Cesium",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "Copilot",
           "count": 3,
           "days": 3
         },
@@ -2292,6 +2282,11 @@
         },
         {
           "keyword": "npm",
+          "count": 3,
+          "days": 3
+        },
+        {
+          "keyword": "OCR",
           "count": 3,
           "days": 3
         },
@@ -2536,12 +2531,12 @@
           "days": 2
         },
         {
-          "keyword": "NVIDIA",
+          "keyword": "NotebookLM",
           "count": 2,
           "days": 2
         },
         {
-          "keyword": "OCR",
+          "keyword": "NVIDIA",
           "count": 2,
           "days": 2
         },
@@ -2552,11 +2547,6 @@
         },
         {
           "keyword": "OKF",
-          "count": 2,
-          "days": 2
-        },
-        {
-          "keyword": "OSINT",
           "count": 2,
           "days": 2
         },
@@ -2627,6 +2617,11 @@
         },
         {
           "keyword": "Vim",
+          "count": 2,
+          "days": 2
+        },
+        {
+          "keyword": "Vite",
           "count": 2,
           "days": 2
         },
@@ -2712,11 +2707,6 @@
         },
         {
           "keyword": "Administrative Area",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "ADR",
           "count": 1,
           "days": 1
         },
@@ -2866,6 +2856,11 @@
           "days": 1
         },
         {
+          "keyword": "AIナレッジ管理",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "AIニュースキュレーター",
           "count": 1,
           "days": 1
@@ -2992,11 +2987,6 @@
         },
         {
           "keyword": "Auto-scratching bots",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "AutoResearchClaw",
           "count": 1,
           "days": 1
         },
@@ -3641,11 +3631,6 @@
           "days": 1
         },
         {
-          "keyword": "Geospatial AI",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "Geospatial Technology",
           "count": 1,
           "days": 1
@@ -3697,11 +3682,6 @@
         },
         {
           "keyword": "GL.iNet",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Glint",
           "count": 1,
           "days": 1
         },
@@ -3981,6 +3961,16 @@
           "days": 1
         },
         {
+          "keyword": "LicheeRV Nano",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "LINE Bot",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Lini Mini PC",
           "count": 1,
           "days": 1
@@ -3997,11 +3987,6 @@
         },
         {
           "keyword": "Lit",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "LiteLLM",
           "count": 1,
           "days": 1
         },
@@ -4101,11 +4086,6 @@
           "days": 1
         },
         {
-          "keyword": "Mapion",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "MapLibre",
           "count": 1,
           "days": 1
@@ -4186,6 +4166,11 @@
           "days": 1
         },
         {
+          "keyword": "Mistral OCR",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "MLJAR Studio",
           "count": 1,
           "days": 1
@@ -4256,16 +4241,6 @@
           "days": 1
         },
         {
-          "keyword": "NotebookLM",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "NPU",
-          "count": 1,
-          "days": 1
-        },
-        {
           "keyword": "NVIDIA Blackwell",
           "count": 1,
           "days": 1
@@ -4317,11 +4292,6 @@
         },
         {
           "keyword": "OlmoEarth",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "OMNISCOPE",
           "count": 1,
           "days": 1
         },
@@ -4381,6 +4351,11 @@
           "days": 1
         },
         {
+          "keyword": "OSINT",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "OSM",
           "count": 1,
           "days": 1
@@ -4432,6 +4407,11 @@
         },
         {
           "keyword": "PDA",
+          "count": 1,
+          "days": 1
+        },
+        {
+          "keyword": "Pimoroni Pico",
           "count": 1,
           "days": 1
         },
@@ -4631,6 +4611,11 @@
           "days": 1
         },
         {
+          "keyword": "RISC-V",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "RT-Thread",
           "count": 1,
           "days": 1
@@ -4677,11 +4662,6 @@
         },
         {
           "keyword": "S-1",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "S2Vec",
           "count": 1,
           "days": 1
         },
@@ -4771,17 +4751,17 @@
           "days": 1
         },
         {
+          "keyword": "Sipeed",
+          "count": 1,
+          "days": 1
+        },
+        {
           "keyword": "Siri AI",
           "count": 1,
           "days": 1
         },
         {
           "keyword": "situation monitor",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "SkyOSINT",
           "count": 1,
           "days": 1
         },
@@ -4876,7 +4856,7 @@
           "days": 1
         },
         {
-          "keyword": "SwitchBot",
+          "keyword": "Tailwind CSS",
           "count": 1,
           "days": 1
         },
@@ -5016,12 +4996,12 @@
           "days": 1
         },
         {
-          "keyword": "USB指紋リーダー",
+          "keyword": "Unlimited-OCR",
           "count": 1,
           "days": 1
         },
         {
-          "keyword": "UserSearch",
+          "keyword": "USB指紋リーダー",
           "count": 1,
           "days": 1
         },
@@ -5077,11 +5057,6 @@
         },
         {
           "keyword": "Virtual Try-On",
-          "count": 1,
-          "days": 1
-        },
-        {
-          "keyword": "Vite",
           "count": 1,
           "days": 1
         },
